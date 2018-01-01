@@ -24,7 +24,7 @@ import io.github.ryanhoo.firFlight.ui.common.widget.CharacterDrawable;
  * Desc: AppItemView
  */
 
-public class AppItemView extends RelativeLayout implements IAdapterView<Courses> {
+public class CoursesItemView extends RelativeLayout implements IAdapterView<Courses> {
 
     Context mContext;
     @Bind(R.id.image_view_icon)
@@ -42,7 +42,7 @@ public class AppItemView extends RelativeLayout implements IAdapterView<Courses>
     @Bind(R.id.layout_ios_badge)
     View layoutIOSBadge;
 
-    public AppItemView(Context context) {
+    public CoursesItemView(Context context) {
         super(context);
 
         mContext = context;
@@ -58,7 +58,7 @@ public class AppItemView extends RelativeLayout implements IAdapterView<Courses>
                 .placeholder(CharacterDrawable.create(mContext, courses.getName().charAt(0), false, R.dimen.ff_padding_large))
                 .into(imageView);
         textViewName.setText(courses.getName());
-        textViewVersion.setText(courses.getTag());
-        textViewBundleId.setText(String.valueOf(courses.getNumOfClasses()));
+        //textViewVersion.setText(courses.getTag());
+        textViewBundleId.setText(mContext.getString(R.string.ff_courses_class, courses.getNumOfClasses()));
     }
 }

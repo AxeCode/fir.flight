@@ -14,6 +14,7 @@ import android.util.DisplayMetrics;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
+
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import io.github.ryanhoo.firFlight.R;
@@ -55,11 +56,7 @@ public class SplashScreenActivity extends BaseActivity {
         mHandler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                if (UserSession.getInstance().isSignedIn()) {
-                    openMainActivity();
-                } else {
-                    openSignInActivity();
-                }
+                openMainActivity();
             }
         }, SIGNED_IN_DELAY);
     }
@@ -92,11 +89,6 @@ public class SplashScreenActivity extends BaseActivity {
         finish();
     }
 
-    private void openSignInActivity() {
-        startActivity(new Intent(SplashScreenActivity.this, SignInActivity.class));
-        SplashScreenActivity.this.overridePendingTransition(R.anim.slide_in_from_bottom, android.R.anim.fade_out);
-        finish();
-    }
 
     // Animations
 

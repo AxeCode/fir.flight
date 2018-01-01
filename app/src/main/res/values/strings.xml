@@ -1,5 +1,5 @@
 <resources>
-    <string name="ff.app.name">fir.flight</string>
+    <string name="ff.app.name">严家学堂</string>
     <string name="ff.splash.slogan">An android version Test Flight\nby using the testing app distribution\nservice provided by fir.im</string>
     <string name="ff.splash.slogan.about">An android version Test Flight\nby using the testing app distribution service provided by fir.im</string>
 
@@ -22,8 +22,8 @@
     <string name="ff.signin.password.example">******</string>
 
     <!-- Main -->
-    <string name="ff.main.tab.apps">Apps</string>
-    <string name="ff.main.tab.messages">Messages</string>
+    <string name="ff.main.tab.apps">数学</string>
+    <string name="ff.main.tab.messages">语文</string>
     <string name="ff.main.tab.profile">Profile</string>
 
     <string-array name="ff_main_tab_titles">
@@ -37,6 +37,7 @@
     <string name="ff.apps.open">Open</string>
     <string name="ff.apps.install">Install</string>
     <string name="ff.apps.empty">No apps found</string>
+    <string name="ff.courses.class">共%s节</string>
 
     <!-- Messages -->
     <string name="ff.messages.empty">No messages received</string>
@@ -54,11 +55,11 @@
     <string name="ff.profile.copy_token">Copied token to clipboard\n%s</string>
 
     <!-- About -->
-    <string name="ff.about">About</string>
+    <string name="ff.about">关于</string>
     <string name="ff.acknowledgements">Acknowledgements</string>
     <string name="ff.about.button.fir">fir.im</string>
     <string name="ff.about.button.acknowledgements">@string/ff.acknowledgements</string>
-    <string name="ff.about.button.author">© 2016 Ryan Hoo</string>
+    <string name="ff.about.button.author">© 2018 Hanqing</string>
 
     <!-- Settings -->
     <string name="ff.settings">Settings</string>

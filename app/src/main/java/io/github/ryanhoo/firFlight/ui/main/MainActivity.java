@@ -12,7 +12,7 @@ import butterknife.ButterKnife;
 import io.github.ryanhoo.firFlight.R;
 import io.github.ryanhoo.firFlight.RxBus;
 import io.github.ryanhoo.firFlight.event.SignOutEvent;
-import io.github.ryanhoo.firFlight.ui.app.AppsFragment;
+import io.github.ryanhoo.firFlight.ui.app.CoursesFragment;
 import io.github.ryanhoo.firFlight.ui.base.BaseActivity;
 import io.github.ryanhoo.firFlight.ui.base.BaseFragment;
 import io.github.ryanhoo.firFlight.ui.message.MessagesFragment;
@@ -51,7 +51,7 @@ public class MainActivity extends BaseActivity {
 
         final String[] tabTitles = getResources().getStringArray(R.array.ff_main_tab_titles);
         final BaseFragment[] fragments = new BaseFragment[tabTitles.length];
-        fragments[0] = new AppsFragment();
+        fragments[0] = new CoursesFragment();
         fragments[1] = new MessagesFragment();
         fragments[2] = new ProfileFragment();
 

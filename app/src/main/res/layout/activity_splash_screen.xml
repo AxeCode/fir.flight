@@ -18,7 +18,7 @@
         android:textSize="32sp"
         android:textColor="@color/ff.white"
         android:text="@string/ff.app.name"
-        fontPath="@string/ff.font.roboto.thin"
+        fontPath="@string/ff.font.wenyue"
         tools:targetApi="lollipop"
         tools:ignore="MissingPrefix"
         />
@@ -35,6 +35,6 @@
         android:textSize="18sp"
         android:textColor="@color/ff.white"
         android:text="@string/ff.splash.slogan"
-        fontPath="@string/ff.font.roboto.thin"
+        fontPath="@string/ff.font.wenyue"
         tools:ignore="MissingPrefix"/>
 </RelativeLayout>

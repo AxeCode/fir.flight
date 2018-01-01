@@ -28,8 +28,8 @@ import io.github.ryanhoo.firFlight.ui.helper.SwipeRefreshHelper;
  * Time: 12:29 AM
  * Desc: AppListFragment
  */
-public class AppsFragment extends BaseFragment
-        implements AppContract.View, SwipeRefreshLayout.OnRefreshListener, AppAdapter.AppItemClickListener {
+public class CoursesFragment extends BaseFragment
+        implements AppContract.View, SwipeRefreshLayout.OnRefreshListener, CoursesAdapter.AppItemClickListener {
 
     private static final String TAG = "AppListFragment";
 
@@ -41,7 +41,7 @@ public class AppsFragment extends BaseFragment
     @Bind(R.id.empty_view)
     View emptyView;
 
-    AppAdapter mAdapter;
+    CoursesAdapter mAdapter;
 
     AppContract.Presenter mPresenter;
 
@@ -58,7 +58,7 @@ public class AppsFragment extends BaseFragment
 
         SwipeRefreshHelper.setRefreshIndicatorColorScheme(swipeRefreshLayout);
         swipeRefreshLayout.setOnRefreshListener(this);
-        mAdapter = new AppAdapter(getActivity(), null);
+        mAdapter = new CoursesAdapter(getActivity(), null);
         mAdapter.setOnItemClickListener(this);
         recyclerView.setAdapter(mAdapter);
         layoutManager = new LinearLayoutManager(getActivity());
@@ -122,7 +122,7 @@ public class AppsFragment extends BaseFragment
     }
 
     @Override
-    public void onButtonClick(final AppItemView itemView, final int position) {
+    public void onButtonClick(final CoursesItemView itemView, final int position) {
     }
 
 }

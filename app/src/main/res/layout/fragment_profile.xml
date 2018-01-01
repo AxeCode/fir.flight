@@ -42,7 +42,7 @@
                 android:layout_marginTop="@dimen/ff.margin.normal"
                 android:textColor="?attr/colorAccent"
                 android:textSize="18sp"
-                fontPath="@string/ff.font.roboto.medium"
+                fontPath="@string/ff.font.fangzheng"
                 tools:text="TestFlight"
                 tools:ignore="MissingPrefix"/>
 
@@ -68,7 +68,7 @@
             android:textSize="14sp"
             android:textAllCaps="true"
             android:text="@string/ff.profile.api_token"
-            fontPath="@string/ff.font.roboto.medium"
+            fontPath="@string/ff.font.fangzheng"
             tools:ignore="MissingPrefix"/>
 
         <TextView
@@ -98,7 +98,7 @@
             android:textSize="13sp"
             android:background="@drawable/bg_profile_api_token"
             android:textIsSelectable="true"
-            fontPath="@string/ff.font.roboto.monospace.regular"
+            fontPath="@string/ff.font.fangzheng"
             tools:text="ad1b8e4b9ft6103cd11ef9j3dfd1c4kb"
             tools:ignore="MissingPrefix"/>
 

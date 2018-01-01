@@ -59,7 +59,7 @@ public class NetworkSubscriber<T> extends Subscriber<T> {
             HttpException httpException = (HttpException) e;
             // Access Token has expired, time to sign out
             if (httpException.code() == HTTP_CODE_UNAUTHORIZED) {
-                RxBus.getInstance().post(new SignOutEvent());
+                //RxBus.getInstance().post(new SignOutEvent());
                 if (context != null) {
                     message = context.getString(R.string.ff_network_error_session_expired);
                 } else {

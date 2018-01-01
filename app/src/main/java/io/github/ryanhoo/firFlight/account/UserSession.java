@@ -119,7 +119,7 @@ public class UserSession {
 
     public void signOut() {
         // Broadcast sign out event
-        RxBus.getInstance().post(new SignOutEvent());
+        //RxBus.getInstance().post(new SignOutEvent());
         // Clear Database
         DbUtils.clearDataBase(FlightApplication.getInstance());
 

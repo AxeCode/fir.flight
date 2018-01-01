@@ -19,24 +19,24 @@ import io.github.ryanhoo.firFlight.ui.common.adapter.OnItemClickListener;
  * Time: 10:48 PM
  * Desc: AppAdapterV2
  */
-/* package */ class AppAdapter extends ListAdapter<Courses, AppItemView> {
+/* package */ class CoursesAdapter extends ListAdapter<Courses, CoursesItemView> {
 
     private AppItemClickListener mItemClickListener;
 
-    /* package */ AppAdapter(Context context, List<Courses> data) {
+    /* package */ CoursesAdapter(Context context, List<Courses> data) {
         super(context, data);
     }
 
     @Override
-    protected AppItemView createView(Context context) {
-        return new AppItemView(context);
+    protected CoursesItemView createView(Context context) {
+        return new CoursesItemView(context);
     }
 
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         final RecyclerView.ViewHolder holder = super.onCreateViewHolder(parent, viewType);
-        if (holder.itemView instanceof AppItemView && mItemClickListener != null) {
-            final AppItemView itemView = (AppItemView) holder.itemView;
+        if (holder.itemView instanceof CoursesItemView && mItemClickListener != null) {
+            final CoursesItemView itemView = (CoursesItemView) holder.itemView;
             itemView.buttonAction.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
@@ -51,9 +51,9 @@ import io.github.ryanhoo.firFlight.ui.common.adapter.OnItemClickListener;
     @SuppressLint("DefaultLocale")
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
         super.onBindViewHolder(holder, position);
-        if (holder.itemView instanceof AppItemView) {
+        if (holder.itemView instanceof CoursesItemView) {
             Courses courses = getItem(position);
-            AppItemView itemView = (AppItemView) holder.itemView;
+            CoursesItemView itemView = (CoursesItemView) holder.itemView;
 
             itemView.buttonAction.setVisibility(View.GONE);
         }
@@ -72,6 +72,6 @@ import io.github.ryanhoo.firFlight.ui.common.adapter.OnItemClickListener;
         @Override
         void onItemClick(int position);
 
-        void onButtonClick(AppItemView itemView, int position);
+        void onButtonClick(CoursesItemView itemView, int position);
     }
 }
