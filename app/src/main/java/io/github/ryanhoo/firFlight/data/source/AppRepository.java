@@ -1,8 +1,7 @@
 package io.github.ryanhoo.firFlight.data.source;
 
 import io.github.ryanhoo.firFlight.data.Injection;
-import io.github.ryanhoo.firFlight.data.model.App;
-import io.github.ryanhoo.firFlight.data.model.AppInstallInfo;
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.data.source.local.LocalAppDataSource;
 import io.github.ryanhoo.firFlight.data.source.remote.RemoteAppDataSource;
 import rx.Observable;
@@ -41,17 +40,17 @@ public class AppRepository implements AppContract {
     }
 
     @Override
-    public Observable<List<App>> apps() {
-        return apps(false);
+    public Observable<List<Courses>> courses() {
+        return courses(false);
     }
 
     @Override
-    public Observable<List<App>> apps(boolean forceUpdate) {
-        Observable<List<App>> local = mLocalDataSource.apps();
-        Observable<List<App>> remote = mRemoteDataSource.apps()
-                .doOnNext(new Action1<List<App>>() {
+    public Observable<List<Courses>> courses(boolean forceUpdate) {
+        Observable<List<Courses>> local = mLocalDataSource.courses();
+        Observable<List<Courses>> remote = mRemoteDataSource.courses()
+                .doOnNext(new Action1<List<Courses>>() {
                     @Override
-                    public void call(List<App> apps) {
+                    public void call(List<Courses> apps) {
                         mLocalDataSource.deleteAll();
                         mLocalDataSource.save(apps);
                     }
@@ -62,8 +61,4 @@ public class AppRepository implements AppContract {
         return Observable.concat(local.first(), remote);
     }
 
-    @Override
-    public Observable<AppInstallInfo> appInstallInfo(String appId) {
-        return mRemoteDataSource.appInstallInfo(appId);
-    }
 }

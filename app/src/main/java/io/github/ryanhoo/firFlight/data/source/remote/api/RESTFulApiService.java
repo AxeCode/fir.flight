@@ -1,10 +1,12 @@
 package io.github.ryanhoo.firFlight.data.source.remote.api;
 
+import java.util.List;
+
 import io.github.ryanhoo.firFlight.data.model.AppInstallInfo;
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.data.model.Message;
 import io.github.ryanhoo.firFlight.data.model.Token;
 import io.github.ryanhoo.firFlight.data.model.User;
-import io.github.ryanhoo.firFlight.network.AppResponse;
 import io.github.ryanhoo.firFlight.network.MultiPageResponse;
 import retrofit2.http.*;
 import rx.Observable;
@@ -37,8 +39,8 @@ public interface RESTFulApiService {
 
     // Apps
 
-    @GET("/apps")
-    Observable<AppResponse> apps();
+    @GET("/notifications?type=sys&mock=true&mock_data=58f0331bc6bdf222b1744e10.json&mock_delay=3000")
+    Observable<List<Courses>> courses();
 
     @GET("/apps/latest/{appId}?requireApiToken=true")
     Observable<AppInstallInfo> appInstallInfo(@Path("appId") String appId);

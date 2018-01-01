@@ -79,18 +79,6 @@
                 <data android:scheme="package"/>
             </intent-filter>
         </receiver>
-        <receiver android:name=".receiver.FlightReceiver">
-            <intent-filter>
-                <action android:name="io.github.ryanhoo.action.UPDATE"/>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-                <action android:name="android.intent.action.USER_PRESENT"/>
-                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
-            </intent-filter>
-        </receiver>
-
-        <service
-            android:name=".service.FlightService"
-            android:exported="false"/>
 
         <meta-data
             android:name="io.github.ryanhoo.firFlight.GlideConfiguration"

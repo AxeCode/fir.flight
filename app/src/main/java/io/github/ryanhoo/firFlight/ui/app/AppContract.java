@@ -1,8 +1,8 @@
 package io.github.ryanhoo.firFlight.ui.app;
 
 import android.content.Context;
-import android.net.Uri;
-import io.github.ryanhoo.firFlight.data.model.App;
+
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.ui.base.BasePresenter;
 import io.github.ryanhoo.firFlight.ui.base.BaseView;
 
@@ -22,29 +22,16 @@ interface AppContract {
 
         Context getContext();
 
-        // Load apps
-
-        void onAppsLoaded(List<App> apps);
-
         void onLoadAppStarted();
 
         void onLoadAppCompleted();
 
-        // Download app
-
-        void addTask(String appId, AppDownloadTask task);
-
-        void removeTask(String appId);
-
-        void updateAppInfo(String appId, int position);
-
-        void installApk(Uri apkUri);
+        void onCourseLoaded(List<Courses> courses);
     }
 
     interface Presenter extends BasePresenter {
 
         void loadApps();
 
-        void requestInstallUrl(AppItemView itemView, int position);
     }
 }

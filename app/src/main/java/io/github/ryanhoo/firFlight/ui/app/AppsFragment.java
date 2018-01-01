@@ -1,33 +1,25 @@
 package io.github.ryanhoo.firFlight.ui.app;
 
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import java.util.List;
+
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import io.github.ryanhoo.firFlight.R;
-import io.github.ryanhoo.firFlight.data.model.App;
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.data.source.AppRepository;
 import io.github.ryanhoo.firFlight.ui.base.BaseFragment;
 import io.github.ryanhoo.firFlight.ui.common.DefaultItemDecoration;
 import io.github.ryanhoo.firFlight.ui.helper.SwipeRefreshHelper;
-import io.github.ryanhoo.firFlight.util.AppUtils;
-import io.github.ryanhoo.firFlight.util.IntentUtils;
-import io.github.ryanhoo.firFlight.webview.WebViewHelper;
-
-import java.util.List;
 
 /**
  * Created with Android Studio.
@@ -79,23 +71,11 @@ public class AppsFragment extends BaseFragment
 
         new AppPresenter(AppRepository.getInstance(), this).subscribe();
 
-        // Listen for app install/update/remove broadcasts
-        registerBroadcast();
     }
 
     @Override
     public void onDestroy() {
-        // Done with listening app install/update/remove broadcasts
-        unregisterBroadcast();
         super.onDestroy();
-    }
-
-    // MVP View
-
-    @Override
-    public void onAppsLoaded(List<App> apps) {
-        mAdapter.setData(apps);
-        mAdapter.notifyDataSetChanged();
     }
 
     @Override
@@ -116,24 +96,9 @@ public class AppsFragment extends BaseFragment
     }
 
     @Override
-    public void addTask(String appId, AppDownloadTask task) {
-        mAdapter.addTask(appId, task);
-    }
-
-    @Override
-    public void removeTask(String appId) {
-        mAdapter.removeTask(appId);
+    public void onCourseLoaded(List<Courses> courses) {
+        mAdapter.setData(courses);
         mAdapter.notifyDataSetChanged();
-    }
-
-    @Override
-    public void updateAppInfo(String appId, int position) {
-        updateItemView(appId, position);
-    }
-
-    @Override
-    public void installApk(Uri apkUri) {
-        IntentUtils.install(getActivity(), apkUri);
     }
 
     @Override
@@ -152,65 +117,12 @@ public class AppsFragment extends BaseFragment
 
     @Override
     public void onItemClick(int position) {
-        App app = mAdapter.getItem(position);
-        WebViewHelper.openUrl(getActivity(), app.getName(), AppUtils.getAppUrlByShort(app.getShortUrl()));
+        Courses courses = mAdapter.getItem(position);
+        // TODO: 01/01/2018
     }
 
     @Override
     public void onButtonClick(final AppItemView itemView, final int position) {
-        final AppInfo appInfo = itemView.appInfo;
-        if (appInfo != null) {
-            if (appInfo.isUpToDate) {
-                startActivity(appInfo.launchIntent);
-            } else {
-                mPresenter.requestInstallUrl(itemView, position);
-            }
-        }
     }
 
-    // Update app
-
-    private void updateItemView(final String appId, final int position) {
-        // Only update view holder if it's visible on the screen
-        int firstVisibleItem = layoutManager.findFirstVisibleItemPosition();
-        int lastVisibleItem = layoutManager.findLastVisibleItemPosition();
-
-        if (position < firstVisibleItem || position > lastVisibleItem) return;
-
-        // Get the view holder by position
-        View itemView = layoutManager.getChildAt(position - firstVisibleItem);
-
-        if (itemView instanceof AppItemView) {
-            AppItemView appView = (AppItemView) itemView;
-            if (appView.appInfo == null) return;
-            if (appView.appInfo.app == null || !appId.equals(appView.appInfo.app.getId())) return;
-
-            mAdapter.onButtonProgress(appView);
-        }
-    }
-
-    // Broadcasts
-
-    private void registerBroadcast() {
-        IntentFilter intentFilter = new IntentFilter();
-        intentFilter.addAction(Intent.ACTION_PACKAGE_ADDED);
-        intentFilter.addAction(Intent.ACTION_PACKAGE_REPLACED);
-        intentFilter.addAction(Intent.ACTION_PACKAGE_REMOVED);
-        intentFilter.addDataScheme("package");
-        getActivity().registerReceiver(receiver, intentFilter);
-    }
-
-    private void unregisterBroadcast() {
-        getActivity().unregisterReceiver(receiver);
-    }
-
-    private BroadcastReceiver receiver = new BroadcastReceiver() {
-        @Override
-        public void onReceive(Context context, Intent intent) {
-            Log.d(TAG, "onReceive: " + intent.getAction());
-            if (mAdapter != null) {
-                mAdapter.notifyDataSetChanged();
-            }
-        }
-    };
 }

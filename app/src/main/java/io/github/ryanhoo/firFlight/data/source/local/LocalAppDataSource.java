@@ -4,7 +4,8 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.support.annotation.NonNull;
-import io.github.ryanhoo.firFlight.data.model.App;
+
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.data.source.AppContract;
 import io.github.ryanhoo.firFlight.data.source.local.db.tables.AppTable;
 import rx.Observable;
@@ -32,39 +33,39 @@ public class LocalAppDataSource extends AbstractLocalDataSource<AppTable> implem
     }
 
     @Override
-    public Observable<List<App>> apps() {
+    public Observable<List<Courses>> courses() {
         return mDatabaseHelper.createQuery(AppTable.TABLE_NAME, AppTable.QUERY_ALL_APPS)
-                .mapToList(new Func1<Cursor, App>() {
+                .mapToList(new Func1<Cursor, Courses>() {
                     @Override
-                    public App call(Cursor cursor) {
+                    public Courses call(Cursor cursor) {
                         return mTable.parseCursor(cursor);
                     }
                 });
     }
 
     @Override
-    public boolean save(App app) {
-        mDatabaseHelper.insert(AppTable.TABLE_NAME, mTable.toContentValues(app), SQLiteDatabase.CONFLICT_REPLACE);
+    public boolean save(Courses course) {
+        mDatabaseHelper.insert(AppTable.TABLE_NAME, mTable.toContentValues(course), SQLiteDatabase.CONFLICT_REPLACE);
         return true;
     }
 
     @Override
-    public int save(List<App> apps) {
-        for (App app : apps) {
+    public int save(List<Courses> courses) {
+        for (Courses app : courses) {
             save(app);
         }
         return 0;
     }
 
     @Override
-    public boolean delete(App app) {
-        mDatabaseHelper.delete(AppTable.TABLE_NAME, AppTable.WHERE_ID_EQUALS, app.getId());
+    public boolean delete(Courses course) {
+        mDatabaseHelper.delete(AppTable.TABLE_NAME, AppTable.WHERE_ID_EQUALS, course.getId());
         return true;
     }
 
     @Override
-    public int delete(List<App> apps) {
-        for (App app : apps) {
+    public int delete(List<Courses> courses) {
+        for (Courses app : courses) {
             delete(app);
         }
         return 0;

@@ -34,7 +34,7 @@ public class MockInterceptor implements Interceptor {
     public static final String FIELD_MOCK = "mock";
     public static final String FIELD_MOCK_DATA = "mock_data";
 
-    public static final String MOCK_FILE_PATH = "network/mock/";
+    public static final String MOCK_FILE_PATH = "network/mock/majors/";
 
     private Context mContext;
 

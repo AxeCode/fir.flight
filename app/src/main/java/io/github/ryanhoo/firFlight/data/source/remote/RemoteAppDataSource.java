@@ -1,10 +1,8 @@
 package io.github.ryanhoo.firFlight.data.source.remote;
 
-import io.github.ryanhoo.firFlight.data.model.App;
-import io.github.ryanhoo.firFlight.data.model.AppInstallInfo;
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.data.source.AppContract;
 import io.github.ryanhoo.firFlight.data.source.remote.api.RESTFulApiService;
-import io.github.ryanhoo.firFlight.network.AppResponse;
 import rx.Observable;
 import rx.functions.Func1;
 
@@ -24,20 +22,15 @@ public class RemoteAppDataSource extends AbstractRemoteDataSource implements App
     }
 
     @Override
-    public Observable<List<App>> apps() {
-        return mApi.apps().flatMap(new Func1<AppResponse, Observable<List<App>>>() {
+    public Observable<List<Courses>> courses() {
+        return mApi.courses().flatMap(new Func1<List<Courses>, Observable<List<Courses>>>() {
             @Override
-            public Observable<List<App>> call(AppResponse appResponse) {
-                if (appResponse.getApps() != null) {
-                    return Observable.just(appResponse.getApps());
+            public Observable<List<Courses>> call(List<Courses> courses) {
+                if (courses != null) {
+                    return Observable.just(courses);
                 }
                 return Observable.error(new Exception("No apps"));
             }
         });
-    }
-
-    @Override
-    public Observable<AppInstallInfo> appInstallInfo(String appId) {
-        return mApi.appInstallInfo(appId);
     }
 }

@@ -1,7 +1,6 @@
 package io.github.ryanhoo.firFlight.data.source;
 
-import io.github.ryanhoo.firFlight.data.model.App;
-import io.github.ryanhoo.firFlight.data.model.AppInstallInfo;
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import rx.Observable;
 
 import java.util.List;
@@ -17,30 +16,25 @@ public interface AppContract {
 
     interface Local {
 
-        Observable<List<App>> apps();
+        Observable<List<Courses>> courses();
 
-        boolean save(App app);
+        boolean save(Courses course);
 
-        int save(List<App> apps);
+        int save(List<Courses> courses);
 
-        boolean delete(App app);
+        boolean delete(Courses course);
 
-        int delete(List<App> apps);
+        int delete(List<Courses> courses);
 
         int deleteAll();
     }
 
     interface Remote {
-
-        Observable<List<App>> apps();
-
-        Observable<AppInstallInfo> appInstallInfo(String appId);
+        Observable<List<Courses>> courses();
     }
 
-    Observable<List<App>> apps();
+    Observable<List<Courses>> courses();
 
-    Observable<List<App>> apps(boolean forceUpdate);
-
-    Observable<AppInstallInfo> appInstallInfo(String appId);
+    Observable<List<Courses>> courses(boolean forceUpdate);
 
 }
