@@ -1,0 +1,238 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-07-24T07:10:35.083Z",
+  "updatedAt": "2017-12-26T15:40:48.871Z",
+  "name": "暑期清北学霸周末直播课堂——初中数学",
+  "description": "由来自清华北大各个系科的学霸学神在周末直播课堂上帮你复习难点，查缺补漏，传授高考“考试真经”，预习领先，让你处处快人一步，各位平易近人的学长学姐们有问必答，只要你有任何不懂的问题，请随时缠上他们！",
+  "price": 0,
+  "teacher": {
+    "name": "清北数学答疑老师",
+    "description": "来自于清北的学霸们带你查漏补缺，进步提分！",
+    "avatar": "http://imgs.wanmen.org/ad4c76801ae344837570fddefe91e886.png",
+    "id": "5902ec69d7e5f316c6045864"
+  },
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_mobile_mid.m3u8"
+    },
+    "id": "59647829d5ff7513a1c2a64e"
+  },
+  "openingAt": "2017-07-15T10:00:03.495Z",
+  "hide": false,
+  "major": "58f0331bc6bdf222b1744e10",
+  "expiration": 12,
+  "streamKey": "24749596827353537",
+  "numOfClasses": 5,
+  "smallImage": "http://imgs.wanmen.org/0538133a76e003de59dbfa13bf1526bd.png",
+  "bigImage": "http://imgs.wanmen.org/a32221d1c9405b899d219f31573a5328.png",
+  "lastConnectedAt": 1508492256,
+  "tag": "清北数学答疑老师 初中 暑期 清北学霸 周末 直播 课堂 数学 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 4,
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a279548a7b33c240bf4c556",
+    "name": "暑期清北学霸周末直播讲堂——初中数学专题：有理数与实数",
+    "startDate": "2017-07-15T00:00:00.000Z",
+    "startTime": "18:00",
+    "endTime": "19:00"
+  }, {
+    "_id": "5a279548a7b33c240bf4c555",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中数学专题：整式与等式",
+    "startDate": "2017-07-23T00:00:00.000Z"
+  }, {
+    "_id": "5a279548a7b33c240bf4c554",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中数学专题：不等式与方程组",
+    "startDate": "2017-08-05T00:00:00.000Z"
+  }, {
+    "_id": "5a279548a7b33c240bf4c553",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中数学专题：不等式与不等式组",
+    "startDate": "2017-08-13T00:00:00.000Z"
+  }, {
+    "_id": "5a279548a7b33c240bf4c552",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中数学专题：几何",
+    "startDate": "2017-08-26T00:00:00.000Z"
+  }],
+  "type": "record",
+  "likes": 15,
+  "app": "mid",
+  "numberOfClasses": 5,
+  "teacherDescription": "来自于清北的学霸们带你查漏补缺，进步提分！",
+  "teacherAvatar": "http://imgs.wanmen.org/ad4c76801ae344837570fddefe91e886.png",
+  "teacherName": "清北数学答疑老师",
+  "mobileCoverUrl": "http://imgs.wanmen.org/0538133a76e003de59dbfa13bf1526bd.png",
+  "coverUrl": "http://imgs.wanmen.org/a32221d1c9405b899d219f31573a5328.png",
+  "smallImageUrl": "http://imgs.wanmen.org/0538133a76e003de59dbfa13bf1526bd.png",
+  "bigImageUrl": "http://imgs.wanmen.org/a32221d1c9405b899d219f31573a5328.png",
+  "id": "59759d6b1932dd0c3df1ef03",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-12T06:13:03.325Z",
+    "updatedAt": "2017-09-12T06:13:03.325Z",
+    "courseId": "59759d6b1932dd0c3df1ef03",
+    "name": "2017.07.15",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59b77aef8e2630537846f711",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-12T06:13:29.766Z",
+      "updatedAt": "2017-11-27T08:46:53.718Z",
+      "parentId": "59b77aef8e2630537846f711",
+      "courseId": "59759d6b1932dd0c3df1ef03",
+      "name": "有理数和实数",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_mobile_mid.m3u8"
+        },
+        "id": "596a06afef23a8300e24781e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b77b0940ef7059c451422e",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/bcf94fc6-85e8-47ad-a05e-0244a42bd2bc_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "courseId": "59759d6b1932dd0c3df1ef03",
+    "name": "2017.08.05",
+    "createdAt": "2017-08-06T10:56:24.517Z",
+    "updatedAt": "2017-08-26T11:05:43.164Z",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5986f5d82f8052899cbeffa1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-06T10:56:24.556Z",
+      "updatedAt": "2017-08-14T01:26:13.470Z",
+      "name": "方程与方程组专题",
+      "parentId": "5986f5d82f8052899cbeffa1",
+      "courseId": "59759d6b1932dd0c3df1ef03",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502013150_1502016983.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502013150_1502016983.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502013150_1502016983.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502013150_1502016983.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502013150_1502016983.m3u8"
+      },
+      "hide": false,
+      "id": "5986f5d8e11fbc1f9d7e28f8"
+    }]
+  }, {
+    "courseId": "59759d6b1932dd0c3df1ef03",
+    "name": "2017.08.13",
+    "createdAt": "2017-08-13T11:05:39.937Z",
+    "updatedAt": "2017-08-26T11:05:27.724Z",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "599032832f8052899cbf6cba",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-13T11:05:39.971Z",
+      "updatedAt": "2017-08-14T01:25:28.479Z",
+      "name": "不等式与不等式组专题",
+      "parentId": "599032832f8052899cbf6cba",
+      "courseId": "59759d6b1932dd0c3df1ef03",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502617995_1502622337.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502617995_1502622337.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502617995_1502622337.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502617995_1502622337.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1502617995_1502622337.m3u8"
+      },
+      "hide": false,
+      "id": "599032835a8ae96439bf7145"
+    }]
+  }, {
+    "courseId": "59759d6b1932dd0c3df1ef03",
+    "name": "2017.08.26",
+    "createdAt": "2017-08-26T11:01:48.117Z",
+    "updatedAt": "2017-08-26T11:05:10.337Z",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59a1551c2f8052899cc031fb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-26T11:01:48.155Z",
+      "updatedAt": "2017-08-26T11:05:52.611Z",
+      "name": "几何",
+      "parentId": "59a1551c2f8052899cc031fb",
+      "courseId": "59759d6b1932dd0c3df1ef03",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1503741277_1503745307.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1503741277_1503745307.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1503741277_1503745307.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1503741277_1503745307.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.24749596827353537/1503741277_1503745307.m3u8"
+      },
+      "hide": false,
+      "id": "59a1551cc0e63238ae1f4c5c"
+    }]
+  }],
+  "hasTopic": false
+}

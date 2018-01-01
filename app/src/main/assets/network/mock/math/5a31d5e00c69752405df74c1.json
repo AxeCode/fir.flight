@@ -1,0 +1,770 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-12-14T01:37:36.414Z",
+  "updatedAt": "2017-12-31T20:32:42.070Z",
+  "name": "基础初中数学七年级下",
+  "numOfClasses": 6,
+  "description": "每个视频通过10分钟左右的讲解，轻松搞定七年级下六大章节的全部基础知识。全面演练六大章节基础知识热门考点，课程内容短小精悍，侧重基础，紧贴人教版教材。讨论请加Q群：366396538\n",
+  "price": 78,
+  "hide": false,
+  "teacher": {
+    "description": "北京线下百人班大咖讲师，脱口秀里讲数学，实力派+偶像派！起司学复教育机构创始人，独创初中数学十二级教学体系，由浅入深，领先中考。2015年所带中考毕业班满分4人，平均分109分，2016年所带中考毕业班满分7人，平均分110分。【个人公众号: 起司学复 】【个人微信号: cuiliang218】",
+    "name": "崔亮",
+    "avatar": "http://imgs.wanmen.org/b1081e3947ad39439fd72255fb7dc780.png",
+    "id": "59fc2d0c37beee5855953577"
+  },
+  "major": "58f0331bc6bdf222b1744e10",
+  "expiration": 12,
+  "bigImage": "http://imgs.wanmen.org/4617ab5e3555cba64c9c4d7328054695.png",
+  "smallImage": "http://imgs.wanmen.org/c0ec3b54560e1f02a6ba744486a1a7cc.png",
+  "tag": "崔亮 初中 基础 数学 七年级 下 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 24,
+  "searchCount": "5a49496a29f5ce5492b19b0c",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 0,
+  "app": "mid",
+  "numberOfClasses": 6,
+  "teacherDescription": "北京线下百人班大咖讲师，脱口秀里讲数学，实力派+偶像派！起司学复教育机构创始人，独创初中数学十二级教学体系，由浅入深，领先中考。2015年所带中考毕业班满分4人，平均分109分，2016年所带中考毕业班满分7人，平均分110分。【个人公众号: 起司学复 】【个人微信号: cuiliang218】",
+  "teacherAvatar": "http://imgs.wanmen.org/b1081e3947ad39439fd72255fb7dc780.png",
+  "teacherName": "崔亮",
+  "mobileCoverUrl": "http://imgs.wanmen.org/c0ec3b54560e1f02a6ba744486a1a7cc.png",
+  "coverUrl": "http://imgs.wanmen.org/4617ab5e3555cba64c9c4d7328054695.png",
+  "smallImageUrl": "http://imgs.wanmen.org/c0ec3b54560e1f02a6ba744486a1a7cc.png",
+  "bigImageUrl": "http://imgs.wanmen.org/4617ab5e3555cba64c9c4d7328054695.png",
+  "id": "5a31d5e00c69752405df74c1",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-14T01:38:37.865Z",
+    "updatedAt": "2017-12-21T04:13:10.876Z",
+    "courseId": "5a31d5e00c69752405df74c1",
+    "name": "平行线的简单应用",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a31d61d0c69752405df74c3",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:43:17.743Z",
+      "updatedAt": "2017-12-21T04:13:19.376Z",
+      "parentId": "5a31d61d0c69752405df74c3",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "平移概念的引入",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_mobile_mid.m3u8"
+        },
+        "id": "5a332e4451f074112c043100"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a31d735a7b33c240bf4c8ed",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/ed1c7293-2483-482f-a50b-77a3e237a63b_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:43:30.490Z",
+      "updatedAt": "2017-12-21T04:13:24.112Z",
+      "parentId": "5a31d61d0c69752405df74c3",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "平行线等积变换必考题型",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_mobile_mid.m3u8"
+        },
+        "id": "5a332e5def23a865ac2d0132"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a31d742a7b33c240bf4c8ef",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/911ec126-0301-4c28-9948-6c5a868c5f8f_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-14T01:43:46.223Z",
+    "updatedAt": "2017-12-21T04:13:32.541Z",
+    "courseId": "5a31d5e00c69752405df74c1",
+    "name": "实数及其相关运算必考考点",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a31d752a7b33c240bf4c8f1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:43:58.370Z",
+      "updatedAt": "2017-12-21T02:13:32.112Z",
+      "parentId": "5a31d752a7b33c240bf4c8f1",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "平方根概念的引入",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1005a059-4fbb-4117-b051-9deab4d73b86_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1005a059-4fbb-4117-b051-9deab4d73b86_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1005a059-4fbb-4117-b051-9deab4d73b86_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1005a059-4fbb-4117-b051-9deab4d73b86_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1005a059-4fbb-4117-b051-9deab4d73b86_mobile_mid.m3u8"
+        },
+        "id": "5a332e8351f07410f6977763"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d75ea7b33c240bf4c8f3",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:44:09.815Z",
+      "updatedAt": "2017-12-21T02:13:47.328Z",
+      "parentId": "5a31d752a7b33c240bf4c8f1",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "立方根概念的引入",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/09e70730-1376-4b4f-98ee-72c7a6f0234f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/09e70730-1376-4b4f-98ee-72c7a6f0234f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/09e70730-1376-4b4f-98ee-72c7a6f0234f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/09e70730-1376-4b4f-98ee-72c7a6f0234f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/09e70730-1376-4b4f-98ee-72c7a6f0234f_mobile_mid.m3u8"
+        },
+        "id": "5a332e9c51f07410f6977764"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d769a7b33c240bf4c8f5",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:44:18.768Z",
+      "updatedAt": "2017-12-21T02:14:04.619Z",
+      "parentId": "5a31d752a7b33c240bf4c8f1",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "实数概念辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/11622b33-4735-4339-b61a-8f33aae320d0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/11622b33-4735-4339-b61a-8f33aae320d0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/11622b33-4735-4339-b61a-8f33aae320d0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/11622b33-4735-4339-b61a-8f33aae320d0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/11622b33-4735-4339-b61a-8f33aae320d0_mobile_mid.m3u8"
+        },
+        "id": "5a332eb751f07410ec8715d9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d772a7b33c240bf4c8f7",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:44:28.671Z",
+      "updatedAt": "2017-12-21T02:14:35.035Z",
+      "parentId": "5a31d752a7b33c240bf4c8f1",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "平方根、立方根热点题型汇总",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0f608b23-e135-4b96-8644-ac44e0eaa6e0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0f608b23-e135-4b96-8644-ac44e0eaa6e0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0f608b23-e135-4b96-8644-ac44e0eaa6e0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0f608b23-e135-4b96-8644-ac44e0eaa6e0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0f608b23-e135-4b96-8644-ac44e0eaa6e0_mobile_mid.m3u8"
+        },
+        "id": "5a332ed9d5ff75132087764d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d77ca7b33c240bf4c8f9",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:44:43.670Z",
+      "updatedAt": "2017-12-21T02:14:51.329Z",
+      "parentId": "5a31d752a7b33c240bf4c8f1",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "估算整数法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d3067619-2398-410b-87ef-02ab3db48065_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d3067619-2398-410b-87ef-02ab3db48065_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d3067619-2398-410b-87ef-02ab3db48065_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d3067619-2398-410b-87ef-02ab3db48065_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d3067619-2398-410b-87ef-02ab3db48065_mobile_mid.m3u8"
+        },
+        "id": "5a332ef5d5ff75132087764e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d78ba7b33c240bf4c8fb",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:44:58.943Z",
+      "updatedAt": "2017-12-21T02:15:05.570Z",
+      "parentId": "5a31d752a7b33c240bf4c8f1",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "实数的运算",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0ad5e5b3-bb1a-44b0-b1c9-338de4a99592_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0ad5e5b3-bb1a-44b0-b1c9-338de4a99592_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0ad5e5b3-bb1a-44b0-b1c9-338de4a99592_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0ad5e5b3-bb1a-44b0-b1c9-338de4a99592_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0ad5e5b3-bb1a-44b0-b1c9-338de4a99592_mobile_mid.m3u8"
+        },
+        "id": "5a332f1751f0741102df66c8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d79aa7b33c240bf4c8fd",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-14T01:45:27.973Z",
+    "updatedAt": "2017-12-21T04:13:45.237Z",
+    "courseId": "5a31d5e00c69752405df74c1",
+    "name": "平面直角坐标系五大知识点汇总",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a31d7b7a7b33c240bf4c8ff",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:45:38.534Z",
+      "updatedAt": "2017-12-21T02:15:40.507Z",
+      "parentId": "5a31d7b7a7b33c240bf4c8ff",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "平面直角坐标系概念的引入",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/92fdc8f4-fc42-4841-8283-e90386858a12_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/92fdc8f4-fc42-4841-8283-e90386858a12_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/92fdc8f4-fc42-4841-8283-e90386858a12_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/92fdc8f4-fc42-4841-8283-e90386858a12_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/92fdc8f4-fc42-4841-8283-e90386858a12_mobile_mid.m3u8"
+        },
+        "id": "5a3330c7ef23a8654dba10ca"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d7c2a7b33c240bf4c901",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:45:48.349Z",
+      "updatedAt": "2017-12-21T02:16:08.453Z",
+      "parentId": "5a31d7b7a7b33c240bf4c8ff",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "坐标平面内的特殊直线",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/51d94272-c752-4fad-89b0-62c710146b61_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/51d94272-c752-4fad-89b0-62c710146b61_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/51d94272-c752-4fad-89b0-62c710146b61_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/51d94272-c752-4fad-89b0-62c710146b61_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/51d94272-c752-4fad-89b0-62c710146b61_mobile_mid.m3u8"
+        },
+        "id": "5a3330f051f074109b50d281"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d7cca7b33c240bf4c903",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:45:59.209Z",
+      "updatedAt": "2017-12-21T02:16:34.430Z",
+      "parentId": "5a31d7b7a7b33c240bf4c8ff",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "点到线的距离",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c8afbfdf-0476-40b2-adf1-d9a87a1c339e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c8afbfdf-0476-40b2-adf1-d9a87a1c339e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c8afbfdf-0476-40b2-adf1-d9a87a1c339e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c8afbfdf-0476-40b2-adf1-d9a87a1c339e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c8afbfdf-0476-40b2-adf1-d9a87a1c339e_mobile_mid.m3u8"
+        },
+        "id": "5a33311851f07410da3d8a9b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d7d7a7b33c240bf4c905",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:46:08.896Z",
+      "updatedAt": "2017-12-21T02:16:53.717Z",
+      "parentId": "5a31d7b7a7b33c240bf4c8ff",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "平面直角坐标系中的平移",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/65c021d8-46a1-4e25-aa85-354c6d89a604_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/65c021d8-46a1-4e25-aa85-354c6d89a604_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/65c021d8-46a1-4e25-aa85-354c6d89a604_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/65c021d8-46a1-4e25-aa85-354c6d89a604_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/65c021d8-46a1-4e25-aa85-354c6d89a604_mobile_mid.m3u8"
+        },
+        "id": "5a33313d51f07410b15ab2a6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d7e0a7b33c240bf4c907",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:46:24.261Z",
+      "updatedAt": "2017-12-21T02:17:08.381Z",
+      "parentId": "5a31d7b7a7b33c240bf4c8ff",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "平面直角坐标系中的对称",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e3581acb-81e5-4850-b910-ef3f812d8acf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e3581acb-81e5-4850-b910-ef3f812d8acf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e3581acb-81e5-4850-b910-ef3f812d8acf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e3581acb-81e5-4850-b910-ef3f812d8acf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e3581acb-81e5-4850-b910-ef3f812d8acf_mobile_mid.m3u8"
+        },
+        "id": "5a333155ef23a865c0fc9bae"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d7f0a7b33c240bf4c909",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-14T01:46:34.121Z",
+    "updatedAt": "2017-12-22T06:52:50.867Z",
+    "courseId": "5a31d5e00c69752405df74c1",
+    "name": " 多元一次方程组的解法",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a31d7faa7b33c240bf4c90b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:46:44.401Z",
+      "updatedAt": "2017-12-21T02:17:35.486Z",
+      "parentId": "5a31d7faa7b33c240bf4c90b",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "多元一次方程组基础解法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/70e028a6-e2db-4769-a6d0-16f880de5d1b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/70e028a6-e2db-4769-a6d0-16f880de5d1b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/70e028a6-e2db-4769-a6d0-16f880de5d1b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/70e028a6-e2db-4769-a6d0-16f880de5d1b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/70e028a6-e2db-4769-a6d0-16f880de5d1b_mobile_mid.m3u8"
+        },
+        "id": "5a33318951f074109b50d282"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d804a7b33c240bf4c90d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:46:56.616Z",
+      "updatedAt": "2017-12-21T02:17:53.249Z",
+      "parentId": "5a31d7faa7b33c240bf4c90b",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "多元一次方程组高端解法（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b947541d-19df-4b6b-b95a-cd12f648ea3a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b947541d-19df-4b6b-b95a-cd12f648ea3a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b947541d-19df-4b6b-b95a-cd12f648ea3a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b947541d-19df-4b6b-b95a-cd12f648ea3a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b947541d-19df-4b6b-b95a-cd12f648ea3a_mobile_mid.m3u8"
+        },
+        "id": "5a3331a9d5ff751337ba27c8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d810a7b33c240bf4c90f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:47:05.911Z",
+      "updatedAt": "2017-12-21T02:18:12.292Z",
+      "parentId": "5a31d7faa7b33c240bf4c90b",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "多元一次方程组高端解法（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/40bd365e-4605-4942-9f0f-4521c77f1aef_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/40bd365e-4605-4942-9f0f-4521c77f1aef_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/40bd365e-4605-4942-9f0f-4521c77f1aef_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/40bd365e-4605-4942-9f0f-4521c77f1aef_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/40bd365e-4605-4942-9f0f-4521c77f1aef_mobile_mid.m3u8"
+        },
+        "id": "5a3331c4ef23a865da04aad4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d819a7b33c240bf4c911",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:47:15.744Z",
+      "updatedAt": "2017-12-22T06:50:52.354Z",
+      "parentId": "5a31d7faa7b33c240bf4c90b",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "含参的一次方程组",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9000040f-ced6-4da4-9e7e-fcb0fa0807a7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9000040f-ced6-4da4-9e7e-fcb0fa0807a7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9000040f-ced6-4da4-9e7e-fcb0fa0807a7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9000040f-ced6-4da4-9e7e-fcb0fa0807a7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9000040f-ced6-4da4-9e7e-fcb0fa0807a7_mobile_mid.m3u8"
+        },
+        "id": "5a0e3ce351f074016a9531a1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d823a7b33c240bf4c913",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-14T01:47:26.871Z",
+    "updatedAt": "2017-12-22T06:52:48.094Z",
+    "courseId": "5a31d5e00c69752405df74c1",
+    "name": "不等式解法四大考点汇总",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a31d82ea7b33c240bf4c915",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:47:36.690Z",
+      "updatedAt": "2017-12-22T06:51:16.478Z",
+      "parentId": "5a31d82ea7b33c240bf4c915",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "解一元一次不等式",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dad1381b-8c4e-448a-9f19-d2c59ed7a2eb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dad1381b-8c4e-448a-9f19-d2c59ed7a2eb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dad1381b-8c4e-448a-9f19-d2c59ed7a2eb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dad1381b-8c4e-448a-9f19-d2c59ed7a2eb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dad1381b-8c4e-448a-9f19-d2c59ed7a2eb_mobile_mid.m3u8"
+        },
+        "id": "5a3c760f51f07410da3d8aa3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d838a7b33c240bf4c917",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:47:46.854Z",
+      "updatedAt": "2017-12-22T06:51:21.961Z",
+      "parentId": "5a31d82ea7b33c240bf4c915",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "解一元一次不等式组",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/be9114cc-b576-4c9d-a029-3a244a93538a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/be9114cc-b576-4c9d-a029-3a244a93538a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/be9114cc-b576-4c9d-a029-3a244a93538a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/be9114cc-b576-4c9d-a029-3a244a93538a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/be9114cc-b576-4c9d-a029-3a244a93538a_mobile_mid.m3u8"
+        },
+        "id": "5a3c7626ef23a8659262506c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d842a7b33c240bf4c919",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:47:58.967Z",
+      "updatedAt": "2017-12-22T06:51:32.648Z",
+      "parentId": "5a31d82ea7b33c240bf4c915",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "不等式与方程的综合（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7da715ab-07e1-4b5f-9b50-c096bda3155b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7da715ab-07e1-4b5f-9b50-c096bda3155b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7da715ab-07e1-4b5f-9b50-c096bda3155b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7da715ab-07e1-4b5f-9b50-c096bda3155b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7da715ab-07e1-4b5f-9b50-c096bda3155b_mobile_mid.m3u8"
+        },
+        "id": "5a3c7637ef23a8656ba59996"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d84ea7b33c240bf4c91b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:48:07.155Z",
+      "updatedAt": "2017-12-22T06:51:37.089Z",
+      "parentId": "5a31d82ea7b33c240bf4c915",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "不等式与方程的综合（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e1fcc12a-62ed-4c1f-9386-e40ecb281ee6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e1fcc12a-62ed-4c1f-9386-e40ecb281ee6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e1fcc12a-62ed-4c1f-9386-e40ecb281ee6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e1fcc12a-62ed-4c1f-9386-e40ecb281ee6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e1fcc12a-62ed-4c1f-9386-e40ecb281ee6_mobile_mid.m3u8"
+        },
+        "id": "5a3c765851f074110381cb22"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d857a7b33c240bf4c91d",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-14T01:48:15.797Z",
+    "updatedAt": "2017-12-22T06:52:49.129Z",
+    "courseId": "5a31d5e00c69752405df74c1",
+    "name": "数据的收集、整理、描述与分析",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a31d85fa7b33c240bf4c91f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:48:35.164Z",
+      "updatedAt": "2017-12-22T06:51:50.387Z",
+      "parentId": "5a31d85fa7b33c240bf4c91f",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "数据统计相关概念的引入",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2a840eff-ee1e-4561-ae10-5f1d09722bb6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2a840eff-ee1e-4561-ae10-5f1d09722bb6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2a840eff-ee1e-4561-ae10-5f1d09722bb6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2a840eff-ee1e-4561-ae10-5f1d09722bb6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2a840eff-ee1e-4561-ae10-5f1d09722bb6_mobile_mid.m3u8"
+        },
+        "id": "5a3c767d51f074110381cb23"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d873a7b33c240bf4c921",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:48:46.162Z",
+      "updatedAt": "2017-12-22T06:51:57.581Z",
+      "parentId": "5a31d85fa7b33c240bf4c91f",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "数据的描述",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d9510569-29e4-4b54-bdb8-881493fd15a9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d9510569-29e4-4b54-bdb8-881493fd15a9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d9510569-29e4-4b54-bdb8-881493fd15a9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d9510569-29e4-4b54-bdb8-881493fd15a9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d9510569-29e4-4b54-bdb8-881493fd15a9_mobile_mid.m3u8"
+        },
+        "id": "5a3c7697d5ff751337ba27ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d87ea7b33c240bf4c923",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-14T01:48:54.479Z",
+      "updatedAt": "2017-12-22T06:52:04.331Z",
+      "parentId": "5a31d85fa7b33c240bf4c91f",
+      "courseId": "5a31d5e00c69752405df74c1",
+      "name": "数据的分析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1b5130dc-0bc3-419e-9655-63a13cd8a080_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1b5130dc-0bc3-419e-9655-63a13cd8a080_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1b5130dc-0bc3-419e-9655-63a13cd8a080_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1b5130dc-0bc3-419e-9655-63a13cd8a080_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1b5130dc-0bc3-419e-9655-63a13cd8a080_mobile_mid.m3u8"
+        },
+        "id": "5a3c76b2ef23a865f26ec78e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a31d886a7b33c240bf4c925",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

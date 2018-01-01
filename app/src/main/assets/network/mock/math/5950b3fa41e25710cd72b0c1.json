@@ -1,0 +1,1548 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-06-26T07:12:58.067Z",
+  "updatedAt": "2017-12-22T14:00:45.307Z",
+  "name": "初中数学八年级下",
+  "teacher": {
+    "name": "王志轩",
+    "description": "北大物理本硕连读，曾任教北大附中、十一学校。中学一级教师，十年培训经验。丰富的理综复习经验，能力短期显著提升。教学成绩显著，学生多人考入北清名校。“国培计划”上公开课并获一致好评。接受中国教育台采访，学生表示：逻辑清晰，耐心细致，人气爆棚。",
+    "avatar": "http://imgs.wanmen.org/c5e6aea8e23e39064c8c57d45dd96806.png",
+    "id": "5885a45dfa3f6b1447f68e97"
+  },
+  "hide": false,
+  "major": "58f0331bc6bdf222b1744e10",
+  "bigImage": "http://imgs.wanmen.org/8fc846e051b1867eed761653feef6507.png",
+  "smallImage": "http://imgs.wanmen.org/f7d272933709d8c02a9f14f95b6a636b.png",
+  "expiration": 12,
+  "order": 4,
+  "numOfClasses": 18,
+  "description": "本学期内容包括：二次根式，勾股定理，平行四边形，一次函数，数据的分析。课程讲解由浅入深，由易到难。各章内容紧扣教材和考纲，知识点覆盖完全，习题选择紧扣中考题型。既适合于课前预习，也适合于同学在同步学习时复习提升。",
+  "price": 78,
+  "tag": "王志轩 初中 数学 八年级 下 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 47,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 7,
+  "app": "mid",
+  "numberOfClasses": 18,
+  "teacherDescription": "北大物理本硕连读，曾任教北大附中、十一学校。中学一级教师，十年培训经验。丰富的理综复习经验，能力短期显著提升。教学成绩显著，学生多人考入北清名校。“国培计划”上公开课并获一致好评。接受中国教育台采访，学生表示：逻辑清晰，耐心细致，人气爆棚。",
+  "teacherAvatar": "http://imgs.wanmen.org/c5e6aea8e23e39064c8c57d45dd96806.png",
+  "teacherName": "王志轩",
+  "mobileCoverUrl": "http://imgs.wanmen.org/f7d272933709d8c02a9f14f95b6a636b.png",
+  "coverUrl": "http://imgs.wanmen.org/8fc846e051b1867eed761653feef6507.png",
+  "smallImageUrl": "http://imgs.wanmen.org/f7d272933709d8c02a9f14f95b6a636b.png",
+  "bigImageUrl": "http://imgs.wanmen.org/8fc846e051b1867eed761653feef6507.png",
+  "id": "5950b3fa41e25710cd72b0c1",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T03:57:53.543Z",
+    "updatedAt": "2017-12-21T08:18:41.707Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "二次根式",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595c63c1537472269fbba7d1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T03:59:48.624Z",
+      "updatedAt": "2017-12-21T08:18:47.814Z",
+      "parentId": "595c63c1537472269fbba7d1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "概念",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_mobile_mid.m3u8"
+        },
+        "id": "5955a333ef23a830626948c5"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "595c6434b8ff5327a1a724ae",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/0a558939-e5aa-4772-9b1a-842a7810d8e0_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T04:00:04.965Z",
+      "updatedAt": "2017-12-21T08:18:52.411Z",
+      "parentId": "595c63c1537472269fbba7d1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "性质",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_mobile_mid.m3u8"
+        },
+        "id": "5955a36451f0744b3d5146a0"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "595c6444b8ff5327a1a724b0",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a3a08e83-dfd5-4795-81e8-155b8f55dd9c_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T04:03:15.562Z",
+    "updatedAt": "2017-12-21T08:18:56.606Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "二次根式的乘除",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595c6503b8ff5327a1a724b6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T04:03:34.330Z",
+      "updatedAt": "2017-12-21T08:19:02.608Z",
+      "parentId": "595c6503b8ff5327a1a724b6",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "乘法",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3c1f5a90-1790-4541-a403-0eccd3536fe4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3c1f5a90-1790-4541-a403-0eccd3536fe4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3c1f5a90-1790-4541-a403-0eccd3536fe4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3c1f5a90-1790-4541-a403-0eccd3536fe4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3c1f5a90-1790-4541-a403-0eccd3536fe4_mobile_mid.m3u8"
+        },
+        "id": "5955a4f6d5ff7513924acab5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595c6516b8ff5327a1a724b8",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T04:04:03.611Z",
+      "updatedAt": "2017-12-21T08:19:06.673Z",
+      "parentId": "595c6503b8ff5327a1a724b6",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "除法",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/895beaff-a449-4a4b-8fef-955fa4a12732_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/895beaff-a449-4a4b-8fef-955fa4a12732_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/895beaff-a449-4a4b-8fef-955fa4a12732_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/895beaff-a449-4a4b-8fef-955fa4a12732_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/895beaff-a449-4a4b-8fef-955fa4a12732_mobile_mid.m3u8"
+        },
+        "id": "5955a3db51f0744b1cd60fd8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595c6533b8ff5327a1a724ba",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:09:31.626Z",
+    "updatedAt": "2017-12-21T08:20:06.976Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "二次根式的加减",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595c9ebb98e6511445679f90",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:09:58.029Z",
+      "updatedAt": "2017-12-21T08:20:15.160Z",
+      "parentId": "595c9ebb98e6511445679f90",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "加减法",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/28f7cbda-727d-4ebe-b2db-e96ed88a662d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/28f7cbda-727d-4ebe-b2db-e96ed88a662d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/28f7cbda-727d-4ebe-b2db-e96ed88a662d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/28f7cbda-727d-4ebe-b2db-e96ed88a662d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/28f7cbda-727d-4ebe-b2db-e96ed88a662d_mobile_mid.m3u8"
+        },
+        "id": "5955a428ef23a82eb6746816"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595c9ed698e6511445679f92",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:10:53.905Z",
+      "updatedAt": "2017-12-21T08:20:20.377Z",
+      "parentId": "595c9ebb98e6511445679f90",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "混合运算",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1ccff640-9d6a-4a65-b21f-062c8472cb5d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1ccff640-9d6a-4a65-b21f-062c8472cb5d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1ccff640-9d6a-4a65-b21f-062c8472cb5d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1ccff640-9d6a-4a65-b21f-062c8472cb5d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1ccff640-9d6a-4a65-b21f-062c8472cb5d_mobile_mid.m3u8"
+        },
+        "id": "5955a47651f0744b09d589be"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595c9f0d98e6511445679f94",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:13:12.857Z",
+    "updatedAt": "2017-12-21T08:20:27.080Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "小结与复习",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595c9f982f909e1607f00263",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:13:30.479Z",
+      "updatedAt": "2017-12-21T08:20:33.437Z",
+      "parentId": "595c9f982f909e1607f00263",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "小结与复习（1）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/36092d63-6c1b-4c76-a957-3e65453e4c5f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/36092d63-6c1b-4c76-a957-3e65453e4c5f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/36092d63-6c1b-4c76-a957-3e65453e4c5f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/36092d63-6c1b-4c76-a957-3e65453e4c5f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/36092d63-6c1b-4c76-a957-3e65453e4c5f_mobile_mid.m3u8"
+        },
+        "id": "5955a4e6ef23a85887e057cd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595c9faa2f909e1607f00265",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:15:26.471Z",
+      "updatedAt": "2017-12-21T08:20:37.962Z",
+      "parentId": "595c9f982f909e1607f00263",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "小结与复习（2）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c75c50b8-b20c-4317-9342-e0a4144f3f31_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c75c50b8-b20c-4317-9342-e0a4144f3f31_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c75c50b8-b20c-4317-9342-e0a4144f3f31_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c75c50b8-b20c-4317-9342-e0a4144f3f31_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c75c50b8-b20c-4317-9342-e0a4144f3f31_mobile_mid.m3u8"
+        },
+        "id": "5955a53cef23a830822d9c76"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca01e2f909e1607f00267",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:16:29.636Z",
+    "updatedAt": "2017-12-21T08:20:43.490Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "勾股定理",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595ca05d2f909e1607f00269",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:16:49.109Z",
+      "updatedAt": "2017-12-21T08:20:55.909Z",
+      "parentId": "595ca05d2f909e1607f00269",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "勾股定理",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0bcbf6fd-bafa-4ad8-a0ac-ee11193a76c3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0bcbf6fd-bafa-4ad8-a0ac-ee11193a76c3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0bcbf6fd-bafa-4ad8-a0ac-ee11193a76c3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0bcbf6fd-bafa-4ad8-a0ac-ee11193a76c3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0bcbf6fd-bafa-4ad8-a0ac-ee11193a76c3_mobile_mid.m3u8"
+        },
+        "id": "5955a5cfef23a82fd5fce9b8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca0712f909e1607f0026b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:17:38.767Z",
+      "updatedAt": "2017-12-21T08:21:00.806Z",
+      "parentId": "595ca05d2f909e1607f00269",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "应用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dba1203d-c72e-47f3-bbb1-4963752177d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dba1203d-c72e-47f3-bbb1-4963752177d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dba1203d-c72e-47f3-bbb1-4963752177d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dba1203d-c72e-47f3-bbb1-4963752177d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dba1203d-c72e-47f3-bbb1-4963752177d2_mobile_mid.m3u8"
+        },
+        "id": "5955a639ef23a83072ca0bb5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca0a22f909e1607f0026d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:25:22.950Z",
+      "updatedAt": "2017-12-21T08:21:05.286Z",
+      "parentId": "595ca05d2f909e1607f00269",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "作图或计算",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a965ea9a-731a-4180-8d59-2b8e47fa8c1c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a965ea9a-731a-4180-8d59-2b8e47fa8c1c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a965ea9a-731a-4180-8d59-2b8e47fa8c1c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a965ea9a-731a-4180-8d59-2b8e47fa8c1c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a965ea9a-731a-4180-8d59-2b8e47fa8c1c_mobile_mid.m3u8"
+        },
+        "id": "5955a69351f0744b290f9580"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca2722f909e1607f00274",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:31:13.829Z",
+    "updatedAt": "2017-12-21T08:21:11.644Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "勾股定理的逆定理",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595ca3d185548b1d7fb2fed5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:31:50.306Z",
+      "updatedAt": "2017-12-21T08:21:17.265Z",
+      "parentId": "595ca3d185548b1d7fb2fed5",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "概念",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ea2e5bab-a37b-453e-b2e1-01d75e5e8d4d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ea2e5bab-a37b-453e-b2e1-01d75e5e8d4d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ea2e5bab-a37b-453e-b2e1-01d75e5e8d4d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ea2e5bab-a37b-453e-b2e1-01d75e5e8d4d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ea2e5bab-a37b-453e-b2e1-01d75e5e8d4d_mobile_mid.m3u8"
+        },
+        "id": "5955a6e151f0744b84e04bbb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca3f685548b1d7fb2fed7",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:32:18.332Z",
+      "updatedAt": "2017-12-21T08:21:21.488Z",
+      "parentId": "595ca3d185548b1d7fb2fed5",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "应用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/89ee56d1-dd4d-4dfa-8324-e8ac77dd0f85_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/89ee56d1-dd4d-4dfa-8324-e8ac77dd0f85_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/89ee56d1-dd4d-4dfa-8324-e8ac77dd0f85_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/89ee56d1-dd4d-4dfa-8324-e8ac77dd0f85_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/89ee56d1-dd4d-4dfa-8324-e8ac77dd0f85_mobile_mid.m3u8"
+        },
+        "id": "5955a72951f0744b5e0d5537"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca41285548b1d7fb2fed9",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:35:25.279Z",
+    "updatedAt": "2017-12-21T08:21:29.388Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "小结与复习",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595ca4cd85548b1d7fb2fedb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:35:41.796Z",
+      "updatedAt": "2017-12-21T08:26:15.207Z",
+      "parentId": "595ca4cd85548b1d7fb2fedb",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "小结与复习",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/330285ab-ad94-4c7a-b384-e8bf6f1a34fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/330285ab-ad94-4c7a-b384-e8bf6f1a34fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/330285ab-ad94-4c7a-b384-e8bf6f1a34fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/330285ab-ad94-4c7a-b384-e8bf6f1a34fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/330285ab-ad94-4c7a-b384-e8bf6f1a34fb_mobile_mid.m3u8"
+        },
+        "id": "5955a799ef23a82080b5d24e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca4dd85548b1d7fb2fedd",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:37:26.116Z",
+    "updatedAt": "2017-12-21T08:26:44.083Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "平行四边形",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595ca54685548b1d7fb2fedf",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:37:44.776Z",
+      "updatedAt": "2017-12-21T08:30:03.307Z",
+      "parentId": "595ca54685548b1d7fb2fedf",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "边与角",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b9d79272-2f9c-4d30-8a6c-7c3e5e371d34_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b9d79272-2f9c-4d30-8a6c-7c3e5e371d34_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b9d79272-2f9c-4d30-8a6c-7c3e5e371d34_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b9d79272-2f9c-4d30-8a6c-7c3e5e371d34_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b9d79272-2f9c-4d30-8a6c-7c3e5e371d34_mobile_mid.m3u8"
+        },
+        "id": "5955a7f0ef23a82456d49eb6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca55885548b1d7fb2fee1",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:38:41.842Z",
+      "updatedAt": "2017-12-21T08:30:08.596Z",
+      "parentId": "595ca54685548b1d7fb2fedf",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "对角线",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/af3b71dc-5f4c-4a8b-84c0-ef545841ce30_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/af3b71dc-5f4c-4a8b-84c0-ef545841ce30_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/af3b71dc-5f4c-4a8b-84c0-ef545841ce30_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/af3b71dc-5f4c-4a8b-84c0-ef545841ce30_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/af3b71dc-5f4c-4a8b-84c0-ef545841ce30_mobile_mid.m3u8"
+        },
+        "id": "5955a83aef23a82feb8a14b4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca59185548b1d7fb2fee3",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:39:19.851Z",
+      "updatedAt": "2017-12-21T08:30:12.768Z",
+      "parentId": "595ca54685548b1d7fb2fedf",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "用定义判定",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/747a96b2-1cd0-41e0-9649-2bcbb32137fa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/747a96b2-1cd0-41e0-9649-2bcbb32137fa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/747a96b2-1cd0-41e0-9649-2bcbb32137fa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/747a96b2-1cd0-41e0-9649-2bcbb32137fa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/747a96b2-1cd0-41e0-9649-2bcbb32137fa_mobile_mid.m3u8"
+        },
+        "id": "5955a875ef23a85887e057ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca5b785548b1d7fb2fee5",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:40:02.293Z",
+      "updatedAt": "2017-12-21T08:30:17.684Z",
+      "parentId": "595ca54685548b1d7fb2fedf",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "用性质判定",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b5425cb6-6dac-4e05-ae9d-c4f8d6178756_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b5425cb6-6dac-4e05-ae9d-c4f8d6178756_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b5425cb6-6dac-4e05-ae9d-c4f8d6178756_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b5425cb6-6dac-4e05-ae9d-c4f8d6178756_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b5425cb6-6dac-4e05-ae9d-c4f8d6178756_mobile_mid.m3u8"
+        },
+        "id": "5955a8c4ef23a8300dc58f65"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca5e285548b1d7fb2fee7",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:40:41.760Z",
+      "updatedAt": "2017-12-21T08:30:22.766Z",
+      "parentId": "595ca54685548b1d7fb2fedf",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "三角形的中位线",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d712b032-fa4d-4d2a-a37d-f025cec96a1e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d712b032-fa4d-4d2a-a37d-f025cec96a1e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d712b032-fa4d-4d2a-a37d-f025cec96a1e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d712b032-fa4d-4d2a-a37d-f025cec96a1e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d712b032-fa4d-4d2a-a37d-f025cec96a1e_mobile_mid.m3u8"
+        },
+        "id": "5955a909ef23a831f5967f67"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca60985548b1d7fb2fee9",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:42:01.306Z",
+    "updatedAt": "2017-12-21T08:30:27.262Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "特殊的平行四边形",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595ca65985548b1d7fb2feeb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:42:35.220Z",
+      "updatedAt": "2017-12-21T08:30:33.092Z",
+      "parentId": "595ca65985548b1d7fb2feeb",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "矩形",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/63fccb30-3ca4-4174-a1cf-ac7cdf4f13aa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/63fccb30-3ca4-4174-a1cf-ac7cdf4f13aa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/63fccb30-3ca4-4174-a1cf-ac7cdf4f13aa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/63fccb30-3ca4-4174-a1cf-ac7cdf4f13aa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/63fccb30-3ca4-4174-a1cf-ac7cdf4f13aa_mobile_mid.m3u8"
+        },
+        "id": "5955a98151f0744b70df3e27"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca67b85548b1d7fb2feed",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:43:02.449Z",
+      "updatedAt": "2017-12-21T08:30:38.717Z",
+      "parentId": "595ca65985548b1d7fb2feeb",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "矩形的判定",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/54434c2d-8f04-483b-a5b8-31aef99c5c19_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/54434c2d-8f04-483b-a5b8-31aef99c5c19_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/54434c2d-8f04-483b-a5b8-31aef99c5c19_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/54434c2d-8f04-483b-a5b8-31aef99c5c19_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/54434c2d-8f04-483b-a5b8-31aef99c5c19_mobile_mid.m3u8"
+        },
+        "id": "5955a9d4ef23a8302b0c35d3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca69685548b1d7fb2feef",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:43:40.437Z",
+      "updatedAt": "2017-12-21T08:30:44.359Z",
+      "parentId": "595ca65985548b1d7fb2feeb",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "菱形",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/26bfb094-c73d-47a4-9412-240dc3765cba_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/26bfb094-c73d-47a4-9412-240dc3765cba_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/26bfb094-c73d-47a4-9412-240dc3765cba_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/26bfb094-c73d-47a4-9412-240dc3765cba_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/26bfb094-c73d-47a4-9412-240dc3765cba_mobile_mid.m3u8"
+        },
+        "id": "5955aa15ef23a87f216eeb13"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca6bc85548b1d7fb2fef1",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:44:07.710Z",
+      "updatedAt": "2017-12-21T08:30:48.632Z",
+      "parentId": "595ca65985548b1d7fb2feeb",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "菱形的判定",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/89c7b17c-187d-44f1-92ca-7cdf3662a4bd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/89c7b17c-187d-44f1-92ca-7cdf3662a4bd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/89c7b17c-187d-44f1-92ca-7cdf3662a4bd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/89c7b17c-187d-44f1-92ca-7cdf3662a4bd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/89c7b17c-187d-44f1-92ca-7cdf3662a4bd_mobile_mid.m3u8"
+        },
+        "id": "5955aa5851f0744b84e04bbc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca6d785548b1d7fb2fef3",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:44:47.984Z",
+      "updatedAt": "2017-12-21T08:30:54.456Z",
+      "parentId": "595ca65985548b1d7fb2feeb",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "正方形",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f82b10ff-f426-44a2-b7e1-e7b0f63265d3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f82b10ff-f426-44a2-b7e1-e7b0f63265d3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f82b10ff-f426-44a2-b7e1-e7b0f63265d3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f82b10ff-f426-44a2-b7e1-e7b0f63265d3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f82b10ff-f426-44a2-b7e1-e7b0f63265d3_mobile_mid.m3u8"
+        },
+        "id": "5955aacbef23a83072ca0bb6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca6ff85548b1d7fb2fef5",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:45:25.045Z",
+      "updatedAt": "2017-12-21T08:31:00.220Z",
+      "parentId": "595ca65985548b1d7fb2feeb",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "正方形的判定",
+      "order": 6,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/44c708fe-3327-401f-8aed-b79d48dd05d4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/44c708fe-3327-401f-8aed-b79d48dd05d4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/44c708fe-3327-401f-8aed-b79d48dd05d4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/44c708fe-3327-401f-8aed-b79d48dd05d4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/44c708fe-3327-401f-8aed-b79d48dd05d4_mobile_mid.m3u8"
+        },
+        "id": "5955ac6ed5ff7513727b0858"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca72585548b1d7fb2fef7",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:48:01.208Z",
+    "updatedAt": "2017-12-21T08:31:07.777Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "小结与复习",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595ca7c185548b1d7fb2fef9",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T08:55:52.323Z",
+      "updatedAt": "2017-12-21T08:31:15.920Z",
+      "parentId": "595ca7c185548b1d7fb2fef9",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "小结与复习",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bfd0c2ef-b311-486a-88c5-926d03eafeef_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bfd0c2ef-b311-486a-88c5-926d03eafeef_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bfd0c2ef-b311-486a-88c5-926d03eafeef_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bfd0c2ef-b311-486a-88c5-926d03eafeef_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bfd0c2ef-b311-486a-88c5-926d03eafeef_mobile_mid.m3u8"
+        },
+        "id": "5955ab68ef23a8306926cbdf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595ca99885548b1d7fb34d1c",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T08:56:25.790Z",
+    "updatedAt": "2017-12-21T08:31:20.637Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "函数",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595ca9b985548b1d7fb34d1e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:08:34.072Z",
+      "updatedAt": "2017-12-21T08:31:26.440Z",
+      "parentId": "595ca9b985548b1d7fb34d1e",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "常量与变量",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/24bfea17-f5e2-4330-834f-6faf3d4a54cb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/24bfea17-f5e2-4330-834f-6faf3d4a54cb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/24bfea17-f5e2-4330-834f-6faf3d4a54cb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/24bfea17-f5e2-4330-834f-6faf3d4a54cb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/24bfea17-f5e2-4330-834f-6faf3d4a54cb_mobile_mid.m3u8"
+        },
+        "id": "5955ab90ef23a82fd4f5dc1a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cac9285548b1d7fb34d24",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:09:21.402Z",
+      "updatedAt": "2017-12-21T08:31:31.522Z",
+      "parentId": "595ca9b985548b1d7fb34d1e",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "定义",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8661e1f4-7bd9-4a0b-917d-a82519572381_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8661e1f4-7bd9-4a0b-917d-a82519572381_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8661e1f4-7bd9-4a0b-917d-a82519572381_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8661e1f4-7bd9-4a0b-917d-a82519572381_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8661e1f4-7bd9-4a0b-917d-a82519572381_mobile_mid.m3u8"
+        },
+        "id": "5955abd4ef23a8300dc58f66"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cacc185548b1d7fb34d26",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:09:50.981Z",
+      "updatedAt": "2017-12-21T08:31:36.510Z",
+      "parentId": "595ca9b985548b1d7fb34d1e",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "图象",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/67e139c6-06b5-4ab9-9ff4-02d6f4969cb0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/67e139c6-06b5-4ab9-9ff4-02d6f4969cb0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/67e139c6-06b5-4ab9-9ff4-02d6f4969cb0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/67e139c6-06b5-4ab9-9ff4-02d6f4969cb0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/67e139c6-06b5-4ab9-9ff4-02d6f4969cb0_mobile_mid.m3u8"
+        },
+        "id": "5955ad50d5ff7513924acab6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cacde85548b1d7fb34d28",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:14:10.028Z",
+      "updatedAt": "2017-12-21T08:31:41.090Z",
+      "parentId": "595ca9b985548b1d7fb34d1e",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "表示方法",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f55adb05-000d-4b1a-aa28-87b703b411a5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f55adb05-000d-4b1a-aa28-87b703b411a5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f55adb05-000d-4b1a-aa28-87b703b411a5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f55adb05-000d-4b1a-aa28-87b703b411a5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f55adb05-000d-4b1a-aa28-87b703b411a5_mobile_mid.m3u8"
+        },
+        "id": "5955ac45ef23a8302f307468"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cade2e0dc452e5fb590ef",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T09:14:53.478Z",
+    "updatedAt": "2017-12-21T08:31:45.668Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "一次函数",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595cae0de0dc452e5fb590f1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:15:22.098Z",
+      "updatedAt": "2017-12-21T08:31:53.577Z",
+      "parentId": "595cae0de0dc452e5fb590f1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "正比例函数",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/829f4657-b121-4e2e-99fd-393d113c79b5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/829f4657-b121-4e2e-99fd-393d113c79b5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/829f4657-b121-4e2e-99fd-393d113c79b5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/829f4657-b121-4e2e-99fd-393d113c79b5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/829f4657-b121-4e2e-99fd-393d113c79b5_mobile_mid.m3u8"
+        },
+        "id": "5955ac7bef23a82feb8a14b5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cae2ae0dc452e5fb590f3",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:16:07.169Z",
+      "updatedAt": "2017-12-21T08:31:58.568Z",
+      "parentId": "595cae0de0dc452e5fb590f1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "正比例函数的图象和性质",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/596ea646-9fbc-494b-878a-d8ba730dc8e1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/596ea646-9fbc-494b-878a-d8ba730dc8e1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/596ea646-9fbc-494b-878a-d8ba730dc8e1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/596ea646-9fbc-494b-878a-d8ba730dc8e1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/596ea646-9fbc-494b-878a-d8ba730dc8e1_mobile_mid.m3u8"
+        },
+        "id": "5955adfbd5ff7513783b2c73"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cae57e0dc452e5fb590f5",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:16:41.211Z",
+      "updatedAt": "2017-12-21T08:32:05.091Z",
+      "parentId": "595cae0de0dc452e5fb590f1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "一次函数",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/39f7a00f-1acf-4cb3-8a69-f025af6bd88c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/39f7a00f-1acf-4cb3-8a69-f025af6bd88c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/39f7a00f-1acf-4cb3-8a69-f025af6bd88c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/39f7a00f-1acf-4cb3-8a69-f025af6bd88c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/39f7a00f-1acf-4cb3-8a69-f025af6bd88c_mobile_mid.m3u8"
+        },
+        "id": "5955acd9ef23a86cb3121959"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cae79e0dc452e5fb590f7",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:17:09.835Z",
+      "updatedAt": "2017-12-21T08:32:10.234Z",
+      "parentId": "595cae0de0dc452e5fb590f1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "一次函数的图象和性质",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a70aaafa-04f7-4a0c-b6f2-8e03a031e4c9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a70aaafa-04f7-4a0c-b6f2-8e03a031e4c9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a70aaafa-04f7-4a0c-b6f2-8e03a031e4c9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a70aaafa-04f7-4a0c-b6f2-8e03a031e4c9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a70aaafa-04f7-4a0c-b6f2-8e03a031e4c9_mobile_mid.m3u8"
+        },
+        "id": "5955ad50ef23a83072ca0bb7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cae95e0dc452e5fb590f9",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:26:00.511Z",
+      "updatedAt": "2017-12-21T08:32:14.769Z",
+      "parentId": "595cae0de0dc452e5fb590f1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "待定系数法",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f638a3dc-bb29-4c85-b1cb-ca56b2e6df83_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f638a3dc-bb29-4c85-b1cb-ca56b2e6df83_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f638a3dc-bb29-4c85-b1cb-ca56b2e6df83_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f638a3dc-bb29-4c85-b1cb-ca56b2e6df83_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f638a3dc-bb29-4c85-b1cb-ca56b2e6df83_mobile_mid.m3u8"
+        },
+        "id": "5955ad94ef23a82fd5fce9b9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb0a8e0dc452e5fb590fc",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:26:37.719Z",
+      "updatedAt": "2017-12-21T08:32:20.530Z",
+      "parentId": "595cae0de0dc452e5fb590f1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "应用",
+      "order": 6,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0955e963-d373-4086-a043-098b23811364_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0955e963-d373-4086-a043-098b23811364_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0955e963-d373-4086-a043-098b23811364_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0955e963-d373-4086-a043-098b23811364_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0955e963-d373-4086-a043-098b23811364_mobile_mid.m3u8"
+        },
+        "id": "5955ae00ef23a83026369cc2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb0cde0dc452e5fb590fe",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:27:21.143Z",
+      "updatedAt": "2017-12-21T08:32:25.392Z",
+      "parentId": "595cae0de0dc452e5fb590f1",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "一次函数与方程、不等式",
+      "order": 7,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fe290ab3-d94e-4e1a-b527-3a24c07da98b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fe290ab3-d94e-4e1a-b527-3a24c07da98b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fe290ab3-d94e-4e1a-b527-3a24c07da98b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fe290ab3-d94e-4e1a-b527-3a24c07da98b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fe290ab3-d94e-4e1a-b527-3a24c07da98b_mobile_mid.m3u8"
+        },
+        "id": "5955ae4bef23a8302b0c35d4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb0f9e0dc452e5fb59100",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T09:28:15.334Z",
+    "updatedAt": "2017-12-21T08:32:29.668Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "选择方案",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595cb12fe0dc452e5fb59102",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:28:37.363Z",
+      "updatedAt": "2017-12-21T08:32:34.878Z",
+      "parentId": "595cb12fe0dc452e5fb59102",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "课题学习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a5d7f5f9-1570-4752-b251-80d9f7312a16_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a5d7f5f9-1570-4752-b251-80d9f7312a16_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a5d7f5f9-1570-4752-b251-80d9f7312a16_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a5d7f5f9-1570-4752-b251-80d9f7312a16_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a5d7f5f9-1570-4752-b251-80d9f7312a16_mobile_mid.m3u8"
+        },
+        "id": "5955afd4d5ff751391ba89d9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb145e0dc452e5fb59104",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T09:29:24.384Z",
+    "updatedAt": "2017-12-21T08:32:43.388Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "小结与复习",
+    "order": 14,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595cb174e0dc452e5fb59106",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:29:44.492Z",
+      "updatedAt": "2017-12-21T08:32:50.020Z",
+      "parentId": "595cb174e0dc452e5fb59106",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "小结与复习",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8cc80928-a1b0-4355-9ce3-5e3125b47b0b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8cc80928-a1b0-4355-9ce3-5e3125b47b0b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8cc80928-a1b0-4355-9ce3-5e3125b47b0b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8cc80928-a1b0-4355-9ce3-5e3125b47b0b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8cc80928-a1b0-4355-9ce3-5e3125b47b0b_mobile_mid.m3u8"
+        },
+        "id": "5955aecbef23a82264c26f56"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb188e0dc452e5fb59108",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T09:31:58.591Z",
+    "updatedAt": "2017-12-21T08:32:54.300Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "数据的集中趋势",
+    "order": 15,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595cb20ee0dc452e5fb5910a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:32:29.895Z",
+      "updatedAt": "2017-12-21T08:32:59.922Z",
+      "parentId": "595cb20ee0dc452e5fb5910a",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "平均数和加权平均数",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d1513e96-98e2-48aa-a349-9b9390ae169c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d1513e96-98e2-48aa-a349-9b9390ae169c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d1513e96-98e2-48aa-a349-9b9390ae169c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d1513e96-98e2-48aa-a349-9b9390ae169c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d1513e96-98e2-48aa-a349-9b9390ae169c_mobile_mid.m3u8"
+        },
+        "id": "5955af1a51f0744b07dbd4ef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb22de0dc452e5fb5910c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:33:33.161Z",
+      "updatedAt": "2017-12-21T08:33:04.315Z",
+      "parentId": "595cb20ee0dc452e5fb5910a",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "样本平均数与总体平均数",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1762204c-0396-4cf0-ae48-98d990302a9c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1762204c-0396-4cf0-ae48-98d990302a9c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1762204c-0396-4cf0-ae48-98d990302a9c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1762204c-0396-4cf0-ae48-98d990302a9c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1762204c-0396-4cf0-ae48-98d990302a9c_mobile_mid.m3u8"
+        },
+        "id": "5955af3cef23a8302b0c35d5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb26de0dc452e5fb5910e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:35:24.161Z",
+      "updatedAt": "2017-12-21T08:33:08.692Z",
+      "parentId": "595cb20ee0dc452e5fb5910a",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "中位数和众数",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e1770ad7-194d-41d2-a8c2-144908cfa817_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e1770ad7-194d-41d2-a8c2-144908cfa817_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e1770ad7-194d-41d2-a8c2-144908cfa817_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e1770ad7-194d-41d2-a8c2-144908cfa817_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e1770ad7-194d-41d2-a8c2-144908cfa817_mobile_mid.m3u8"
+        },
+        "id": "5955af78ef23a8052253c737"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb2dc2bba35382b339210",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:35:51.707Z",
+      "updatedAt": "2017-12-21T08:33:12.456Z",
+      "parentId": "595cb20ee0dc452e5fb5910a",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "平均数、中位数和众数的应用",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1207362b-3157-40c4-95fe-a517ca676aba_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1207362b-3157-40c4-95fe-a517ca676aba_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1207362b-3157-40c4-95fe-a517ca676aba_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1207362b-3157-40c4-95fe-a517ca676aba_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1207362b-3157-40c4-95fe-a517ca676aba_mobile_mid.m3u8"
+        },
+        "id": "5955b0f1d5ff75138a2b54f8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb2f72bba35382b339212",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T09:36:27.977Z",
+    "updatedAt": "2017-12-21T08:33:16.892Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "数据的波动程度",
+    "order": 16,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595cb31b2bba35382b339214",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:36:40.465Z",
+      "updatedAt": "2017-12-21T08:33:23.503Z",
+      "parentId": "595cb31b2bba35382b339214",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "方差",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b65221c2-6c19-457a-9a8a-ca55c5802160_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b65221c2-6c19-457a-9a8a-ca55c5802160_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b65221c2-6c19-457a-9a8a-ca55c5802160_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b65221c2-6c19-457a-9a8a-ca55c5802160_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b65221c2-6c19-457a-9a8a-ca55c5802160_mobile_mid.m3u8"
+        },
+        "id": "5955afd3ef23a8305dbf4dc4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb3282bba35382b339216",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:37:31.252Z",
+      "updatedAt": "2017-12-21T08:33:28.436Z",
+      "parentId": "595cb31b2bba35382b339214",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "方差与决策",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f5ac34a0-1b58-49fc-9dea-6786a01c7ff6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f5ac34a0-1b58-49fc-9dea-6786a01c7ff6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f5ac34a0-1b58-49fc-9dea-6786a01c7ff6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f5ac34a0-1b58-49fc-9dea-6786a01c7ff6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f5ac34a0-1b58-49fc-9dea-6786a01c7ff6_mobile_mid.m3u8"
+        },
+        "id": "5955afefef23a87f216eeb14"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb35b2bba35382b339218",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T09:38:30.192Z",
+    "updatedAt": "2017-12-21T08:33:37.658Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "体质健康测试中的数据分析",
+    "order": 17,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595cb396a929fe3965e99d5d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:38:46.815Z",
+      "updatedAt": "2017-12-21T08:33:44.199Z",
+      "parentId": "595cb396a929fe3965e99d5d",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "课题学习",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8e7a7f8a-b278-4af0-9061-8720844041de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8e7a7f8a-b278-4af0-9061-8720844041de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8e7a7f8a-b278-4af0-9061-8720844041de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8e7a7f8a-b278-4af0-9061-8720844041de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8e7a7f8a-b278-4af0-9061-8720844041de_mobile_mid.m3u8"
+        },
+        "id": "5955b00451f0744b3c6d61dc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb3a6a929fe3965e99d5f",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-05T09:39:52.487Z",
+    "updatedAt": "2017-12-21T08:33:49.269Z",
+    "courseId": "5950b3fa41e25710cd72b0c1",
+    "name": "小结与复习",
+    "order": 18,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "595cb3e8a929fe3965e99d63",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-05T09:40:04.611Z",
+      "updatedAt": "2017-12-21T08:33:56.398Z",
+      "parentId": "595cb3e8a929fe3965e99d63",
+      "courseId": "5950b3fa41e25710cd72b0c1",
+      "name": "小结与复习",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/39433b2b-be16-473a-8b80-5733425399b4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/39433b2b-be16-473a-8b80-5733425399b4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/39433b2b-be16-473a-8b80-5733425399b4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/39433b2b-be16-473a-8b80-5733425399b4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/39433b2b-be16-473a-8b80-5733425399b4_mobile_mid.m3u8"
+        },
+        "id": "5955b031ef23a830822d9c77"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595cb3f4a929fe3965e99d65",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

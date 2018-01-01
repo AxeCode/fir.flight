@@ -1,0 +1,369 @@
+[{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-09-26T02:58:10.456Z",
+  "updatedAt": "2017-12-23T10:30:32.614Z",
+  "name": "清北学霸答疑-初中生物",
+  "numOfClasses": 7,
+  "description": "本次课程直播主要讲解初中生物的重难点知识，包括认识细胞、生物与生物圈、植物、人体等等。通过知识点与题目的结合，使学生快速高效地夯实初中生物的基础，培养对生命科学的良好兴趣。",
+  "price": 0,
+  "teacher": {
+    "name": "王浩威",
+    "avatar": "http://imgs.wanmen.org/046e121eb82a9fffdc9cf15d10cb079e.png",
+    "id": "59c9c0be28a9184efc9f1586"
+  },
+  "openingAt": "2017-09-30T10:00:59.041Z",
+  "major": "592e2b4cb45f51716ab6f458",
+  "characterization": "<p ><br></p>",
+  "expiration": 12,
+  "streamKey": "9881870946594675",
+  "hide": false,
+  "bigImage": "http://imgs.wanmen.org/95902ad7680540e1607556ce162290b8.png",
+  "smallImage": "http://imgs.wanmen.org/9d18556ef1cdc825d5523a92e992bf1f.png",
+  "lastConnectedAt": 1514021405,
+  "tag": "王浩威 初中 清北学霸 答疑 生物",
+  "specialTrainingOrder": 0,
+  "videoCount": 7,
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a276ab90c69752405df71e3",
+    "name": "了解生物",
+    "startDate": "2017-09-30T00:00:00.000Z",
+    "startTime": "18:00",
+    "endTime": "19:00"
+  }, {
+    "_id": "5a276ab90c69752405df71e2",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "生物与生物圈",
+    "startDate": "2017-10-14T00:00:00.000Z"
+  }, {
+    "_id": "5a276ab90c69752405df71e1",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "认识细胞",
+    "startDate": "2017-10-28T00:00:00.000Z"
+  }, {
+    "_id": "5a276ab90c69752405df71e0",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "细胞构成生物体",
+    "startDate": "2017-11-11T00:00:00.000Z"
+  }, {
+    "_id": "5a276ab90c69752405df71df",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "植物",
+    "startDate": "2017-11-25T00:00:00.000Z"
+  }, {
+    "_id": "5a276ab90c69752405df71de",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "植物与生物圈",
+    "startDate": "2017-12-09T00:00:00.000Z"
+  }, {
+    "_id": "5a276ab90c69752405df71dd",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "认识人体",
+    "startDate": "2017-12-23T00:00:00.000Z"
+  }],
+  "type": "live",
+  "likes": 0,
+  "app": "mid",
+  "numberOfClasses": 7,
+  "teacherAvatar": "http://imgs.wanmen.org/046e121eb82a9fffdc9cf15d10cb079e.png",
+  "teacherName": "王浩威",
+  "mobileCoverUrl": "http://imgs.wanmen.org/9d18556ef1cdc825d5523a92e992bf1f.png",
+  "coverUrl": "http://imgs.wanmen.org/95902ad7680540e1607556ce162290b8.png",
+  "smallImageUrl": "http://imgs.wanmen.org/9d18556ef1cdc825d5523a92e992bf1f.png",
+  "bigImageUrl": "http://imgs.wanmen.org/95902ad7680540e1607556ce162290b8.png",
+  "id": "59c9c24228a9184efc9f1588"
+}, {
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-12-01T07:58:15.364Z",
+  "updatedAt": "2017-12-07T04:12:56.814Z",
+  "name": "基础初中生物七年级下",
+  "numOfClasses": 6,
+  "description": "很多人都会有过这样的思考：我从哪里来？我是谁？人类为了更好地了解自己从未停止脚步。在这门课中，靳老师将与你一起找寻这些问题的答案。在这里，你会知道人从哪里来，也会知道人的身体内部蕴藏着的各种秘密。此后，你会利用这些答案让自己的生活变得更好，让自己成为一个更健康，更聪明，更有魅力的人。如果你有兴趣，那就跟随靳老师一起来学习吧。",
+  "price": 78,
+  "teacher": {
+    "name": "靳翔宇",
+    "avatar": "http://imgs.wanmen.org/1f1a1696869f33c86edaedbe5fec97ac.png",
+    "id": "5a210beb9f2dff58500f740e"
+  },
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImage": "http://imgs.wanmen.org/66677bae57339a63f4aa8be9aa3004eb.png",
+  "smallImage": "http://imgs.wanmen.org/d488e0ccf86baa070570827b3ddd7203.png",
+  "expiration": 12,
+  "hide": false,
+  "tag": "靳翔宇 初中 基础 七年级 生物",
+  "specialTrainingOrder": 0,
+  "videoCount": 28,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 1,
+  "app": "mid",
+  "numberOfClasses": 6,
+  "teacherAvatar": "http://imgs.wanmen.org/1f1a1696869f33c86edaedbe5fec97ac.png",
+  "teacherName": "靳翔宇",
+  "mobileCoverUrl": "http://imgs.wanmen.org/d488e0ccf86baa070570827b3ddd7203.png",
+  "coverUrl": "http://imgs.wanmen.org/66677bae57339a63f4aa8be9aa3004eb.png",
+  "smallImageUrl": "http://imgs.wanmen.org/d488e0ccf86baa070570827b3ddd7203.png",
+  "bigImageUrl": "http://imgs.wanmen.org/66677bae57339a63f4aa8be9aa3004eb.png",
+  "id": "5a210b979f2dff58500f740a"
+}, {
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-10-14T07:36:04.311Z",
+  "updatedAt": "2017-12-16T10:10:10.391Z",
+  "name": "基础初中生物七年级上",
+  "numOfClasses": 7,
+  "hide": false,
+  "major": "592e2b4cb45f51716ab6f458",
+  "expiration": 12,
+  "teacher": {
+    "name": "靳翔宇",
+    "avatar": "http://imgs.wanmen.org/1f1a1696869f33c86edaedbe5fec97ac.png",
+    "id": "5a210beb9f2dff58500f740e"
+  },
+  "description": "生物科学是最贴近我们生活的学科，它可以解释我们的生活，也可以造福我们的生活，更可以帮助我们解析生命的密码。而初中生物学科也是一门通俗易懂的科目，只要乐意付出时间学习，你得到的不仅仅是一张优异的成绩单，更是对大千世界更加深刻的认知。那么，让我们一起学习这门课，共同步入生物学的殿堂，感受生命之美。",
+  "price": 78,
+  "bigImage": "http://imgs.wanmen.org/467ba2c7919670eca6d379d279727bec.png",
+  "smallImage": "http://imgs.wanmen.org/cbc39db03f447a0ae4768768a9c6aa45.png",
+  "tag": "靳翔宇 初中 基础 七年级上 生物",
+  "specialTrainingOrder": 0,
+  "videoCount": 40,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 5,
+  "app": "mid",
+  "numberOfClasses": 7,
+  "teacherAvatar": "http://imgs.wanmen.org/1f1a1696869f33c86edaedbe5fec97ac.png",
+  "teacherName": "靳翔宇",
+  "mobileCoverUrl": "http://imgs.wanmen.org/cbc39db03f447a0ae4768768a9c6aa45.png",
+  "coverUrl": "http://imgs.wanmen.org/467ba2c7919670eca6d379d279727bec.png",
+  "smallImageUrl": "http://imgs.wanmen.org/cbc39db03f447a0ae4768768a9c6aa45.png",
+  "bigImageUrl": "http://imgs.wanmen.org/467ba2c7919670eca6d379d279727bec.png",
+  "id": "59e1be6451fd8d4d255283d3"
+}, {
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T02:48:39.411Z",
+  "updatedAt": "2017-12-30T08:42:16.638Z",
+  "name": "初中生物七年级上",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/26d5e8f992e65abc01ce61db50de8868.png",
+  "bigImage": "http://imgs.wanmen.org/26d5e8f992e65abc01ce61db50de8868.png",
+  "smallImageUrl": "http://imgs.wanmen.org/8ac95c34ab90c9f28753aaeecdf94027.png",
+  "smallImage": "http://imgs.wanmen.org/8ac95c34ab90c9f28753aaeecdf94027.png",
+  "teacherName": "牛佳丽",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 1,
+  "numOfClasses": 9,
+  "expiration": 12,
+  "tag": "牛佳丽 初中 七年级 上 生物",
+  "specialTrainingOrder": 0,
+  "videoCount": 27,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [{
+    "_id": "5a4751687a079d102c09c7a3"
+  }, {
+    "_id": "5a4751687a079d102c09c7a2"
+  }, {
+    "_id": "5a4751687a079d102c09c7a1"
+  }, {
+    "_id": "5a4751687a079d102c09c7a0"
+  }, {
+    "_id": "5a4751687a079d102c09c79f"
+  }, {
+    "_id": "5a4751687a079d102c09c79e"
+  }],
+  "schedule": [],
+  "type": "record",
+  "likes": 15,
+  "app": "mid",
+  "numberOfClasses": 9,
+  "mobileCoverUrl": "http://imgs.wanmen.org/8ac95c34ab90c9f28753aaeecdf94027.png",
+  "coverUrl": "http://imgs.wanmen.org/26d5e8f992e65abc01ce61db50de8868.png",
+  "id": "592e2f07b45f51716ab6f475"
+}, {
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T02:50:21.511Z",
+  "updatedAt": "2017-12-30T08:41:41.804Z",
+  "name": "初中生物七年级下",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/ee34426a3e2793916381e0924fa424e4.png",
+  "bigImage": "http://imgs.wanmen.org/ee34426a3e2793916381e0924fa424e4.png",
+  "smallImageUrl": "http://imgs.wanmen.org/b0e86d5a23f06b43f864491288ef618e.png",
+  "smallImage": "http://imgs.wanmen.org/b0e86d5a23f06b43f864491288ef618e.png",
+  "teacherName": "牛佳丽",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 2,
+  "numOfClasses": 7,
+  "expiration": 12,
+  "tag": "牛佳丽 初中 七年级 下 生物",
+  "specialTrainingOrder": 0,
+  "videoCount": 27,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [{
+    "_id": "5a47514524515a10306bd029"
+  }, {
+    "_id": "5a47514524515a10306bd028"
+  }, {
+    "_id": "5a47514524515a10306bd027"
+  }, {
+    "_id": "5a47514524515a10306bd026"
+  }, {
+    "_id": "5a47514524515a10306bd025"
+  }, {
+    "_id": "5a47514524515a10306bd024"
+  }],
+  "schedule": [],
+  "type": "record",
+  "likes": 1,
+  "app": "mid",
+  "numberOfClasses": 7,
+  "mobileCoverUrl": "http://imgs.wanmen.org/b0e86d5a23f06b43f864491288ef618e.png",
+  "coverUrl": "http://imgs.wanmen.org/ee34426a3e2793916381e0924fa424e4.png",
+  "id": "592e2f6db45f51716ab6f478"
+}, {
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T03:05:08.243Z",
+  "updatedAt": "2017-12-30T08:40:37.718Z",
+  "name": "初中生物八年级上",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/c2e38445cd0870a2481b13cb76304762.png",
+  "bigImage": "http://imgs.wanmen.org/c2e38445cd0870a2481b13cb76304762.png",
+  "smallImageUrl": "http://imgs.wanmen.org/1c153dc78dd25c9d637910814c634aec.png",
+  "smallImage": "http://imgs.wanmen.org/1c153dc78dd25c9d637910814c634aec.png",
+  "teacherName": "牛佳丽",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 3,
+  "numOfClasses": 8,
+  "expiration": 12,
+  "tag": "牛佳丽 初中 八年级 上 生物",
+  "specialTrainingOrder": 0,
+  "videoCount": 32,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [{
+    "_id": "5a47510524515a10306bd023"
+  }, {
+    "_id": "5a47510524515a10306bd022"
+  }, {
+    "_id": "5a47510524515a10306bd021"
+  }, {
+    "_id": "5a47510524515a10306bd020"
+  }, {
+    "_id": "5a47510524515a10306bd01f"
+  }, {
+    "_id": "5a47510524515a10306bd01e"
+  }],
+  "schedule": [],
+  "type": "record",
+  "likes": 4,
+  "app": "mid",
+  "numberOfClasses": 8,
+  "mobileCoverUrl": "http://imgs.wanmen.org/1c153dc78dd25c9d637910814c634aec.png",
+  "coverUrl": "http://imgs.wanmen.org/c2e38445cd0870a2481b13cb76304762.png",
+  "id": "592e32e4b45f51716ab6f481"
+}, {
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T03:06:59.099Z",
+  "updatedAt": "2017-12-30T08:40:03.077Z",
+  "name": "初中生物八年级下",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/3a208dd8e0d02577b89942a5daf865ec.png",
+  "bigImage": "http://imgs.wanmen.org/3a208dd8e0d02577b89942a5daf865ec.png",
+  "smallImageUrl": "http://imgs.wanmen.org/dd074d5cc95f4e1cf7133bad3520b755.png",
+  "smallImage": "http://imgs.wanmen.org/dd074d5cc95f4e1cf7133bad3520b755.png",
+  "teacherName": "牛佳丽",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 4,
+  "numOfClasses": 6,
+  "expiration": 12,
+  "tag": "牛佳丽 初中 八年级 下 生物",
+  "specialTrainingOrder": 0,
+  "videoCount": 20,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [{
+    "_id": "5a4750e324515a10306bd01d"
+  }, {
+    "_id": "5a4750e324515a10306bd01c"
+  }, {
+    "_id": "5a4750e324515a10306bd01b"
+  }, {
+    "_id": "5a4750e324515a10306bd01a"
+  }, {
+    "_id": "5a4750e324515a10306bd019"
+  }, {
+    "_id": "5a4750e324515a10306bd018"
+  }],
+  "schedule": [],
+  "type": "record",
+  "likes": 2,
+  "app": "mid",
+  "numberOfClasses": 6,
+  "mobileCoverUrl": "http://imgs.wanmen.org/dd074d5cc95f4e1cf7133bad3520b755.png",
+  "coverUrl": "http://imgs.wanmen.org/3a208dd8e0d02577b89942a5daf865ec.png",
+  "id": "592e3353b45f51716ab6f483"
+}]
