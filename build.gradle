@@ -60,7 +60,8 @@ ext {
             stetho                : "com.facebook.stetho:stetho:$stethoVersion",
             stetho_okhttp         : "com.facebook.stetho:stetho-okhttp3:$stethoVersion",
             stetho_jsconsole      : "com.facebook.stetho:stetho-js-rhino:$stethoVersion",
-            calligraphy           : 'uk.co.chrisjenx:calligraphy:2.2.0'
+            calligraphy           : 'uk.co.chrisjenx:calligraphy:2.2.0',
+            videoplayer           : 'cn.jzvd:jiaozivideoplayer:6.2.3'
     ]
 
     // classpath

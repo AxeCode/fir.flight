@@ -17,7 +17,7 @@
         android:layout_marginBottom="@dimen/ff.padding.large"
         android:layout_marginRight="@dimen/ff.margin.normal"
         android:layout_marginEnd="@dimen/ff.margin.normal"
-        tools:src="@mipmap/ic_launcher"
+        tools:src="@drawable/ic_launcher"
         android:contentDescription="@string/ff.app.name"/>
 
     <LinearLayout

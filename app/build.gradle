@@ -147,4 +147,5 @@ dependencies {
     compile libs.stetho_jsconsole
 
     compile libs.calligraphy
+    compile libs.videoplayer
 }
