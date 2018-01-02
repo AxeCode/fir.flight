@@ -44,7 +44,7 @@ android {
     buildToolsVersion "$rootProject.buildToolsVersion"
 
     defaultConfig {
-        applicationId 'io.github.ryanhoo.firFlight'
+        applicationId 'io.yan.xuetang'
         minSdkVersion "$rootProject.minSdkVersion".toInteger()
         targetSdkVersion "$rootProject.targetSdkVersion".toInteger()
         versionCode "$VERSION_CODE".toInteger()

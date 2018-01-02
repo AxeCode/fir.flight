@@ -1,0 +1,1963 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-11-20T07:57:00.628Z",
+  "updatedAt": "2017-12-15T03:55:12.335Z",
+  "name": "基础初中英语七年级下",
+  "numOfClasses": 12,
+  "description": "以“本课程在手，重点内容全有”为最终目标，将七年级英语下册分为四大模块：词义辨析、语法、阅读和写作。多题一法，变通训练，总结规律是本套视频的一大特色。同时通过将知识和学习方法相结合，来帮助学生夯实英语基础。讨论请加Q群：581254243\n",
+  "price": 78,
+  "teacher": {
+    "name": "胡灿奎",
+    "avatar": "http://imgs.wanmen.org/b82ff89c847e7917d5171385640e0ef5.png",
+    "description": "胡灿奎，2009年毕业于北京外国语大学，2012年自己创办kwekwe方法英语培训班。2015年和清华北大技术团队合作开发贝贝单词app。2014年从事网络在线教学至今。著有《观察事物记单词》《kwekwe方法英语教材》《小升初2000道真题练习》等20余本书，是网易有道词典专栏作者，新浪教育金牌讲师，英语趣配音的专栏作者。",
+    "id": "59ca0e9f831b92181c448a2b"
+  },
+  "hide": false,
+  "major": "590b35f071b2262ac78f19fb",
+  "bigImage": "http://imgs.wanmen.org/dc50d50c443f950ff1270a558468bc53.png",
+  "smallImage": "http://imgs.wanmen.org/9a2fda2af29e3930e45824e32cb6ccbd.png",
+  "expiration": 12,
+  "tag": "胡灿奎 初中 基础 七年级下  英语",
+  "specialTrainingOrder": 0,
+  "videoCount": 66,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 4,
+  "app": "mid",
+  "numberOfClasses": 12,
+  "teacherDescription": "胡灿奎，2009年毕业于北京外国语大学，2012年自己创办kwekwe方法英语培训班。2015年和清华北大技术团队合作开发贝贝单词app。2014年从事网络在线教学至今。著有《观察事物记单词》《kwekwe方法英语教材》《小升初2000道真题练习》等20余本书，是网易有道词典专栏作者，新浪教育金牌讲师，英语趣配音的专栏作者。",
+  "teacherAvatar": "http://imgs.wanmen.org/b82ff89c847e7917d5171385640e0ef5.png",
+  "teacherName": "胡灿奎",
+  "mobileCoverUrl": "http://imgs.wanmen.org/9a2fda2af29e3930e45824e32cb6ccbd.png",
+  "coverUrl": "http://imgs.wanmen.org/dc50d50c443f950ff1270a558468bc53.png",
+  "smallImageUrl": "http://imgs.wanmen.org/9a2fda2af29e3930e45824e32cb6ccbd.png",
+  "bigImageUrl": "http://imgs.wanmen.org/dc50d50c443f950ff1270a558468bc53.png",
+  "id": "5a128acc9f2dff58500f5609",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:57:42.038Z",
+    "updatedAt": "2017-12-02T08:02:28.130Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit1 Can you play the guitar?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128af69f2dff58500f560b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:00:41.636Z",
+      "updatedAt": "2017-12-23T03:42:17.809Z",
+      "parentId": "5a128af69f2dff58500f560b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析： 易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_mobile_mid.m3u8"
+        },
+        "id": "5a03f26eef23a83071d057bb"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a128ba99f2dff58500f5623",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/16bcb971-a8a5-42c4-bb37-7f59e2b7588f_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:01:02.267Z",
+      "updatedAt": "2017-12-23T03:43:04.137Z",
+      "parentId": "5a128af69f2dff58500f560b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：情态动词can的3个用法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_mobile_mid.m3u8"
+        },
+        "id": "5a03f28451f074386b670a8f"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a128bbe9f2dff58500f5625",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7c3f89ec-aabd-4202-846b-110ca5998a6e_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:01:19.150Z",
+      "updatedAt": "2017-12-23T03:43:19.830Z",
+      "parentId": "5a128af69f2dff58500f560b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "阅读：“词义猜测法”解阅读理解题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_mobile_mid.m3u8"
+        },
+        "id": "5a03f41dd5ff750510f1e10b"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a128bcf9f2dff58500f5627",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e602140b-04b0-4a40-9003-104947c72751_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:01:56.183Z",
+      "updatedAt": "2017-12-23T03:43:42.366Z",
+      "parentId": "5a128af69f2dff58500f560b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：英语写作常用的四种开头",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_mobile_mid.m3u8"
+        },
+        "id": "5a03f2aeef23a8301b117001"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a128bf49f2dff58500f5629",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c325354e-57cc-4974-97f1-4d3b34d0e3d7_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:57:57.660Z",
+    "updatedAt": "2017-12-02T08:02:50.821Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit2 What time do you go to school?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b059f2dff58500f560d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:02:23.343Z",
+      "updatedAt": "2017-12-23T03:44:05.226Z",
+      "parentId": "5a128b059f2dff58500f560d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/be242732-f4ed-49e0-af42-949f084b72b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/be242732-f4ed-49e0-af42-949f084b72b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/be242732-f4ed-49e0-af42-949f084b72b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/be242732-f4ed-49e0-af42-949f084b72b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/be242732-f4ed-49e0-af42-949f084b72b1_mobile_mid.m3u8"
+        },
+        "id": "5a03f44ed5ff7504c351dde5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128c0f9f2dff58500f562b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:02:40.392Z",
+      "updatedAt": "2017-12-23T03:44:15.864Z",
+      "parentId": "5a128b059f2dff58500f560d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：让人迷糊的 some 和 time",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a908d6f6-71af-4ef9-917c-03311b8d1140_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a908d6f6-71af-4ef9-917c-03311b8d1140_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a908d6f6-71af-4ef9-917c-03311b8d1140_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a908d6f6-71af-4ef9-917c-03311b8d1140_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a908d6f6-71af-4ef9-917c-03311b8d1140_mobile_mid.m3u8"
+        },
+        "id": "5a03f2ef51f074386b670a90"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128c209f2dff58500f562d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:04:04.235Z",
+      "updatedAt": "2017-12-23T03:44:25.798Z",
+      "parentId": "5a128b059f2dff58500f560d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "频度副词的位置及成分",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/235326c1-8fd3-4f21-91fd-ec518f7ac9d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/235326c1-8fd3-4f21-91fd-ec518f7ac9d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/235326c1-8fd3-4f21-91fd-ec518f7ac9d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/235326c1-8fd3-4f21-91fd-ec518f7ac9d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/235326c1-8fd3-4f21-91fd-ec518f7ac9d2_mobile_mid.m3u8"
+        },
+        "id": "5a03f30551f0743860251197"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128c749f2dff58500f562f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:04:25.960Z",
+      "updatedAt": "2017-12-23T03:44:36.136Z",
+      "parentId": "5a128b059f2dff58500f560d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "阅读：“固定搭配 ”解完形填空",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ad62b8af-e1a7-4336-a1be-5e0848846016_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ad62b8af-e1a7-4336-a1be-5e0848846016_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ad62b8af-e1a7-4336-a1be-5e0848846016_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ad62b8af-e1a7-4336-a1be-5e0848846016_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ad62b8af-e1a7-4336-a1be-5e0848846016_mobile_mid.m3u8"
+        },
+        "id": "5a03f31851f074382ad59b5e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128c899f2dff58500f5631",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:04:48.527Z",
+      "updatedAt": "2017-12-23T03:44:45.706Z",
+      "parentId": "5a128b059f2dff58500f560d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：英语写作常用的四种结尾",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6c483448-b22e-48cb-9aee-51fe9a69c16c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6c483448-b22e-48cb-9aee-51fe9a69c16c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6c483448-b22e-48cb-9aee-51fe9a69c16c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6c483448-b22e-48cb-9aee-51fe9a69c16c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6c483448-b22e-48cb-9aee-51fe9a69c16c_mobile_mid.m3u8"
+        },
+        "id": "5a03f32def23a8300364acf1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128ca09f2dff58500f5633",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:58:08.941Z",
+    "updatedAt": "2017-12-02T08:03:06.993Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit3 How do you get to school?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b109f2dff58500f560f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:05:18.738Z",
+      "updatedAt": "2017-12-23T03:45:04.662Z",
+      "parentId": "5a128b109f2dff58500f560f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6f129978-1b56-4f47-bb47-75462269e4ce_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6f129978-1b56-4f47-bb47-75462269e4ce_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6f129978-1b56-4f47-bb47-75462269e4ce_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6f129978-1b56-4f47-bb47-75462269e4ce_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6f129978-1b56-4f47-bb47-75462269e4ce_mobile_mid.m3u8"
+        },
+        "id": "5a03f34651f074386b670a91"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128cbe9f2dff58500f5635",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:05:36.672Z",
+      "updatedAt": "2017-12-23T03:45:18.526Z",
+      "parentId": "5a128b109f2dff58500f560f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：乘坐交通工具的3种表达",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/be8d03f5-f847-46fa-a5aa-198e048a5d45_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/be8d03f5-f847-46fa-a5aa-198e048a5d45_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/be8d03f5-f847-46fa-a5aa-198e048a5d45_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/be8d03f5-f847-46fa-a5aa-198e048a5d45_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/be8d03f5-f847-46fa-a5aa-198e048a5d45_mobile_mid.m3u8"
+        },
+        "id": "5a03f35e51f074383757fc42"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128cd09f2dff58500f5637",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:05:58.474Z",
+      "updatedAt": "2017-12-23T03:45:32.307Z",
+      "parentId": "5a128b109f2dff58500f560f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "how far的1个前提2种答语",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16207908-fbd2-4204-96fb-4343dd42c3df_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16207908-fbd2-4204-96fb-4343dd42c3df_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16207908-fbd2-4204-96fb-4343dd42c3df_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16207908-fbd2-4204-96fb-4343dd42c3df_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16207908-fbd2-4204-96fb-4343dd42c3df_mobile_mid.m3u8"
+        },
+        "id": "5a03f36fef23a8308d6b89f2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128ce69f2dff58500f5639",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:06:18.715Z",
+      "updatedAt": "2017-12-23T03:45:46.262Z",
+      "parentId": "5a128b109f2dff58500f560f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "阅读：“细节理解法”解阅读理解",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/293304d3-d554-4a12-b091-36b55b4a3dbc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/293304d3-d554-4a12-b091-36b55b4a3dbc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/293304d3-d554-4a12-b091-36b55b4a3dbc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/293304d3-d554-4a12-b091-36b55b4a3dbc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/293304d3-d554-4a12-b091-36b55b4a3dbc_mobile_mid.m3u8"
+        },
+        "id": "5a03f381ef23a83069acc2e5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128cfa9f2dff58500f563b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:06:38.503Z",
+      "updatedAt": "2017-12-23T03:45:59.593Z",
+      "parentId": "5a128b109f2dff58500f560f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：英语写作最基本的4个要素",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/356536b0-2b31-4920-a69f-fc9b25985ca9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/356536b0-2b31-4920-a69f-fc9b25985ca9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/356536b0-2b31-4920-a69f-fc9b25985ca9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/356536b0-2b31-4920-a69f-fc9b25985ca9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/356536b0-2b31-4920-a69f-fc9b25985ca9_mobile_mid.m3u8"
+        },
+        "id": "5a03f3c351f07438852dec50"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128d0e9f2dff58500f563d",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:58:19.444Z",
+    "updatedAt": "2017-12-02T08:03:47.159Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit4 Don’t eat in class",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b1b9f2dff58500f5611",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:07:03.791Z",
+      "updatedAt": "2017-12-23T03:46:26.526Z",
+      "parentId": "5a128b1b9f2dff58500f5611",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/99a00b8a-fa3d-4207-8025-a620f590dc6e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/99a00b8a-fa3d-4207-8025-a620f590dc6e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/99a00b8a-fa3d-4207-8025-a620f590dc6e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/99a00b8a-fa3d-4207-8025-a620f590dc6e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/99a00b8a-fa3d-4207-8025-a620f590dc6e_mobile_mid.m3u8"
+        },
+        "id": "5a0b97ff51f0741b82a76128"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128d279f2dff58500f563f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:07:21.128Z",
+      "updatedAt": "2017-12-23T03:46:50.114Z",
+      "parentId": "5a128b1b9f2dff58500f5611",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a6588348-1eed-48ab-b5ef-c87fcd56789e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a6588348-1eed-48ab-b5ef-c87fcd56789e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a6588348-1eed-48ab-b5ef-c87fcd56789e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a6588348-1eed-48ab-b5ef-c87fcd56789e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a6588348-1eed-48ab-b5ef-c87fcd56789e_mobile_mid.m3u8"
+        },
+        "id": "5a0b981851f0741b91936183"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128d399f2dff58500f5641",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:07:39.978Z",
+      "updatedAt": "2017-12-23T03:47:15.161Z",
+      "parentId": "5a128b1b9f2dff58500f5611",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：祈使句的4个开头",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dbb42b40-11bf-42c6-9bbe-24f72445dc86_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dbb42b40-11bf-42c6-9bbe-24f72445dc86_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dbb42b40-11bf-42c6-9bbe-24f72445dc86_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dbb42b40-11bf-42c6-9bbe-24f72445dc86_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dbb42b40-11bf-42c6-9bbe-24f72445dc86_mobile_mid.m3u8"
+        },
+        "id": "5a0b99bbd5ff754efb5a3455"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128d4b9f2dff58500f5643",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:08:01.441Z",
+      "updatedAt": "2017-12-23T03:48:28.328Z",
+      "parentId": "5a128b1b9f2dff58500f5611",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "省略主语you的祈使句",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bcdc89a0-8cfd-4114-85bd-09bcce89963a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bcdc89a0-8cfd-4114-85bd-09bcce89963a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bcdc89a0-8cfd-4114-85bd-09bcce89963a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bcdc89a0-8cfd-4114-85bd-09bcce89963a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bcdc89a0-8cfd-4114-85bd-09bcce89963a_mobile_mid.m3u8"
+        },
+        "id": "5a0b983d51f0741baaf44d76"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128d619f2dff58500f5645",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:08:29.405Z",
+      "updatedAt": "2017-12-23T03:48:55.152Z",
+      "parentId": "5a128b1b9f2dff58500f5611",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "表示推测的must和can",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dbf5bcb1-9907-4c38-9479-1edf7ec74803_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dbf5bcb1-9907-4c38-9479-1edf7ec74803_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dbf5bcb1-9907-4c38-9479-1edf7ec74803_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dbf5bcb1-9907-4c38-9479-1edf7ec74803_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dbf5bcb1-9907-4c38-9479-1edf7ec74803_mobile_mid.m3u8"
+        },
+        "id": "5a0b984c51f0741b65561136"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128d7d9f2dff58500f5647",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:08:54.385Z",
+      "updatedAt": "2017-12-23T03:49:38.927Z",
+      "parentId": "5a128b1b9f2dff58500f5611",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "专词专用思维：4个看的区别",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cd1dd402-dd3c-47d5-be94-cbcd51703463_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cd1dd402-dd3c-47d5-be94-cbcd51703463_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cd1dd402-dd3c-47d5-be94-cbcd51703463_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cd1dd402-dd3c-47d5-be94-cbcd51703463_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cd1dd402-dd3c-47d5-be94-cbcd51703463_mobile_mid.m3u8"
+        },
+        "id": "5a0b986c51f0741b9ddc3146"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128d969f2dff58500f5649",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:09:27.703Z",
+      "updatedAt": "2017-12-23T03:50:02.349Z",
+      "parentId": "5a128b1b9f2dff58500f5611",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“固定句式”解完形填空",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a1579665-7a3f-436a-b5d4-30a648eb223f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a1579665-7a3f-436a-b5d4-30a648eb223f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a1579665-7a3f-436a-b5d4-30a648eb223f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a1579665-7a3f-436a-b5d4-30a648eb223f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a1579665-7a3f-436a-b5d4-30a648eb223f_mobile_mid.m3u8"
+        },
+        "id": "5a0b987c51f0741b9b2862c1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128db737beee5855953b55",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:58:31.190Z",
+    "updatedAt": "2017-12-02T08:04:04.810Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit5 Would you like pandas?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b279f2dff58500f5613",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:09:58.409Z",
+      "updatedAt": "2017-12-23T03:50:38.878Z",
+      "parentId": "5a128b279f2dff58500f5613",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8e47bcff-2c7e-473c-ae4e-092f881c06f4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8e47bcff-2c7e-473c-ae4e-092f881c06f4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8e47bcff-2c7e-473c-ae4e-092f881c06f4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8e47bcff-2c7e-473c-ae4e-092f881c06f4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8e47bcff-2c7e-473c-ae4e-092f881c06f4_mobile_mid.m3u8"
+        },
+        "id": "5a0b989851f0741b73259f86"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128dd637beee5855953b57",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:10:20.696Z",
+      "updatedAt": "2017-12-23T03:51:21.099Z",
+      "parentId": "5a128b279f2dff58500f5613",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2cc56a64-debc-4896-b2d8-f269fcbd5ba9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2cc56a64-debc-4896-b2d8-f269fcbd5ba9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2cc56a64-debc-4896-b2d8-f269fcbd5ba9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2cc56a64-debc-4896-b2d8-f269fcbd5ba9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2cc56a64-debc-4896-b2d8-f269fcbd5ba9_mobile_mid.m3u8"
+        },
+        "id": "5a0b98b451f0741b636fd7ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128dec9f2dff58500f564b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:10:41.010Z",
+      "updatedAt": "2017-12-23T03:51:48.363Z",
+      "parentId": "5a128b279f2dff58500f5613",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：否定疑问句",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5fa7b531-5f79-4610-a870-1aa35b6765a5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5fa7b531-5f79-4610-a870-1aa35b6765a5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5fa7b531-5f79-4610-a870-1aa35b6765a5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5fa7b531-5f79-4610-a870-1aa35b6765a5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5fa7b531-5f79-4610-a870-1aa35b6765a5_mobile_mid.m3u8"
+        },
+        "id": "5a0b98da51f0741bcd70c828"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128e019f2dff58500f564d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:11:06.301Z",
+      "updatedAt": "2017-12-23T03:52:53.131Z",
+      "parentId": "5a128b279f2dff58500f5613",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "形容词作定语或表语",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b38ee8d7-43de-4d01-8981-f2cbccece3f3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b38ee8d7-43de-4d01-8981-f2cbccece3f3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b38ee8d7-43de-4d01-8981-f2cbccece3f3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b38ee8d7-43de-4d01-8981-f2cbccece3f3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b38ee8d7-43de-4d01-8981-f2cbccece3f3_mobile_mid.m3u8"
+        },
+        "id": "5a0b990251f0741bd8d5f9d8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128e1a9f2dff58500f564f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:11:34.159Z",
+      "updatedAt": "2017-12-23T03:54:32.855Z",
+      "parentId": "5a128b279f2dff58500f5613",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“推理判断法”解阅读理解题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/121ba87f-c2d1-408e-927f-81dcd9464454_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/121ba87f-c2d1-408e-927f-81dcd9464454_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/121ba87f-c2d1-408e-927f-81dcd9464454_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/121ba87f-c2d1-408e-927f-81dcd9464454_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/121ba87f-c2d1-408e-927f-81dcd9464454_mobile_mid.m3u8"
+        },
+        "id": "5a0b992451f0741ba5f7882f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128e369f2dff58500f5651",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:12:02.189Z",
+      "updatedAt": "2017-12-23T03:55:00.106Z",
+      "parentId": "5a128b279f2dff58500f5613",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：喜欢的动物",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/33ff843e-ef1e-4d5a-a54d-b5013acec0f8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/33ff843e-ef1e-4d5a-a54d-b5013acec0f8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/33ff843e-ef1e-4d5a-a54d-b5013acec0f8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/33ff843e-ef1e-4d5a-a54d-b5013acec0f8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/33ff843e-ef1e-4d5a-a54d-b5013acec0f8_mobile_mid.m3u8"
+        },
+        "id": "5a0b993651f0741ba5f78830"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128e529f2dff58500f5653",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:58:41.253Z",
+    "updatedAt": "2017-12-02T08:04:40.150Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit6 I’m watching TV.",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b319f2dff58500f5615",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:12:31.882Z",
+      "updatedAt": "2017-12-23T03:55:30.582Z",
+      "parentId": "5a128b319f2dff58500f5615",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a4a89ba6-88b1-4d77-93a1-da5b9d6b09c6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a4a89ba6-88b1-4d77-93a1-da5b9d6b09c6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a4a89ba6-88b1-4d77-93a1-da5b9d6b09c6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a4a89ba6-88b1-4d77-93a1-da5b9d6b09c6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a4a89ba6-88b1-4d77-93a1-da5b9d6b09c6_mobile_mid.m3u8"
+        },
+        "id": "5a0b997451f0741bb4599cd4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128e6f9f2dff58500f5655",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:12:49.598Z",
+      "updatedAt": "2017-12-23T03:55:59.086Z",
+      "parentId": "5a128b319f2dff58500f5615",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：现在进行时的构成及用法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cc40ce22-27b9-4565-8ba6-9f540f633a6b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cc40ce22-27b9-4565-8ba6-9f540f633a6b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cc40ce22-27b9-4565-8ba6-9f540f633a6b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cc40ce22-27b9-4565-8ba6-9f540f633a6b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cc40ce22-27b9-4565-8ba6-9f540f633a6b_mobile_mid.m3u8"
+        },
+        "id": "5a0b9b2ad5ff754f0353ffe7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128e819f2dff58500f5657",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:18:10.150Z",
+      "updatedAt": "2017-12-23T03:56:27.336Z",
+      "parentId": "5a128b319f2dff58500f5615",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "现在分词的4条小规则",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/913b27bf-542c-4df6-9654-51ed88da7aa9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/913b27bf-542c-4df6-9654-51ed88da7aa9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/913b27bf-542c-4df6-9654-51ed88da7aa9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/913b27bf-542c-4df6-9654-51ed88da7aa9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/913b27bf-542c-4df6-9654-51ed88da7aa9_mobile_mid.m3u8"
+        },
+        "id": "5a0b99ba51f0741b636fd7cf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a128fc29f2dff58500f5659",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:33:16.019Z",
+      "updatedAt": "2017-12-23T03:56:56.127Z",
+      "parentId": "5a128b319f2dff58500f5615",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“语法分析法”解完形填空",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9520d233-c9b9-4b0b-a11d-f6231519924c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9520d233-c9b9-4b0b-a11d-f6231519924c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9520d233-c9b9-4b0b-a11d-f6231519924c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9520d233-c9b9-4b0b-a11d-f6231519924c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9520d233-c9b9-4b0b-a11d-f6231519924c_mobile_mid.m3u8"
+        },
+        "id": "5a0b9b5fd5ff754efb5a3456"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12934c37beee5855953b59",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:34:16.751Z",
+      "updatedAt": "2017-12-23T03:57:24.078Z",
+      "parentId": "5a128b319f2dff58500f5615",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：英语写作高手对招之词语选择",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e9ef9b2f-5d8c-46e4-8df6-5f10955839a3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e9ef9b2f-5d8c-46e4-8df6-5f10955839a3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e9ef9b2f-5d8c-46e4-8df6-5f10955839a3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e9ef9b2f-5d8c-46e4-8df6-5f10955839a3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e9ef9b2f-5d8c-46e4-8df6-5f10955839a3_mobile_mid.m3u8"
+        },
+        "id": "5a0b99fc51f0741b73259f87"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12938837beee5855953b5b",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:59:13.266Z",
+    "updatedAt": "2017-12-02T08:04:59.799Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit7 It’s raining.",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b519f2dff58500f5617",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:34:43.703Z",
+      "updatedAt": "2017-12-23T03:57:55.922Z",
+      "parentId": "5a128b519f2dff58500f5617",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/faa40881-f520-41e1-ba30-e212edd9a495_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/faa40881-f520-41e1-ba30-e212edd9a495_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/faa40881-f520-41e1-ba30-e212edd9a495_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/faa40881-f520-41e1-ba30-e212edd9a495_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/faa40881-f520-41e1-ba30-e212edd9a495_mobile_mid.m3u8"
+        },
+        "id": "5a0b9a2551f0741bbfb7ef71"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1293a337beee5855953b5d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:34:59.374Z",
+      "updatedAt": "2017-12-23T03:58:03.941Z",
+      "parentId": "5a128b519f2dff58500f5617",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：名词变形容词的方法之一",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e8d84539-d8c3-4552-9ca8-c4b65a5a94f8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e8d84539-d8c3-4552-9ca8-c4b65a5a94f8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e8d84539-d8c3-4552-9ca8-c4b65a5a94f8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e8d84539-d8c3-4552-9ca8-c4b65a5a94f8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e8d84539-d8c3-4552-9ca8-c4b65a5a94f8_mobile_mid.m3u8"
+        },
+        "id": "5a0b9a4751f0741b91936184"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1293b337beee5855953b5f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:35:19.134Z",
+      "updatedAt": "2017-12-23T03:58:11.079Z",
+      "parentId": "5a128b519f2dff58500f5617",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "表示人或物的后缀er",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7e7c5634-b02b-4d16-8add-a95e97f6976b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7e7c5634-b02b-4d16-8add-a95e97f6976b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7e7c5634-b02b-4d16-8add-a95e97f6976b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7e7c5634-b02b-4d16-8add-a95e97f6976b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7e7c5634-b02b-4d16-8add-a95e97f6976b_mobile_mid.m3u8"
+        },
+        "id": "5a0b9a5751f0741b92ee1be7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1293c737beee5855953b61",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:35:37.959Z",
+      "updatedAt": "2017-12-23T03:58:19.731Z",
+      "parentId": "5a128b519f2dff58500f5617",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“排除法”解阅读理解题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fd9d5d01-8b41-4c93-92db-f38390ffe889_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fd9d5d01-8b41-4c93-92db-f38390ffe889_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fd9d5d01-8b41-4c93-92db-f38390ffe889_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fd9d5d01-8b41-4c93-92db-f38390ffe889_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fd9d5d01-8b41-4c93-92db-f38390ffe889_mobile_mid.m3u8"
+        },
+        "id": "5a0b9a6b51f0741b636fd7d0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1293d937beee5855953b63",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:36:00.439Z",
+      "updatedAt": "2017-12-23T03:58:24.799Z",
+      "parentId": "5a128b519f2dff58500f5617",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：北京的天气",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d8202ce4-4500-4e7e-bce9-96c6d0a745c6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d8202ce4-4500-4e7e-bce9-96c6d0a745c6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d8202ce4-4500-4e7e-bce9-96c6d0a745c6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d8202ce4-4500-4e7e-bce9-96c6d0a745c6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d8202ce4-4500-4e7e-bce9-96c6d0a745c6_mobile_mid.m3u8"
+        },
+        "id": "5a0b9a7e51f0741bb4599cd5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1293f037beee5855953b65",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:59:23.514Z",
+    "updatedAt": "2017-12-02T08:05:16.257Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit8 Is there a post office near here?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b5b9f2dff58500f5619",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:36:26.563Z",
+      "updatedAt": "2017-12-23T03:58:33.526Z",
+      "parentId": "5a128b5b9f2dff58500f5619",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/694a855c-f16b-4008-8d47-e2e01c1490f1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/694a855c-f16b-4008-8d47-e2e01c1490f1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/694a855c-f16b-4008-8d47-e2e01c1490f1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/694a855c-f16b-4008-8d47-e2e01c1490f1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/694a855c-f16b-4008-8d47-e2e01c1490f1_mobile_mid.m3u8"
+        },
+        "id": "5a0d5521ef23a80292f46dea"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12940a37beee5855953b67",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:36:48.187Z",
+      "updatedAt": "2017-12-23T03:58:39.488Z",
+      "parentId": "5a128b5b9f2dff58500f5619",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "4个花费的区别",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8b3f83da-8e4b-4491-8491-f5aa18e52f87_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8b3f83da-8e4b-4491-8491-f5aa18e52f87_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8b3f83da-8e4b-4491-8491-f5aa18e52f87_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8b3f83da-8e4b-4491-8491-f5aa18e52f87_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8b3f83da-8e4b-4491-8491-f5aa18e52f87_mobile_mid.m3u8"
+        },
+        "id": "5a0d557751f074014cd5e279"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12942037beee5855953b69",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:37:10.868Z",
+      "updatedAt": "2017-12-23T03:58:44.875Z",
+      "parentId": "5a128b5b9f2dff58500f5619",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：there be 句型的4个用法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/644ca9a5-3215-4549-8424-87a321c71a2d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/644ca9a5-3215-4549-8424-87a321c71a2d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/644ca9a5-3215-4549-8424-87a321c71a2d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/644ca9a5-3215-4549-8424-87a321c71a2d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/644ca9a5-3215-4549-8424-87a321c71a2d_mobile_mid.m3u8"
+        },
+        "id": "5a0d55e051f0747fe4d9854a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12943637beee5855953b6b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:37:31.350Z",
+      "updatedAt": "2017-12-23T03:58:50.826Z",
+      "parentId": "5a128b5b9f2dff58500f5619",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "非谓语动词",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/986edcbf-b639-4497-9352-316f0efd5a65_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/986edcbf-b639-4497-9352-316f0efd5a65_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/986edcbf-b639-4497-9352-316f0efd5a65_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/986edcbf-b639-4497-9352-316f0efd5a65_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/986edcbf-b639-4497-9352-316f0efd5a65_mobile_mid.m3u8"
+        },
+        "id": "5a0d56dc51f0740160007c49"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12944b37beee5855953b6d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:37:55.591Z",
+      "updatedAt": "2017-12-23T03:58:57.851Z",
+      "parentId": "5a128b5b9f2dff58500f5619",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“非谓语动词”解完形填空题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d3b697d3-9432-471e-b1c7-0a2a43b92731_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d3b697d3-9432-471e-b1c7-0a2a43b92731_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d3b697d3-9432-471e-b1c7-0a2a43b92731_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d3b697d3-9432-471e-b1c7-0a2a43b92731_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d3b697d3-9432-471e-b1c7-0a2a43b92731_mobile_mid.m3u8"
+        },
+        "id": "5a0d6d42d5ff755a2fc193da"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12946337beee5855953b6f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:38:17.395Z",
+      "updatedAt": "2017-12-23T03:59:03.716Z",
+      "parentId": "5a128b5b9f2dff58500f5619",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：指路",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/34fd40cc-53bc-418f-8469-875f96051a44_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/34fd40cc-53bc-418f-8469-875f96051a44_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/34fd40cc-53bc-418f-8469-875f96051a44_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/34fd40cc-53bc-418f-8469-875f96051a44_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/34fd40cc-53bc-418f-8469-875f96051a44_mobile_mid.m3u8"
+        },
+        "id": "5a0d6d57d5ff755a1a4e10b0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12947937beee5855953b71",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:59:39.032Z",
+    "updatedAt": "2017-12-02T08:05:33.431Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit9 What does he look like?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b6b9f2dff58500f561b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:39:03.727Z",
+      "updatedAt": "2017-12-23T03:59:13.687Z",
+      "parentId": "5a128b6b9f2dff58500f561b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bb834fab-edd4-46a4-8d87-3d45e7410599_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bb834fab-edd4-46a4-8d87-3d45e7410599_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bb834fab-edd4-46a4-8d87-3d45e7410599_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bb834fab-edd4-46a4-8d87-3d45e7410599_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bb834fab-edd4-46a4-8d87-3d45e7410599_mobile_mid.m3u8"
+        },
+        "id": "5a0d6c0951f07401a7b4441b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1294a737beee5855953b73",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:39:24.251Z",
+      "updatedAt": "2017-12-23T03:59:19.090Z",
+      "parentId": "5a128b6b9f2dff58500f561b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/27b3e9cc-b360-47a5-9f64-603420cc3ddc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/27b3e9cc-b360-47a5-9f64-603420cc3ddc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/27b3e9cc-b360-47a5-9f64-603420cc3ddc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/27b3e9cc-b360-47a5-9f64-603420cc3ddc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/27b3e9cc-b360-47a5-9f64-603420cc3ddc_mobile_mid.m3u8"
+        },
+        "id": "5a0d6c3d51f074017d8ad274"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1294bc37beee5855953b75",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:39:44.407Z",
+      "updatedAt": "2017-12-23T03:59:25.841Z",
+      "parentId": "5a128b6b9f2dff58500f561b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5c9132f-d308-4a08-8284-f249f71760a6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5c9132f-d308-4a08-8284-f249f71760a6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5c9132f-d308-4a08-8284-f249f71760a6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5c9132f-d308-4a08-8284-f249f71760a6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5c9132f-d308-4a08-8284-f249f71760a6_mobile_mid.m3u8"
+        },
+        "id": "5a0d6c7c51f0747fe4d9854b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1294d037beee5855953b77",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:40:17.055Z",
+      "updatedAt": "2017-12-23T03:59:33.134Z",
+      "parentId": "5a128b6b9f2dff58500f561b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：多个形容词排序问题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a1a1c9d8-cd9b-41cd-85c8-0cf370f84a09_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a1a1c9d8-cd9b-41cd-85c8-0cf370f84a09_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a1a1c9d8-cd9b-41cd-85c8-0cf370f84a09_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a1a1c9d8-cd9b-41cd-85c8-0cf370f84a09_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a1a1c9d8-cd9b-41cd-85c8-0cf370f84a09_mobile_mid.m3u8"
+        },
+        "id": "5a0d6cb351f07401b308669d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1294f137beee5855953b79",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:41:40.586Z",
+      "updatedAt": "2017-12-23T03:59:42.123Z",
+      "parentId": "5a128b6b9f2dff58500f561b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“常识背景法”解完形填空题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/195467bd-abb8-4e8e-a59c-f5ea924d20f2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/195467bd-abb8-4e8e-a59c-f5ea924d20f2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/195467bd-abb8-4e8e-a59c-f5ea924d20f2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/195467bd-abb8-4e8e-a59c-f5ea924d20f2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/195467bd-abb8-4e8e-a59c-f5ea924d20f2_mobile_mid.m3u8"
+        },
+        "id": "5a0d6cc951f07401a7b4441c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1295449f2dff58500f565b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-21T06:42:14.294Z",
+      "updatedAt": "2017-12-23T03:59:47.970Z",
+      "parentId": "5a128b6b9f2dff58500f561b",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：表格信息写作",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6f29d5e5-b6d2-46c6-a9fd-7b9e9eb62014_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6f29d5e5-b6d2-46c6-a9fd-7b9e9eb62014_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6f29d5e5-b6d2-46c6-a9fd-7b9e9eb62014_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6f29d5e5-b6d2-46c6-a9fd-7b9e9eb62014_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6f29d5e5-b6d2-46c6-a9fd-7b9e9eb62014_mobile_mid.m3u8"
+        },
+        "id": "5a13da92ef23a802240bb5b9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a13cac637beee5855953c17",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T07:59:53.156Z",
+    "updatedAt": "2017-12-02T08:05:44.557Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit10 I like some noodles.",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b799f2dff58500f561d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:43:02.601Z",
+      "updatedAt": "2017-12-23T03:59:58.444Z",
+      "parentId": "5a128b799f2dff58500f561d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5f1d6488-e491-4d46-a590-febae399b3db_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5f1d6488-e491-4d46-a590-febae399b3db_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5f1d6488-e491-4d46-a590-febae399b3db_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5f1d6488-e491-4d46-a590-febae399b3db_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5f1d6488-e491-4d46-a590-febae399b3db_mobile_mid.m3u8"
+        },
+        "id": "5a0d6d3551f074019c92cd84"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1295969f2dff58500f565f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:44:25.817Z",
+      "updatedAt": "2017-12-23T04:00:04.814Z",
+      "parentId": "5a128b799f2dff58500f561d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：祈使句+and/or+简单句",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/66c2eb72-efc7-4cda-8d82-f53a294e8c93_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/66c2eb72-efc7-4cda-8d82-f53a294e8c93_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/66c2eb72-efc7-4cda-8d82-f53a294e8c93_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/66c2eb72-efc7-4cda-8d82-f53a294e8c93_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/66c2eb72-efc7-4cda-8d82-f53a294e8c93_mobile_mid.m3u8"
+        },
+        "id": "5a0d6eded5ff755a0bb6c833"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1295e99f2dff58500f5661",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:44:44.494Z",
+      "updatedAt": "2017-12-23T04:00:15.598Z",
+      "parentId": "5a128b799f2dff58500f561d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "would like的6种用法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8097b87e-cc9f-4444-92d0-e7d3d9d44823_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8097b87e-cc9f-4444-92d0-e7d3d9d44823_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8097b87e-cc9f-4444-92d0-e7d3d9d44823_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8097b87e-cc9f-4444-92d0-e7d3d9d44823_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8097b87e-cc9f-4444-92d0-e7d3d9d44823_mobile_mid.m3u8"
+        },
+        "id": "5a0d6d8e51f0740160007c4a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1295fc9f2dff58500f5663",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:47:44.832Z",
+      "updatedAt": "2017-12-23T04:00:36.620Z",
+      "parentId": "5a128b799f2dff58500f561d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“主谓一致判断法”解完形填空题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/81a66760-9fc4-4ce4-b5f5-f645cef006ab_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/81a66760-9fc4-4ce4-b5f5-f645cef006ab_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/81a66760-9fc4-4ce4-b5f5-f645cef006ab_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/81a66760-9fc4-4ce4-b5f5-f645cef006ab_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/81a66760-9fc4-4ce4-b5f5-f645cef006ab_mobile_mid.m3u8"
+        },
+        "id": "5a0d6dadef23a802e282da08"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1296b09f2dff58500f5665",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:48:05.442Z",
+      "updatedAt": "2017-12-23T04:00:42.819Z",
+      "parentId": "5a128b799f2dff58500f561d",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：未来的生活",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/100356d4-c218-4802-9a44-dc957863f571_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/100356d4-c218-4802-9a44-dc957863f571_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/100356d4-c218-4802-9a44-dc957863f571_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/100356d4-c218-4802-9a44-dc957863f571_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/100356d4-c218-4802-9a44-dc957863f571_mobile_mid.m3u8"
+        },
+        "id": "5a0d6dc4ef23a802e282da09"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1296c59f2dff58500f5667",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T08:00:03.559Z",
+    "updatedAt": "2017-12-02T08:05:59.003Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit11 How was your school trip?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b839f2dff58500f561f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:48:36.268Z",
+      "updatedAt": "2017-12-23T04:01:03.542Z",
+      "parentId": "5a128b839f2dff58500f561f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析(一)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e0361d2a-4333-4f41-b94f-a9b339e04f4f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e0361d2a-4333-4f41-b94f-a9b339e04f4f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e0361d2a-4333-4f41-b94f-a9b339e04f4f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e0361d2a-4333-4f41-b94f-a9b339e04f4f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e0361d2a-4333-4f41-b94f-a9b339e04f4f_mobile_mid.m3u8"
+        },
+        "id": "5a0d6de8ef23a80272537022"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1296e49f2dff58500f5669",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:48:52.676Z",
+      "updatedAt": "2017-12-23T04:01:10.100Z",
+      "parentId": "5a128b839f2dff58500f561f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析(二)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3370aeea-45a5-41b3-a3ee-3730111c88f3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3370aeea-45a5-41b3-a3ee-3730111c88f3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3370aeea-45a5-41b3-a3ee-3730111c88f3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3370aeea-45a5-41b3-a3ee-3730111c88f3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3370aeea-45a5-41b3-a3ee-3730111c88f3_mobile_mid.m3u8"
+        },
+        "id": "5a0d6f9fd5ff755a0bb6c834"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1296f49f2dff58500f566b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:49:15.664Z",
+      "updatedAt": "2017-12-23T04:01:17.084Z",
+      "parentId": "5a128b839f2dff58500f561f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：过去式的4条规则及ed的发音",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fcc6c978-f448-4a18-8cc9-23dc62895906_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fcc6c978-f448-4a18-8cc9-23dc62895906_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fcc6c978-f448-4a18-8cc9-23dc62895906_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fcc6c978-f448-4a18-8cc9-23dc62895906_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fcc6c978-f448-4a18-8cc9-23dc62895906_mobile_mid.m3u8"
+        },
+        "id": "5a0d6e3cef23a8021e1e7e52"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12970b9f2dff58500f566d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:50:58.247Z",
+      "updatedAt": "2017-12-23T04:01:36.806Z",
+      "parentId": "5a128b839f2dff58500f561f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "70个动词不规则变化及8条规则",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16779893-0292-4a13-a0c1-fd4d92ad8d3a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16779893-0292-4a13-a0c1-fd4d92ad8d3a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16779893-0292-4a13-a0c1-fd4d92ad8d3a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16779893-0292-4a13-a0c1-fd4d92ad8d3a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16779893-0292-4a13-a0c1-fd4d92ad8d3a_mobile_mid.m3u8"
+        },
+        "id": "5a0e365351f074019376481e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1297729f2dff58500f5673",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:51:25.648Z",
+      "updatedAt": "2017-12-23T04:01:45.784Z",
+      "parentId": "5a128b839f2dff58500f561f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "过去时的5个用法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dbd29628-ba54-4561-b16e-5e9f373561c3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dbd29628-ba54-4561-b16e-5e9f373561c3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dbd29628-ba54-4561-b16e-5e9f373561c3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dbd29628-ba54-4561-b16e-5e9f373561c3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dbd29628-ba54-4561-b16e-5e9f373561c3_mobile_mid.m3u8"
+        },
+        "id": "5a0d72f951f07401c7a328dd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a12978d9f2dff58500f5675",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:51:50.120Z",
+      "updatedAt": "2017-12-23T04:01:55.706Z",
+      "parentId": "5a128b839f2dff58500f561f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“上下文暗示法”解完形填空题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/682f1ac4-ac91-4a3f-931f-190e83e25bbb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/682f1ac4-ac91-4a3f-931f-190e83e25bbb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/682f1ac4-ac91-4a3f-931f-190e83e25bbb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/682f1ac4-ac91-4a3f-931f-190e83e25bbb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/682f1ac4-ac91-4a3f-931f-190e83e25bbb_mobile_mid.m3u8"
+        },
+        "id": "5a0e3612ef23a8030f080c11"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1297a637beee5855953b7b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:52:18.043Z",
+      "updatedAt": "2017-12-23T04:02:01.412Z",
+      "parentId": "5a128b839f2dff58500f561f",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：上个周末做过的事情",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/94d033c0-46cb-4160-a477-3d70d7c5be59_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/94d033c0-46cb-4160-a477-3d70d7c5be59_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/94d033c0-46cb-4160-a477-3d70d7c5be59_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/94d033c0-46cb-4160-a477-3d70d7c5be59_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/94d033c0-46cb-4160-a477-3d70d7c5be59_mobile_mid.m3u8"
+        },
+        "id": "5a0e3622ef23a802240bb5b5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1297c237beee5855953b7f",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T08:00:16.124Z",
+    "updatedAt": "2017-12-02T08:06:16.068Z",
+    "courseId": "5a128acc9f2dff58500f5609",
+    "name": "Unit12 What did you do last weekend?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a128b909f2dff58500f5621",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:53:01.638Z",
+      "updatedAt": "2017-12-23T04:02:10.155Z",
+      "parentId": "5a128b909f2dff58500f5621",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "词义辨析：易混淆组词辨析",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/17a33def-8689-4e35-a3e8-ee23892ad720_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/17a33def-8689-4e35-a3e8-ee23892ad720_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/17a33def-8689-4e35-a3e8-ee23892ad720_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/17a33def-8689-4e35-a3e8-ee23892ad720_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/17a33def-8689-4e35-a3e8-ee23892ad720_mobile_mid.m3u8"
+        },
+        "id": "5a0e366eef23a80272537023"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1297ed9f2dff58500f5677",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:53:18.747Z",
+      "updatedAt": "2017-12-23T04:02:17.399Z",
+      "parentId": "5a128b909f2dff58500f5621",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "语法：How 和 What引导的感叹句",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1bd110f8-2d65-4f05-b6e0-1c9aca113abe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1bd110f8-2d65-4f05-b6e0-1c9aca113abe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1bd110f8-2d65-4f05-b6e0-1c9aca113abe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1bd110f8-2d65-4f05-b6e0-1c9aca113abe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1bd110f8-2d65-4f05-b6e0-1c9aca113abe_mobile_mid.m3u8"
+        },
+        "id": "5a0e369951f074018c289c51"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1297fe9f2dff58500f5679",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:53:39.366Z",
+      "updatedAt": "2017-12-23T04:02:37.909Z",
+      "parentId": "5a128b909f2dff58500f5621",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "表示人的后缀or , ist",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cf8c41ce-7966-4395-b066-6c8f900cf12d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cf8c41ce-7966-4395-b066-6c8f900cf12d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cf8c41ce-7966-4395-b066-6c8f900cf12d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cf8c41ce-7966-4395-b066-6c8f900cf12d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cf8c41ce-7966-4395-b066-6c8f900cf12d_mobile_mid.m3u8"
+        },
+        "id": "5a0e36adef23a80230423f69"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1298139f2dff58500f567b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:54:01.526Z",
+      "updatedAt": "2017-12-23T04:02:51.451Z",
+      "parentId": "5a128b909f2dff58500f5621",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "“逻辑推理法”解完形填空题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dae4f95a-0eac-4673-98dc-dec7ff0ffe9a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dae4f95a-0eac-4673-98dc-dec7ff0ffe9a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dae4f95a-0eac-4673-98dc-dec7ff0ffe9a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dae4f95a-0eac-4673-98dc-dec7ff0ffe9a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dae4f95a-0eac-4673-98dc-dec7ff0ffe9a_mobile_mid.m3u8"
+        },
+        "id": "5a0e36d1ef23a802a31942e1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1298299f2dff58500f567d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T08:54:25.163Z",
+      "updatedAt": "2017-12-23T04:02:57.863Z",
+      "parentId": "5a128b909f2dff58500f5621",
+      "courseId": "5a128acc9f2dff58500f5609",
+      "name": "写作：五一活动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f32b0008-c93c-46b6-a274-e5d03c7d6846_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f32b0008-c93c-46b6-a274-e5d03c7d6846_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f32b0008-c93c-46b6-a274-e5d03c7d6846_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f32b0008-c93c-46b6-a274-e5d03c7d6846_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f32b0008-c93c-46b6-a274-e5d03c7d6846_mobile_mid.m3u8"
+        },
+        "id": "5a0e3875d5ff755a0ead81c1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1298419f2dff58500f567f",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

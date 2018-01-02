@@ -11,6 +11,8 @@ public class Classes {
     private String name;
     private String hls;
     private boolean isChapter;
+    private int chapterNum;
+    private boolean isSelect;
 
     public String getName() {
         return name;
@@ -34,5 +36,21 @@ public class Classes {
 
     public void setChapter(boolean chapter) {
         isChapter = chapter;
+    }
+
+    public int getChapterNum() {
+        return chapterNum;
+    }
+
+    public void setChapterNum(int chapterNum) {
+        this.chapterNum = chapterNum;
+    }
+
+    public boolean isSelect() {
+        return isSelect;
+    }
+
+    public void setSelect(boolean select) {
+        isSelect = select;
     }
 }

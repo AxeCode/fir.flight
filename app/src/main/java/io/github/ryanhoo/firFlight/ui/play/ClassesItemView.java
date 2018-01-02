@@ -9,7 +9,7 @@ import android.widget.TextView;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import io.github.ryanhoo.firFlight.R;
-import io.github.ryanhoo.firFlight.data.model.Courses;
+import io.github.ryanhoo.firFlight.data.model.Classes;
 import io.github.ryanhoo.firFlight.ui.common.adapter.IAdapterView;
 
 /**
@@ -20,7 +20,7 @@ import io.github.ryanhoo.firFlight.ui.common.adapter.IAdapterView;
  * Desc: AppItemView
  */
 
-public class ClassesItemView extends RelativeLayout implements IAdapterView<Courses> {
+public class ClassesItemView extends RelativeLayout implements IAdapterView<Classes> {
 
     Context mContext;
     @Bind(R.id.chapter)
@@ -41,7 +41,26 @@ public class ClassesItemView extends RelativeLayout implements IAdapterView<Cour
     }
 
     @Override
-    public void bind(Courses courses, int position) {
+    public void bind(Classes classes, int position) {
+        if (classes.isChapter()) {
+            chapter.setVisibility(View.VISIBLE);
+            sectionLayout.setVisibility(View.GONE);
+            chapter.setText(mContext.getString(R.string.ff_courses_chapter, classes.getChapterNum(), classes.getName()));
+        } else {
+            chapter.setVisibility(View.GONE);
+            sectionLayout.setVisibility(View.VISIBLE);
+            setcion.setText(classes.getName());
+            setSelect(classes.isSelect());
+        }
+    }
 
+    private void setSelect(boolean isSelect) {
+        if (isSelect) {
+            dot.setBackgroundResource(R.drawable.momo_dot);
+            setcion.setTextColor(mContext.getResources().getColor(R.color.momo));
+        } else {
+            dot.setBackgroundResource(R.drawable.black_dot);
+            setcion.setTextColor(mContext.getResources().getColor(R.color.ff_gray));
+        }
     }
 }

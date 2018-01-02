@@ -35,7 +35,7 @@ public class ClassesRepository implements ClassesContract {
     }
 
     @Override
-    public Observable<Courses> classes(String classId) {
-        return mRemoteDataSource.classes(classId);
+    public Observable<Courses> classes(String subjectType, String classId) {
+        return mRemoteDataSource.classes(subjectType, classId);
     }
 }

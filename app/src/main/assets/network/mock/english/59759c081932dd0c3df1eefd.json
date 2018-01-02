@@ -1,0 +1,349 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-07-24T07:04:40.426Z",
+  "updatedAt": "2017-12-26T03:12:35.584Z",
+  "name": "暑期清北学霸周末直播课堂——初中英语",
+  "description": "由来自清华北大各个系科的学霸学神在周末直播课堂上帮你复习难点，查缺补漏，传授高考“考试真经”，预习领先，让你处处快人一步，各位平易近人的学长学姐们有问必答，只要你有任何不懂的问题，请随时缠上他们！",
+  "price": 0,
+  "teacher": {
+    "name": "清北英语答疑老师",
+    "avatar": "http://imgs.wanmen.org/8ac0df4f3e59d31f25d2eca7c361b97f.png",
+    "description": "来自于清北的学霸们带你查漏补缺，进步提分！",
+    "id": "590c3b2c71b2262ac78f1d05"
+  },
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_mobile_mid.m3u8"
+    },
+    "id": "596476b8ef23a80d3835ccd6"
+  },
+  "openingAt": "2017-07-22T10:00:12.435Z",
+  "major": "590b35f071b2262ac78f19fb",
+  "hide": false,
+  "expiration": 12,
+  "streamKey": "17656601606205458",
+  "numOfClasses": 5,
+  "smallImage": "http://imgs.wanmen.org/a3bb01414d296167129217d3fe5d2518.png",
+  "bigImage": "http://imgs.wanmen.org/0d07210ea2b20fcdcbc7111acacb2271.png",
+  "lastConnectedAt": 1504345975,
+  "tag": "清北英语答疑老师 初中 暑期 清北学霸 周末 直播 课堂 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 8,
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "finished",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a2795840c69752405df7210",
+    "name": "暑期清北学霸周末直播讲堂——初中英语专题：时态",
+    "startDate": "2017-07-22T00:00:00.000Z",
+    "startTime": "18:00",
+    "endTime": "19:00"
+  }, {
+    "_id": "5a2795840c69752405df720f",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中英语专题：连词",
+    "startDate": "2017-07-30T00:00:00.000Z"
+  }, {
+    "_id": "5a2795840c69752405df720e",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中英语专题：be动词用法",
+    "startDate": "2017-08-12T00:00:00.000Z"
+  }, {
+    "_id": "5a2795840c69752405df720d",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中英语专题：被动语态",
+    "startDate": "2017-08-20T00:00:00.000Z"
+  }, {
+    "_id": "5a2795840c69752405df720c",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "name": "暑期清北学霸周末直播讲堂——初中英语专题：比较级与最高级",
+    "startDate": "2017-09-02T00:00:00.000Z"
+  }],
+  "type": "record",
+  "likes": 9,
+  "app": "mid",
+  "numberOfClasses": 5,
+  "teacherDescription": "来自于清北的学霸们带你查漏补缺，进步提分！",
+  "teacherAvatar": "http://imgs.wanmen.org/8ac0df4f3e59d31f25d2eca7c361b97f.png",
+  "teacherName": "清北英语答疑老师",
+  "mobileCoverUrl": "http://imgs.wanmen.org/a3bb01414d296167129217d3fe5d2518.png",
+  "coverUrl": "http://imgs.wanmen.org/0d07210ea2b20fcdcbc7111acacb2271.png",
+  "smallImageUrl": "http://imgs.wanmen.org/a3bb01414d296167129217d3fe5d2518.png",
+  "bigImageUrl": "http://imgs.wanmen.org/0d07210ea2b20fcdcbc7111acacb2271.png",
+  "id": "59759c081932dd0c3df1eefd",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-12T04:28:32.917Z",
+    "updatedAt": "2017-09-12T04:30:28.043Z",
+    "courseId": "59759c081932dd0c3df1eefd",
+    "name": "2017.07.22",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59b762704348fe5b1a15d330",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-12T04:30:53.879Z",
+      "updatedAt": "2017-09-12T05:57:25.853Z",
+      "parentId": "59b762704348fe5b1a15d330",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "name": "时态",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_mobile_mid.m3u8"
+        },
+        "id": "59b76ad1ef23a83038f67c91"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b762fd3462a67a4ffbb912",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/92710222-fc2d-43a2-b8c2-181272fa2943_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "courseId": "59759c081932dd0c3df1eefd",
+    "name": "2017.07.30",
+    "createdAt": "2017-07-30T10:55:03.449Z",
+    "updatedAt": "2017-08-26T10:46:13.154Z",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "597dbb072f8052899cbe77ac",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-30T10:55:03.492Z",
+      "updatedAt": "2017-08-26T10:42:46.083Z",
+      "name": "语态2",
+      "parentId": "597dbb072f8052899cbe77ac",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1501411871_1501412103.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1501411871_1501412103.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1501411871_1501412103.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1501411871_1501412103.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1501411871_1501412103.m3u8"
+      },
+      "hide": false,
+      "id": "597dbb0787c7ca441eb3e5b2"
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-31T06:44:19.632Z",
+      "updatedAt": "2017-08-26T10:42:37.840Z",
+      "parentId": "597dbb072f8052899cbe77ac",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "name": "语态1",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_mobile_mid.m3u8"
+        },
+        "id": "597eca9bef23a87f216eeb2f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "597ed1c33c66920b49a54bf4",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/92222e56-ba7f-4db8-a325-6e7a1c3c1bff_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "courseId": "59759c081932dd0c3df1eefd",
+    "name": "2017.08.12",
+    "createdAt": "2017-08-12T10:38:56.751Z",
+    "updatedAt": "2017-08-26T10:46:27.591Z",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "598edac02f8052899cbf5c72",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-12T10:38:56.792Z",
+      "updatedAt": "2017-08-26T10:43:54.373Z",
+      "name": "形容词和副词1",
+      "parentId": "598edac02f8052899cbf5c72",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502531941_1502534335.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502531941_1502534335.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502531941_1502534335.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502531941_1502534335.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502531941_1502534335.m3u8"
+      },
+      "hide": false,
+      "id": "598edac0106cea63b53c52f5"
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-12T10:57:38.205Z",
+      "updatedAt": "2017-08-26T10:44:00.862Z",
+      "name": "形容词和副词2",
+      "parentId": "598edac02f8052899cbf5c72",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502534335_1502535457.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502534335_1502535457.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502534335_1502535457.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502534335_1502535457.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502534335_1502535457.m3u8"
+      },
+      "hide": false,
+      "id": "598edf22106cea63b53c52f7"
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-12T11:00:04.424Z",
+      "updatedAt": "2017-08-26T10:44:06.602Z",
+      "name": "形容词和副词3",
+      "parentId": "598edac02f8052899cbf5c72",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502535462_1502535604.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502535462_1502535604.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502535462_1502535604.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502535462_1502535604.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1502535462_1502535604.m3u8"
+      },
+      "hide": false,
+      "id": "598edfb4106cea63b53c52f9"
+    }]
+  }, {
+    "courseId": "59759c081932dd0c3df1eefd",
+    "name": "2017.08.20",
+    "createdAt": "2017-08-20T09:15:30.647Z",
+    "updatedAt": "2017-08-26T10:46:37.281Z",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "599953322f8052899cbfdabd",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-20T11:00:43.643Z",
+      "updatedAt": "2017-08-26T10:44:50.959Z",
+      "name": "名词和代词",
+      "parentId": "599953322f8052899cbfdabd",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1503223007_1503226842.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1503223007_1503226842.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1503223007_1503226842.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1503223007_1503226842.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1503223007_1503226842.m3u8"
+      },
+      "hide": false,
+      "id": "59996bdbc74ffa271cdbb3d7"
+    }]
+  }, {
+    "courseId": "59759c081932dd0c3df1eefd",
+    "name": "2017.09.02",
+    "createdAt": "2017-09-02T10:55:29.098Z",
+    "updatedAt": "2017-09-02T11:01:27.675Z",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59aa8e212f8052899cc08ec4",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-02T10:55:29.171Z",
+      "updatedAt": "2017-09-02T11:02:07.935Z",
+      "name": "句型",
+      "parentId": "59aa8e212f8052899cc08ec4",
+      "courseId": "59759c081932dd0c3df1eefd",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1504345975_1504349728.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1504345975_1504349728.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1504345975_1504349728.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1504345975_1504349728.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.17656601606205458/1504345975_1504349728.m3u8"
+      },
+      "hide": false,
+      "id": "59aa8e21edad944b098bf5af"
+    }]
+  }],
+  "hasTopic": false
+}

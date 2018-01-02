@@ -31,7 +31,7 @@ interface AppContract {
 
     interface Presenter extends BasePresenter {
 
-        void loadApps();
+        void loadApps(String courseId);
 
     }
 }

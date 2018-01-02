@@ -1,0 +1,3539 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-06-19T02:41:00.345Z",
+  "updatedAt": "2017-12-23T12:26:15.652Z",
+  "name": "初中物理九年级",
+  "description": "本课程包含九年级物理的所有内容。以人教版课本为基础，对知识点进行梳理和总结，并辅助一定的针对性练习，强化理解和记忆。课程作为初中物理的重要组成部分，主要讲了电学相关知识，以及其他相关内容。在夯实基础的前提下，可以强化提高分析、提升解决问题的综合能力。",
+  "price": 78,
+  "teacher": {
+    "description": "清华电子硕士在读，有过多次辅导、授课经验。在多种电子、物理类竞赛中获奖。丰富的理科学习、复习经验，在知识提炼和总结、学生沟通方面有独特的体会，对学习方法、知识梳理等有深入的研究。",
+    "name": "阎俊超",
+    "avatar": "http://imgs.wanmen.org/45e995581e44417b0f594cbcd8714ec3.png",
+    "id": "5947305489c14511ead0876d"
+  },
+  "hide": false,
+  "major": "592e38d4b45f51716ab6f487",
+  "expiration": 12,
+  "order": 3,
+  "bigImage": "http://imgs.wanmen.org/b5979a27ef6531ba303fe794829f6bc8.png",
+  "smallImage": "http://imgs.wanmen.org/6d89aabb24e6a5d88a909f94e6419ae8.png",
+  "numOfClasses": 45,
+  "tag": "阎俊超 初中 物理 九年级 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 108,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 13,
+  "app": "mid",
+  "numberOfClasses": 45,
+  "teacherDescription": "清华电子硕士在读，有过多次辅导、授课经验。在多种电子、物理类竞赛中获奖。丰富的理科学习、复习经验，在知识提炼和总结、学生沟通方面有独特的体会，对学习方法、知识梳理等有深入的研究。",
+  "teacherAvatar": "http://imgs.wanmen.org/45e995581e44417b0f594cbcd8714ec3.png",
+  "teacherName": "阎俊超",
+  "mobileCoverUrl": "http://imgs.wanmen.org/6d89aabb24e6a5d88a909f94e6419ae8.png",
+  "coverUrl": "http://imgs.wanmen.org/b5979a27ef6531ba303fe794829f6bc8.png",
+  "smallImageUrl": "http://imgs.wanmen.org/6d89aabb24e6a5d88a909f94e6419ae8.png",
+  "bigImageUrl": "http://imgs.wanmen.org/b5979a27ef6531ba303fe794829f6bc8.png",
+  "id": "594739bc89c14511ead0878b",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:23:49.352Z",
+    "updatedAt": "2017-12-21T09:36:43.365Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "分子热运动",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a1527186f633baf3802",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:40:30.023Z",
+      "updatedAt": "2017-12-21T09:36:59.145Z",
+      "parentId": "59478a1527186f633baf3802",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "基础知识",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_mobile_mid.m3u8"
+        },
+        "id": "594392e3ef23a830626948b0"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59478dfe27186f633baf382a",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/aaf6f268-338a-426e-bda3-a4cb202cf015_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:40:43.740Z",
+      "updatedAt": "2017-12-21T09:37:14.327Z",
+      "parentId": "59478a1527186f633baf3802",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "拓展及总结",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_mobile_mid.m3u8"
+        },
+        "id": "5943931bef23a8300dc58f4d"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59478e0b27186f633baf382c",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/3273c806-85d6-4c42-85dc-af9da75e2e66_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:23:58.925Z",
+    "updatedAt": "2017-12-21T09:37:32.693Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "内能",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a1e27186f633baf3804",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:44:03.874Z",
+      "updatedAt": "2017-12-21T09:38:25.175Z",
+      "parentId": "59478a1e27186f633baf3804",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "内能及影响因素",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7af076b9-f818-4a35-842c-7b5e65881c1b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7af076b9-f818-4a35-842c-7b5e65881c1b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7af076b9-f818-4a35-842c-7b5e65881c1b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7af076b9-f818-4a35-842c-7b5e65881c1b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7af076b9-f818-4a35-842c-7b5e65881c1b_mobile_mid.m3u8"
+        },
+        "id": "59439340ef23a82456d49ea2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59478ed327186f633baf382e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:44:12.631Z",
+      "updatedAt": "2017-12-21T09:38:46.879Z",
+      "parentId": "59478a1e27186f633baf3804",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "内能的改变方式",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4cd68e84-0785-444d-a7f3-f9af29526047_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4cd68e84-0785-444d-a7f3-f9af29526047_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4cd68e84-0785-444d-a7f3-f9af29526047_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4cd68e84-0785-444d-a7f3-f9af29526047_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4cd68e84-0785-444d-a7f3-f9af29526047_mobile_mid.m3u8"
+        },
+        "id": "5943939eef23a84321c278ee"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59478edc27186f633baf3830",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:24:08.323Z",
+    "updatedAt": "2017-12-21T09:39:11.937Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "比热容",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a2827186f633baf3806",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:44:21.397Z",
+      "updatedAt": "2017-12-21T09:39:30.557Z",
+      "parentId": "59478a2827186f633baf3806",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "比热容（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/300b5de6-6a2a-4be6-827e-ca8bfd22e9ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/300b5de6-6a2a-4be6-827e-ca8bfd22e9ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/300b5de6-6a2a-4be6-827e-ca8bfd22e9ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/300b5de6-6a2a-4be6-827e-ca8bfd22e9ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/300b5de6-6a2a-4be6-827e-ca8bfd22e9ad_mobile_mid.m3u8"
+        },
+        "id": "594393d9ef23a8052253c725"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59478ee527186f633baf3832",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:44:30.940Z",
+      "updatedAt": "2017-12-21T09:39:49.986Z",
+      "parentId": "59478a2827186f633baf3806",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "比热容（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9ca0505e-d35d-463a-b0f7-b5ff9e60f39d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9ca0505e-d35d-463a-b0f7-b5ff9e60f39d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9ca0505e-d35d-463a-b0f7-b5ff9e60f39d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9ca0505e-d35d-463a-b0f7-b5ff9e60f39d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9ca0505e-d35d-463a-b0f7-b5ff9e60f39d_mobile_mid.m3u8"
+        },
+        "id": "59439411ef23a82eb67467fb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59478eee27186f633baf3834",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:24:18.770Z",
+    "updatedAt": "2017-12-21T09:41:18.003Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "热机",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a3227186f633baf3808",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:55:10.799Z",
+      "updatedAt": "2017-12-21T09:40:15.313Z",
+      "parentId": "59478a3227186f633baf3808",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "汽油机和柴油机",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/590a7d0e-7a77-442e-b590-ec0d9793f4b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/590a7d0e-7a77-442e-b590-ec0d9793f4b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/590a7d0e-7a77-442e-b590-ec0d9793f4b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/590a7d0e-7a77-442e-b590-ec0d9793f4b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/590a7d0e-7a77-442e-b590-ec0d9793f4b1_mobile_mid.m3u8"
+        },
+        "id": "59439454ef23a8302b0c35bc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947916e27186f633baf3838",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:55:18.328Z",
+      "updatedAt": "2017-12-21T09:40:59.526Z",
+      "parentId": "59478a3227186f633baf3808",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "内燃机知识总结",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5984ea0a-1c90-4b88-ad2a-77d308433342_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5984ea0a-1c90-4b88-ad2a-77d308433342_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5984ea0a-1c90-4b88-ad2a-77d308433342_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5984ea0a-1c90-4b88-ad2a-77d308433342_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5984ea0a-1c90-4b88-ad2a-77d308433342_mobile_mid.m3u8"
+        },
+        "id": "5943948def23a830026e6fb0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947917627186f633baf383a",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:24:28.744Z",
+    "updatedAt": "2017-12-21T09:42:34.935Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "热机的效率",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a3c27186f633baf380a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:55:28.669Z",
+      "updatedAt": "2017-12-21T09:42:55.592Z",
+      "parentId": "59478a3c27186f633baf380a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "燃料的热值",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e6ea2d8c-4a04-4a9b-a14f-bbb4a59d06ea_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e6ea2d8c-4a04-4a9b-a14f-bbb4a59d06ea_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e6ea2d8c-4a04-4a9b-a14f-bbb4a59d06ea_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e6ea2d8c-4a04-4a9b-a14f-bbb4a59d06ea_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e6ea2d8c-4a04-4a9b-a14f-bbb4a59d06ea_mobile_mid.m3u8"
+        },
+        "id": "594394b1ef23a84321c278ef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947918027186f633baf383c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:55:40.687Z",
+      "updatedAt": "2017-12-21T09:43:19.993Z",
+      "parentId": "59478a3c27186f633baf380a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "热量的计算",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e638111b-31a5-4530-9bd7-434d057dfa0a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e638111b-31a5-4530-9bd7-434d057dfa0a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e638111b-31a5-4530-9bd7-434d057dfa0a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e638111b-31a5-4530-9bd7-434d057dfa0a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e638111b-31a5-4530-9bd7-434d057dfa0a_mobile_mid.m3u8"
+        },
+        "id": "594394f1ef23a83072ca0b9e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947918c27186f633baf383e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:24:40.511Z",
+    "updatedAt": "2017-12-21T09:44:10.731Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "能量的转化和守恒",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a4827186f633baf380c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:55:51.505Z",
+      "updatedAt": "2017-12-21T09:44:30.513Z",
+      "parentId": "59478a4827186f633baf380c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "能量的转化",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7ef59793-9f08-42b6-918f-cf472d0edd56_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7ef59793-9f08-42b6-918f-cf472d0edd56_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7ef59793-9f08-42b6-918f-cf472d0edd56_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7ef59793-9f08-42b6-918f-cf472d0edd56_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7ef59793-9f08-42b6-918f-cf472d0edd56_mobile_mid.m3u8"
+        },
+        "id": "5943951aef23a830026e6fb1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947919727186f633baf3840",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:56:00.918Z",
+      "updatedAt": "2017-12-21T09:45:04.358Z",
+      "parentId": "59478a4827186f633baf380c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "能量守恒定律",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9e9fe02f-6e79-41f9-8bad-c2065521ea9b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9e9fe02f-6e79-41f9-8bad-c2065521ea9b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9e9fe02f-6e79-41f9-8bad-c2065521ea9b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9e9fe02f-6e79-41f9-8bad-c2065521ea9b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9e9fe02f-6e79-41f9-8bad-c2065521ea9b_mobile_mid.m3u8"
+        },
+        "id": "59439540ef23a82fe208eb43"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "594791a027186f633baf3842",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:24:50.498Z",
+    "updatedAt": "2017-12-21T09:45:31.323Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "两种电荷",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a5227186f633baf380e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:56:12.480Z",
+      "updatedAt": "2017-12-21T09:45:58.717Z",
+      "parentId": "59478a5227186f633baf380e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "摩擦起电",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/50b5bd45-346e-4952-b123-d8ab977dad59_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/50b5bd45-346e-4952-b123-d8ab977dad59_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/50b5bd45-346e-4952-b123-d8ab977dad59_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/50b5bd45-346e-4952-b123-d8ab977dad59_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/50b5bd45-346e-4952-b123-d8ab977dad59_mobile_mid.m3u8"
+        },
+        "id": "5943a22eef23a8305dbf4db0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "594791ac27186f633baf3844",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:56:20.373Z",
+      "updatedAt": "2017-12-21T09:46:22.812Z",
+      "parentId": "59478a5227186f633baf380e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "导体和绝缘体",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/df50bd40-b14d-408d-b100-b780b8973ecd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/df50bd40-b14d-408d-b100-b780b8973ecd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/df50bd40-b14d-408d-b100-b780b8973ecd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/df50bd40-b14d-408d-b100-b780b8973ecd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/df50bd40-b14d-408d-b100-b780b8973ecd_mobile_mid.m3u8"
+        },
+        "id": "5943a254ef23a8308c970e1f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "594791b427186f633baf3846",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:25:00.348Z",
+    "updatedAt": "2017-12-21T09:47:09.171Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电流和电路",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a5c27186f633baf3810",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:56:29.559Z",
+      "updatedAt": "2017-12-21T09:49:59.885Z",
+      "parentId": "59478a5c27186f633baf3810",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流、电路",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ca53e6bb-17ba-4eb5-8f13-41da32c3f408_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ca53e6bb-17ba-4eb5-8f13-41da32c3f408_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ca53e6bb-17ba-4eb5-8f13-41da32c3f408_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ca53e6bb-17ba-4eb5-8f13-41da32c3f408_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ca53e6bb-17ba-4eb5-8f13-41da32c3f408_mobile_mid.m3u8"
+        },
+        "id": "5943a29fef23a82fe208eb44"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "594791bd27186f633baf3848",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:56:38.304Z",
+      "updatedAt": "2017-12-21T09:50:20.763Z",
+      "parentId": "59478a5c27186f633baf3810",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电路图",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/90669b86-1b96-4a3f-bf38-265d89c4229e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/90669b86-1b96-4a3f-bf38-265d89c4229e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/90669b86-1b96-4a3f-bf38-265d89c4229e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/90669b86-1b96-4a3f-bf38-265d89c4229e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/90669b86-1b96-4a3f-bf38-265d89c4229e_mobile_mid.m3u8"
+        },
+        "id": "5943a2efef23a830822d9c5f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "594791c627186f633baf384a",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:25:11.125Z",
+    "updatedAt": "2017-12-21T09:50:53.902Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "串联、并联电路",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a6727186f633baf3812",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:57:43.662Z",
+      "updatedAt": "2017-12-21T09:51:16.321Z",
+      "parentId": "59478a6727186f633baf3812",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "串联、并联电路",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/55676bde-dbee-434b-a2a8-ea0e27d5ee11_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/55676bde-dbee-434b-a2a8-ea0e27d5ee11_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/55676bde-dbee-434b-a2a8-ea0e27d5ee11_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/55676bde-dbee-434b-a2a8-ea0e27d5ee11_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/55676bde-dbee-434b-a2a8-ea0e27d5ee11_mobile_mid.m3u8"
+        },
+        "id": "59487a6fef23a82feb8a14a1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947920727186f633baf384c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:57:53.305Z",
+      "updatedAt": "2017-12-21T09:51:39.191Z",
+      "parentId": "59478a6727186f633baf3812",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "生活中的电路",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/33decd1c-1c55-43cb-a554-c330ffd02a7e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/33decd1c-1c55-43cb-a554-c330ffd02a7e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/33decd1c-1c55-43cb-a554-c330ffd02a7e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/33decd1c-1c55-43cb-a554-c330ffd02a7e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/33decd1c-1c55-43cb-a554-c330ffd02a7e_mobile_mid.m3u8"
+        },
+        "id": "59487ad1ef23a82456d49ea7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947921127186f633baf384e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:25:20.436Z",
+    "updatedAt": "2017-12-21T09:52:03.944Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电流的测量",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a7027186f633baf3814",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:58:03.209Z",
+      "updatedAt": "2017-12-21T09:52:25.524Z",
+      "parentId": "59478a7027186f633baf3814",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流的测量",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e858fd56-16e7-4f2b-93d6-3995160b151c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e858fd56-16e7-4f2b-93d6-3995160b151c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e858fd56-16e7-4f2b-93d6-3995160b151c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e858fd56-16e7-4f2b-93d6-3995160b151c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e858fd56-16e7-4f2b-93d6-3995160b151c_mobile_mid.m3u8"
+        },
+        "id": "59487b0def23a83072ca0ba5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947921b27186f633baf3850",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T08:58:12.612Z",
+      "updatedAt": "2017-12-21T09:52:50.950Z",
+      "parentId": "59478a7027186f633baf3814",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "练习及总结",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e17db97f-e117-4d4c-9f78-aad7105d373d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e17db97f-e117-4d4c-9f78-aad7105d373d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e17db97f-e117-4d4c-9f78-aad7105d373d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e17db97f-e117-4d4c-9f78-aad7105d373d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e17db97f-e117-4d4c-9f78-aad7105d373d_mobile_mid.m3u8"
+        },
+        "id": "59487b71ef23a82fe208eb46"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947922427186f633baf3852",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:25:33.186Z",
+    "updatedAt": "2017-12-21T09:53:18.126Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "串、并联电路中电流的规律",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a7d27186f633baf3816",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:52:44.415Z",
+      "updatedAt": "2017-12-21T09:53:39.096Z",
+      "parentId": "59478a7d27186f633baf3816",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "串联电路中电流的规律",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ce9682de-ec6e-42a2-99b4-7623790cf7f6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ce9682de-ec6e-42a2-99b4-7623790cf7f6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ce9682de-ec6e-42a2-99b4-7623790cf7f6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ce9682de-ec6e-42a2-99b4-7623790cf7f6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ce9682de-ec6e-42a2-99b4-7623790cf7f6_mobile_mid.m3u8"
+        },
+        "id": "59487c3bef23a8300e2477f4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949df7c51121b46c527987e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:52:52.943Z",
+      "updatedAt": "2017-12-21T09:54:00.269Z",
+      "parentId": "59478a7d27186f633baf3816",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "并联电路中电流的规律",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/80f9966b-16f0-49fa-9b75-2ee65e92af46_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/80f9966b-16f0-49fa-9b75-2ee65e92af46_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/80f9966b-16f0-49fa-9b75-2ee65e92af46_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/80f9966b-16f0-49fa-9b75-2ee65e92af46_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/80f9966b-16f0-49fa-9b75-2ee65e92af46_mobile_mid.m3u8"
+        },
+        "id": "59487d88ef23a82eb67467ff"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949df8451121b46c5279880",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:25:42.761Z",
+    "updatedAt": "2017-12-21T09:54:26.700Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "课程小结及练习",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a8627186f633baf3818",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:53:02.412Z",
+      "updatedAt": "2017-12-21T09:54:53.792Z",
+      "parentId": "59478a8627186f633baf3818",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "机械能 内能（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0a181530-cf44-472f-9d8d-16e4fde15bd8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0a181530-cf44-472f-9d8d-16e4fde15bd8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0a181530-cf44-472f-9d8d-16e4fde15bd8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0a181530-cf44-472f-9d8d-16e4fde15bd8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0a181530-cf44-472f-9d8d-16e4fde15bd8_mobile_mid.m3u8"
+        },
+        "id": "59487df0ef23a8306926cbcb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949df8e51121b46c5279882",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:53:11.479Z",
+      "updatedAt": "2017-12-21T09:55:17.252Z",
+      "parentId": "59478a8627186f633baf3818",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "机械能 内能（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d6470656-20c7-49cd-a98e-2a4aa262b4d3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d6470656-20c7-49cd-a98e-2a4aa262b4d3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d6470656-20c7-49cd-a98e-2a4aa262b4d3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d6470656-20c7-49cd-a98e-2a4aa262b4d3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d6470656-20c7-49cd-a98e-2a4aa262b4d3_mobile_mid.m3u8"
+        },
+        "id": "59487e9cef23a8305dbf4db5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949df9751121b46c5279884",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:53:22.570Z",
+      "updatedAt": "2017-12-21T09:55:41.474Z",
+      "parentId": "59478a8627186f633baf3818",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "比热容 热机（一）",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dddb4844-1b9c-40f5-b1df-384337cc8cfd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dddb4844-1b9c-40f5-b1df-384337cc8cfd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dddb4844-1b9c-40f5-b1df-384337cc8cfd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dddb4844-1b9c-40f5-b1df-384337cc8cfd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dddb4844-1b9c-40f5-b1df-384337cc8cfd_mobile_mid.m3u8"
+        },
+        "id": "59487f34ef23a830026e6fb7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dfa251121b46c5279886",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:53:30.596Z",
+      "updatedAt": "2017-12-21T09:56:05.646Z",
+      "parentId": "59478a8627186f633baf3818",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "比热容 热机（二）",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/08fe13c0-d98e-45ee-95f6-9b9342fa0129_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/08fe13c0-d98e-45ee-95f6-9b9342fa0129_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/08fe13c0-d98e-45ee-95f6-9b9342fa0129_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/08fe13c0-d98e-45ee-95f6-9b9342fa0129_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/08fe13c0-d98e-45ee-95f6-9b9342fa0129_mobile_mid.m3u8"
+        },
+        "id": "59487f92ef23a8300e2477f5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dfaa51121b46c5279888",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:53:39.354Z",
+      "updatedAt": "2017-12-21T09:56:31.572Z",
+      "parentId": "59478a8627186f633baf3818",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流和电路 （一）",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e3af91a4-c958-4598-a39a-0c16d873356a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e3af91a4-c958-4598-a39a-0c16d873356a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e3af91a4-c958-4598-a39a-0c16d873356a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e3af91a4-c958-4598-a39a-0c16d873356a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e3af91a4-c958-4598-a39a-0c16d873356a_mobile_mid.m3u8"
+        },
+        "id": "5948800eef23a82fe208eb47"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dfb351121b46c527988a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:53:48.330Z",
+      "updatedAt": "2017-12-21T09:56:54.423Z",
+      "parentId": "59478a8627186f633baf3818",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流和电路 （二）",
+      "order": 6,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cd6a39da-9efb-4e55-87f3-1ce49b17a574_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cd6a39da-9efb-4e55-87f3-1ce49b17a574_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cd6a39da-9efb-4e55-87f3-1ce49b17a574_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cd6a39da-9efb-4e55-87f3-1ce49b17a574_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cd6a39da-9efb-4e55-87f3-1ce49b17a574_mobile_mid.m3u8"
+        },
+        "id": "594a101fef23a82456d49eab"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dfbc51121b46c527988c",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:25:53.727Z",
+    "updatedAt": "2017-12-21T09:57:31.705Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电压",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a9127186f633baf381a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:54:06.738Z",
+      "updatedAt": "2017-12-21T09:57:59.358Z",
+      "parentId": "59478a9127186f633baf381a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电压",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f0d9eef0-7a5d-4092-965c-3163f5a04caa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f0d9eef0-7a5d-4092-965c-3163f5a04caa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f0d9eef0-7a5d-4092-965c-3163f5a04caa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f0d9eef0-7a5d-4092-965c-3163f5a04caa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f0d9eef0-7a5d-4092-965c-3163f5a04caa_mobile_mid.m3u8"
+        },
+        "id": "594a1062ef23a82fd5fce9a8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dfce51121b46c527988e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:54:16.175Z",
+      "updatedAt": "2017-12-21T09:58:29.770Z",
+      "parentId": "59478a9127186f633baf381a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电压的测量",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/85495838-776c-4efa-af9a-daee60c6488a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/85495838-776c-4efa-af9a-daee60c6488a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/85495838-776c-4efa-af9a-daee60c6488a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/85495838-776c-4efa-af9a-daee60c6488a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/85495838-776c-4efa-af9a-daee60c6488a_mobile_mid.m3u8"
+        },
+        "id": "59489a5aef23a830822d9c61"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dfd851121b46c5279890",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:26:03.311Z",
+    "updatedAt": "2017-12-21T09:58:53.253Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "串、并联电路中电压的规律",
+    "order": 14,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478a9b27186f633baf381c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:54:38.554Z",
+      "updatedAt": "2017-12-21T10:08:08.858Z",
+      "parentId": "59478a9b27186f633baf381c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "串联电路中电压的规律",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1fa26a17-2550-470d-bf4d-b7320c10fcfc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1fa26a17-2550-470d-bf4d-b7320c10fcfc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1fa26a17-2550-470d-bf4d-b7320c10fcfc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1fa26a17-2550-470d-bf4d-b7320c10fcfc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1fa26a17-2550-470d-bf4d-b7320c10fcfc_mobile_mid.m3u8"
+        },
+        "id": "59489aaeef23a8305dbf4db6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dfee51121b46c5279892",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T02:54:47.056Z",
+      "updatedAt": "2017-12-21T10:08:14.803Z",
+      "parentId": "59478a9b27186f633baf381c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "并联电路中电压的规律",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f60227c7-5a3a-4e4c-9ebd-01915dd93e20_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f60227c7-5a3a-4e4c-9ebd-01915dd93e20_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f60227c7-5a3a-4e4c-9ebd-01915dd93e20_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f60227c7-5a3a-4e4c-9ebd-01915dd93e20_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f60227c7-5a3a-4e4c-9ebd-01915dd93e20_mobile_mid.m3u8"
+        },
+        "id": "59489b0def23a82080b5d23e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949dff751121b46c5279894",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:26:13.294Z",
+    "updatedAt": "2017-12-21T10:08:23.711Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电阻",
+    "order": 15,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478aa527186f633baf381e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:02:15.425Z",
+      "updatedAt": "2017-12-21T10:08:30.469Z",
+      "parentId": "59478aa527186f633baf381e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电阻",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8f97d686-fbba-483f-82b8-7e43ac7037c8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8f97d686-fbba-483f-82b8-7e43ac7037c8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8f97d686-fbba-483f-82b8-7e43ac7037c8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8f97d686-fbba-483f-82b8-7e43ac7037c8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8f97d686-fbba-483f-82b8-7e43ac7037c8_mobile_mid.m3u8"
+        },
+        "id": "59489b46ef23a8302b0c35c2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1b751121b46c5279896",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:02:25.171Z",
+      "updatedAt": "2017-12-21T10:08:36.963Z",
+      "parentId": "59478aa527186f633baf381e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "探究影响电阻大小的因素",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cfba823c-119e-4b95-898f-1e8b84892a10_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cfba823c-119e-4b95-898f-1e8b84892a10_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cfba823c-119e-4b95-898f-1e8b84892a10_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cfba823c-119e-4b95-898f-1e8b84892a10_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cfba823c-119e-4b95-898f-1e8b84892a10_mobile_mid.m3u8"
+        },
+        "id": "59489b90ef23a830626948b6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1c151121b46c5279898",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:31:44.749Z",
+    "updatedAt": "2017-12-21T10:08:44.950Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "变阻器",
+    "order": 16,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478bf027186f633baf3820",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:02:37.395Z",
+      "updatedAt": "2017-12-21T10:08:51.142Z",
+      "parentId": "59478bf027186f633baf3820",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "变阻器基础知识",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/47b788b6-db65-421a-86b0-46923265ca57_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/47b788b6-db65-421a-86b0-46923265ca57_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/47b788b6-db65-421a-86b0-46923265ca57_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/47b788b6-db65-421a-86b0-46923265ca57_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/47b788b6-db65-421a-86b0-46923265ca57_mobile_mid.m3u8"
+        },
+        "id": "59489bd7ef23a82fe208eb48"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1cd51121b46c527989a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:02:46.648Z",
+      "updatedAt": "2017-12-21T10:08:57.169Z",
+      "parentId": "59478bf027186f633baf3820",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "变阻器知识扩展与练习",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/120814e0-c69f-4ea1-9983-f1440af95609_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/120814e0-c69f-4ea1-9983-f1440af95609_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/120814e0-c69f-4ea1-9983-f1440af95609_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/120814e0-c69f-4ea1-9983-f1440af95609_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/120814e0-c69f-4ea1-9983-f1440af95609_mobile_mid.m3u8"
+        },
+        "id": "59489c2fef23a8300e2477f7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1d651121b46c527989c",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:31:58.208Z",
+    "updatedAt": "2017-12-21T10:09:04.363Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电流与电压和电阻的关系",
+    "order": 17,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478bfe27186f633baf3822",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:02:55.544Z",
+      "updatedAt": "2017-12-21T10:09:10.094Z",
+      "parentId": "59478bfe27186f633baf3822",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流与电压的关系",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/36e09551-d9fd-4ac4-91dd-bf5c9e628a9b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/36e09551-d9fd-4ac4-91dd-bf5c9e628a9b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/36e09551-d9fd-4ac4-91dd-bf5c9e628a9b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/36e09551-d9fd-4ac4-91dd-bf5c9e628a9b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/36e09551-d9fd-4ac4-91dd-bf5c9e628a9b_mobile_mid.m3u8"
+        },
+        "id": "5948b587ef23a82fd5fce99f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1df51121b46c527989e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:03:04.327Z",
+      "updatedAt": "2017-12-21T10:09:17.502Z",
+      "parentId": "59478bfe27186f633baf3822",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流与电阻的关系",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1b53184a-4cc7-4b69-aba2-14853d08b582_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1b53184a-4cc7-4b69-aba2-14853d08b582_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1b53184a-4cc7-4b69-aba2-14853d08b582_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1b53184a-4cc7-4b69-aba2-14853d08b582_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1b53184a-4cc7-4b69-aba2-14853d08b582_mobile_mid.m3u8"
+        },
+        "id": "5948b5c0ef23a82080b5d23f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1e851121b46c52798a0",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:32:08.074Z",
+    "updatedAt": "2017-12-21T10:09:23.906Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "欧姆定律",
+    "order": 18,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478c0827186f633baf3824",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:03:13.293Z",
+      "updatedAt": "2017-12-21T10:09:29.974Z",
+      "parentId": "59478c0827186f633baf3824",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "欧姆定律",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/468f33d4-fca3-437d-9256-3413b0ad7737_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/468f33d4-fca3-437d-9256-3413b0ad7737_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/468f33d4-fca3-437d-9256-3413b0ad7737_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/468f33d4-fca3-437d-9256-3413b0ad7737_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/468f33d4-fca3-437d-9256-3413b0ad7737_mobile_mid.m3u8"
+        },
+        "id": "5948b601ef23a82eb6746800"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1f151121b46c52798a2",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:03:22.235Z",
+      "updatedAt": "2017-12-21T10:09:35.403Z",
+      "parentId": "59478c0827186f633baf3824",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "应用及总结",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2924970e-036d-4668-92ef-327d847a5c75_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2924970e-036d-4668-92ef-327d847a5c75_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2924970e-036d-4668-92ef-327d847a5c75_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2924970e-036d-4668-92ef-327d847a5c75_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2924970e-036d-4668-92ef-327d847a5c75_mobile_mid.m3u8"
+        },
+        "id": "5948b66aef23a83055f064e0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e1fa51121b46c52798a4",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:32:19.793Z",
+    "updatedAt": "2017-12-21T10:09:42.187Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电阻的测量",
+    "order": 19,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478c1327186f633baf3826",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:03:32.080Z",
+      "updatedAt": "2017-12-21T10:09:48.026Z",
+      "parentId": "59478c1327186f633baf3826",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "伏安法测电阻",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c008fb1d-e903-49d2-81d6-a84ea12d2625_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c008fb1d-e903-49d2-81d6-a84ea12d2625_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c008fb1d-e903-49d2-81d6-a84ea12d2625_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c008fb1d-e903-49d2-81d6-a84ea12d2625_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c008fb1d-e903-49d2-81d6-a84ea12d2625_mobile_mid.m3u8"
+        },
+        "id": "5948b6bfef23a80d3835ccb5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e20451121b46c52798a6",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:03:41.542Z",
+      "updatedAt": "2017-12-21T10:09:53.533Z",
+      "parentId": "59478c1327186f633baf3826",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "应用总结",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/049b5744-7cf6-442f-be2b-9507dc6978b3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/049b5744-7cf6-442f-be2b-9507dc6978b3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/049b5744-7cf6-442f-be2b-9507dc6978b3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/049b5744-7cf6-442f-be2b-9507dc6978b3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/049b5744-7cf6-442f-be2b-9507dc6978b3_mobile_mid.m3u8"
+        },
+        "id": "5948b747ef23a82ff01ce521"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e20d51121b46c52798a8",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T08:32:31.215Z",
+    "updatedAt": "2017-12-21T10:10:05.736Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "欧姆定律在串、并联电路中的应用",
+    "order": 20,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59478c1f27186f633baf3828",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:03:51.696Z",
+      "updatedAt": "2017-12-21T10:10:11.498Z",
+      "parentId": "59478c1f27186f633baf3828",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "欧姆定律在串、并联电路中的应用（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a94babbd-ac21-4edf-903a-4f579a8d0c5b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a94babbd-ac21-4edf-903a-4f579a8d0c5b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a94babbd-ac21-4edf-903a-4f579a8d0c5b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a94babbd-ac21-4edf-903a-4f579a8d0c5b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a94babbd-ac21-4edf-903a-4f579a8d0c5b_mobile_mid.m3u8"
+        },
+        "id": "5948b7dfef23a82080b5d240"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e21751121b46c52798aa",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-21T03:04:01.520Z",
+      "updatedAt": "2017-12-21T10:10:17.247Z",
+      "parentId": "59478c1f27186f633baf3828",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "欧姆定律在串、并联电路中的应用（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ed1394fb-5806-4e5f-928f-a62a6f80e124_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ed1394fb-5806-4e5f-928f-a62a6f80e124_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ed1394fb-5806-4e5f-928f-a62a6f80e124_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ed1394fb-5806-4e5f-928f-a62a6f80e124_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ed1394fb-5806-4e5f-928f-a62a6f80e124_mobile_mid.m3u8"
+        },
+        "id": "5948b861ef23a82ffd23547e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5949e22151121b46c52798ac",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:16:56.150Z",
+    "updatedAt": "2017-12-21T10:10:25.957Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "课程小结及练习",
+    "order": 21,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532db841e25710cd72b331",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:22:22.707Z",
+      "updatedAt": "2017-12-21T10:10:31.555Z",
+      "parentId": "59532db841e25710cd72b331",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电压 电阻 变阻器（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a8dcd23c-f653-4af5-a6bc-e42d939b272f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a8dcd23c-f653-4af5-a6bc-e42d939b272f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a8dcd23c-f653-4af5-a6bc-e42d939b272f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a8dcd23c-f653-4af5-a6bc-e42d939b272f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a8dcd23c-f653-4af5-a6bc-e42d939b272f_mobile_mid.m3u8"
+        },
+        "id": "594b6e37d5ff751382935b69"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59532efe41e25710cd72b364",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:22:31.749Z",
+      "updatedAt": "2017-12-21T10:10:37.522Z",
+      "parentId": "59532db841e25710cd72b331",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电压 电阻 变阻器（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/be7da30d-2514-407c-a488-e2ccea74b6f9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/be7da30d-2514-407c-a488-e2ccea74b6f9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/be7da30d-2514-407c-a488-e2ccea74b6f9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/be7da30d-2514-407c-a488-e2ccea74b6f9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/be7da30d-2514-407c-a488-e2ccea74b6f9_mobile_mid.m3u8"
+        },
+        "id": "594b6d27ef23a8302f30745f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59532f0741e25710cd72b366",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:22:58.752Z",
+      "updatedAt": "2017-12-21T10:10:44.324Z",
+      "parentId": "59532db841e25710cd72b331",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "欧姆定律（一）",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0d132064-2c19-45d3-8ab4-27a504304555_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0d132064-2c19-45d3-8ab4-27a504304555_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0d132064-2c19-45d3-8ab4-27a504304555_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0d132064-2c19-45d3-8ab4-27a504304555_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0d132064-2c19-45d3-8ab4-27a504304555_mobile_mid.m3u8"
+        },
+        "id": "594b6eb9d5ff7513c60acf61"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59532f2241e25710cd72b368",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:23:11.828Z",
+      "updatedAt": "2017-12-21T10:10:52.513Z",
+      "parentId": "59532db841e25710cd72b331",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "欧姆定律（二）",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6c86eb5c-92d4-4cb2-8caf-6a28901280e1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6c86eb5c-92d4-4cb2-8caf-6a28901280e1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6c86eb5c-92d4-4cb2-8caf-6a28901280e1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6c86eb5c-92d4-4cb2-8caf-6a28901280e1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6c86eb5c-92d4-4cb2-8caf-6a28901280e1_mobile_mid.m3u8"
+        },
+        "id": "594b6dbbef23a85887e057c0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59532f2f41e25710cd72b36a",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:17:08.195Z",
+    "updatedAt": "2017-12-21T10:11:01.006Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电能 电功",
+    "order": 22,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532dc441e25710cd72b333",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:36:28.834Z",
+      "updatedAt": "2017-12-21T10:11:06.396Z",
+      "parentId": "59532dc441e25710cd72b333",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电能",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c0f569cd-9b0f-40a8-a8f3-eda56fa7bab8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c0f569cd-9b0f-40a8-a8f3-eda56fa7bab8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c0f569cd-9b0f-40a8-a8f3-eda56fa7bab8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c0f569cd-9b0f-40a8-a8f3-eda56fa7bab8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c0f569cd-9b0f-40a8-a8f3-eda56fa7bab8_mobile_mid.m3u8"
+        },
+        "id": "594b6e09ef23a83038f67c60"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953324c41e25710cd72b36c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:36:38.551Z",
+      "updatedAt": "2017-12-21T10:11:12.449Z",
+      "parentId": "59532dc441e25710cd72b333",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电功",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2078f62d-7b4e-4862-9443-67341b506e1c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2078f62d-7b4e-4862-9443-67341b506e1c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2078f62d-7b4e-4862-9443-67341b506e1c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2078f62d-7b4e-4862-9443-67341b506e1c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2078f62d-7b4e-4862-9443-67341b506e1c_mobile_mid.m3u8"
+        },
+        "id": "594b6e65ef23a8308c970e2f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953325641e25710cd72b36e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:17:19.098Z",
+    "updatedAt": "2017-12-21T10:11:19.850Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电功率",
+    "order": 23,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532dcf41e25710cd72b335",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:37:07.968Z",
+      "updatedAt": "2017-12-21T10:11:34.166Z",
+      "parentId": "59532dcf41e25710cd72b335",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电功率",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/111f4f68-6437-4efd-bfaa-ecf56df491b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/111f4f68-6437-4efd-bfaa-ecf56df491b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/111f4f68-6437-4efd-bfaa-ecf56df491b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/111f4f68-6437-4efd-bfaa-ecf56df491b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/111f4f68-6437-4efd-bfaa-ecf56df491b1_mobile_mid.m3u8"
+        },
+        "id": "594b6f0bef23a83026369cb8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953327341e25710cd72b370",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:37:16.455Z",
+      "updatedAt": "2017-12-21T10:11:40.224Z",
+      "parentId": "59532dcf41e25710cd72b335",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "额定电压、额定功率",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/778dc7ab-1b7a-4c3c-ad90-2659ded746ae_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/778dc7ab-1b7a-4c3c-ad90-2659ded746ae_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/778dc7ab-1b7a-4c3c-ad90-2659ded746ae_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/778dc7ab-1b7a-4c3c-ad90-2659ded746ae_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/778dc7ab-1b7a-4c3c-ad90-2659ded746ae_mobile_mid.m3u8"
+        },
+        "id": "594b7107d5ff751390384551"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953327c41e25710cd72b372",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:17:34.143Z",
+    "updatedAt": "2017-12-21T10:11:47.902Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "测量小灯泡的功率",
+    "order": 24,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532dde41e25710cd72b337",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:37:24.937Z",
+      "updatedAt": "2017-12-21T10:11:53.839Z",
+      "parentId": "59532dde41e25710cd72b337",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "测量小灯泡的功率",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e8e66c66-fdb4-432a-9b47-f72e249f46e9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e8e66c66-fdb4-432a-9b47-f72e249f46e9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e8e66c66-fdb4-432a-9b47-f72e249f46e9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e8e66c66-fdb4-432a-9b47-f72e249f46e9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e8e66c66-fdb4-432a-9b47-f72e249f46e9_mobile_mid.m3u8"
+        },
+        "id": "594b725dd5ff7513783b2c70"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953328441e25710cd72b374",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:17:44.081Z",
+    "updatedAt": "2017-12-21T10:12:01.513Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "焦耳定律",
+    "order": 25,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532de841e25710cd72b339",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:37:34.879Z",
+      "updatedAt": "2017-12-21T10:12:12.937Z",
+      "parentId": "59532de841e25710cd72b339",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流的热效应",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d641da72-b36d-4642-887e-c9d78a80cc8c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d641da72-b36d-4642-887e-c9d78a80cc8c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d641da72-b36d-4642-887e-c9d78a80cc8c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d641da72-b36d-4642-887e-c9d78a80cc8c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d641da72-b36d-4642-887e-c9d78a80cc8c_mobile_mid.m3u8"
+        },
+        "id": "594b71bcef23a82fd351fccd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953328e41e25710cd72b376",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:37:45.089Z",
+      "updatedAt": "2017-12-21T10:12:19.717Z",
+      "parentId": "59532de841e25710cd72b339",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "焦耳定律",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2d2a40f2-557a-43c0-9946-9ad7253f85cf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2d2a40f2-557a-43c0-9946-9ad7253f85cf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2d2a40f2-557a-43c0-9946-9ad7253f85cf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2d2a40f2-557a-43c0-9946-9ad7253f85cf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2d2a40f2-557a-43c0-9946-9ad7253f85cf_mobile_mid.m3u8"
+        },
+        "id": "594b73ead5ff7513ad66090b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953329941e25710cd72b378",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:17:54.281Z",
+    "updatedAt": "2017-12-21T10:12:27.339Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "家庭电路",
+    "order": 26,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532df241e25710cd72b33b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:37:55.468Z",
+      "updatedAt": "2017-12-21T10:12:33.100Z",
+      "parentId": "59532df241e25710cd72b33b",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "家庭电路",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a88844ca-31c0-48ef-8942-5df61efd885b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a88844ca-31c0-48ef-8942-5df61efd885b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a88844ca-31c0-48ef-8942-5df61efd885b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a88844ca-31c0-48ef-8942-5df61efd885b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a88844ca-31c0-48ef-8942-5df61efd885b_mobile_mid.m3u8"
+        },
+        "id": "594b7328ef23a8306926cbd6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332a341e25710cd72b37a",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:18:04.750Z",
+    "updatedAt": "2017-12-21T10:12:40.603Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "家庭电路中电流过大的原因",
+    "order": 27,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532dfc41e25710cd72b33d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:38:05.977Z",
+      "updatedAt": "2017-12-21T10:12:46.383Z",
+      "parentId": "59532dfc41e25710cd72b33d",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "总功率对电路的影响",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4123b40f-68b8-4588-8e18-2e4dd2622a0f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4123b40f-68b8-4588-8e18-2e4dd2622a0f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4123b40f-68b8-4588-8e18-2e4dd2622a0f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4123b40f-68b8-4588-8e18-2e4dd2622a0f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4123b40f-68b8-4588-8e18-2e4dd2622a0f_mobile_mid.m3u8"
+        },
+        "id": "594b738bef23a8300e247802"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332ad41e25710cd72b37c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:38:14.200Z",
+      "updatedAt": "2017-12-21T10:12:52.890Z",
+      "parentId": "59532dfc41e25710cd72b33d",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "短路对电路的影响及保险丝的作用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/29e0af78-8f58-4116-84d8-50ceb7ce3153_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/29e0af78-8f58-4116-84d8-50ceb7ce3153_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/29e0af78-8f58-4116-84d8-50ceb7ce3153_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/29e0af78-8f58-4116-84d8-50ceb7ce3153_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/29e0af78-8f58-4116-84d8-50ceb7ce3153_mobile_mid.m3u8"
+        },
+        "id": "594b73daef23a82fd351fcce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332b641e25710cd72b37e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:18:12.893Z",
+    "updatedAt": "2017-12-21T10:13:01.122Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "安全用电",
+    "order": 28,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e0441e25710cd72b33f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:38:22.643Z",
+      "updatedAt": "2017-12-21T10:13:08.271Z",
+      "parentId": "59532e0441e25710cd72b33f",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "基本知识",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ce7e366c-84b2-4d83-a3da-b424c276dceb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ce7e366c-84b2-4d83-a3da-b424c276dceb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ce7e366c-84b2-4d83-a3da-b424c276dceb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ce7e366c-84b2-4d83-a3da-b424c276dceb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ce7e366c-84b2-4d83-a3da-b424c276dceb_mobile_mid.m3u8"
+        },
+        "id": "594b75add5ff7513a1c2a639"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332be41e25710cd72b380",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:38:30.418Z",
+      "updatedAt": "2017-12-21T10:13:15.819Z",
+      "parentId": "59532e0441e25710cd72b33f",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "总结补充",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1aa448c8-9704-41c6-8540-b28d11d494d1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1aa448c8-9704-41c6-8540-b28d11d494d1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1aa448c8-9704-41c6-8540-b28d11d494d1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1aa448c8-9704-41c6-8540-b28d11d494d1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1aa448c8-9704-41c6-8540-b28d11d494d1_mobile_mid.m3u8"
+        },
+        "id": "594b74aaef23a82ff01ce52d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332c641e25710cd72b382",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:18:22.298Z",
+    "updatedAt": "2017-12-21T10:13:25.044Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "课程小结及练习",
+    "order": 29,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e0e41e25710cd72b341",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:38:41.103Z",
+      "updatedAt": "2017-12-21T10:13:31.309Z",
+      "parentId": "59532e0e41e25710cd72b341",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电能 电功率（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6dc8149a-b456-45f2-862a-00e16512d04e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6dc8149a-b456-45f2-862a-00e16512d04e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6dc8149a-b456-45f2-862a-00e16512d04e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6dc8149a-b456-45f2-862a-00e16512d04e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6dc8149a-b456-45f2-862a-00e16512d04e_mobile_mid.m3u8"
+        },
+        "id": "594b74fdef23a82264c26f4d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332d141e25710cd72b384",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:38:49.955Z",
+      "updatedAt": "2017-12-21T10:13:37.542Z",
+      "parentId": "59532e0e41e25710cd72b341",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电能 电功率（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/944e6e45-6535-4187-b930-82c8059d0169_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/944e6e45-6535-4187-b930-82c8059d0169_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/944e6e45-6535-4187-b930-82c8059d0169_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/944e6e45-6535-4187-b930-82c8059d0169_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/944e6e45-6535-4187-b930-82c8059d0169_mobile_mid.m3u8"
+        },
+        "id": "594b7579ef23a84321c278fe"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332d941e25710cd72b386",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:39:02.165Z",
+      "updatedAt": "2017-12-21T10:13:43.830Z",
+      "parentId": "59532e0e41e25710cd72b341",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流的热效应（一）",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/35f18cc0-4d3d-40a8-a205-0debeafcb393_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/35f18cc0-4d3d-40a8-a205-0debeafcb393_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/35f18cc0-4d3d-40a8-a205-0debeafcb393_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/35f18cc0-4d3d-40a8-a205-0debeafcb393_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/35f18cc0-4d3d-40a8-a205-0debeafcb393_mobile_mid.m3u8"
+        },
+        "id": "594b7722d5ff7513ad66090c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332e641e25710cd72b388",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:39:11.440Z",
+      "updatedAt": "2017-12-21T10:13:51.643Z",
+      "parentId": "59532e0e41e25710cd72b341",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流的热效应（二）",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cbffa9c1-7a29-4c7f-a759-59aa840617fd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cbffa9c1-7a29-4c7f-a759-59aa840617fd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cbffa9c1-7a29-4c7f-a759-59aa840617fd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cbffa9c1-7a29-4c7f-a759-59aa840617fd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cbffa9c1-7a29-4c7f-a759-59aa840617fd_mobile_mid.m3u8"
+        },
+        "id": "594b77aed5ff75136d2008b8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332ef41e25710cd72b38a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:39:20.674Z",
+      "updatedAt": "2017-12-21T10:14:00.616Z",
+      "parentId": "59532e0e41e25710cd72b341",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "生活用电 （一）",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5965ca69-da53-4171-8290-66cbe5d8de25_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5965ca69-da53-4171-8290-66cbe5d8de25_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5965ca69-da53-4171-8290-66cbe5d8de25_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5965ca69-da53-4171-8290-66cbe5d8de25_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5965ca69-da53-4171-8290-66cbe5d8de25_mobile_mid.m3u8"
+        },
+        "id": "594b76a0ef23a830626948bd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595332f841e25710cd72b38c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:39:35.248Z",
+      "updatedAt": "2017-12-21T10:14:10.292Z",
+      "parentId": "59532e0e41e25710cd72b341",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "生活用电 （二）",
+      "order": 6,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c6a1201c-62dd-4876-9634-34845c4f3dfb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c6a1201c-62dd-4876-9634-34845c4f3dfb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c6a1201c-62dd-4876-9634-34845c4f3dfb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c6a1201c-62dd-4876-9634-34845c4f3dfb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c6a1201c-62dd-4876-9634-34845c4f3dfb_mobile_mid.m3u8"
+        },
+        "id": "594b76d2ef23a8300dc58f56"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953330741e25710cd72b38e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:18:34.025Z",
+    "updatedAt": "2017-12-21T10:14:22.048Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "磁现象 磁场",
+    "order": 30,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e1a41e25710cd72b343",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:39:44.881Z",
+      "updatedAt": "2017-12-21T10:14:35.058Z",
+      "parentId": "59532e1a41e25710cd72b343",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "磁现象",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0e2f8bb5-7655-4e24-bbe3-c168f50f6bff_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0e2f8bb5-7655-4e24-bbe3-c168f50f6bff_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0e2f8bb5-7655-4e24-bbe3-c168f50f6bff_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0e2f8bb5-7655-4e24-bbe3-c168f50f6bff_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0e2f8bb5-7655-4e24-bbe3-c168f50f6bff_mobile_mid.m3u8"
+        },
+        "id": "594b770aef23a82ffd235488"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953331041e25710cd72b390",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:39:54.726Z",
+      "updatedAt": "2017-12-21T10:14:40.862Z",
+      "parentId": "59532e1a41e25710cd72b343",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "磁场 地磁场",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eb2564ec-73f6-40ec-81dc-4c6d5e9ac610_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eb2564ec-73f6-40ec-81dc-4c6d5e9ac610_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eb2564ec-73f6-40ec-81dc-4c6d5e9ac610_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eb2564ec-73f6-40ec-81dc-4c6d5e9ac610_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eb2564ec-73f6-40ec-81dc-4c6d5e9ac610_mobile_mid.m3u8"
+        },
+        "id": "594b78c6d5ff7513c60acf62"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953331a41e25710cd72b392",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:18:42.450Z",
+    "updatedAt": "2017-12-21T10:14:55.067Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电生磁",
+    "order": 31,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e2241e25710cd72b345",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:40:06.578Z",
+      "updatedAt": "2017-12-21T10:15:03.914Z",
+      "parentId": "59532e2241e25710cd72b345",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电流的磁效应",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/058f9868-b2bc-4798-a734-9c7b384e390f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/058f9868-b2bc-4798-a734-9c7b384e390f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/058f9868-b2bc-4798-a734-9c7b384e390f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/058f9868-b2bc-4798-a734-9c7b384e390f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/058f9868-b2bc-4798-a734-9c7b384e390f_mobile_mid.m3u8"
+        },
+        "id": "594caf9cef23a83072ca0bad"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953332641e25710cd72b394",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:40:16.852Z",
+      "updatedAt": "2017-12-21T10:15:11.024Z",
+      "parentId": "59532e2241e25710cd72b345",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "安培定则",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/93bc5fb8-87d9-44d7-a865-2ce3286a06de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/93bc5fb8-87d9-44d7-a865-2ce3286a06de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/93bc5fb8-87d9-44d7-a865-2ce3286a06de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/93bc5fb8-87d9-44d7-a865-2ce3286a06de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/93bc5fb8-87d9-44d7-a865-2ce3286a06de_mobile_mid.m3u8"
+        },
+        "id": "594cb013ef23a8300e247803"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953333041e25710cd72b396",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:18:51.203Z",
+    "updatedAt": "2017-12-21T10:15:19.700Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电磁铁 电磁继电器",
+    "order": 32,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e2b41e25710cd72b347",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:40:30.083Z",
+      "updatedAt": "2017-12-21T10:15:25.984Z",
+      "parentId": "59532e2b41e25710cd72b347",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电磁铁",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aac56ada-a683-48da-b538-5a614525a5d7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aac56ada-a683-48da-b538-5a614525a5d7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aac56ada-a683-48da-b538-5a614525a5d7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aac56ada-a683-48da-b538-5a614525a5d7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aac56ada-a683-48da-b538-5a614525a5d7_mobile_mid.m3u8"
+        },
+        "id": "594cb04eef23a830026e6fc4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953333e41e25710cd72b398",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:40:39.808Z",
+      "updatedAt": "2017-12-21T10:15:33.677Z",
+      "parentId": "59532e2b41e25710cd72b347",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电磁铁的应用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/40a8cb72-d48b-46b6-b837-f4e7dfa57cb1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/40a8cb72-d48b-46b6-b837-f4e7dfa57cb1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/40a8cb72-d48b-46b6-b837-f4e7dfa57cb1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/40a8cb72-d48b-46b6-b837-f4e7dfa57cb1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/40a8cb72-d48b-46b6-b837-f4e7dfa57cb1_mobile_mid.m3u8"
+        },
+        "id": "594cb0e0ef23a82fd4f5dc12"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953334741e25710cd72b39a",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:18:59.648Z",
+    "updatedAt": "2017-12-21T10:15:39.968Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电动机",
+    "order": 33,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e3341e25710cd72b34a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:40:48.387Z",
+      "updatedAt": "2017-12-21T10:15:46.157Z",
+      "parentId": "59532e3341e25710cd72b34a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "磁场对通电导线的作用",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/18b648c7-bcc8-40e3-abef-023db20a9c3e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/18b648c7-bcc8-40e3-abef-023db20a9c3e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/18b648c7-bcc8-40e3-abef-023db20a9c3e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/18b648c7-bcc8-40e3-abef-023db20a9c3e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/18b648c7-bcc8-40e3-abef-023db20a9c3e_mobile_mid.m3u8"
+        },
+        "id": "594cb136ef23a83055f064ed"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953335041e25710cd72b39c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:40:58.154Z",
+      "updatedAt": "2017-12-21T10:15:54.417Z",
+      "parentId": "59532e3341e25710cd72b34a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电动机的基本构造",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/693dad28-bf62-4758-a641-650de2468d6d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/693dad28-bf62-4758-a641-650de2468d6d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/693dad28-bf62-4758-a641-650de2468d6d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/693dad28-bf62-4758-a641-650de2468d6d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/693dad28-bf62-4758-a641-650de2468d6d_mobile_mid.m3u8"
+        },
+        "id": "594cb1daef23a82fd5fce9ae"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953335a41e25710cd72b39e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:19:08.933Z",
+    "updatedAt": "2017-12-21T10:16:01.081Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "磁生电",
+    "order": 34,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e3c41e25710cd72b34c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:41:07.207Z",
+      "updatedAt": "2017-12-21T10:16:07.371Z",
+      "parentId": "59532e3c41e25710cd72b34c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电磁感应现象",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/02da17dd-0302-4633-a407-588baa5c5914_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/02da17dd-0302-4633-a407-588baa5c5914_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/02da17dd-0302-4633-a407-588baa5c5914_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/02da17dd-0302-4633-a407-588baa5c5914_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/02da17dd-0302-4633-a407-588baa5c5914_mobile_mid.m3u8"
+        },
+        "id": "594cb24051f0744b2a99be76"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953336341e25710cd72b3a0",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:41:16.275Z",
+      "updatedAt": "2017-12-21T10:16:13.468Z",
+      "parentId": "59532e3c41e25710cd72b34c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "发电机",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a295a79d-6b11-4c78-b426-0b72922b765d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a295a79d-6b11-4c78-b426-0b72922b765d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a295a79d-6b11-4c78-b426-0b72922b765d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a295a79d-6b11-4c78-b426-0b72922b765d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a295a79d-6b11-4c78-b426-0b72922b765d_mobile_mid.m3u8"
+        },
+        "id": "594cb28a51f0744b84e04bb3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953336c41e25710cd72b3a2",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:19:17.724Z",
+    "updatedAt": "2017-12-21T10:16:20.066Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电学知识总结提高",
+    "order": 35,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e4541e25710cd72b34e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:41:27.133Z",
+      "updatedAt": "2017-12-21T10:16:26.985Z",
+      "parentId": "59532e4541e25710cd72b34e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "动态电路问题",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5ea8bfd3-6dd4-4cab-9251-c4196f27b220_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5ea8bfd3-6dd4-4cab-9251-c4196f27b220_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5ea8bfd3-6dd4-4cab-9251-c4196f27b220_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5ea8bfd3-6dd4-4cab-9251-c4196f27b220_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5ea8bfd3-6dd4-4cab-9251-c4196f27b220_mobile_mid.m3u8"
+        },
+        "id": "594cb33451f0744b08e84130"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953337741e25710cd72b3a4",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:41:35.863Z",
+      "updatedAt": "2017-12-21T10:16:33.738Z",
+      "parentId": "59532e4541e25710cd72b34e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电路故障问题",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/59e2dbba-f90b-42fd-9421-e5f44b5fdd4b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/59e2dbba-f90b-42fd-9421-e5f44b5fdd4b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/59e2dbba-f90b-42fd-9421-e5f44b5fdd4b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/59e2dbba-f90b-42fd-9421-e5f44b5fdd4b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/59e2dbba-f90b-42fd-9421-e5f44b5fdd4b_mobile_mid.m3u8"
+        },
+        "id": "594cb3aeef23a82ff01ce52e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953337f41e25710cd72b3a6",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:41:43.841Z",
+      "updatedAt": "2017-12-21T10:16:39.928Z",
+      "parentId": "59532e4541e25710cd72b34e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电路安全问题",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/688c3029-653e-45e4-aaad-988f8df9f47d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/688c3029-653e-45e4-aaad-988f8df9f47d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/688c3029-653e-45e4-aaad-988f8df9f47d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/688c3029-653e-45e4-aaad-988f8df9f47d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/688c3029-653e-45e4-aaad-988f8df9f47d_mobile_mid.m3u8"
+        },
+        "id": "594cb42551f0744b8fa42894"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953338741e25710cd72b3a8",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:41:51.638Z",
+      "updatedAt": "2017-12-21T10:16:45.821Z",
+      "parentId": "59532e4541e25710cd72b34e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电学实验扩展",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0feaf09e-cc91-4689-bb44-9d146491634e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0feaf09e-cc91-4689-bb44-9d146491634e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0feaf09e-cc91-4689-bb44-9d146491634e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0feaf09e-cc91-4689-bb44-9d146491634e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0feaf09e-cc91-4689-bb44-9d146491634e_mobile_mid.m3u8"
+        },
+        "id": "594cb5c0d5ff7513c5256cbe"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953338f41e25710cd72b3aa",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:41:59.320Z",
+      "updatedAt": "2017-12-21T10:16:51.779Z",
+      "parentId": "59532e4541e25710cd72b34e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电学综合计算",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7fa1c9f3-b97c-4e0c-bd6c-0f31d1fdc685_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7fa1c9f3-b97c-4e0c-bd6c-0f31d1fdc685_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7fa1c9f3-b97c-4e0c-bd6c-0f31d1fdc685_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7fa1c9f3-b97c-4e0c-bd6c-0f31d1fdc685_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7fa1c9f3-b97c-4e0c-bd6c-0f31d1fdc685_mobile_mid.m3u8"
+        },
+        "id": "594cb504ef23a84321c27902"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953339741e25710cd72b3ac",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:19:28.154Z",
+    "updatedAt": "2017-12-21T10:16:59.732Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "现代顺风耳-电话",
+    "order": 36,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e5041e25710cd72b350",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:42:07.683Z",
+      "updatedAt": "2017-12-21T10:17:05.837Z",
+      "parentId": "59532e5041e25710cd72b350",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电话的结构和原理",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dcb6c4d1-d8f7-40a1-bafa-aae4adec3bbe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dcb6c4d1-d8f7-40a1-bafa-aae4adec3bbe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dcb6c4d1-d8f7-40a1-bafa-aae4adec3bbe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dcb6c4d1-d8f7-40a1-bafa-aae4adec3bbe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dcb6c4d1-d8f7-40a1-bafa-aae4adec3bbe_mobile_mid.m3u8"
+        },
+        "id": "594cb55551f0744b545a3a8b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953339f41e25710cd72b3ae",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:42:16.254Z",
+      "updatedAt": "2017-12-21T10:17:12.375Z",
+      "parentId": "59532e5041e25710cd72b350",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电话交换机的作用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b73fca8f-3aef-4434-b636-64cc916514f3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b73fca8f-3aef-4434-b636-64cc916514f3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b73fca8f-3aef-4434-b636-64cc916514f3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b73fca8f-3aef-4434-b636-64cc916514f3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b73fca8f-3aef-4434-b636-64cc916514f3_mobile_mid.m3u8"
+        },
+        "id": "594cb5a651f0744b07dbd4e9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595333a841e25710cd72b3b0",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:19:36.396Z",
+    "updatedAt": "2017-12-21T10:17:20.518Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "电磁波的海洋",
+    "order": 37,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e5841e25710cd72b352",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:54:14.897Z",
+      "updatedAt": "2017-12-21T10:17:26.676Z",
+      "parentId": "59532e5841e25710cd72b352",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电磁波",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7475de38-25ee-43a5-b459-83fe1c6d8294_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7475de38-25ee-43a5-b459-83fe1c6d8294_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7475de38-25ee-43a5-b459-83fe1c6d8294_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7475de38-25ee-43a5-b459-83fe1c6d8294_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7475de38-25ee-43a5-b459-83fe1c6d8294_mobile_mid.m3u8"
+        },
+        "id": "594cb5e1ef23a85887e057c2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953367641e25710cd72b3b2",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:54:22.697Z",
+      "updatedAt": "2017-12-21T10:17:32.856Z",
+      "parentId": "59532e5841e25710cd72b352",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电磁波与生活",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a8dc8b99-2115-42d6-86c2-bf364151be0e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a8dc8b99-2115-42d6-86c2-bf364151be0e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a8dc8b99-2115-42d6-86c2-bf364151be0e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a8dc8b99-2115-42d6-86c2-bf364151be0e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a8dc8b99-2115-42d6-86c2-bf364151be0e_mobile_mid.m3u8"
+        },
+        "id": "594cb616ef23a8300e247804"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953367e41e25710cd72b3b4",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:19:45.218Z",
+    "updatedAt": "2017-12-21T10:17:40.682Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "广播、电视和移动通信",
+    "order": 38,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e6141e25710cd72b354",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:54:43.322Z",
+      "updatedAt": "2017-12-21T10:17:47.006Z",
+      "parentId": "59532e6141e25710cd72b354",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "无线电广播信号的发射和接收",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d517fbe1-e3f6-4a7a-a7e2-d2b261ea5cd0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d517fbe1-e3f6-4a7a-a7e2-d2b261ea5cd0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d517fbe1-e3f6-4a7a-a7e2-d2b261ea5cd0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d517fbe1-e3f6-4a7a-a7e2-d2b261ea5cd0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d517fbe1-e3f6-4a7a-a7e2-d2b261ea5cd0_mobile_mid.m3u8"
+        },
+        "id": "594cb632ef23a8300e247805"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953369341e25710cd72b3b6",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:54:51.991Z",
+      "updatedAt": "2017-12-21T10:17:53.900Z",
+      "parentId": "59532e6141e25710cd72b354",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电视的发射和接收、移动电话",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04e8c391-cb49-440a-828f-4025afd7b6a6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04e8c391-cb49-440a-828f-4025afd7b6a6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04e8c391-cb49-440a-828f-4025afd7b6a6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04e8c391-cb49-440a-828f-4025afd7b6a6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04e8c391-cb49-440a-828f-4025afd7b6a6_mobile_mid.m3u8"
+        },
+        "id": "594cb69c51f0744b3c6d61d8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953369b41e25710cd72b3b8",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:19:54.304Z",
+    "updatedAt": "2017-12-21T10:18:02.511Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "越来越宽的信息之路",
+    "order": 39,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e6a41e25710cd72b356",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:55:00.441Z",
+      "updatedAt": "2017-12-21T10:18:08.425Z",
+      "parentId": "59532e6a41e25710cd72b356",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "微波通信 卫星通信",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/696a8df6-c045-480c-abfe-8e50a4ff72f6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/696a8df6-c045-480c-abfe-8e50a4ff72f6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/696a8df6-c045-480c-abfe-8e50a4ff72f6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/696a8df6-c045-480c-abfe-8e50a4ff72f6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/696a8df6-c045-480c-abfe-8e50a4ff72f6_mobile_mid.m3u8"
+        },
+        "id": "594cb6d6ef23a82456d49eb0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336a441e25710cd72b3ba",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:55:08.927Z",
+      "updatedAt": "2017-12-21T10:18:19.918Z",
+      "parentId": "59532e6a41e25710cd72b356",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "光纤通信 网络通信",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/15753f03-cb67-4046-8898-2d0d999352c4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/15753f03-cb67-4046-8898-2d0d999352c4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/15753f03-cb67-4046-8898-2d0d999352c4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/15753f03-cb67-4046-8898-2d0d999352c4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/15753f03-cb67-4046-8898-2d0d999352c4_mobile_mid.m3u8"
+        },
+        "id": "594cb72751f0744b1ec89214"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336ac41e25710cd72b3bc",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:20:02.608Z",
+    "updatedAt": "2017-12-21T10:18:28.691Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "能源",
+    "order": 40,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e7241e25710cd72b358",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T05:00:11.385Z",
+      "updatedAt": "2017-12-21T10:18:34.322Z",
+      "parentId": "59532e7241e25710cd72b358",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "能源的概念及发展历程",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d424e981-6f99-41bc-a270-353683730b19_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d424e981-6f99-41bc-a270-353683730b19_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d424e981-6f99-41bc-a270-353683730b19_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d424e981-6f99-41bc-a270-353683730b19_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d424e981-6f99-41bc-a270-353683730b19_mobile_mid.m3u8"
+        },
+        "id": "594cb76def23a87f216eeb05"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595337db41e25710cd72b3e4",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:55:27.544Z",
+      "updatedAt": "2017-12-21T10:18:39.463Z",
+      "parentId": "59532e7241e25710cd72b358",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "能源的类型与趋势",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6ad66171-124f-4de9-b305-f84e12aac17e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6ad66171-124f-4de9-b305-f84e12aac17e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6ad66171-124f-4de9-b305-f84e12aac17e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6ad66171-124f-4de9-b305-f84e12aac17e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6ad66171-124f-4de9-b305-f84e12aac17e_mobile_mid.m3u8"
+        },
+        "id": "594cb7c851f0744b8fa42895"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336bf41e25710cd72b3c0",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:20:10.918Z",
+    "updatedAt": "2017-12-21T10:18:44.768Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "核能",
+    "order": 41,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e7a41e25710cd72b35a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:55:35.809Z",
+      "updatedAt": "2017-12-21T10:18:51.152Z",
+      "parentId": "59532e7a41e25710cd72b35a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "核能",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/18d43e21-197b-4502-b27a-ad13418afae6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/18d43e21-197b-4502-b27a-ad13418afae6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/18d43e21-197b-4502-b27a-ad13418afae6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/18d43e21-197b-4502-b27a-ad13418afae6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/18d43e21-197b-4502-b27a-ad13418afae6_mobile_mid.m3u8"
+        },
+        "id": "594cb7f7ef23a85887e057c3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336c741e25710cd72b3c2",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:55:45.642Z",
+      "updatedAt": "2017-12-21T10:18:58.104Z",
+      "parentId": "59532e7a41e25710cd72b35a",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "裂变和聚变",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6112714b-d230-4f78-9bf6-ebb6fb784859_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6112714b-d230-4f78-9bf6-ebb6fb784859_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6112714b-d230-4f78-9bf6-ebb6fb784859_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6112714b-d230-4f78-9bf6-ebb6fb784859_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6112714b-d230-4f78-9bf6-ebb6fb784859_mobile_mid.m3u8"
+        },
+        "id": "594cb83bef23a87f216eeb06"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336d141e25710cd72b3c4",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:20:20.073Z",
+    "updatedAt": "2017-12-21T10:19:07.347Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "太阳能",
+    "order": 42,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e8441e25710cd72b35c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:55:54.858Z",
+      "updatedAt": "2017-12-21T10:19:13.540Z",
+      "parentId": "59532e8441e25710cd72b35c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "太阳能的来源-太阳",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7deb345c-4457-40cc-a4f8-964dd7bb1ade_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7deb345c-4457-40cc-a4f8-964dd7bb1ade_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7deb345c-4457-40cc-a4f8-964dd7bb1ade_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7deb345c-4457-40cc-a4f8-964dd7bb1ade_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7deb345c-4457-40cc-a4f8-964dd7bb1ade_mobile_mid.m3u8"
+        },
+        "id": "594ce259ef23a80d3835ccc2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336da41e25710cd72b3c6",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:56:03.703Z",
+      "updatedAt": "2017-12-21T10:19:20.030Z",
+      "parentId": "59532e8441e25710cd72b35c",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "太阳能的利用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/61f51f0d-4be9-4fe4-8ee9-5a50cd55d9b8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/61f51f0d-4be9-4fe4-8ee9-5a50cd55d9b8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/61f51f0d-4be9-4fe4-8ee9-5a50cd55d9b8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/61f51f0d-4be9-4fe4-8ee9-5a50cd55d9b8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/61f51f0d-4be9-4fe4-8ee9-5a50cd55d9b8_mobile_mid.m3u8"
+        },
+        "id": "594ce2cdef23a82264c26f4e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336e341e25710cd72b3c8",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:20:30.541Z",
+    "updatedAt": "2017-12-21T10:19:32.480Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "能源与可持续发展",
+    "order": 43,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e8e41e25710cd72b35e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:56:17.720Z",
+      "updatedAt": "2017-12-21T10:19:38.654Z",
+      "parentId": "59532e8e41e25710cd72b35e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "能量转移和转化的方向性",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9d98a8f6-822d-4470-9a1c-d4aa87f68df1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9d98a8f6-822d-4470-9a1c-d4aa87f68df1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9d98a8f6-822d-4470-9a1c-d4aa87f68df1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9d98a8f6-822d-4470-9a1c-d4aa87f68df1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9d98a8f6-822d-4470-9a1c-d4aa87f68df1_mobile_mid.m3u8"
+        },
+        "id": "594ce32b51f0744b4cc9e7a7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336f141e25710cd72b3ca",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:56:28.491Z",
+      "updatedAt": "2017-12-21T10:19:44.472Z",
+      "parentId": "59532e8e41e25710cd72b35e",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "能源与可持续发展",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dad08591-c6a2-4272-8adc-23f946d79635_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dad08591-c6a2-4272-8adc-23f946d79635_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dad08591-c6a2-4272-8adc-23f946d79635_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dad08591-c6a2-4272-8adc-23f946d79635_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dad08591-c6a2-4272-8adc-23f946d79635_mobile_mid.m3u8"
+        },
+        "id": "594ce387ef23a82264c26f4f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "595336fc41e25710cd72b3cc",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:20:38.851Z",
+    "updatedAt": "2017-12-21T10:19:53.380Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "课程小结及练习",
+    "order": 44,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e9641e25710cd72b360",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:56:37.713Z",
+      "updatedAt": "2017-12-21T10:19:59.749Z",
+      "parentId": "59532e9641e25710cd72b360",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "磁现象 磁场 电流的磁效应（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/014063dd-4b8b-430e-a324-86423e534cfa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/014063dd-4b8b-430e-a324-86423e534cfa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/014063dd-4b8b-430e-a324-86423e534cfa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/014063dd-4b8b-430e-a324-86423e534cfa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/014063dd-4b8b-430e-a324-86423e534cfa_mobile_mid.m3u8"
+        },
+        "id": "594ce403ef23a80d3835ccc3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953370541e25710cd72b3ce",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:56:47.626Z",
+      "updatedAt": "2017-12-21T10:20:06.380Z",
+      "parentId": "59532e9641e25710cd72b360",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "磁现象 磁场 电流的磁效应（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ef1321bb-af6e-486e-9754-80fed8382429_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ef1321bb-af6e-486e-9754-80fed8382429_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ef1321bb-af6e-486e-9754-80fed8382429_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ef1321bb-af6e-486e-9754-80fed8382429_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ef1321bb-af6e-486e-9754-80fed8382429_mobile_mid.m3u8"
+        },
+        "id": "594ce44951f0744b84e04bb4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953370f41e25710cd72b3d0",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:56:56.622Z",
+      "updatedAt": "2017-12-21T10:20:12.343Z",
+      "parentId": "59532e9641e25710cd72b360",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电动机 发电机（一）",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/69a084d5-3584-404e-8217-fd14ae204570_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/69a084d5-3584-404e-8217-fd14ae204570_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/69a084d5-3584-404e-8217-fd14ae204570_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/69a084d5-3584-404e-8217-fd14ae204570_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/69a084d5-3584-404e-8217-fd14ae204570_mobile_mid.m3u8"
+        },
+        "id": "594ce5edd5ff7513ba2a0488"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953371841e25710cd72b3d2",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:57:04.723Z",
+      "updatedAt": "2017-12-21T10:20:18.263Z",
+      "parentId": "59532e9641e25710cd72b360",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "电动机 发电机（二）",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3027ed7b-5244-4ac6-bfbd-9d459795c19a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3027ed7b-5244-4ac6-bfbd-9d459795c19a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3027ed7b-5244-4ac6-bfbd-9d459795c19a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3027ed7b-5244-4ac6-bfbd-9d459795c19a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3027ed7b-5244-4ac6-bfbd-9d459795c19a_mobile_mid.m3u8"
+        },
+        "id": "594ce4f1ef23a82fd4f5dc13"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953372041e25710cd72b3d4",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:57:13.518Z",
+      "updatedAt": "2017-12-21T10:20:26.821Z",
+      "parentId": "59532e9641e25710cd72b360",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "现代通信 粒子和宇宙 （一）",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/35f8c07d-1b17-4eda-a4fe-cd020d30905a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/35f8c07d-1b17-4eda-a4fe-cd020d30905a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/35f8c07d-1b17-4eda-a4fe-cd020d30905a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/35f8c07d-1b17-4eda-a4fe-cd020d30905a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/35f8c07d-1b17-4eda-a4fe-cd020d30905a_mobile_mid.m3u8"
+        },
+        "id": "594ce584ef23a84321c27903"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953372941e25710cd72b3d6",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:57:21.507Z",
+      "updatedAt": "2017-12-21T10:20:39.203Z",
+      "parentId": "59532e9641e25710cd72b360",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "现代通信 粒子和宇宙 （二）",
+      "order": 6,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d58d3b95-c3f3-474b-acf5-8fe984228ac8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d58d3b95-c3f3-474b-acf5-8fe984228ac8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d58d3b95-c3f3-474b-acf5-8fe984228ac8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d58d3b95-c3f3-474b-acf5-8fe984228ac8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d58d3b95-c3f3-474b-acf5-8fe984228ac8_mobile_mid.m3u8"
+        },
+        "id": "594ce5cd51f0744b91c6d7a8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953373141e25710cd72b3d8",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-28T04:20:47.831Z",
+    "updatedAt": "2017-12-21T10:20:46.469Z",
+    "courseId": "594739bc89c14511ead0878b",
+    "name": "课程总结",
+    "order": 45,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59532e9f41e25710cd72b362",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:57:30.331Z",
+      "updatedAt": "2017-12-21T10:20:53.211Z",
+      "parentId": "59532e9f41e25710cd72b362",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "物理量及公式",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6430b7fd-8663-49e6-9b42-5eb9a2e26693_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6430b7fd-8663-49e6-9b42-5eb9a2e26693_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6430b7fd-8663-49e6-9b42-5eb9a2e26693_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6430b7fd-8663-49e6-9b42-5eb9a2e26693_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6430b7fd-8663-49e6-9b42-5eb9a2e26693_mobile_mid.m3u8"
+        },
+        "id": "594ce717ef23a87f216eeb08"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953373a41e25710cd72b3da",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:57:39.093Z",
+      "updatedAt": "2017-12-21T10:21:01.489Z",
+      "parentId": "59532e9f41e25710cd72b362",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "研究方法及应用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6261e2f4-6be3-465f-bd5f-9cdac607ac81_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6261e2f4-6be3-465f-bd5f-9cdac607ac81_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6261e2f4-6be3-465f-bd5f-9cdac607ac81_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6261e2f4-6be3-465f-bd5f-9cdac607ac81_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6261e2f4-6be3-465f-bd5f-9cdac607ac81_mobile_mid.m3u8"
+        },
+        "id": "594ce75c51f0744b852de0a7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953374341e25710cd72b3dc",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:57:47.758Z",
+      "updatedAt": "2017-12-21T10:21:09.960Z",
+      "parentId": "59532e9f41e25710cd72b362",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "物理仪器或装置的原理",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16c94146-5a17-4cde-9f63-88153d348e90_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16c94146-5a17-4cde-9f63-88153d348e90_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16c94146-5a17-4cde-9f63-88153d348e90_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16c94146-5a17-4cde-9f63-88153d348e90_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16c94146-5a17-4cde-9f63-88153d348e90_mobile_mid.m3u8"
+        },
+        "id": "594ce79def23a80d3835ccc4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953374b41e25710cd72b3de",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:57:56.606Z",
+      "updatedAt": "2017-12-21T10:21:15.799Z",
+      "parentId": "59532e9f41e25710cd72b362",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "解读效率",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b495561d-ea5b-4134-9bc8-d553afb4f68b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b495561d-ea5b-4134-9bc8-d553afb4f68b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b495561d-ea5b-4134-9bc8-d553afb4f68b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b495561d-ea5b-4134-9bc8-d553afb4f68b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b495561d-ea5b-4134-9bc8-d553afb4f68b_mobile_mid.m3u8"
+        },
+        "id": "594ce7deef23a82ffaa0c4fd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953375441e25710cd72b3e0",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-28T04:58:05.408Z",
+      "updatedAt": "2017-12-21T10:21:22.561Z",
+      "parentId": "59532e9f41e25710cd72b362",
+      "courseId": "594739bc89c14511ead0878b",
+      "name": "常识及常量总结",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f50f7eec-2e45-4fd3-bc40-b14de3298b67_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f50f7eec-2e45-4fd3-bc40-b14de3298b67_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f50f7eec-2e45-4fd3-bc40-b14de3298b67_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f50f7eec-2e45-4fd3-bc40-b14de3298b67_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f50f7eec-2e45-4fd3-bc40-b14de3298b67_mobile_mid.m3u8"
+        },
+        "id": "594ce84a51f0744b1ec89215"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5953375d41e25710cd72b3e2",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

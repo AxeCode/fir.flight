@@ -1,5 +1,6 @@
 package io.github.ryanhoo.firFlight.ui.app;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
@@ -20,6 +21,10 @@ import io.github.ryanhoo.firFlight.data.source.AppRepository;
 import io.github.ryanhoo.firFlight.ui.base.BaseFragment;
 import io.github.ryanhoo.firFlight.ui.common.DefaultItemDecoration;
 import io.github.ryanhoo.firFlight.ui.helper.SwipeRefreshHelper;
+import io.github.ryanhoo.firFlight.ui.play.PlayActivity;
+
+import static io.github.ryanhoo.firFlight.ui.common.Constants.INTENT_CLASS_ID;
+import static io.github.ryanhoo.firFlight.ui.common.Constants.INTENT_SUBJECT_TYPE;
 
 /**
  * Created with Android Studio.
@@ -32,6 +37,8 @@ public class CoursesFragment extends BaseFragment
         implements AppContract.View, SwipeRefreshLayout.OnRefreshListener, CoursesAdapter.AppItemClickListener {
 
     private static final String TAG = "AppListFragment";
+    private static final String SUBJECT_TYPE = "subject_type";
+    private static final String COURSE_ID = "course_id";
 
     @Bind(R.id.swipe_refresh_layout)
     SwipeRefreshLayout swipeRefreshLayout;
@@ -43,7 +50,18 @@ public class CoursesFragment extends BaseFragment
 
     CoursesAdapter mAdapter;
 
+    String subjectType;
+    String courseId;
     AppContract.Presenter mPresenter;
+
+    public static CoursesFragment newInstance(String subjectType, String courseId) {
+        CoursesFragment fragment = new CoursesFragment();
+        Bundle args = new Bundle();
+        args.putString(SUBJECT_TYPE, subjectType);
+        args.putString(COURSE_ID, courseId);
+        fragment.setArguments(args);
+        return fragment;
+    }
 
     @Nullable
     @Override
@@ -55,6 +73,11 @@ public class CoursesFragment extends BaseFragment
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         ButterKnife.bind(this, view);
+
+        if (getArguments() != null) {
+            subjectType = getArguments().getString(SUBJECT_TYPE);
+            courseId = getArguments().getString(COURSE_ID);
+        }
 
         SwipeRefreshHelper.setRefreshIndicatorColorScheme(swipeRefreshLayout);
         swipeRefreshLayout.setOnRefreshListener(this);
@@ -69,7 +92,7 @@ public class CoursesFragment extends BaseFragment
                 getContext().getResources().getDimensionPixelSize(R.dimen.ff_padding_large)
         ));
 
-        new AppPresenter(AppRepository.getInstance(), this).subscribe();
+        new AppPresenter(AppRepository.getInstance(), this, courseId).subscribe();
 
     }
 
@@ -110,7 +133,7 @@ public class CoursesFragment extends BaseFragment
 
     @Override
     public void onRefresh() {
-        mPresenter.loadApps();
+        mPresenter.loadApps(courseId);
     }
 
     // AppItemClickListener
@@ -118,7 +141,12 @@ public class CoursesFragment extends BaseFragment
     @Override
     public void onItemClick(int position) {
         Courses courses = mAdapter.getItem(position);
-        // TODO: 01/01/2018
+        if (courses != null) {
+            Intent intent = new Intent(getActivity(), PlayActivity.class);
+            intent.putExtra(INTENT_SUBJECT_TYPE, subjectType);
+            intent.putExtra(INTENT_CLASS_ID, courses.getId());
+            startActivity(intent);
+        }
     }
 
     @Override

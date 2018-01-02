@@ -29,8 +29,8 @@ interface PlayContract {
 
     interface Presenter extends BasePresenter {
 
-        void loadClasses(String classId);
+        void loadClasses(String subjectType, String classId);
     }
 
-    Observable<Courses> classes(String classId);
+    Observable<Courses> classes(String subjectType, String classId);
 }

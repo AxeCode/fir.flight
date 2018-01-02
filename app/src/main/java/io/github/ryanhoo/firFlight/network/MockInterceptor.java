@@ -7,6 +7,7 @@ import okhttp3.*;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -32,7 +33,6 @@ public class MockInterceptor implements Interceptor {
     public static final String MEDIA_TYPE = "application/json";
 
     public static final String FIELD_MOCK = "mock";
-    public static final String FIELD_MOCK_DATA = "mock_data";
 
     public static final String MOCK_FILE_PATH = "network/mock/";
 
@@ -46,6 +46,8 @@ public class MockInterceptor implements Interceptor {
     public Response intercept(Chain chain) throws IOException {
         final HttpUrl url = chain.request().url();
         boolean mock = false;
+        final List<String> pathSegment = url.pathSegments();
+
         final String queryMock = url.queryParameter(FIELD_MOCK);
         if (!TextUtils.isEmpty(queryMock)) {
             mock = Boolean.parseBoolean(queryMock);
@@ -65,8 +67,12 @@ public class MockInterceptor implements Interceptor {
                     .header("Accept-Encoding", "None")
                     .build();
             Response response = chain.proceed(request);
-            String mockData = url.queryParameter(FIELD_MOCK_DATA);
-            InputStream in = mContext.getAssets().open(MOCK_FILE_PATH + mockData);
+
+            StringBuffer sb = new StringBuffer();
+            if (pathSegment != null && pathSegment.size() >=2) {
+                sb.append(MOCK_FILE_PATH).append(pathSegment.get(pathSegment.size() - 2)).append("/").append(pathSegment.get(pathSegment.size() - 1)).append(".json");
+            }
+            InputStream in = mContext.getAssets().open(sb.toString());
             final int available = in.available();
             byte[] bytes = new byte[available];
             int read = in.read(bytes);

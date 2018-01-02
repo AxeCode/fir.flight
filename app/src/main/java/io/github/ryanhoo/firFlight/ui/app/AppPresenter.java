@@ -22,17 +22,19 @@ import rx.subscriptions.CompositeSubscription;
     private AppRepository mRepository;
     private AppContract.View mView;
     private CompositeSubscription mSubscriptions;
+    private String mCourseId;
 
-    /* package */ AppPresenter(AppRepository repository, AppContract.View view) {
+    /* package */ AppPresenter(AppRepository repository, AppContract.View view, String courseId) {
         mRepository = repository;
         mView = view;
+        mCourseId = courseId;
         mView.setPresenter(this);
         mSubscriptions = new CompositeSubscription();
     }
 
     @Override
     public void subscribe() {
-        loadApps();
+        loadApps(mCourseId);
     }
 
     @Override
@@ -42,8 +44,8 @@ import rx.subscriptions.CompositeSubscription;
     }
 
     @Override
-    public void loadApps() {
-        Subscription subscription = mRepository.courses()
+    public void loadApps(String courseId) {
+        Subscription subscription = mRepository.courses(courseId)
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread(), true)
                 .subscribe(new NetworkSubscriber<List<Courses>>(mView.getContext()) {

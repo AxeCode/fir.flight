@@ -1,0 +1,1663 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-12-01T07:34:01.159Z",
+  "updatedAt": "2017-12-26T01:17:39.929Z",
+  "name": "基础初中英语九年级上",
+  "numOfClasses": 8,
+  "description": "以“本课程在手，重点内容全有”为最终目标，将九年级英语上册分为四大模块：词义辨析、语法、阅读和写作。多题一法，变通训练，总结规律是本套视频的一大特色。同时通过将知识和学习方法相结合，来帮助学生夯实英语基础。讨论请加Q群：581254243",
+  "price": 78,
+  "teacher": {
+    "name": "胡灿奎",
+    "avatar": "http://imgs.wanmen.org/b82ff89c847e7917d5171385640e0ef5.png",
+    "description": "胡灿奎，2009年毕业于北京外国语大学，2012年自己创办kwekwe方法英语培训班。2015年和清华北大技术团队合作开发贝贝单词app。2014年从事网络在线教学至今。著有《观察事物记单词》《kwekwe方法英语教材》《小升初2000道真题练习》等20余本书，是网易有道词典专栏作者，新浪教育金牌讲师，英语趣配音的专栏作者。",
+    "id": "59ca0e9f831b92181c448a2b"
+  },
+  "hide": false,
+  "major": "590b35f071b2262ac78f19fb",
+  "bigImage": "http://imgs.wanmen.org/0f3e29ecb37a0657fc1c859d2ce0786a.png",
+  "smallImage": "http://imgs.wanmen.org/4da0f07a23ff37a148b8f4edba3e155b.png",
+  "expiration": 12,
+  "tag": "胡灿奎 初中 基础 九年级上 英语 古月 火山 大土土",
+  "specialTrainingOrder": 0,
+  "videoCount": 57,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 2,
+  "app": "mid",
+  "numberOfClasses": 8,
+  "teacherDescription": "胡灿奎，2009年毕业于北京外国语大学，2012年自己创办kwekwe方法英语培训班。2015年和清华北大技术团队合作开发贝贝单词app。2014年从事网络在线教学至今。著有《观察事物记单词》《kwekwe方法英语教材》《小升初2000道真题练习》等20余本书，是网易有道词典专栏作者，新浪教育金牌讲师，英语趣配音的专栏作者。",
+  "teacherAvatar": "http://imgs.wanmen.org/b82ff89c847e7917d5171385640e0ef5.png",
+  "teacherName": "胡灿奎",
+  "mobileCoverUrl": "http://imgs.wanmen.org/4da0f07a23ff37a148b8f4edba3e155b.png",
+  "coverUrl": "http://imgs.wanmen.org/0f3e29ecb37a0657fc1c859d2ce0786a.png",
+  "smallImageUrl": "http://imgs.wanmen.org/4da0f07a23ff37a148b8f4edba3e155b.png",
+  "bigImageUrl": "http://imgs.wanmen.org/0f3e29ecb37a0657fc1c859d2ce0786a.png",
+  "id": "5a2105e937beee58559558d2",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-02T01:16:37.157Z",
+    "updatedAt": "2017-12-02T08:07:02.073Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit1 How can we become good learners?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a21fef59f2dff58500f7483",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-02T01:16:56.296Z",
+      "updatedAt": "2017-12-23T03:20:46.291Z",
+      "parentId": "5a21fef59f2dff58500f7483",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "辨析：形容词后缀ed和ing的区别",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_mobile_mid.m3u8"
+        },
+        "id": "5a212a8d51f07410b29b52b1"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a21ff089f2dff58500f7485",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/226017ba-96f7-4b8b-b252-3a0ffe24b277_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-02T01:17:35.447Z",
+      "updatedAt": "2017-12-23T03:21:01.878Z",
+      "parentId": "5a21fef59f2dff58500f7483",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：两动词不能连用的处理方法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_mobile_mid.m3u8"
+        },
+        "id": "5a212abe51f07410b29b52b2"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a21ff2f9f2dff58500f7487",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a16ed588-4fc5-4e5e-aaf4-0b56c48fc17c_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-02T01:17:44.686Z",
+      "updatedAt": "2017-12-23T03:23:19.028Z",
+      "parentId": "5a21fef59f2dff58500f7483",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "延续性和非延续性动词的区别",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_mobile_mid.m3u8"
+        },
+        "id": "5a212b0ed5ff75133a0f9e35"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a21ff389f2dff58500f7489",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/bf303838-8eff-4e55-9fe1-be81e95b65ef_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-02T01:17:53.840Z",
+      "updatedAt": "2017-12-23T03:23:35.356Z",
+      "parentId": "5a21fef59f2dff58500f7483",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "现在完成时",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8135af65-f40b-4653-b07c-5fea111f4a03_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8135af65-f40b-4653-b07c-5fea111f4a03_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8135af65-f40b-4653-b07c-5fea111f4a03_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8135af65-f40b-4653-b07c-5fea111f4a03_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8135af65-f40b-4653-b07c-5fea111f4a03_mobile_mid.m3u8"
+        },
+        "id": "5a212b4451f07410d06be0b9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a21ff419f2dff58500f748b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-02T01:18:06.750Z",
+      "updatedAt": "2017-12-23T03:23:49.869Z",
+      "parentId": "5a21fef59f2dff58500f7483",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之望文生义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/076c3759-a209-4ed9-9f6f-36da736b5acd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/076c3759-a209-4ed9-9f6f-36da736b5acd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/076c3759-a209-4ed9-9f6f-36da736b5acd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/076c3759-a209-4ed9-9f6f-36da736b5acd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/076c3759-a209-4ed9-9f6f-36da736b5acd_mobile_mid.m3u8"
+        },
+        "id": "5a212b8751f0741102df66ba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a21ff4e9f2dff58500f748d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-02T01:18:17.116Z",
+      "updatedAt": "2017-12-23T03:24:07.357Z",
+      "parentId": "5a21fef59f2dff58500f7483",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "作文：方法类的写作模板",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9fc0eace-24dd-425d-a0dc-120734741f4c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9fc0eace-24dd-425d-a0dc-120734741f4c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9fc0eace-24dd-425d-a0dc-120734741f4c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9fc0eace-24dd-425d-a0dc-120734741f4c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9fc0eace-24dd-425d-a0dc-120734741f4c_mobile_mid.m3u8"
+        },
+        "id": "5a212baed5ff75134543d1ae"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a21ff5937beee5855955980",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-08T01:07:13.697Z",
+    "updatedAt": "2017-12-08T01:19:51.948Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit2 I think that mooncakes are delicious!",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a29e5c1a7b33c240bf4c64b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:08:44.098Z",
+      "updatedAt": "2017-12-23T03:24:27.218Z",
+      "parentId": "5a29e5c1a7b33c240bf4c64b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：3组易混淆词组",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7e373bbc-250d-401f-830e-9285f2ec5254_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7e373bbc-250d-401f-830e-9285f2ec5254_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7e373bbc-250d-401f-830e-9285f2ec5254_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7e373bbc-250d-401f-830e-9285f2ec5254_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7e373bbc-250d-401f-830e-9285f2ec5254_mobile_mid.m3u8"
+        },
+        "id": "5a28e99cef23a865f77398c6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e61ca7b33c240bf4c64d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:08:58.215Z",
+      "updatedAt": "2017-12-23T03:24:41.587Z",
+      "parentId": "5a29e5c1a7b33c240bf4c64b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "宾语从句之引导词（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/600a1545-5fb9-417d-99f5-42268ed7ee62_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/600a1545-5fb9-417d-99f5-42268ed7ee62_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/600a1545-5fb9-417d-99f5-42268ed7ee62_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/600a1545-5fb9-417d-99f5-42268ed7ee62_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/600a1545-5fb9-417d-99f5-42268ed7ee62_mobile_mid.m3u8"
+        },
+        "id": "5a28e9d8d5ff75134bb44003"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e62aa7b33c240bf4c64f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:09:09.604Z",
+      "updatedAt": "2017-12-23T03:24:52.795Z",
+      "parentId": "5a29e5c1a7b33c240bf4c64b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "宾语从句之引导词（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9cbe19b6-e3f0-4b08-8ee6-d8f896dde744_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9cbe19b6-e3f0-4b08-8ee6-d8f896dde744_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9cbe19b6-e3f0-4b08-8ee6-d8f896dde744_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9cbe19b6-e3f0-4b08-8ee6-d8f896dde744_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9cbe19b6-e3f0-4b08-8ee6-d8f896dde744_mobile_mid.m3u8"
+        },
+        "id": "5a28ea0b51f07410beb3b42b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e635a7b33c240bf4c651",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:09:19.354Z",
+      "updatedAt": "2017-12-23T03:25:03.398Z",
+      "parentId": "5a29e5c1a7b33c240bf4c64b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "宾语从句之时态",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5224e15e-e4be-46f1-8262-51db019e37f4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5224e15e-e4be-46f1-8262-51db019e37f4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5224e15e-e4be-46f1-8262-51db019e37f4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5224e15e-e4be-46f1-8262-51db019e37f4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5224e15e-e4be-46f1-8262-51db019e37f4_mobile_mid.m3u8"
+        },
+        "id": "5a28ea41d5ff751337ba27c2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e63fa7b33c240bf4c653",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:09:30.426Z",
+      "updatedAt": "2017-12-23T03:25:34.952Z",
+      "parentId": "5a29e5c1a7b33c240bf4c64b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "宾语从句之语序",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e914f4b4-69e2-4c4b-be9d-0e422f84a4b5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e914f4b4-69e2-4c4b-be9d-0e422f84a4b5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e914f4b4-69e2-4c4b-be9d-0e422f84a4b5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e914f4b4-69e2-4c4b-be9d-0e422f84a4b5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e914f4b4-69e2-4c4b-be9d-0e422f84a4b5_mobile_mid.m3u8"
+        },
+        "id": "5a28ea6cef23a866107ce9e9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e64aa7b33c240bf4c655",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:09:42.920Z",
+      "updatedAt": "2017-12-23T03:26:23.861Z",
+      "parentId": "5a29e5c1a7b33c240bf4c64b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之无中生有",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/85cd43b2-1dcb-44b1-b4bf-7b3c7f7f7954_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/85cd43b2-1dcb-44b1-b4bf-7b3c7f7f7954_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/85cd43b2-1dcb-44b1-b4bf-7b3c7f7f7954_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/85cd43b2-1dcb-44b1-b4bf-7b3c7f7f7954_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/85cd43b2-1dcb-44b1-b4bf-7b3c7f7f7954_mobile_mid.m3u8"
+        },
+        "id": "5a28ea8aef23a86592625061"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e656a7b33c240bf4c657",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:09:55.225Z",
+      "updatedAt": "2017-12-23T03:26:36.268Z",
+      "parentId": "5a29e5c1a7b33c240bf4c64b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "写作：节日类的写作模板",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b2bbbefd-9ce4-4577-81ca-0a36f01c5f58_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b2bbbefd-9ce4-4577-81ca-0a36f01c5f58_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b2bbbefd-9ce4-4577-81ca-0a36f01c5f58_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b2bbbefd-9ce4-4577-81ca-0a36f01c5f58_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b2bbbefd-9ce4-4577-81ca-0a36f01c5f58_mobile_mid.m3u8"
+        },
+        "id": "5a28eaa3ef23a8656f2b59e5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e663a7b33c240bf4c659",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-08T01:10:12.198Z",
+    "updatedAt": "2017-12-08T01:19:53.616Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit3 Could you please tell me where the restrooms are?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a29e674a7b33c240bf4c65b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:10:23.728Z",
+      "updatedAt": "2017-12-23T03:27:11.989Z",
+      "parentId": "5a29e674a7b33c240bf4c65b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：3组易混淆词组",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/24ec278e-2874-4abf-91b4-c72a14f78ae3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/24ec278e-2874-4abf-91b4-c72a14f78ae3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/24ec278e-2874-4abf-91b4-c72a14f78ae3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/24ec278e-2874-4abf-91b4-c72a14f78ae3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/24ec278e-2874-4abf-91b4-c72a14f78ae3_mobile_mid.m3u8"
+        },
+        "id": "5a28eaf351f0741120ec326a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e67fa7b33c240bf4c65d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:10:49.570Z",
+      "updatedAt": "2017-12-23T03:27:28.636Z",
+      "parentId": "5a29e674a7b33c240bf4c65b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：派生法的三个前缀 dis, im , un",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dc91aee8-0fde-4789-a2c5-ad63c9e995f9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dc91aee8-0fde-4789-a2c5-ad63c9e995f9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dc91aee8-0fde-4789-a2c5-ad63c9e995f9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dc91aee8-0fde-4789-a2c5-ad63c9e995f9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dc91aee8-0fde-4789-a2c5-ad63c9e995f9_mobile_mid.m3u8"
+        },
+        "id": "5a28eb18ef23a865b8f02b20"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e699a7b33c240bf4c661",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:10:59.787Z",
+      "updatedAt": "2017-12-23T03:27:44.918Z",
+      "parentId": "5a29e674a7b33c240bf4c65b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "名词修饰名词的4条规则",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a2530101-39a4-4eca-b5aa-143ae2b974a1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a2530101-39a4-4eca-b5aa-143ae2b974a1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a2530101-39a4-4eca-b5aa-143ae2b974a1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a2530101-39a4-4eca-b5aa-143ae2b974a1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a2530101-39a4-4eca-b5aa-143ae2b974a1_mobile_mid.m3u8"
+        },
+        "id": "5a28eb50d5ff75136391ffc2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e6a3a7b33c240bf4c663",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:11:08.635Z",
+      "updatedAt": "2017-12-23T03:28:02.712Z",
+      "parentId": "5a29e674a7b33c240bf4c65b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "宾语从句与简单句的转换的3种情况",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cd0f962c-682f-48df-98a2-9424008865c3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cd0f962c-682f-48df-98a2-9424008865c3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cd0f962c-682f-48df-98a2-9424008865c3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cd0f962c-682f-48df-98a2-9424008865c3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cd0f962c-682f-48df-98a2-9424008865c3_mobile_mid.m3u8"
+        },
+        "id": "5a28eb7fef23a865ac2d0129"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e6aca7b33c240bf4c665",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:11:18.609Z",
+      "updatedAt": "2017-12-23T03:28:55.163Z",
+      "parentId": "5a29e674a7b33c240bf4c65b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之张冠李戴",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/838bfb82-75c2-458b-8fee-6b80bdf7935a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/838bfb82-75c2-458b-8fee-6b80bdf7935a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/838bfb82-75c2-458b-8fee-6b80bdf7935a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/838bfb82-75c2-458b-8fee-6b80bdf7935a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/838bfb82-75c2-458b-8fee-6b80bdf7935a_mobile_mid.m3u8"
+        },
+        "id": "5a28ebafd5ff75133a0f9e3b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e6b6a7b33c240bf4c667",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-08T01:11:27.507Z",
+      "updatedAt": "2017-12-23T03:29:10.646Z",
+      "parentId": "5a29e674a7b33c240bf4c65b",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "写作：变化类的写作模板",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dd49521d-5ac5-464d-a3e2-51942869545f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dd49521d-5ac5-464d-a3e2-51942869545f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dd49521d-5ac5-464d-a3e2-51942869545f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dd49521d-5ac5-464d-a3e2-51942869545f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dd49521d-5ac5-464d-a3e2-51942869545f_mobile_mid.m3u8"
+        },
+        "id": "5a28ebe351f0741131709217"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a29e6bfa7b33c240bf4c669",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-12T08:32:41.516Z",
+    "updatedAt": "2017-12-15T01:23:42.220Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit4 I used to be afraid of the dark.",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a2f9429a7b33c240bf4c8a5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:32:56.097Z",
+      "updatedAt": "2017-12-23T03:30:02.398Z",
+      "parentId": "5a2f9429a7b33c240bf4c8a5",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "义辨析：易混淆词组",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4e656ff8-d7c4-4e04-b9b0-2d271f2eea3d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4e656ff8-d7c4-4e04-b9b0-2d271f2eea3d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4e656ff8-d7c4-4e04-b9b0-2d271f2eea3d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4e656ff8-d7c4-4e04-b9b0-2d271f2eea3d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4e656ff8-d7c4-4e04-b9b0-2d271f2eea3d_mobile_mid.m3u8"
+        },
+        "id": "5a323a5b51f07410b29b52c1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9438a7b33c240bf4c8a7",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:33:05.422Z",
+      "updatedAt": "2017-12-23T03:31:44.994Z",
+      "parentId": "5a2f9429a7b33c240bf4c8a5",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：复合形容词常用的3种构成及3条规则",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0418e380-1109-45ad-8f00-b4a10e242699_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0418e380-1109-45ad-8f00-b4a10e242699_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0418e380-1109-45ad-8f00-b4a10e242699_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0418e380-1109-45ad-8f00-b4a10e242699_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0418e380-1109-45ad-8f00-b4a10e242699_mobile_mid.m3u8"
+        },
+        "id": "5a323a87d5ff75130e9ad043"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9441a7b33c240bf4c8a9",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:33:15.332Z",
+      "updatedAt": "2017-12-23T03:32:09.422Z",
+      "parentId": "5a2f9429a7b33c240bf4c8a5",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "反意疑问句4条规则",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8de4864e-4033-4c9f-97f4-fcb99b85720f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8de4864e-4033-4c9f-97f4-fcb99b85720f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8de4864e-4033-4c9f-97f4-fcb99b85720f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8de4864e-4033-4c9f-97f4-fcb99b85720f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8de4864e-4033-4c9f-97f4-fcb99b85720f_mobile_mid.m3u8"
+        },
+        "id": "5a323aa5ef23a865ac2d0131"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f944ba7b33c240bf4c8ab",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:33:27.854Z",
+      "updatedAt": "2017-12-23T03:32:59.363Z",
+      "parentId": "5a2f9429a7b33c240bf4c8a5",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "主系表结构",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9bbe986c-9ee9-4f31-8dfc-a3550cc0c51c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9bbe986c-9ee9-4f31-8dfc-a3550cc0c51c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9bbe986c-9ee9-4f31-8dfc-a3550cc0c51c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9bbe986c-9ee9-4f31-8dfc-a3550cc0c51c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9bbe986c-9ee9-4f31-8dfc-a3550cc0c51c_mobile_mid.m3u8"
+        },
+        "id": "5a323ad9d5ff75130e9ad044"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9457a7b33c240bf4c8ad",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:33:37.198Z",
+      "updatedAt": "2017-12-23T03:33:23.017Z",
+      "parentId": "5a2f9429a7b33c240bf4c8a5",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "used to的用法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eb195876-59a8-4b72-bad8-4f4600386ab6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eb195876-59a8-4b72-bad8-4f4600386ab6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eb195876-59a8-4b72-bad8-4f4600386ab6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eb195876-59a8-4b72-bad8-4f4600386ab6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eb195876-59a8-4b72-bad8-4f4600386ab6_mobile_mid.m3u8"
+        },
+        "id": "5a323b4a51f07410da3d8a99"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9461a7b33c240bf4c8af",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:33:46.736Z",
+      "updatedAt": "2017-12-23T03:33:48.281Z",
+      "parentId": "5a2f9429a7b33c240bf4c8a5",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之减缩范围",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c602e1c4-9b44-4d07-bf4c-9b134d1183fd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c602e1c4-9b44-4d07-bf4c-9b134d1183fd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c602e1c4-9b44-4d07-bf4c-9b134d1183fd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c602e1c4-9b44-4d07-bf4c-9b134d1183fd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c602e1c4-9b44-4d07-bf4c-9b134d1183fd_mobile_mid.m3u8"
+        },
+        "id": "5a323b9051f0741133b058cb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f946a0c69752405df746a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:33:58.528Z",
+      "updatedAt": "2017-12-23T03:34:11.851Z",
+      "parentId": "5a2f9429a7b33c240bf4c8a5",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "作文：推理类的写作模板",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/91e101b9-d573-4a23-96b6-aad66c45349a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/91e101b9-d573-4a23-96b6-aad66c45349a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/91e101b9-d573-4a23-96b6-aad66c45349a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/91e101b9-d573-4a23-96b6-aad66c45349a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/91e101b9-d573-4a23-96b6-aad66c45349a_mobile_mid.m3u8"
+        },
+        "id": "5a323bdf51f0741133b058cc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94760c69752405df746c",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-12T08:34:27.225Z",
+    "updatedAt": "2017-12-15T01:23:44.769Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit5 What are the shirts made of?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a2f94930c69752405df746e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:34:41.925Z",
+      "updatedAt": "2017-12-23T03:34:44.976Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：易混淆词组(一)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5e0c24aa-c9f4-4b6f-b962-ec7cf22c3c0b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5e0c24aa-c9f4-4b6f-b962-ec7cf22c3c0b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5e0c24aa-c9f4-4b6f-b962-ec7cf22c3c0b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5e0c24aa-c9f4-4b6f-b962-ec7cf22c3c0b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5e0c24aa-c9f4-4b6f-b962-ec7cf22c3c0b_mobile_mid.m3u8"
+        },
+        "id": "5a2a6ea951f07410b29b52b9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94a10c69752405df7470",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:34:50.141Z",
+      "updatedAt": "2017-12-23T03:35:12.902Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：易混淆词组(二)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0c795c87-af4b-4181-95d2-c8686ca848b0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0c795c87-af4b-4181-95d2-c8686ca848b0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0c795c87-af4b-4181-95d2-c8686ca848b0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0c795c87-af4b-4181-95d2-c8686ca848b0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0c795c87-af4b-4181-95d2-c8686ca848b0_mobile_mid.m3u8"
+        },
+        "id": "5a2a6ee651f07410a36ec53d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94aa0c69752405df7472",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:35:00.667Z",
+      "updatedAt": "2017-12-23T03:35:42.357Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：主谓宾结构",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cc6232f4-591b-4801-b117-1da67bfc08ed_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cc6232f4-591b-4801-b117-1da67bfc08ed_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cc6232f4-591b-4801-b117-1da67bfc08ed_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cc6232f4-591b-4801-b117-1da67bfc08ed_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cc6232f4-591b-4801-b117-1da67bfc08ed_mobile_mid.m3u8"
+        },
+        "id": "5a2a6f1b51f07410d06be0c4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94b40c69752405df7474",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:35:09.630Z",
+      "updatedAt": "2017-12-23T03:36:18.321Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "被动语态",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/864e45c4-cfa9-4fc7-bfe8-4577101da096_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/864e45c4-cfa9-4fc7-bfe8-4577101da096_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/864e45c4-cfa9-4fc7-bfe8-4577101da096_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/864e45c4-cfa9-4fc7-bfe8-4577101da096_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/864e45c4-cfa9-4fc7-bfe8-4577101da096_mobile_mid.m3u8"
+        },
+        "id": "5a2a6f3def23a865482a7d19"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94bd0c69752405df7476",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:35:19.652Z",
+      "updatedAt": "2017-12-23T03:37:13.122Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "主动语态和被动语态的3种互换",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2120e08f-1a57-45b6-b46d-ae71c8fe136f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2120e08f-1a57-45b6-b46d-ae71c8fe136f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2120e08f-1a57-45b6-b46d-ae71c8fe136f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2120e08f-1a57-45b6-b46d-ae71c8fe136f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2120e08f-1a57-45b6-b46d-ae71c8fe136f_mobile_mid.m3u8"
+        },
+        "id": "5a2a6f5aef23a865e13d4521"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94c70c69752405df7478",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:35:27.895Z",
+      "updatedAt": "2017-12-23T03:37:41.459Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "发音不一样的live",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/67945f64-acc1-4b32-b337-4285887b2767_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/67945f64-acc1-4b32-b337-4285887b2767_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/67945f64-acc1-4b32-b337-4285887b2767_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/67945f64-acc1-4b32-b337-4285887b2767_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/67945f64-acc1-4b32-b337-4285887b2767_mobile_mid.m3u8"
+        },
+        "id": "5a2a6f8151f07410f697775f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94cf0c69752405df747a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:35:35.930Z",
+      "updatedAt": "2017-12-23T03:38:38.163Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之因果颠倒",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/42489710-9eba-4bba-ad20-6e7fe1f2f805_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/42489710-9eba-4bba-ad20-6e7fe1f2f805_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/42489710-9eba-4bba-ad20-6e7fe1f2f805_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/42489710-9eba-4bba-ad20-6e7fe1f2f805_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/42489710-9eba-4bba-ad20-6e7fe1f2f805_mobile_mid.m3u8"
+        },
+        "id": "5a2a6fb0d5ff75131d876ee1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94d70c69752405df747c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:35:45.397Z",
+      "updatedAt": "2017-12-23T03:39:05.464Z",
+      "parentId": "5a2f94930c69752405df746e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "作文：礼仪习俗类的写作模板",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5ce6999d-6d0a-41af-996c-b9f3c2672705_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5ce6999d-6d0a-41af-996c-b9f3c2672705_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5ce6999d-6d0a-41af-996c-b9f3c2672705_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5ce6999d-6d0a-41af-996c-b9f3c2672705_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5ce6999d-6d0a-41af-996c-b9f3c2672705_mobile_mid.m3u8"
+        },
+        "id": "5a2a6fe951f074109e100ac5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f94e10c69752405df747e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-12T08:36:04.770Z",
+    "updatedAt": "2017-12-15T01:23:47.321Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit6 When was it invented?",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a2f94f40c69752405df7480",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:36:16.092Z",
+      "updatedAt": "2017-12-23T03:39:17.147Z",
+      "parentId": "5a2f94f40c69752405df7480",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：易混淆词组(一)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aa689bd6-27e7-45ee-b845-9aa26af0fdeb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aa689bd6-27e7-45ee-b845-9aa26af0fdeb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aa689bd6-27e7-45ee-b845-9aa26af0fdeb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aa689bd6-27e7-45ee-b845-9aa26af0fdeb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aa689bd6-27e7-45ee-b845-9aa26af0fdeb_mobile_mid.m3u8"
+        },
+        "id": "5a323bfaef23a86590dca409"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95000c69752405df7482",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:36:24.584Z",
+      "updatedAt": "2017-12-23T03:39:21.556Z",
+      "parentId": "5a2f94f40c69752405df7480",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：易混淆词组(二)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4e085126-52b4-4e05-8a83-1a04a4952009_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4e085126-52b4-4e05-8a83-1a04a4952009_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4e085126-52b4-4e05-8a83-1a04a4952009_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4e085126-52b4-4e05-8a83-1a04a4952009_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4e085126-52b4-4e05-8a83-1a04a4952009_mobile_mid.m3u8"
+        },
+        "id": "5a323c4151f074110d1b4bf1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95080c69752405df7484",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:36:34.868Z",
+      "updatedAt": "2017-12-23T03:39:26.104Z",
+      "parentId": "5a2f94f40c69752405df7480",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：没有被动语态常用的7种情况",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3249cce9-72e9-4dbf-b7ed-88eb6d556424_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3249cce9-72e9-4dbf-b7ed-88eb6d556424_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3249cce9-72e9-4dbf-b7ed-88eb6d556424_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3249cce9-72e9-4dbf-b7ed-88eb6d556424_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3249cce9-72e9-4dbf-b7ed-88eb6d556424_mobile_mid.m3u8"
+        },
+        "id": "5a323cb751f074113571f28b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95120c69752405df7486",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:36:45.592Z",
+      "updatedAt": "2017-12-23T03:39:30.677Z",
+      "parentId": "5a2f94f40c69752405df7480",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "要倒装的3种常用开头",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/536e8689-e14c-4328-984a-7c8fd434f7eb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/536e8689-e14c-4328-984a-7c8fd434f7eb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/536e8689-e14c-4328-984a-7c8fd434f7eb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/536e8689-e14c-4328-984a-7c8fd434f7eb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/536e8689-e14c-4328-984a-7c8fd434f7eb_mobile_mid.m3u8"
+        },
+        "id": "5a323cf651f07410a36ec544"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f951d0c69752405df7488",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:36:58.453Z",
+      "updatedAt": "2017-12-23T03:39:36.389Z",
+      "parentId": "5a2f94f40c69752405df7480",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之颠倒黑白",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/806e413e-0ea8-4fc4-9d38-1992161f3cd2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/806e413e-0ea8-4fc4-9d38-1992161f3cd2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/806e413e-0ea8-4fc4-9d38-1992161f3cd2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/806e413e-0ea8-4fc4-9d38-1992161f3cd2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/806e413e-0ea8-4fc4-9d38-1992161f3cd2_mobile_mid.m3u8"
+        },
+        "id": "5a323d13ef23a8656f2b59ea"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f952a0c69752405df748a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:37:07.647Z",
+      "updatedAt": "2017-12-23T03:39:44.816Z",
+      "parentId": "5a2f94f40c69752405df7480",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "作文：调查类的写作模板",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/36093daa-760a-42c5-8ee3-296eeed399fa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/36093daa-760a-42c5-8ee3-296eeed399fa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/36093daa-760a-42c5-8ee3-296eeed399fa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/36093daa-760a-42c5-8ee3-296eeed399fa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/36093daa-760a-42c5-8ee3-296eeed399fa_mobile_mid.m3u8"
+        },
+        "id": "5a323d4951f074109b50d27e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95330c69752405df748c",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-12T08:37:50.983Z",
+    "updatedAt": "2017-12-22T06:33:29.059Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit7 Teenagers should be allowed to choose their own chothes.",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a2f955e0c69752405df748e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:38:01.823Z",
+      "updatedAt": "2017-12-23T03:39:53.715Z",
+      "parentId": "5a2f955e0c69752405df748e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：易混淆词组(一)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/70007784-4fa6-4284-a396-a476d9b4abdd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/70007784-4fa6-4284-a396-a476d9b4abdd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/70007784-4fa6-4284-a396-a476d9b4abdd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/70007784-4fa6-4284-a396-a476d9b4abdd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/70007784-4fa6-4284-a396-a476d9b4abdd_mobile_mid.m3u8"
+        },
+        "id": "5a3c777451f07410ec8715e6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95690c69752405df7490",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:38:12.643Z",
+      "updatedAt": "2017-12-23T03:39:58.397Z",
+      "parentId": "5a2f955e0c69752405df748e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：易混淆词组(二)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ebc13bf6-9832-486c-9763-a2e1efe925bf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ebc13bf6-9832-486c-9763-a2e1efe925bf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ebc13bf6-9832-486c-9763-a2e1efe925bf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ebc13bf6-9832-486c-9763-a2e1efe925bf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ebc13bf6-9832-486c-9763-a2e1efe925bf_mobile_mid.m3u8"
+        },
+        "id": "5a3c7789ef23a86531cafd4b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95740c69752405df7492",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:38:27.102Z",
+      "updatedAt": "2017-12-23T03:40:05.121Z",
+      "parentId": "5a2f955e0c69752405df748e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：2类特殊疑问句",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7d3f59f4-4476-456e-8d04-fc14be1fdb20_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7d3f59f4-4476-456e-8d04-fc14be1fdb20_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7d3f59f4-4476-456e-8d04-fc14be1fdb20_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7d3f59f4-4476-456e-8d04-fc14be1fdb20_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7d3f59f4-4476-456e-8d04-fc14be1fdb20_mobile_mid.m3u8"
+        },
+        "id": "5a3c77b151f0741126c85e00"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9583a7b33c240bf4c8b1",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:38:37.715Z",
+      "updatedAt": "2017-12-23T03:40:09.884Z",
+      "parentId": "5a2f955e0c69752405df748e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "定语的位置",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d6cfa233-7372-4a0b-9c69-a248ac443fbe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d6cfa233-7372-4a0b-9c69-a248ac443fbe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d6cfa233-7372-4a0b-9c69-a248ac443fbe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d6cfa233-7372-4a0b-9c69-a248ac443fbe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d6cfa233-7372-4a0b-9c69-a248ac443fbe_mobile_mid.m3u8"
+        },
+        "id": "5a3c77ced5ff75136c156365"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f958da7b33c240bf4c8b3",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:38:48.138Z",
+      "updatedAt": "2017-12-23T03:40:16.398Z",
+      "parentId": "5a2f955e0c69752405df748e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之以偏概全",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a996fc57-3c0d-4373-a9ab-7b61596e1083_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a996fc57-3c0d-4373-a9ab-7b61596e1083_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a996fc57-3c0d-4373-a9ab-7b61596e1083_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a996fc57-3c0d-4373-a9ab-7b61596e1083_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a996fc57-3c0d-4373-a9ab-7b61596e1083_mobile_mid.m3u8"
+        },
+        "id": "5a3c77f7d5ff75130e9ad048"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9598a7b33c240bf4c8b5",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:38:57.753Z",
+      "updatedAt": "2017-12-23T03:40:22.259Z",
+      "parentId": "5a2f955e0c69752405df748e",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "个人喜好类的作文",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7a549337-fb63-4310-a7bc-19d505e07fe4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7a549337-fb63-4310-a7bc-19d505e07fe4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7a549337-fb63-4310-a7bc-19d505e07fe4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7a549337-fb63-4310-a7bc-19d505e07fe4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7a549337-fb63-4310-a7bc-19d505e07fe4_mobile_mid.m3u8"
+        },
+        "id": "5a3c781451f07410a36ec54e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95a1a7b33c240bf4c8b7",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-12T08:39:12.137Z",
+    "updatedAt": "2017-12-22T06:42:39.175Z",
+    "courseId": "5a2105e937beee58559558d2",
+    "name": "Unit8 It must belong to Carla.",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a2f95b0a7b33c240bf4c8b9",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:39:28.173Z",
+      "updatedAt": "2017-12-23T03:40:31.983Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "词义辨析：易混淆词组",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5660fed8-fccf-4037-b11c-c5f58c2dafed_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5660fed8-fccf-4037-b11c-c5f58c2dafed_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5660fed8-fccf-4037-b11c-c5f58c2dafed_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5660fed8-fccf-4037-b11c-c5f58c2dafed_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5660fed8-fccf-4037-b11c-c5f58c2dafed_mobile_mid.m3u8"
+        },
+        "id": "5a3c7848d5ff75134f185639"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95c0a7b33c240bf4c8bb",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:39:37.673Z",
+      "updatedAt": "2017-12-23T03:40:37.428Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：情态动词 can",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ae7cc248-a5b1-466f-8350-924a7ddef691_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ae7cc248-a5b1-466f-8350-924a7ddef691_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ae7cc248-a5b1-466f-8350-924a7ddef691_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ae7cc248-a5b1-466f-8350-924a7ddef691_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ae7cc248-a5b1-466f-8350-924a7ddef691_mobile_mid.m3u8"
+        },
+        "id": "5a3c786d51f0741102df66d6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95c9a7b33c240bf4c8bd",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:39:47.222Z",
+      "updatedAt": "2017-12-23T03:40:42.761Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：情态动词 must",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/31f8702c-f4c2-4d07-9a6c-9eb140bf90b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/31f8702c-f4c2-4d07-9a6c-9eb140bf90b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/31f8702c-f4c2-4d07-9a6c-9eb140bf90b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/31f8702c-f4c2-4d07-9a6c-9eb140bf90b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/31f8702c-f4c2-4d07-9a6c-9eb140bf90b1_mobile_mid.m3u8"
+        },
+        "id": "5a3c788f51f074109e100ad8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95d3a7b33c240bf4c8bf",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:39:56.293Z",
+      "updatedAt": "2017-12-23T03:40:50.375Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "语法：情态动词 will",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/60e8e928-db91-4166-9227-8f5a5b91167a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/60e8e928-db91-4166-9227-8f5a5b91167a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/60e8e928-db91-4166-9227-8f5a5b91167a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/60e8e928-db91-4166-9227-8f5a5b91167a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/60e8e928-db91-4166-9227-8f5a5b91167a_mobile_mid.m3u8"
+        },
+        "id": "5a3c78b951f07410a36ec54f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95dca7b33c240bf4c8c1",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:40:08.777Z",
+      "updatedAt": "2017-12-23T03:41:11.891Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "3大情态动词表推测",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a53ecdd7-5c37-4eeb-87f0-481459672187_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a53ecdd7-5c37-4eeb-87f0-481459672187_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a53ecdd7-5c37-4eeb-87f0-481459672187_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a53ecdd7-5c37-4eeb-87f0-481459672187_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a53ecdd7-5c37-4eeb-87f0-481459672187_mobile_mid.m3u8"
+        },
+        "id": "5a3c79bf51f074113571f298"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95e8a7b33c240bf4c8c3",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:40:18.547Z",
+      "updatedAt": "2017-12-23T03:41:18.043Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "情态动词总结",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5d0cbd58-ee87-4511-a1ab-47558cb813b7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5d0cbd58-ee87-4511-a1ab-47558cb813b7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5d0cbd58-ee87-4511-a1ab-47558cb813b7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5d0cbd58-ee87-4511-a1ab-47558cb813b7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5d0cbd58-ee87-4511-a1ab-47558cb813b7_mobile_mid.m3u8"
+        },
+        "id": "5a3c78ccd5ff75131d876eec"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95f2a7b33c240bf4c8c5",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:40:28.608Z",
+      "updatedAt": "2017-12-23T03:41:26.536Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "宾语从句的否定前移",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8dff35f5-443f-4a21-be0e-9d099cf06e52_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8dff35f5-443f-4a21-be0e-9d099cf06e52_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8dff35f5-443f-4a21-be0e-9d099cf06e52_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8dff35f5-443f-4a21-be0e-9d099cf06e52_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8dff35f5-443f-4a21-be0e-9d099cf06e52_mobile_mid.m3u8"
+        },
+        "id": "5a3c78fed5ff75135315fd2e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f95fca7b33c240bf4c8c7",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:40:42.126Z",
+      "updatedAt": "2017-12-23T03:41:33.323Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之猜测词义（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eb798e81-12d7-4919-90dc-d55b9227ef0f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eb798e81-12d7-4919-90dc-d55b9227ef0f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eb798e81-12d7-4919-90dc-d55b9227ef0f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eb798e81-12d7-4919-90dc-d55b9227ef0f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eb798e81-12d7-4919-90dc-d55b9227ef0f_mobile_mid.m3u8"
+        },
+        "id": "5a3c793251f074109e100ad9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f960aa7b33c240bf4c8c9",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:40:51.852Z",
+      "updatedAt": "2017-12-23T03:41:38.953Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之猜测词义（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6c8e354a-8964-4401-98da-2e2b107e5f24_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6c8e354a-8964-4401-98da-2e2b107e5f24_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6c8e354a-8964-4401-98da-2e2b107e5f24_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6c8e354a-8964-4401-98da-2e2b107e5f24_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6c8e354a-8964-4401-98da-2e2b107e5f24_mobile_mid.m3u8"
+        },
+        "id": "5a3c796151f0741133b058d5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9613a7b33c240bf4c8cb",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:41:01.524Z",
+      "updatedAt": "2017-12-23T03:41:44.930Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "阅读理解8大技巧之猜测词义（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a3de003c-5db9-4633-b999-a0cfd0ac6405_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a3de003c-5db9-4633-b999-a0cfd0ac6405_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a3de003c-5db9-4633-b999-a0cfd0ac6405_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a3de003c-5db9-4633-b999-a0cfd0ac6405_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a3de003c-5db9-4633-b999-a0cfd0ac6405_mobile_mid.m3u8"
+        },
+        "id": "5a3c797fd5ff75133a0f9e4a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f961da7b33c240bf4c8cd",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T08:41:13.995Z",
+      "updatedAt": "2017-12-23T03:41:51.023Z",
+      "parentId": "5a2f95b0a7b33c240bf4c8b9",
+      "courseId": "5a2105e937beee58559558d2",
+      "name": "作文：记叙文——人物故事",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2471c6d4-c1cf-41c6-af17-1c7c4a9337e6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2471c6d4-c1cf-41c6-af17-1c7c4a9337e6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2471c6d4-c1cf-41c6-af17-1c7c4a9337e6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2471c6d4-c1cf-41c6-af17-1c7c4a9337e6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2471c6d4-c1cf-41c6-af17-1c7c4a9337e6_mobile_mid.m3u8"
+        },
+        "id": "5a3c799e51f074109432411e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a2f9629a7b33c240bf4c8cf",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

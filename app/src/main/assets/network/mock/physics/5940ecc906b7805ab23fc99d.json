@@ -1,0 +1,1438 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-06-14T07:59:05.383Z",
+  "updatedAt": "2017-12-06T14:24:03.715Z",
+  "name": "初中物理八年级下",
+  "description": "本课程为八年级物理下册的同步辅导。知识点涵盖课本中的所有内容，主要包括力学的相关内容，如力、运动和力、压强、浮力、功和机械能、简单机械等。这些内容是力学的基础，也是物理学的重要组成部分。本课程在学生看书预习的基础上，为同学们做了细致而全面的知识点提炼和总结，并辅助一定的练习，达到夯实基础、强化综合能力的效果。",
+  "shortDescription": "知识点涵盖课本中的所有内容，主要包括力学的相关内容，如力、运动和力、压强、浮力、功和机械能、简单机械等。",
+  "price": 78,
+  "hide": false,
+  "major": "592e38d4b45f51716ab6f487",
+  "teacherName": "阎俊超",
+  "teacherDescription": "清华电子硕士在读，有过多次辅导、授课经验。在多种电子、物理类竞赛中获奖。丰富的理科学习、复习经验，在知识提炼和总结、学生沟通方面有独特的体会，对学习方法、知识梳理等有深入的研究。",
+  "teacher": {
+    "description": "清华电子硕士在读，有过多次辅导、授课经验。在多种电子、物理类竞赛中获奖。丰富的理科学习、复习经验，在知识提炼和总结、学生沟通方面有独特的体会，对学习方法、知识梳理等有深入的研究。",
+    "name": "阎俊超",
+    "avatar": "http://imgs.wanmen.org/45e995581e44417b0f594cbcd8714ec3.png",
+    "id": "5947305489c14511ead0876d"
+  },
+  "bigImage": "http://imgs.wanmen.org/f83d84b791609acc86b97963ab062440.png",
+  "smallImage": "http://imgs.wanmen.org/2aafdff8cfede63badd787ddb1a8ca0e.png",
+  "expiration": 12,
+  "order": 2,
+  "numOfClasses": 21,
+  "tag": "阎俊超 初中 物理 八年级 下 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 41,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 8,
+  "app": "mid",
+  "numberOfClasses": 21,
+  "teacherAvatar": "http://imgs.wanmen.org/45e995581e44417b0f594cbcd8714ec3.png",
+  "mobileCoverUrl": "http://imgs.wanmen.org/2aafdff8cfede63badd787ddb1a8ca0e.png",
+  "coverUrl": "http://imgs.wanmen.org/f83d84b791609acc86b97963ab062440.png",
+  "smallImageUrl": "http://imgs.wanmen.org/2aafdff8cfede63badd787ddb1a8ca0e.png",
+  "bigImageUrl": "http://imgs.wanmen.org/f83d84b791609acc86b97963ab062440.png",
+  "id": "5940ecc906b7805ab23fc99d",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-14T08:00:06.122Z",
+    "updatedAt": "2017-12-22T03:33:54.082Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "力",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5940ed0606b7805ab23fc9ad",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:45:06.250Z",
+      "updatedAt": "2017-12-22T03:34:10.522Z",
+      "parentId": "5940ed0606b7805ab23fc9ad",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "力及其作用效果",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_mobile_mid.m3u8"
+        },
+        "id": "5941fbeaef23a82fd4f5dbf9"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59473ab289c14511ead08797",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/d2a8e0e4-dc12-4dbf-9bdd-59b303ba8e9a_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:45:15.413Z",
+      "updatedAt": "2017-12-22T03:34:33.767Z",
+      "parentId": "5940ed0606b7805ab23fc9ad",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "力的三要素及其示意图",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_mobile_mid.m3u8"
+        },
+        "id": "5941fc55ef23a83d1014021a"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59473abb89c14511ead08799",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a6826a4c-a50c-469b-807e-e2c269e3679d_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-14T08:00:19.470Z",
+    "updatedAt": "2017-12-22T03:34:55.542Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "弹力",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5940ed1306b7805ab23fc9b1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:45:25.002Z",
+      "updatedAt": "2017-12-22T03:35:10.283Z",
+      "parentId": "5940ed1306b7805ab23fc9b1",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "弹力产生的原因和条件",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/24fd9f92-0662-40c4-bfb8-ab61a78c2005_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/24fd9f92-0662-40c4-bfb8-ab61a78c2005_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/24fd9f92-0662-40c4-bfb8-ab61a78c2005_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/24fd9f92-0662-40c4-bfb8-ab61a78c2005_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/24fd9f92-0662-40c4-bfb8-ab61a78c2005_mobile_mid.m3u8"
+        },
+        "id": "5941fc8eef23a85887e057a9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473ac589c14511ead087aa",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:45:35.576Z",
+      "updatedAt": "2017-12-22T03:35:30.279Z",
+      "parentId": "5940ed1306b7805ab23fc9b1",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "弹簧测力计",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/10c40699-c3da-4c2d-a225-7da4ade798af_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/10c40699-c3da-4c2d-a225-7da4ade798af_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/10c40699-c3da-4c2d-a225-7da4ade798af_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/10c40699-c3da-4c2d-a225-7da4ade798af_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/10c40699-c3da-4c2d-a225-7da4ade798af_mobile_mid.m3u8"
+        },
+        "id": "5941fcc6ef23a8302f30744e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473acf89c14511ead087ac",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-14T08:00:29.411Z",
+    "updatedAt": "2017-12-22T03:35:51.984Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "重力",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5940ed1d06b7805ab23fc9b5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:45:45.539Z",
+      "updatedAt": "2017-12-22T03:36:01.223Z",
+      "parentId": "5940ed1d06b7805ab23fc9b5",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "重力的由来及大小",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/282d296b-c81a-4618-a4ed-655aa772a106_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/282d296b-c81a-4618-a4ed-655aa772a106_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/282d296b-c81a-4618-a4ed-655aa772a106_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/282d296b-c81a-4618-a4ed-655aa772a106_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/282d296b-c81a-4618-a4ed-655aa772a106_mobile_mid.m3u8"
+        },
+        "id": "5941fd10ef23a82ff01ce512"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473ad989c14511ead087ae",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:45:56.382Z",
+      "updatedAt": "2017-12-22T03:36:10.317Z",
+      "parentId": "5940ed1d06b7805ab23fc9b5",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "重力的方向及重心",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/549b5d48-4770-48a0-93b4-405f3ecd52cd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/549b5d48-4770-48a0-93b4-405f3ecd52cd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/549b5d48-4770-48a0-93b4-405f3ecd52cd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/549b5d48-4770-48a0-93b4-405f3ecd52cd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/549b5d48-4770-48a0-93b4-405f3ecd52cd_mobile_mid.m3u8"
+        },
+        "id": "5941fd45ef23a82feb8a1493"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473ae489c14511ead087b0",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-14T08:00:40.437Z",
+    "updatedAt": "2017-12-22T03:36:25.115Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "牛顿第一定律",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5940ed2806b7805ab23fc9b7",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:46:52.504Z",
+      "updatedAt": "2017-12-22T03:36:35.385Z",
+      "parentId": "5940ed2806b7805ab23fc9b7",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "牛顿第一定律",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7c966112-25b2-4b3a-a886-e220842488e2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7c966112-25b2-4b3a-a886-e220842488e2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7c966112-25b2-4b3a-a886-e220842488e2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7c966112-25b2-4b3a-a886-e220842488e2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7c966112-25b2-4b3a-a886-e220842488e2_mobile_mid.m3u8"
+        },
+        "id": "5941fd9def23a82ffaa0c4e9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473b1c89c14511ead087b2",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:47:15.936Z",
+      "updatedAt": "2017-12-22T03:36:45.130Z",
+      "parentId": "5940ed2806b7805ab23fc9b7",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "惯性",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/763b992c-3790-4453-9921-9a36bbe1feb8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/763b992c-3790-4453-9921-9a36bbe1feb8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/763b992c-3790-4453-9921-9a36bbe1feb8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/763b992c-3790-4453-9921-9a36bbe1feb8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/763b992c-3790-4453-9921-9a36bbe1feb8_mobile_mid.m3u8"
+        },
+        "id": "5941fdf2ef23a82ff01ce513"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473b331e81fe32d699ca57",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-14T08:00:50.021Z",
+    "updatedAt": "2017-12-22T03:36:59.767Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "二力平衡",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5940ed3206b7805ab23fc9bb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:47:30.690Z",
+      "updatedAt": "2017-12-22T03:37:10.526Z",
+      "parentId": "5940ed3206b7805ab23fc9bb",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "力的平衡",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fd939e2f-8b06-4e28-9f01-0d1902c50554_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fd939e2f-8b06-4e28-9f01-0d1902c50554_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fd939e2f-8b06-4e28-9f01-0d1902c50554_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fd939e2f-8b06-4e28-9f01-0d1902c50554_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fd939e2f-8b06-4e28-9f01-0d1902c50554_mobile_mid.m3u8"
+        },
+        "id": "5941fe2eef23a82fd4f5dbfa"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473b421e81fe32d699ca59",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:48:54.304Z",
+      "updatedAt": "2017-12-22T03:37:21.569Z",
+      "parentId": "5940ed3206b7805ab23fc9bb",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "二力平衡的应用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/059de729-1eb3-4154-80f0-b1db6cc7f62e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/059de729-1eb3-4154-80f0-b1db6cc7f62e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/059de729-1eb3-4154-80f0-b1db6cc7f62e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/059de729-1eb3-4154-80f0-b1db6cc7f62e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/059de729-1eb3-4154-80f0-b1db6cc7f62e_mobile_mid.m3u8"
+        },
+        "id": "5941fe74ef23a83038f67c48"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473b961e81fe32d699ca5b",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-14T08:01:00.762Z",
+    "updatedAt": "2017-12-22T03:37:35.901Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "摩擦力",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5940ed3c06b7805ab23fc9bd",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:49:15.732Z",
+      "updatedAt": "2017-12-22T03:37:50.333Z",
+      "parentId": "5940ed3c06b7805ab23fc9bd",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "摩擦力的基本知识",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d005eb8d-892f-47d9-a95a-cdc21b7bb751_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d005eb8d-892f-47d9-a95a-cdc21b7bb751_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d005eb8d-892f-47d9-a95a-cdc21b7bb751_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d005eb8d-892f-47d9-a95a-cdc21b7bb751_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d005eb8d-892f-47d9-a95a-cdc21b7bb751_mobile_mid.m3u8"
+        },
+        "id": "5941febaef23a83026369ca3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473bab1e81fe32d699ca5d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:49:28.829Z",
+      "updatedAt": "2017-12-22T03:38:03.569Z",
+      "parentId": "5940ed3c06b7805ab23fc9bd",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "摩擦力的利用和减小",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/40f32eb2-cfb7-4b05-be11-bb6a6e8e7414_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/40f32eb2-cfb7-4b05-be11-bb6a6e8e7414_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/40f32eb2-cfb7-4b05-be11-bb6a6e8e7414_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/40f32eb2-cfb7-4b05-be11-bb6a6e8e7414_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/40f32eb2-cfb7-4b05-be11-bb6a6e8e7414_mobile_mid.m3u8"
+        },
+        "id": "5941ff02ef23a830822d9c54"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473bb81e81fe32d699ca5f",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-14T08:28:36.153Z",
+    "updatedAt": "2017-12-22T03:38:18.022Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "压强",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5940f3b406b7805ab23fc9fb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:49:41.669Z",
+      "updatedAt": "2017-12-22T03:38:36.918Z",
+      "parentId": "5940f3b406b7805ab23fc9fb",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "压力",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/51eefa57-5e5f-4e27-a926-6253b98adb0e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/51eefa57-5e5f-4e27-a926-6253b98adb0e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/51eefa57-5e5f-4e27-a926-6253b98adb0e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/51eefa57-5e5f-4e27-a926-6253b98adb0e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/51eefa57-5e5f-4e27-a926-6253b98adb0e_mobile_mid.m3u8"
+        },
+        "id": "5941ff4fef23a82264c26f3d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473bc51e81fe32d699ca61",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:50:01.631Z",
+      "updatedAt": "2017-12-22T03:38:52.630Z",
+      "parentId": "5940f3b406b7805ab23fc9fb",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "压强",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b2c0c5b4-4a7e-4033-a27f-f851001bade9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b2c0c5b4-4a7e-4033-a27f-f851001bade9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b2c0c5b4-4a7e-4033-a27f-f851001bade9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b2c0c5b4-4a7e-4033-a27f-f851001bade9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b2c0c5b4-4a7e-4033-a27f-f851001bade9_mobile_mid.m3u8"
+        },
+        "id": "5941ff8cef23a83072ca0b94"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473bd91e81fe32d699ca63",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:49:20.226Z",
+    "updatedAt": "2017-12-22T03:39:09.640Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "液体的压强",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438d800af5b8224d3e03b5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:50:13.557Z",
+      "updatedAt": "2017-12-22T03:39:26.061Z",
+      "parentId": "59438d800af5b8224d3e03b5",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "液体的压强（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/60bbfa85-2dec-4eb8-8197-e5f1da352aef_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/60bbfa85-2dec-4eb8-8197-e5f1da352aef_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/60bbfa85-2dec-4eb8-8197-e5f1da352aef_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/60bbfa85-2dec-4eb8-8197-e5f1da352aef_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/60bbfa85-2dec-4eb8-8197-e5f1da352aef_mobile_mid.m3u8"
+        },
+        "id": "5941ffd7ef23a830822d9c55"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473be51e81fe32d699ca65",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:50:23.574Z",
+      "updatedAt": "2017-12-22T03:39:42.880Z",
+      "parentId": "59438d800af5b8224d3e03b5",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "液体的压强（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8a9a5c89-a951-4e96-aba0-b73c3223912d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8a9a5c89-a951-4e96-aba0-b73c3223912d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8a9a5c89-a951-4e96-aba0-b73c3223912d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8a9a5c89-a951-4e96-aba0-b73c3223912d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8a9a5c89-a951-4e96-aba0-b73c3223912d_mobile_mid.m3u8"
+        },
+        "id": "59420031ef23a82ffaa0c4ea"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473bef1e81fe32d699ca67",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:50:37.559Z",
+      "updatedAt": "2017-12-22T03:39:58.981Z",
+      "parentId": "59438d800af5b8224d3e03b5",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "连通器",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/536aec74-3524-4ff3-8a75-d8f87eb247f6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/536aec74-3524-4ff3-8a75-d8f87eb247f6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/536aec74-3524-4ff3-8a75-d8f87eb247f6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/536aec74-3524-4ff3-8a75-d8f87eb247f6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/536aec74-3524-4ff3-8a75-d8f87eb247f6_mobile_mid.m3u8"
+        },
+        "id": "59420064ef23a82eb67467f3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473bfd1e81fe32d699ca69",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:49:30.925Z",
+    "updatedAt": "2017-12-22T03:40:19.223Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "大气的压强",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438d8a0af5b8224d3e03b7",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:50:49.946Z",
+      "updatedAt": "2017-12-22T03:40:36.616Z",
+      "parentId": "59438d8a0af5b8224d3e03b7",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "大气的压强（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0475735-a60a-46ae-a605-952ecb38758e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0475735-a60a-46ae-a605-952ecb38758e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0475735-a60a-46ae-a605-952ecb38758e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0475735-a60a-46ae-a605-952ecb38758e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0475735-a60a-46ae-a605-952ecb38758e_mobile_mid.m3u8"
+        },
+        "id": "594200b2ef23a8302b0c35b2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c091e81fe32d699ca6b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:51:01.272Z",
+      "updatedAt": "2017-12-22T03:40:54.193Z",
+      "parentId": "59438d8a0af5b8224d3e03b7",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "大气的压强（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e1df79f9-f785-4187-a803-90413c74ea24_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e1df79f9-f785-4187-a803-90413c74ea24_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e1df79f9-f785-4187-a803-90413c74ea24_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e1df79f9-f785-4187-a803-90413c74ea24_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e1df79f9-f785-4187-a803-90413c74ea24_mobile_mid.m3u8"
+        },
+        "id": "594200f3ef23a8308c970e14"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c151e81fe32d699ca6d",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:49:41.780Z",
+    "updatedAt": "2017-12-22T03:41:15.769Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "液体压强与流速的关系",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438d950af5b8224d3e03b9",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:51:17.764Z",
+      "updatedAt": "2017-12-22T03:43:12.976Z",
+      "parentId": "59438d950af5b8224d3e03b9",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "液体压强与流速的关系",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/07a0a638-ca86-4656-8422-3053d6a36c58_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/07a0a638-ca86-4656-8422-3053d6a36c58_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/07a0a638-ca86-4656-8422-3053d6a36c58_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/07a0a638-ca86-4656-8422-3053d6a36c58_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/07a0a638-ca86-4656-8422-3053d6a36c58_mobile_mid.m3u8"
+        },
+        "id": "5942014aef23a83072ca0b95"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c251e81fe32d699ca6f",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:49:51.465Z",
+    "updatedAt": "2017-12-22T03:43:35.764Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "浮力",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438d9f0af5b8224d3e03bb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:51:30.663Z",
+      "updatedAt": "2017-12-22T03:43:57.423Z",
+      "parentId": "59438d9f0af5b8224d3e03bb",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "浮力（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a24f9a52-4ea8-4ef3-82e6-ec3450aaa0f3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a24f9a52-4ea8-4ef3-82e6-ec3450aaa0f3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a24f9a52-4ea8-4ef3-82e6-ec3450aaa0f3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a24f9a52-4ea8-4ef3-82e6-ec3450aaa0f3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a24f9a52-4ea8-4ef3-82e6-ec3450aaa0f3_mobile_mid.m3u8"
+        },
+        "id": "59420177ef23a82fd4f5dbfb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c321e81fe32d699ca71",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:51:41.008Z",
+      "updatedAt": "2017-12-22T03:44:18.909Z",
+      "parentId": "59438d9f0af5b8224d3e03bb",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "浮力（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/757132fc-72bc-4c01-b08c-2b81636065d8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/757132fc-72bc-4c01-b08c-2b81636065d8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/757132fc-72bc-4c01-b08c-2b81636065d8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/757132fc-72bc-4c01-b08c-2b81636065d8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/757132fc-72bc-4c01-b08c-2b81636065d8_mobile_mid.m3u8"
+        },
+        "id": "594201afef23a85887e057aa"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c3d1e81fe32d699ca73",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:50:04.830Z",
+    "updatedAt": "2017-12-22T03:44:43.221Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "阿基米德原理",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438dac0af5b8224d3e03bd",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:51:50.570Z",
+      "updatedAt": "2017-12-22T03:45:04.679Z",
+      "parentId": "59438dac0af5b8224d3e03bd",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "探究实验及原理",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/44641e65-29d2-4826-8db2-48492c722cd3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/44641e65-29d2-4826-8db2-48492c722cd3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/44641e65-29d2-4826-8db2-48492c722cd3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/44641e65-29d2-4826-8db2-48492c722cd3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/44641e65-29d2-4826-8db2-48492c722cd3_mobile_mid.m3u8"
+        },
+        "id": "594201d5ef23a830026e6fa9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c461e81fe32d699ca75",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:52:01.077Z",
+      "updatedAt": "2017-12-22T03:45:24.807Z",
+      "parentId": "59438dac0af5b8224d3e03bd",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "原理的深入理解",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0a34ab41-e82c-47d6-a2ef-d8bc1a0f665c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0a34ab41-e82c-47d6-a2ef-d8bc1a0f665c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0a34ab41-e82c-47d6-a2ef-d8bc1a0f665c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0a34ab41-e82c-47d6-a2ef-d8bc1a0f665c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0a34ab41-e82c-47d6-a2ef-d8bc1a0f665c_mobile_mid.m3u8"
+        },
+        "id": "59420229ef23a82ffaa0c4eb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c511e81fe32d699ca77",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:50:14.738Z",
+    "updatedAt": "2017-12-22T03:45:48.887Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "物体的浮沉条件及应用",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438db60af5b8224d3e03bf",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:52:12.203Z",
+      "updatedAt": "2017-12-22T03:46:10.152Z",
+      "parentId": "59438db60af5b8224d3e03bf",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "物体的浮沉条件",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2e16284a-1405-49a3-876b-58e6f8735cc1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2e16284a-1405-49a3-876b-58e6f8735cc1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2e16284a-1405-49a3-876b-58e6f8735cc1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2e16284a-1405-49a3-876b-58e6f8735cc1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2e16284a-1405-49a3-876b-58e6f8735cc1_mobile_mid.m3u8"
+        },
+        "id": "59424744ef23a82456d49e9e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c5c1e81fe32d699ca79",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:52:24.373Z",
+      "updatedAt": "2017-12-22T03:46:32.620Z",
+      "parentId": "59438db60af5b8224d3e03bf",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "浮沉条件的应用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/502423df-97a3-4c79-bb22-05aa24b684be_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/502423df-97a3-4c79-bb22-05aa24b684be_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/502423df-97a3-4c79-bb22-05aa24b684be_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/502423df-97a3-4c79-bb22-05aa24b684be_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/502423df-97a3-4c79-bb22-05aa24b684be_mobile_mid.m3u8"
+        },
+        "id": "5942477def23a82fe208eb3d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c681e81fe32d699ca7b",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:50:31.237Z",
+    "updatedAt": "2017-12-22T03:46:57.485Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "功",
+    "order": 14,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438dc70af5b8224d3e03c1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:52:35.638Z",
+      "updatedAt": "2017-12-22T03:47:20.499Z",
+      "parentId": "59438dc70af5b8224d3e03c1",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "功的基础知识",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ae665859-2282-4b86-982e-a0fe624d20b0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ae665859-2282-4b86-982e-a0fe624d20b0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ae665859-2282-4b86-982e-a0fe624d20b0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ae665859-2282-4b86-982e-a0fe624d20b0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ae665859-2282-4b86-982e-a0fe624d20b0_mobile_mid.m3u8"
+        },
+        "id": "594247d5ef23a82eb67467f7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c731e81fe32d699ca7d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:52:48.474Z",
+      "updatedAt": "2017-12-22T03:47:41.999Z",
+      "parentId": "59438dc70af5b8224d3e03c1",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "功的计算",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/710a4db7-def6-46ca-8da5-2c29782079ff_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/710a4db7-def6-46ca-8da5-2c29782079ff_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/710a4db7-def6-46ca-8da5-2c29782079ff_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/710a4db7-def6-46ca-8da5-2c29782079ff_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/710a4db7-def6-46ca-8da5-2c29782079ff_mobile_mid.m3u8"
+        },
+        "id": "5942480bef23a82fd4f5dbfc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c801e81fe32d699ca7f",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:50:41.451Z",
+    "updatedAt": "2017-12-22T03:48:07.928Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "功率",
+    "order": 15,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438dd10af5b8224d3e03c3",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:52:59.962Z",
+      "updatedAt": "2017-12-22T03:49:35.030Z",
+      "parentId": "59438dd10af5b8224d3e03c3",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "功率的基础知识",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1800967a-3649-4674-9db0-e38e812a7a02_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1800967a-3649-4674-9db0-e38e812a7a02_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1800967a-3649-4674-9db0-e38e812a7a02_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1800967a-3649-4674-9db0-e38e812a7a02_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1800967a-3649-4674-9db0-e38e812a7a02_mobile_mid.m3u8"
+        },
+        "id": "59424836ef23a830822d9c5a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c8b1e81fe32d699ca81",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:53:10.432Z",
+      "updatedAt": "2017-12-22T03:50:03.333Z",
+      "parentId": "59438dd10af5b8224d3e03c3",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "功率知识深入",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/77048227-5bce-4952-b66b-4130ac900436_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/77048227-5bce-4952-b66b-4130ac900436_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/77048227-5bce-4952-b66b-4130ac900436_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/77048227-5bce-4952-b66b-4130ac900436_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/77048227-5bce-4952-b66b-4130ac900436_mobile_mid.m3u8"
+        },
+        "id": "594248b4ef23a82eb67467f8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473c961e81fe32d699ca83",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T07:50:51.909Z",
+    "updatedAt": "2017-12-22T03:50:13.893Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "动能和势能",
+    "order": 16,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59438ddb0af5b8224d3e03c5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:53:23.698Z",
+      "updatedAt": "2017-12-22T03:50:20.232Z",
+      "parentId": "59438ddb0af5b8224d3e03c5",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "动能和势能",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f4187f2e-d04d-4f20-80a7-f64c4b230215_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f4187f2e-d04d-4f20-80a7-f64c4b230215_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f4187f2e-d04d-4f20-80a7-f64c4b230215_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f4187f2e-d04d-4f20-80a7-f64c4b230215_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f4187f2e-d04d-4f20-80a7-f64c4b230215_mobile_mid.m3u8"
+        },
+        "id": "594248deef23a82fd5fce992"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473ca31e81fe32d699ca85",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:53:36.625Z",
+      "updatedAt": "2017-12-22T03:50:25.046Z",
+      "parentId": "59438ddb0af5b8224d3e03c5",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "影响因素的探究",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/27284940-d074-492b-bac9-d2bc9ba1dcc8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/27284940-d074-492b-bac9-d2bc9ba1dcc8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/27284940-d074-492b-bac9-d2bc9ba1dcc8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/27284940-d074-492b-bac9-d2bc9ba1dcc8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/27284940-d074-492b-bac9-d2bc9ba1dcc8_mobile_mid.m3u8"
+        },
+        "id": "59424992ef23a8300dc58f48"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473cb01e81fe32d699ca87",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T02:42:28.431Z",
+    "updatedAt": "2017-12-22T03:50:31.673Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "机械能及其转化",
+    "order": 17,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59473a1489c14511ead0878d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:53:46.850Z",
+      "updatedAt": "2017-12-22T03:50:37.041Z",
+      "parentId": "59473a1489c14511ead0878d",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "机械能及其转化（一）",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04597f5a-8f6f-4a60-954d-e532e3a549dc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04597f5a-8f6f-4a60-954d-e532e3a549dc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04597f5a-8f6f-4a60-954d-e532e3a549dc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04597f5a-8f6f-4a60-954d-e532e3a549dc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04597f5a-8f6f-4a60-954d-e532e3a549dc_mobile_mid.m3u8"
+        },
+        "id": "594249b8ef23a831f5967f45"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473cba1e81fe32d699ca89",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:53:56.716Z",
+      "updatedAt": "2017-12-22T03:50:42.644Z",
+      "parentId": "59473a1489c14511ead0878d",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "机械能及其转化（二）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b22db312-dcfa-446f-b527-607e4d917b07_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b22db312-dcfa-446f-b527-607e4d917b07_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b22db312-dcfa-446f-b527-607e4d917b07_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b22db312-dcfa-446f-b527-607e4d917b07_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b22db312-dcfa-446f-b527-607e4d917b07_mobile_mid.m3u8"
+        },
+        "id": "59424a0cef23a8302f307452"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473cc41e81fe32d699ca8b",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T02:42:42.107Z",
+    "updatedAt": "2017-12-22T03:50:49.717Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "杠杆",
+    "order": 18,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59473a2289c14511ead0878f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:54:09.968Z",
+      "updatedAt": "2017-12-22T03:50:55.927Z",
+      "parentId": "59473a2289c14511ead0878f",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "杠杆",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/61b6da4e-ee7d-4476-a7d8-37e8b143df84_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/61b6da4e-ee7d-4476-a7d8-37e8b143df84_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/61b6da4e-ee7d-4476-a7d8-37e8b143df84_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/61b6da4e-ee7d-4476-a7d8-37e8b143df84_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/61b6da4e-ee7d-4476-a7d8-37e8b143df84_mobile_mid.m3u8"
+        },
+        "id": "59424a37ef23a830626948aa"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473cd11e81fe32d699ca8d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:54:19.765Z",
+      "updatedAt": "2017-12-22T03:51:01.164Z",
+      "parentId": "59473a2289c14511ead0878f",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "杠杆的平衡条件及应用",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b35c4b21-0420-466c-ba78-a65437ca8700_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b35c4b21-0420-466c-ba78-a65437ca8700_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b35c4b21-0420-466c-ba78-a65437ca8700_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b35c4b21-0420-466c-ba78-a65437ca8700_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b35c4b21-0420-466c-ba78-a65437ca8700_mobile_mid.m3u8"
+        },
+        "id": "59424a82ef23a82eb67467f9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473cdb1e81fe32d699ca8f",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T02:42:56.888Z",
+    "updatedAt": "2017-12-22T03:51:08.818Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "滑轮",
+    "order": 19,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59473a3089c14511ead08791",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:54:30.538Z",
+      "updatedAt": "2017-12-22T03:51:14.476Z",
+      "parentId": "59473a3089c14511ead08791",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "定滑轮和动滑轮",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/889a5761-21ce-4e5a-a946-bb420761c3a4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/889a5761-21ce-4e5a-a946-bb420761c3a4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/889a5761-21ce-4e5a-a946-bb420761c3a4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/889a5761-21ce-4e5a-a946-bb420761c3a4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/889a5761-21ce-4e5a-a946-bb420761c3a4_mobile_mid.m3u8"
+        },
+        "id": "59424b69ef23a830822d9c5b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473ce61e81fe32d699ca91",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:54:40.197Z",
+      "updatedAt": "2017-12-22T03:51:19.913Z",
+      "parentId": "59473a3089c14511ead08791",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "滑轮组",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ac5433b0-7682-4355-bc07-c4f621c74782_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ac5433b0-7682-4355-bc07-c4f621c74782_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ac5433b0-7682-4355-bc07-c4f621c74782_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ac5433b0-7682-4355-bc07-c4f621c74782_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ac5433b0-7682-4355-bc07-c4f621c74782_mobile_mid.m3u8"
+        },
+        "id": "59424ba1ef23a831f5967f46"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473cf01e81fe32d699ca93",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T02:43:07.795Z",
+    "updatedAt": "2017-12-22T03:51:27.300Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "机械效率",
+    "order": 20,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59473a3b89c14511ead08793",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:54:50.213Z",
+      "updatedAt": "2017-12-22T03:51:32.038Z",
+      "parentId": "59473a3b89c14511ead08793",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "机械效率",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a33f8794-3834-4914-81ad-a85b115df905_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a33f8794-3834-4914-81ad-a85b115df905_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a33f8794-3834-4914-81ad-a85b115df905_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a33f8794-3834-4914-81ad-a85b115df905_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a33f8794-3834-4914-81ad-a85b115df905_mobile_mid.m3u8"
+        },
+        "id": "59424bdfef23a83026369ca9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473cfa1e81fe32d699ca95",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:55:04.666Z",
+      "updatedAt": "2017-12-22T03:51:37.587Z",
+      "parentId": "59473a3b89c14511ead08793",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "探究斜面的机械效率",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cd407b6d-d589-42af-86ce-ef210b18f08c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cd407b6d-d589-42af-86ce-ef210b18f08c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cd407b6d-d589-42af-86ce-ef210b18f08c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cd407b6d-d589-42af-86ce-ef210b18f08c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cd407b6d-d589-42af-86ce-ef210b18f08c_mobile_mid.m3u8"
+        },
+        "id": "59424c50ef23a82264c26f43"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473d081e81fe32d699ca97",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T02:43:21.989Z",
+    "updatedAt": "2017-12-22T03:51:46.480Z",
+    "courseId": "5940ecc906b7805ab23fc99d",
+    "name": "课程小结",
+    "order": 21,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59473a4989c14511ead08795",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T02:55:20.310Z",
+      "updatedAt": "2017-12-22T03:51:51.993Z",
+      "parentId": "59473a4989c14511ead08795",
+      "courseId": "5940ecc906b7805ab23fc99d",
+      "name": "课程小结",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e40ff583-f1d6-44ba-b8f1-9a676b863294_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e40ff583-f1d6-44ba-b8f1-9a676b863294_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e40ff583-f1d6-44ba-b8f1-9a676b863294_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e40ff583-f1d6-44ba-b8f1-9a676b863294_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e40ff583-f1d6-44ba-b8f1-9a676b863294_mobile_mid.m3u8"
+        },
+        "id": "59424c7cef23a8306926cbc2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59473d181e81fe32d699ca99",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

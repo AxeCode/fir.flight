@@ -1,0 +1,1074 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-06-08T03:34:41.302Z",
+  "updatedAt": "2017-12-26T01:39:00.071Z",
+  "name": "初中语文八年级",
+  "price": 78,
+  "hide": false,
+  "major": "59354a36d5fa2213f156cb86",
+  "bigImage": "http://imgs.wanmen.org/e77251d7db99f4aac585b2c8db5e7d2c.png",
+  "smallImage": "http://imgs.wanmen.org/2dfec7f8a3065500a7f6717288b48b3d.png",
+  "teacherName": "赵成程",
+  "teacherDescription": "赵成程，研究生毕业于北京大学汉语国际教育专业，天津大学中文系文学学士。曾赴美国进行汉语言教学及跨文化传播工作，走访近10个州20余个城市，有着丰富的教学和跨文化交流经验。国内知名教育机构高三语文教师，有着独特的语文教学之道。以历史的高度，地理的视角，文学的维度，社会的探索，感性的体验，理性的逻辑来讲述语文，你没有走错教室。",
+  "teacherAvatar": "http://imgs.wanmen.org/9d593a16797d8f1e32c0eca7983ebbd2.png",
+  "teacher": {
+    "name": "赵成程",
+    "description": "赵成程，研究生毕业于北京大学汉语国际教育专业，天津大学中文系文学学士。曾赴美国进行汉语言教学及跨文化传播工作，走访近10个州20余个城市，有着丰富的教学和跨文化交流经验。国内知名教育机构高三语文教师，有着独特的语文教学之道。以历史的高度，地理的视角，文学的维度，社会的探索，感性的体验，理性的逻辑来讲述语文，你没有走错教室。",
+    "avatar": "http://imgs.wanmen.org/9d593a16797d8f1e32c0eca7983ebbd2.png",
+    "id": "59353ea9d5fa2213f156cb78"
+  },
+  "description": "该阶段课程在七年级的基础上,更加侧重知识性教学和艺术性欣赏的结合,进一步为大家介绍古代诗歌鉴赏技巧及现代诗歌流派特征；结合中考要求,为同学介绍名家经典阅读书目；进一步结合教材文言文为大家解读文言文翻译技巧；结合教材课文讲授记叙文、议论文、散文和说明文的阅读方法。\n",
+  "expiration": 12,
+  "order": 2,
+  "numOfClasses": 6,
+  "tag": "赵成程 初中 八年级 语文",
+  "specialTrainingOrder": 0,
+  "videoCount": 35,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 10,
+  "app": "mid",
+  "numberOfClasses": 6,
+  "mobileCoverUrl": "http://imgs.wanmen.org/2dfec7f8a3065500a7f6717288b48b3d.png",
+  "coverUrl": "http://imgs.wanmen.org/e77251d7db99f4aac585b2c8db5e7d2c.png",
+  "smallImageUrl": "http://imgs.wanmen.org/2dfec7f8a3065500a7f6717288b48b3d.png",
+  "bigImageUrl": "http://imgs.wanmen.org/e77251d7db99f4aac585b2c8db5e7d2c.png",
+  "id": "5938c5d1c6f7967b41a798f0",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-15T03:41:44.099Z",
+    "updatedAt": "2017-06-20T09:01:05.103Z",
+    "courseId": "5938c5d1c6f7967b41a798f0",
+    "name": "记叙文的阅读方法",
+    "order": 1,
+    "actions": {
+      "download": true,
+      "watch": true
+    },
+    "hide": false,
+    "id": "594201f806b7805ab23fca4f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T03:42:26.880Z",
+      "updatedAt": "2017-12-20T03:55:03.231Z",
+      "parentId": "594201f806b7805ab23fca4f",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "记叙文阅读之整体感知",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_mobile_mid.m3u8"
+        },
+        "id": "59464ae4ef23a8300e2477ee"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5942022206b7805ab23fca57",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/27cd2019-4924-466d-ab12-4cd724806852_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T03:42:38.367Z",
+      "updatedAt": "2017-12-20T03:56:17.260Z",
+      "parentId": "594201f806b7805ab23fca4f",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "记叙文阅读之分析综合",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_mobile_mid.m3u8"
+        },
+        "id": "59464b84ef23a82fd5fce998"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5942022e06b7805ab23fca59",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/3e47abc0-af1d-4608-8d58-f5c456e97e92_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T03:43:05.033Z",
+      "updatedAt": "2017-12-20T03:56:23.750Z",
+      "parentId": "594201f806b7805ab23fca4f",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "记叙文阅读之鉴赏评价",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_mobile_mid.m3u8"
+        },
+        "id": "59464cb1ef23a8308c970e21"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5942024906b7805ab23fca5b",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/02f65f4f-d61f-4df8-9f6e-cdf505bda900_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T03:43:18.318Z",
+      "updatedAt": "2017-12-20T03:56:29.804Z",
+      "parentId": "594201f806b7805ab23fca4f",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "品读《芦花荡》（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_mobile_mid.m3u8"
+        },
+        "id": "59464cf2ef23a82feb8a1498"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5942025606b7805ab23fca5d",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/fcfa77bb-cbdd-4b66-842d-6052a6beb5c6_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T03:43:28.912Z",
+      "updatedAt": "2017-12-20T03:56:39.221Z",
+      "parentId": "594201f806b7805ab23fca4f",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "品读《芦花荡》（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_mobile_mid.m3u8"
+        },
+        "id": "59464d19ef23a8305dbf4db3"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5942026006b7805ab23fca5f",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/56f5e21a-9098-494b-a704-ff4b8391bd33_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-15T03:41:56.373Z",
+    "updatedAt": "2017-06-23T01:57:53.699Z",
+    "courseId": "5938c5d1c6f7967b41a798f0",
+    "name": "散文的阅读方法",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5942020406b7805ab23fca51",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T03:42:05.150Z",
+      "updatedAt": "2017-12-20T03:56:52.693Z",
+      "parentId": "5942020406b7805ab23fca51",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "散文的特点",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f82edc56-86c8-418c-b462-1f407d3b4a93_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f82edc56-86c8-418c-b462-1f407d3b4a93_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f82edc56-86c8-418c-b462-1f407d3b4a93_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f82edc56-86c8-418c-b462-1f407d3b4a93_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f82edc56-86c8-418c-b462-1f407d3b4a93_mobile_mid.m3u8"
+        },
+        "id": "59464d43ef23a82ff01ce51d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5942020d06b7805ab23fca53",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T03:42:14.344Z",
+      "updatedAt": "2017-12-20T03:57:00.708Z",
+      "parentId": "5942020406b7805ab23fca51",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "散文的类型",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/56e2622f-89c3-4fb4-8146-009b4c32a281_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/56e2622f-89c3-4fb4-8146-009b4c32a281_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/56e2622f-89c3-4fb4-8146-009b4c32a281_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/56e2622f-89c3-4fb4-8146-009b4c32a281_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/56e2622f-89c3-4fb4-8146-009b4c32a281_mobile_mid.m3u8"
+        },
+        "id": "59464d7cef23a82264c26f48"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5942021606b7805ab23fca55",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T12:41:22.977Z",
+      "updatedAt": "2017-12-20T03:57:09.769Z",
+      "parentId": "5942020406b7805ab23fca51",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "散文的解题套路（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e48fa2b4-4e0c-425d-a6d8-2595b96e0851_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e48fa2b4-4e0c-425d-a6d8-2595b96e0851_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e48fa2b4-4e0c-425d-a6d8-2595b96e0851_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e48fa2b4-4e0c-425d-a6d8-2595b96e0851_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e48fa2b4-4e0c-425d-a6d8-2595b96e0851_mobile_mid.m3u8"
+        },
+        "id": "594b9c98ef23a82456d49ead"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5942807206b7805ab23fcb06",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T12:41:33.391Z",
+      "updatedAt": "2017-12-20T03:57:16.393Z",
+      "parentId": "5942020406b7805ab23fca51",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "散文的解题套路（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d4df12b8-3a8f-434d-b565-9cc7aca1fe93_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d4df12b8-3a8f-434d-b565-9cc7aca1fe93_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d4df12b8-3a8f-434d-b565-9cc7aca1fe93_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d4df12b8-3a8f-434d-b565-9cc7aca1fe93_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d4df12b8-3a8f-434d-b565-9cc7aca1fe93_mobile_mid.m3u8"
+        },
+        "id": "594b9dcbef23a82ffaa0c4f9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5942807d06b7805ab23fcb08",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T12:41:43.159Z",
+      "updatedAt": "2017-12-20T03:57:24.793Z",
+      "parentId": "5942020406b7805ab23fca51",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "散文的解题套路（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c52ae793-97b1-4a14-87d9-14cc1fd3520c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c52ae793-97b1-4a14-87d9-14cc1fd3520c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c52ae793-97b1-4a14-87d9-14cc1fd3520c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c52ae793-97b1-4a14-87d9-14cc1fd3520c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c52ae793-97b1-4a14-87d9-14cc1fd3520c_mobile_mid.m3u8"
+        },
+        "id": "594b9e53ef23a82fd5fce9ac"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5942808706b7805ab23fcb0a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T12:41:54.081Z",
+      "updatedAt": "2017-12-20T03:57:31.966Z",
+      "parentId": "5942020406b7805ab23fca51",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "朱自清：背影（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/24d34312-5427-4061-8ed1-4f4472b361d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/24d34312-5427-4061-8ed1-4f4472b361d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/24d34312-5427-4061-8ed1-4f4472b361d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/24d34312-5427-4061-8ed1-4f4472b361d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/24d34312-5427-4061-8ed1-4f4472b361d2_mobile_mid.m3u8"
+        },
+        "id": "594b9f71ef23a83026369cba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5942809206b7805ab23fcb0c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-15T12:42:03.715Z",
+      "updatedAt": "2017-12-20T03:57:40.116Z",
+      "parentId": "5942020406b7805ab23fca51",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "朱自清：背影（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9e6eb598-5d8e-4152-ac85-edbbc7693a12_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9e6eb598-5d8e-4152-ac85-edbbc7693a12_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9e6eb598-5d8e-4152-ac85-edbbc7693a12_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9e6eb598-5d8e-4152-ac85-edbbc7693a12_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9e6eb598-5d8e-4152-ac85-edbbc7693a12_mobile_mid.m3u8"
+        },
+        "id": "594b9febef23a830822d9c6f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5942809b06b7805ab23fcb0e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-16T09:19:56.075Z",
+    "updatedAt": "2017-06-23T02:01:11.824Z",
+    "courseId": "5938c5d1c6f7967b41a798f0",
+    "name": "说明文的阅读方法",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5943a2bc0af5b8224d3e0429",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-16T09:20:10.144Z",
+      "updatedAt": "2017-12-20T03:57:51.767Z",
+      "parentId": "5943a2bc0af5b8224d3e0429",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "什么是说明文？",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/47d6d201-e03b-43d2-b595-d3cbddad14bf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/47d6d201-e03b-43d2-b595-d3cbddad14bf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/47d6d201-e03b-43d2-b595-d3cbddad14bf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/47d6d201-e03b-43d2-b595-d3cbddad14bf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/47d6d201-e03b-43d2-b595-d3cbddad14bf_mobile_mid.m3u8"
+        },
+        "id": "594ba067ef23a82456d49eae"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5943a2ca0af5b8224d3e042b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-16T09:20:19.215Z",
+      "updatedAt": "2017-12-20T03:57:56.844Z",
+      "parentId": "5943a2bc0af5b8224d3e0429",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "说明文的阅读技巧（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/da5be099-1b6a-4281-bee6-ea243fd06062_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/da5be099-1b6a-4281-bee6-ea243fd06062_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/da5be099-1b6a-4281-bee6-ea243fd06062_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/da5be099-1b6a-4281-bee6-ea243fd06062_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/da5be099-1b6a-4281-bee6-ea243fd06062_mobile_mid.m3u8"
+        },
+        "id": "594ba0caef23a82feb8a14af"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5943a2d30af5b8224d3e042d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-16T09:20:33.034Z",
+      "updatedAt": "2017-12-20T03:58:02.235Z",
+      "parentId": "5943a2bc0af5b8224d3e0429",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "说明文的阅读技巧（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0ee8252b-9463-4249-b3ea-b0c41de472f9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0ee8252b-9463-4249-b3ea-b0c41de472f9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0ee8252b-9463-4249-b3ea-b0c41de472f9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0ee8252b-9463-4249-b3ea-b0c41de472f9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0ee8252b-9463-4249-b3ea-b0c41de472f9_mobile_mid.m3u8"
+        },
+        "id": "594ba28ad5ff7513c5256cbb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5943a2e10af5b8224d3e042f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-16T09:20:42.926Z",
+      "updatedAt": "2017-12-20T03:58:09.276Z",
+      "parentId": "5943a2bc0af5b8224d3e0429",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "说明文的常见题型（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/962573a9-e8d6-4bba-ba0d-de4e3ab98e59_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/962573a9-e8d6-4bba-ba0d-de4e3ab98e59_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/962573a9-e8d6-4bba-ba0d-de4e3ab98e59_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/962573a9-e8d6-4bba-ba0d-de4e3ab98e59_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/962573a9-e8d6-4bba-ba0d-de4e3ab98e59_mobile_mid.m3u8"
+        },
+        "id": "594ba17bef23a830822d9c70"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5943a2ea0af5b8224d3e0431",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-16T09:20:51.872Z",
+      "updatedAt": "2017-12-20T03:58:14.039Z",
+      "parentId": "5943a2bc0af5b8224d3e0429",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "说明文的常见题型（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8d600ad5-77d0-44e9-837f-7da2c852aa8e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8d600ad5-77d0-44e9-837f-7da2c852aa8e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8d600ad5-77d0-44e9-837f-7da2c852aa8e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8d600ad5-77d0-44e9-837f-7da2c852aa8e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8d600ad5-77d0-44e9-837f-7da2c852aa8e_mobile_mid.m3u8"
+        },
+        "id": "594ba1c4ef23a80d3835ccbf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5943a2f30af5b8224d3e0433",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-17T10:55:48.865Z",
+    "updatedAt": "2017-06-23T02:02:41.934Z",
+    "courseId": "5938c5d1c6f7967b41a798f0",
+    "name": " 古文体之游记",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59450ab40af5b8224d3e0455",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:56:02.296Z",
+      "updatedAt": "2017-12-20T03:58:27.542Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "郦道元：三峡（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9108ac99-2776-4d9c-bc58-77cf3c46717e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9108ac99-2776-4d9c-bc58-77cf3c46717e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9108ac99-2776-4d9c-bc58-77cf3c46717e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9108ac99-2776-4d9c-bc58-77cf3c46717e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9108ac99-2776-4d9c-bc58-77cf3c46717e_mobile_mid.m3u8"
+        },
+        "id": "594ba352d5ff75139aab4b7d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450ac20af5b8224d3e0457",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:56:27.065Z",
+      "updatedAt": "2017-12-20T03:58:32.190Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "郦道元：三峡（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d5ecb8ea-b450-4c02-bef7-62e3f999a0d9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d5ecb8ea-b450-4c02-bef7-62e3f999a0d9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d5ecb8ea-b450-4c02-bef7-62e3f999a0d9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d5ecb8ea-b450-4c02-bef7-62e3f999a0d9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d5ecb8ea-b450-4c02-bef7-62e3f999a0d9_mobile_mid.m3u8"
+        },
+        "id": "594ba26fef23a8305dbf4dbe"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450adb0af5b8224d3e0459",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:56:38.217Z",
+      "updatedAt": "2017-12-20T03:58:40.031Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "张岱：湖心亭看雪（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/15047fdb-9985-4694-9420-e502ec9f4e30_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/15047fdb-9985-4694-9420-e502ec9f4e30_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/15047fdb-9985-4694-9420-e502ec9f4e30_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/15047fdb-9985-4694-9420-e502ec9f4e30_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/15047fdb-9985-4694-9420-e502ec9f4e30_mobile_mid.m3u8"
+        },
+        "id": "594ba2aaef23a84321c278ff"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450ae60af5b8224d3e045b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:56:55.920Z",
+      "updatedAt": "2017-12-20T03:58:45.628Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "张岱：湖心亭看雪（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8496bd7d-581e-49eb-a744-9571b485e45b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8496bd7d-581e-49eb-a744-9571b485e45b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8496bd7d-581e-49eb-a744-9571b485e45b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8496bd7d-581e-49eb-a744-9571b485e45b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8496bd7d-581e-49eb-a744-9571b485e45b_mobile_mid.m3u8"
+        },
+        "id": "594ba43bd5ff7513ba2a0486"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450af70af5b8224d3e045d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:57:12.851Z",
+      "updatedAt": "2017-12-20T03:58:50.373Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "柳宗元：小石潭记（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6b33dc11-8207-43e6-be2e-b3cd76a596fa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6b33dc11-8207-43e6-be2e-b3cd76a596fa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6b33dc11-8207-43e6-be2e-b3cd76a596fa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6b33dc11-8207-43e6-be2e-b3cd76a596fa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6b33dc11-8207-43e6-be2e-b3cd76a596fa_mobile_mid.m3u8"
+        },
+        "id": "594ba32aef23a83055f064ec"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450b080af5b8224d3e045f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:57:30.909Z",
+      "updatedAt": "2017-12-20T03:58:56.223Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "柳宗元：小石潭记（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4b805f99-fd69-47eb-811d-59d06b404314_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4b805f99-fd69-47eb-811d-59d06b404314_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4b805f99-fd69-47eb-811d-59d06b404314_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4b805f99-fd69-47eb-811d-59d06b404314_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4b805f99-fd69-47eb-811d-59d06b404314_mobile_mid.m3u8"
+        },
+        "id": "594ba37eef23a84321c27900"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450b1a0af5b8224d3e0461",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:57:42.917Z",
+      "updatedAt": "2017-12-20T03:59:04.561Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "范仲淹：岳阳楼记（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/39598bff-4981-4070-8f5d-294397b66401_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/39598bff-4981-4070-8f5d-294397b66401_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/39598bff-4981-4070-8f5d-294397b66401_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/39598bff-4981-4070-8f5d-294397b66401_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/39598bff-4981-4070-8f5d-294397b66401_mobile_mid.m3u8"
+        },
+        "id": "594ba3c5ef23a84321c27901"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450b260af5b8224d3e0463",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-17T10:58:05.172Z",
+      "updatedAt": "2017-12-20T03:59:09.763Z",
+      "parentId": "59450ab40af5b8224d3e0455",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "范仲淹：岳阳楼记（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0d557b7a-897f-43fb-914d-6a28ccf5c5f2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0d557b7a-897f-43fb-914d-6a28ccf5c5f2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0d557b7a-897f-43fb-914d-6a28ccf5c5f2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0d557b7a-897f-43fb-914d-6a28ccf5c5f2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0d557b7a-897f-43fb-914d-6a28ccf5c5f2_mobile_mid.m3u8"
+        },
+        "id": "594ba404ef23a8306926cbd7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59450b3d0af5b8224d3e0465",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T10:04:56.125Z",
+    "updatedAt": "2017-06-23T02:04:31.920Z",
+    "courseId": "5938c5d1c6f7967b41a798f0",
+    "name": " 只闻其名,未见其诗",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5947a1c827186f633baf392a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:05:09.848Z",
+      "updatedAt": "2017-12-20T03:59:21.897Z",
+      "parentId": "5947a1c827186f633baf392a",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "陶渊明：归园田居（其三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/58013bfe-f371-4732-9316-83ac0a9435d4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/58013bfe-f371-4732-9316-83ac0a9435d4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/58013bfe-f371-4732-9316-83ac0a9435d4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/58013bfe-f371-4732-9316-83ac0a9435d4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/58013bfe-f371-4732-9316-83ac0a9435d4_mobile_mid.m3u8"
+        },
+        "id": "594ba452ef23a830626948be"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a1d527186f633baf392c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:05:40.439Z",
+      "updatedAt": "2017-12-20T03:59:27.060Z",
+      "parentId": "5947a1c827186f633baf392a",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "陶渊明：饮酒（其五）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0fd7eeb5-6839-4af6-a1d9-6f781edecb2c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0fd7eeb5-6839-4af6-a1d9-6f781edecb2c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0fd7eeb5-6839-4af6-a1d9-6f781edecb2c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0fd7eeb5-6839-4af6-a1d9-6f781edecb2c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0fd7eeb5-6839-4af6-a1d9-6f781edecb2c_mobile_mid.m3u8"
+        },
+        "id": "594ba5d5d5ff7513727b0854"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a1f427186f633baf392e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:05:51.521Z",
+      "updatedAt": "2017-12-20T03:59:31.952Z",
+      "parentId": "5947a1c827186f633baf392a",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "汉乐府：长歌行",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4c534b59-2d1c-45d6-b28f-23af04b02cfe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4c534b59-2d1c-45d6-b28f-23af04b02cfe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4c534b59-2d1c-45d6-b28f-23af04b02cfe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4c534b59-2d1c-45d6-b28f-23af04b02cfe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4c534b59-2d1c-45d6-b28f-23af04b02cfe_mobile_mid.m3u8"
+        },
+        "id": "594ba612d5ff7513ba2a0487"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a1ff27186f633baf3930",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:06:22.121Z",
+      "updatedAt": "2017-12-20T03:59:39.173Z",
+      "parentId": "5947a1c827186f633baf392a",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "孟浩然：望洞庭湖赠张丞相",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a9366063-d805-4a5f-b4ed-ad32909d2878_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a9366063-d805-4a5f-b4ed-ad32909d2878_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a9366063-d805-4a5f-b4ed-ad32909d2878_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a9366063-d805-4a5f-b4ed-ad32909d2878_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a9366063-d805-4a5f-b4ed-ad32909d2878_mobile_mid.m3u8"
+        },
+        "id": "594ba503ef23a82ffaa0c4fa"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a21e27186f633baf3932",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:06:54.498Z",
+      "updatedAt": "2017-12-20T03:59:44.882Z",
+      "parentId": "5947a1c827186f633baf392a",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "刘禹锡：秋词",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7edf2a1c-02ac-4bc4-a62e-cfca8b2ca9a6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7edf2a1c-02ac-4bc4-a62e-cfca8b2ca9a6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7edf2a1c-02ac-4bc4-a62e-cfca8b2ca9a6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7edf2a1c-02ac-4bc4-a62e-cfca8b2ca9a6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7edf2a1c-02ac-4bc4-a62e-cfca8b2ca9a6_mobile_mid.m3u8"
+        },
+        "id": "594ba671d5ff7513c60acf63"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a23e27186f633baf3934",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:07:17.713Z",
+      "updatedAt": "2017-12-20T03:59:54.077Z",
+      "parentId": "5947a1c827186f633baf392a",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "李煜：相见欢（无言独上西楼）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f7481621-821e-4023-bd21-716688feb72c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f7481621-821e-4023-bd21-716688feb72c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f7481621-821e-4023-bd21-716688feb72c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f7481621-821e-4023-bd21-716688feb72c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f7481621-821e-4023-bd21-716688feb72c_mobile_mid.m3u8"
+        },
+        "id": "594ba6abd5ff7513bb41059a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a25527186f633baf3936",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-19T10:07:27.864Z",
+    "updatedAt": "2017-06-23T02:06:17.949Z",
+    "courseId": "5938c5d1c6f7967b41a798f0",
+    "name": " 名著分享",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5947a25f27186f633baf3938",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:07:48.088Z",
+      "updatedAt": "2017-12-20T04:00:03.441Z",
+      "parentId": "5947a25f27186f633baf3938",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "《朝花夕拾》：温馨的回忆与理性的批判",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/719b9bb7-df74-4dc1-a97f-460f682dddf1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/719b9bb7-df74-4dc1-a97f-460f682dddf1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/719b9bb7-df74-4dc1-a97f-460f682dddf1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/719b9bb7-df74-4dc1-a97f-460f682dddf1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/719b9bb7-df74-4dc1-a97f-460f682dddf1_mobile_mid.m3u8"
+        },
+        "id": "594ba5a9ef23a831f5967f5d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a27427186f633baf393a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:07:59.855Z",
+      "updatedAt": "2017-12-20T04:00:08.128Z",
+      "parentId": "5947a25f27186f633baf3938",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "《骆驼祥子》：旧北京人力车夫的辛酸故事",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/207f3db4-8130-48ea-990f-a1709cc9a5cd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/207f3db4-8130-48ea-990f-a1709cc9a5cd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/207f3db4-8130-48ea-990f-a1709cc9a5cd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/207f3db4-8130-48ea-990f-a1709cc9a5cd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/207f3db4-8130-48ea-990f-a1709cc9a5cd_mobile_mid.m3u8"
+        },
+        "id": "594ba616ef23a82fd5fce9ad"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a27f27186f633baf393c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:08:31.562Z",
+      "updatedAt": "2017-12-20T04:00:15.642Z",
+      "parentId": "5947a25f27186f633baf3938",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "《海底两万里》：科学与幻想之旅",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3d65180b-ed07-4fcc-9307-0efe71afdbf2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3d65180b-ed07-4fcc-9307-0efe71afdbf2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3d65180b-ed07-4fcc-9307-0efe71afdbf2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3d65180b-ed07-4fcc-9307-0efe71afdbf2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3d65180b-ed07-4fcc-9307-0efe71afdbf2_mobile_mid.m3u8"
+        },
+        "id": "594ba657ef23a82456d49eaf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a29f27186f633baf393e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-19T10:09:19.007Z",
+      "updatedAt": "2017-12-20T04:00:20.854Z",
+      "parentId": "5947a25f27186f633baf3938",
+      "courseId": "5938c5d1c6f7967b41a798f0",
+      "name": "《名人传》：痛苦和磨难造就的伟人",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8dfff1f8-ba36-48c2-b44b-672dced57832_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8dfff1f8-ba36-48c2-b44b-672dced57832_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8dfff1f8-ba36-48c2-b44b-672dced57832_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8dfff1f8-ba36-48c2-b44b-672dced57832_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8dfff1f8-ba36-48c2-b44b-672dced57832_mobile_mid.m3u8"
+        },
+        "id": "594ba805d5ff75138a2b54f1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5947a2cf27186f633baf3940",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

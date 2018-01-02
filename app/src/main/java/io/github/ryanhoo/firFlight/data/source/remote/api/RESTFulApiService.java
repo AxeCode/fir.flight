@@ -39,11 +39,11 @@ public interface RESTFulApiService {
 
     // Apps
 
-    @GET("/courses?type=sys&mock=true&mock_data=majors/58f0331bc6bdf222b1744e10.json&mock_delay=3000")
-    Observable<List<Courses>> courses();
+    @GET("/courses/majors/{courseId}?mock=true")
+    Observable<List<Courses>> courses(@Path("courseId") String classId);
 
-    @GET("/courses?type=sys&mock=true&mock_data=math/{classId}.json&mock_delay=3000")
-    Observable<Courses> classes(@Path("classId") String classId);
+    @GET("/courses/{subjectType}/{classId}?mock=true")
+    Observable<Courses> classes(@Path("subjectType") String subjectType, @Path("classId") String classId);
 
     @GET("/apps/latest/{appId}?requireApiToken=true")
     Observable<AppInstallInfo> appInstallInfo(@Path("appId") String appId);

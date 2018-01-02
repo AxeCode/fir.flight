@@ -19,7 +19,7 @@ public class RemoteClassesDataSource extends AbstractRemoteDataSource implements
     }
 
     @Override
-    public Observable<Courses> classes(String classId) {
-        return mApi.classes(classId);
+    public Observable<Courses> classes(String subjectType, String classId) {
+        return mApi.classes(subjectType, classId);
     }
 }

@@ -33,7 +33,7 @@ public class LocalAppDataSource extends AbstractLocalDataSource<AppTable> implem
     }
 
     @Override
-    public Observable<List<Courses>> courses() {
+    public Observable<List<Courses>> courses(String courseId) {
         return mDatabaseHelper.createQuery(AppTable.TABLE_NAME, AppTable.QUERY_ALL_APPS)
                 .mapToList(new Func1<Cursor, Courses>() {
                     @Override

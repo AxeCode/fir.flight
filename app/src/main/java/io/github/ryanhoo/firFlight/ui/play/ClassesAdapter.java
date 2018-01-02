@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
+import io.github.ryanhoo.firFlight.data.model.Classes;
 import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.ui.common.adapter.ListAdapter;
 import io.github.ryanhoo.firFlight.ui.common.adapter.OnItemClickListener;
@@ -18,11 +19,11 @@ import io.github.ryanhoo.firFlight.ui.common.adapter.OnItemClickListener;
  * Time: 10:48 PM
  * Desc: AppAdapterV2
  */
-/* package */ class ClassesAdapter extends ListAdapter<Courses, ClassesItemView> {
+/* package */ class ClassesAdapter extends ListAdapter<Classes, ClassesItemView> {
 
     private AppItemClickListener mItemClickListener;
 
-    /* package */ ClassesAdapter(Context context, List<Courses> data) {
+    /* package */ ClassesAdapter(Context context, List<Classes> data) {
         super(context, data);
     }
 
@@ -45,7 +46,7 @@ import io.github.ryanhoo.firFlight.ui.common.adapter.OnItemClickListener;
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
         super.onBindViewHolder(holder, position);
         if (holder.itemView instanceof ClassesItemView) {
-            Courses courses = getItem(position);
+            Classes classes = getItem(position);
             ClassesItemView itemView = (ClassesItemView) holder.itemView;
 
         }

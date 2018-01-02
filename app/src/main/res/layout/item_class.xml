@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -11,32 +10,42 @@
 
     <TextView
         android:id="@+id/chapter"
+        fontPath="@string/ff.font.fangzheng"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        tools:text="第一讲 平行线的简单应用"/>
+        android:padding="10dp"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:visibility="gone"
+        tools:ignore="MissingPrefix"
+        tools:text="第一讲 平行线的简单应用" />
 
     <LinearLayout
         android:id="@+id/section_layout"
         android:layout_width="match_parent"
-        android:layout_height="20dp"
-        android:layout_marginLeft="25dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="20dp"
         android:gravity="center_vertical"
         android:orientation="horizontal"
+        android:padding="5dp"
         android:visibility="gone">
 
         <View
             android:id="@+id/v_dot"
             android:layout_width="3dp"
             android:layout_height="3dp"
-            android:background="@drawable/blue_dot"/>
+            android:background="@drawable/momo_dot" />
 
         <TextView
             android:id="@+id/section"
+            fontPath="@string/ff.font.fangzheng"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="15dp"
-            tools:text="平移概念的引入"/>
+            android:layout_marginLeft="10dp"
+            android:textColor="#999999"
+            android:textSize="14sp"
+            tools:ignore="MissingPrefix"
+            tools:text="平移概念的引入" />
     </LinearLayout>
 
 </RelativeLayout>

@@ -1,0 +1,1179 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T03:14:02.176Z",
+  "updatedAt": "2017-12-31T07:09:42.401Z",
+  "name": "初中英语七年级下",
+  "description": "该课程目的在于通过对初中英语七年级下册的课本知识的详细授课，帮助刚刚进入初中的同学系统地开始学习英语，包括每个单元的重点词汇、句法结构和语句分析。老师将严格按照书本结构和中考要求进行讲解。首先对单元中的重点词汇（包括生词和熟词）以及重点语句进行梳理，并以相应的中考真题进行辅助，除此之外，老师还会根据各个单元的语法专题帮助学生掌握中考重点考点。",
+  "shortDescription": "本课程为初中英语七年级上册，针对刚刚进入初中，开始进行系统的英语学习的同学，并以中考为目标的学生，将对每个单元的单词、语句、语法进行详细讲解。",
+  "major": "590b35f071b2262ac78f19fb",
+  "bigImageUrl": "http://imgs.wanmen.org/bdb611dc4d0e37c9e9cd5ed10c34e2f9.png",
+  "bigImage": "http://imgs.wanmen.org/bdb611dc4d0e37c9e9cd5ed10c34e2f9.png",
+  "smallImageUrl": "http://imgs.wanmen.org/07b67e91f760f30f8025f646ba54ccf7.png",
+  "smallImage": "http://imgs.wanmen.org/07b67e91f760f30f8025f646ba54ccf7.png",
+  "teacherName": "况霍凌霄",
+  "teacherDescription": "况霍凌霄，北京大学英汉笔译专业，拥有全国翻译资格考试（catti）二级口译证书。超过15年的英语学习经历让她对英语课本知识了熟于心。其讲课风格活泼生动，能够启发学生，并且在本身的语法和词汇的学习之外，其特地设置了语法巩固部分，让学生们理解语言的结构能极大地帮助同学们学习英语。",
+  "teacherAvatar": "http://imgs.wanmen.org/ccbee7dc7063111b328416af1c393758.png",
+  "hide": false,
+  "price": 78,
+  "order": 2,
+  "teacher": {
+    "name": "况霍凌霄",
+    "description": "况霍凌霄，北京大学英汉笔译专业，拥有全国翻译资格考试（catti）二级口译证书。超过15年的英语学习经历让她对英语课本知识了熟于心。其讲课风格活泼生动，能够启发学生，并且在本身的语法和词汇的学习之外，其特地设置了语法巩固部分，让学生们理解语言的结构能极大地帮助同学们学习英语。",
+    "avatar": "http://imgs.wanmen.org/ccbee7dc7063111b328416af1c393758.png",
+    "id": "5923f3a729a8354075e09af1"
+  },
+  "numOfClasses": 12,
+  "expiration": 12,
+  "tag": "况霍凌霄 初中 七年级 下 英语",
+  "specialTrainingOrder": 0,
+  "videoCount": 36,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 16,
+  "app": "mid",
+  "numberOfClasses": 12,
+  "mobileCoverUrl": "http://imgs.wanmen.org/07b67e91f760f30f8025f646ba54ccf7.png",
+  "coverUrl": "http://imgs.wanmen.org/bdb611dc4d0e37c9e9cd5ed10c34e2f9.png",
+  "id": "592e34fab45f51716ab6f485",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:03:21.143Z",
+    "updatedAt": "2017-06-16T07:23:26.069Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 1 Can you play the guitar?",
+    "order": 1,
+    "actions": {
+      "download": true,
+      "watch": true
+    },
+    "hide": false,
+    "id": "5935ff59d5fa2213f156cbb6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:03:32.089Z",
+      "updatedAt": "2018-01-02T03:11:29.462Z",
+      "parentId": "5935ff59d5fa2213f156cbb6",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_mobile_mid.m3u8"
+        },
+        "id": "592413d9ef23a8306818d0e5"
+      },
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5935ff64d5fa2213f156cbb8",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a466f944-4a42-4210-bf7c-1f4f27e94909_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:03:40.776Z",
+      "updatedAt": "2018-01-02T03:11:41.936Z",
+      "parentId": "5935ff59d5fa2213f156cbb6",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_mobile_mid.m3u8"
+        },
+        "id": "5924158dd5ff7523417dbeb5"
+      },
+      "order": 2,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5935ff6cd5fa2213f156cbba",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/1142a065-c9ea-4512-adeb-e386bf396c30_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:03:49.956Z",
+      "updatedAt": "2018-01-02T03:11:54.248Z",
+      "parentId": "5935ff59d5fa2213f156cbb6",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：情态动词can的用法",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_mobile_mid.m3u8"
+        },
+        "id": "59241493ef23a82ffd23543d"
+      },
+      "order": 3,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5935ff75d5fa2213f156cbbc",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/961e8d92-d553-4d6c-bd1e-3dcd2245d0ad_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:04:13.190Z",
+    "updatedAt": "2017-06-06T01:05:53.782Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 2 What time do you go to school?",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ff8dd5fa2213f156cbbe",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:06:25.036Z",
+      "updatedAt": "2018-01-02T03:12:13.046Z",
+      "parentId": "5935ff8dd5fa2213f156cbbe",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/91d73625-7acd-4118-87e2-fcf54c7cc150_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/91d73625-7acd-4118-87e2-fcf54c7cc150_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/91d73625-7acd-4118-87e2-fcf54c7cc150_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/91d73625-7acd-4118-87e2-fcf54c7cc150_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/91d73625-7acd-4118-87e2-fcf54c7cc150_mobile_mid.m3u8"
+        },
+        "id": "59241554ef23a8302f307422"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360011d5fa2213f156cbd4",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:06:32.723Z",
+      "updatedAt": "2018-01-02T03:12:33.294Z",
+      "parentId": "5935ff8dd5fa2213f156cbbe",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c8a104d9-bc2d-4ae7-9fd7-1ecb78baf849_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c8a104d9-bc2d-4ae7-9fd7-1ecb78baf849_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c8a104d9-bc2d-4ae7-9fd7-1ecb78baf849_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c8a104d9-bc2d-4ae7-9fd7-1ecb78baf849_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c8a104d9-bc2d-4ae7-9fd7-1ecb78baf849_mobile_mid.m3u8"
+        },
+        "id": "592415caef23a82ff01ce4e3"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360018d5fa2213f156cbd6",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:06:40.962Z",
+      "updatedAt": "2018-01-02T03:12:48.537Z",
+      "parentId": "5935ff8dd5fa2213f156cbbe",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：what time/when 引导的特殊疑问句",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/608bff9e-4322-4e59-8937-7528e8f7c877_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/608bff9e-4322-4e59-8937-7528e8f7c877_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/608bff9e-4322-4e59-8937-7528e8f7c877_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/608bff9e-4322-4e59-8937-7528e8f7c877_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/608bff9e-4322-4e59-8937-7528e8f7c877_mobile_mid.m3u8"
+        },
+        "id": "592415eaef23a82ffd23543e"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360020d5fa2213f156cbd8",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:04:22.638Z",
+    "updatedAt": "2017-06-06T01:05:55.900Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 3 How do you get to school?",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ff96d5fa2213f156cbc0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:06:49.265Z",
+      "updatedAt": "2018-01-02T03:13:11.403Z",
+      "parentId": "5935ff96d5fa2213f156cbc0",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6b9de736-51e0-452c-bfd6-ce9ea7e25a88_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6b9de736-51e0-452c-bfd6-ce9ea7e25a88_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6b9de736-51e0-452c-bfd6-ce9ea7e25a88_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6b9de736-51e0-452c-bfd6-ce9ea7e25a88_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6b9de736-51e0-452c-bfd6-ce9ea7e25a88_mobile_mid.m3u8"
+        },
+        "id": "5924163cef23a8305dbf4d82"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360029d5fa2213f156cbda",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:06:57.016Z",
+      "updatedAt": "2018-01-02T03:13:21.706Z",
+      "parentId": "5935ff96d5fa2213f156cbc0",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/23e8e6c7-887a-4143-8e0c-195fcc97c45b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/23e8e6c7-887a-4143-8e0c-195fcc97c45b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/23e8e6c7-887a-4143-8e0c-195fcc97c45b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/23e8e6c7-887a-4143-8e0c-195fcc97c45b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/23e8e6c7-887a-4143-8e0c-195fcc97c45b_mobile_mid.m3u8"
+        },
+        "id": "592416b2ef23a830026e6f72"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360031d5fa2213f156cbdc",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:07:05.449Z",
+      "updatedAt": "2018-01-02T03:13:35.398Z",
+      "parentId": "5935ff96d5fa2213f156cbc0",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：用how怎么提问？",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ecbc39ad-577f-496a-bbf1-07120363ebb3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ecbc39ad-577f-496a-bbf1-07120363ebb3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ecbc39ad-577f-496a-bbf1-07120363ebb3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ecbc39ad-577f-496a-bbf1-07120363ebb3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ecbc39ad-577f-496a-bbf1-07120363ebb3_mobile_mid.m3u8"
+        },
+        "id": "592416d3ef23a8300e2477bd"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360039d5fa2213f156cbde",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:04:32.427Z",
+    "updatedAt": "2017-06-06T01:05:57.418Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 4 Don’t eat in class.",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffa0d5fa2213f156cbc2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:07:15.510Z",
+      "updatedAt": "2018-01-02T03:13:50.895Z",
+      "parentId": "5935ffa0d5fa2213f156cbc2",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a10afada-cf99-457b-9535-9a4329a34b51_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a10afada-cf99-457b-9535-9a4329a34b51_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a10afada-cf99-457b-9535-9a4329a34b51_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a10afada-cf99-457b-9535-9a4329a34b51_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a10afada-cf99-457b-9535-9a4329a34b51_mobile_mid.m3u8"
+        },
+        "id": "59241862d5ff751b9cffff82"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360043d5fa2213f156cbe0",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:07:23.769Z",
+      "updatedAt": "2018-01-02T03:14:01.923Z",
+      "parentId": "5935ffa0d5fa2213f156cbc2",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/520b3865-8fb2-404d-9676-686330f60b75_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/520b3865-8fb2-404d-9676-686330f60b75_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/520b3865-8fb2-404d-9676-686330f60b75_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/520b3865-8fb2-404d-9676-686330f60b75_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/520b3865-8fb2-404d-9676-686330f60b75_mobile_mid.m3u8"
+        },
+        "id": "5924190ed5ff7523417dbeb6"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936004bd5fa2213f156cbe2",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:07:32.216Z",
+      "updatedAt": "2018-01-02T03:14:14.573Z",
+      "parentId": "5935ffa0d5fa2213f156cbc2",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：祈使句",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f58c2a57-38c3-4a01-bc94-0265bfac59e2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f58c2a57-38c3-4a01-bc94-0265bfac59e2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f58c2a57-38c3-4a01-bc94-0265bfac59e2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f58c2a57-38c3-4a01-bc94-0265bfac59e2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f58c2a57-38c3-4a01-bc94-0265bfac59e2_mobile_mid.m3u8"
+        },
+        "id": "59241935d5ff755e6e31c766"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360054d5fa2213f156cbe4",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:04:43.101Z",
+    "updatedAt": "2017-06-06T01:05:59.157Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 5 Why do you like pandas？",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffabd5fa2213f156cbc4",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:07:42.635Z",
+      "updatedAt": "2018-01-02T03:15:09.683Z",
+      "parentId": "5935ffabd5fa2213f156cbc4",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2965d066-971b-4f3d-b0f4-c0345b179f08_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2965d066-971b-4f3d-b0f4-c0345b179f08_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2965d066-971b-4f3d-b0f4-c0345b179f08_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2965d066-971b-4f3d-b0f4-c0345b179f08_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2965d066-971b-4f3d-b0f4-c0345b179f08_mobile_mid.m3u8"
+        },
+        "id": "59241849ef23a83055f064b8"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936005ed5fa2213f156cbe6",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:07:51.082Z",
+      "updatedAt": "2018-01-02T03:15:23.363Z",
+      "parentId": "5935ffabd5fa2213f156cbc4",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/db408b3a-fb18-4a32-a15a-ad6fa0e8f05d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/db408b3a-fb18-4a32-a15a-ad6fa0e8f05d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/db408b3a-fb18-4a32-a15a-ad6fa0e8f05d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/db408b3a-fb18-4a32-a15a-ad6fa0e8f05d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/db408b3a-fb18-4a32-a15a-ad6fa0e8f05d_mobile_mid.m3u8"
+        },
+        "id": "592419e9d5ff7523417dbeb7"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360067d5fa2213f156cbe8",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:07:59.691Z",
+      "updatedAt": "2018-01-02T03:15:36.258Z",
+      "parentId": "5935ffabd5fa2213f156cbc4",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：why引导的特殊疑问句",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e61000a3-8cad-4731-a898-309c13063123_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e61000a3-8cad-4731-a898-309c13063123_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e61000a3-8cad-4731-a898-309c13063123_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e61000a3-8cad-4731-a898-309c13063123_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e61000a3-8cad-4731-a898-309c13063123_mobile_mid.m3u8"
+        },
+        "id": "5924191cef23a8306269487f"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936006fd5fa2213f156cbea",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:04:54.569Z",
+    "updatedAt": "2017-06-06T01:06:00.511Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 6 I'm watching TV",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffb6d5fa2213f156cbc6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:08:10.043Z",
+      "updatedAt": "2018-01-02T03:16:30.205Z",
+      "parentId": "5935ffb6d5fa2213f156cbc6",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fdfde561-a4b5-4eeb-be17-b6a94cc2ecbb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fdfde561-a4b5-4eeb-be17-b6a94cc2ecbb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fdfde561-a4b5-4eeb-be17-b6a94cc2ecbb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fdfde561-a4b5-4eeb-be17-b6a94cc2ecbb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fdfde561-a4b5-4eeb-be17-b6a94cc2ecbb_mobile_mid.m3u8"
+        },
+        "id": "592419c9ef23a82fd351fc87"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936007ad5fa2213f156cbec",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:08:19.943Z",
+      "updatedAt": "2018-01-02T03:16:54.816Z",
+      "parentId": "5935ffb6d5fa2213f156cbc6",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/48f69369-71da-47a6-86ea-b1ae8c8d250c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/48f69369-71da-47a6-86ea-b1ae8c8d250c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/48f69369-71da-47a6-86ea-b1ae8c8d250c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/48f69369-71da-47a6-86ea-b1ae8c8d250c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/48f69369-71da-47a6-86ea-b1ae8c8d250c_mobile_mid.m3u8"
+        },
+        "id": "59241bf7d5ff75238841282b"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360083d5fa2213f156cbee",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:08:29.661Z",
+      "updatedAt": "2018-01-02T03:17:09.254Z",
+      "parentId": "5935ffb6d5fa2213f156cbc6",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：现在进行时态（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7313158e-9a7b-41dc-a048-907ae546804a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7313158e-9a7b-41dc-a048-907ae546804a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7313158e-9a7b-41dc-a048-907ae546804a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7313158e-9a7b-41dc-a048-907ae546804a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7313158e-9a7b-41dc-a048-907ae546804a_mobile_mid.m3u8"
+        },
+        "id": "59241c3ed5ff75239a7bad62"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936008dd5fa2213f156cbf0",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:05:02.967Z",
+    "updatedAt": "2017-06-06T01:06:02.047Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 7 It’s raining.",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffbed5fa2213f156cbc8",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:08:39.452Z",
+      "updatedAt": "2018-01-02T03:17:29.047Z",
+      "parentId": "5935ffbed5fa2213f156cbc8",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d68c2f87-efb0-4400-ac2d-dd3a1dddf433_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d68c2f87-efb0-4400-ac2d-dd3a1dddf433_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d68c2f87-efb0-4400-ac2d-dd3a1dddf433_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d68c2f87-efb0-4400-ac2d-dd3a1dddf433_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d68c2f87-efb0-4400-ac2d-dd3a1dddf433_mobile_mid.m3u8"
+        },
+        "id": "59255db6ef23a85f5249dc68"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360097d5fa2213f156cbf2",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:08:48.965Z",
+      "updatedAt": "2018-01-02T03:17:45.665Z",
+      "parentId": "5935ffbed5fa2213f156cbc8",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eba814a0-c853-488c-b74a-0e45f7680063_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eba814a0-c853-488c-b74a-0e45f7680063_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eba814a0-c853-488c-b74a-0e45f7680063_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eba814a0-c853-488c-b74a-0e45f7680063_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eba814a0-c853-488c-b74a-0e45f7680063_mobile_mid.m3u8"
+        },
+        "id": "59255e01ef23a8300dc58f15"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600a0d5fa2213f156cbf4",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:08:57.838Z",
+      "updatedAt": "2018-01-02T03:18:02.147Z",
+      "parentId": "5935ffbed5fa2213f156cbc8",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：现在进行时态（二）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/069d041b-4c5e-49f3-a58a-107f7a39133e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/069d041b-4c5e-49f3-a58a-107f7a39133e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/069d041b-4c5e-49f3-a58a-107f7a39133e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/069d041b-4c5e-49f3-a58a-107f7a39133e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/069d041b-4c5e-49f3-a58a-107f7a39133e_mobile_mid.m3u8"
+        },
+        "id": "59255e17ef23a8308c970de3"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600a9d5fa2213f156cbf6",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:05:11.397Z",
+    "updatedAt": "2017-06-06T01:06:03.815Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 8 Is there a post office near here?",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffc7d5fa2213f156cbca",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:09:10.216Z",
+      "updatedAt": "2018-01-02T03:18:23.860Z",
+      "parentId": "5935ffc7d5fa2213f156cbca",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c4d1c5ed-63b7-4ec7-9c13-3abec141c835_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c4d1c5ed-63b7-4ec7-9c13-3abec141c835_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c4d1c5ed-63b7-4ec7-9c13-3abec141c835_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c4d1c5ed-63b7-4ec7-9c13-3abec141c835_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c4d1c5ed-63b7-4ec7-9c13-3abec141c835_mobile_mid.m3u8"
+        },
+        "id": "59255f7dd5ff7523417dbeb9"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600b6d5fa2213f156cbf8",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:09:20.945Z",
+      "updatedAt": "2018-01-02T03:18:45.636Z",
+      "parentId": "5935ffc7d5fa2213f156cbca",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4b885560-e363-472c-823e-9a5f40d254a8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4b885560-e363-472c-823e-9a5f40d254a8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4b885560-e363-472c-823e-9a5f40d254a8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4b885560-e363-472c-823e-9a5f40d254a8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4b885560-e363-472c-823e-9a5f40d254a8_mobile_mid.m3u8"
+        },
+        "id": "59255e7def23a82fd5fce966"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600c0d5fa2213f156cbfa",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:09:31.047Z",
+      "updatedAt": "2018-01-02T03:19:04.721Z",
+      "parentId": "5935ffc7d5fa2213f156cbca",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：There be句型",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1f7c4721-3374-47b4-80d6-401cd9916730_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1f7c4721-3374-47b4-80d6-401cd9916730_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1f7c4721-3374-47b4-80d6-401cd9916730_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1f7c4721-3374-47b4-80d6-401cd9916730_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1f7c4721-3374-47b4-80d6-401cd9916730_mobile_mid.m3u8"
+        },
+        "id": "59255e8fef23a83062694882"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600cbd5fa2213f156cbfc",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:05:20.739Z",
+    "updatedAt": "2017-06-06T01:06:06.036Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 9 What does he look like?",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffd0d5fa2213f156cbcc",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:09:40.570Z",
+      "updatedAt": "2018-01-02T03:19:27.407Z",
+      "parentId": "5935ffd0d5fa2213f156cbcc",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0e002e9b-7bfb-4c11-8e88-c243e9f122d5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0e002e9b-7bfb-4c11-8e88-c243e9f122d5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0e002e9b-7bfb-4c11-8e88-c243e9f122d5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0e002e9b-7bfb-4c11-8e88-c243e9f122d5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0e002e9b-7bfb-4c11-8e88-c243e9f122d5_mobile_mid.m3u8"
+        },
+        "id": "59255ec9ef23a83089d83a90"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600d4d5fa2213f156cbfe",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:09:50.835Z",
+      "updatedAt": "2018-01-02T03:19:47.137Z",
+      "parentId": "5935ffd0d5fa2213f156cbcc",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/445bc9bf-16bb-4799-b0ac-6d314c43dd35_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/445bc9bf-16bb-4799-b0ac-6d314c43dd35_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/445bc9bf-16bb-4799-b0ac-6d314c43dd35_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/445bc9bf-16bb-4799-b0ac-6d314c43dd35_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/445bc9bf-16bb-4799-b0ac-6d314c43dd35_mobile_mid.m3u8"
+        },
+        "id": "59255f0def23a83089d83a91"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600ded5fa2213f156cc00",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:10:00.566Z",
+      "updatedAt": "2018-01-02T03:20:07.252Z",
+      "parentId": "5935ffd0d5fa2213f156cbcc",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：询问及描述长相",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8b93d7fe-a031-467f-95a7-dac952d2eba8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8b93d7fe-a031-467f-95a7-dac952d2eba8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8b93d7fe-a031-467f-95a7-dac952d2eba8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8b93d7fe-a031-467f-95a7-dac952d2eba8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8b93d7fe-a031-467f-95a7-dac952d2eba8_mobile_mid.m3u8"
+        },
+        "id": "59255f24ef23a8302b0c3581"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600e8d5fa2213f156cc02",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:05:31.320Z",
+    "updatedAt": "2017-06-06T01:06:07.776Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 10 I’d like some noodles.",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffdbd5fa2213f156cbce",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:10:09.928Z",
+      "updatedAt": "2018-01-02T03:20:29.738Z",
+      "parentId": "5935ffdbd5fa2213f156cbce",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9301a911-655f-4a3d-b89e-efd4e785b8f0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9301a911-655f-4a3d-b89e-efd4e785b8f0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9301a911-655f-4a3d-b89e-efd4e785b8f0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9301a911-655f-4a3d-b89e-efd4e785b8f0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9301a911-655f-4a3d-b89e-efd4e785b8f0_mobile_mid.m3u8"
+        },
+        "id": "59255f6bef23a82ff01ce4ea"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600f1d5fa2213f156cc04",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:10:19.666Z",
+      "updatedAt": "2018-01-02T03:20:49.314Z",
+      "parentId": "5935ffdbd5fa2213f156cbce",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7932369d-eea4-4092-8df7-ff1d55512f44_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7932369d-eea4-4092-8df7-ff1d55512f44_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7932369d-eea4-4092-8df7-ff1d55512f44_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7932369d-eea4-4092-8df7-ff1d55512f44_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7932369d-eea4-4092-8df7-ff1d55512f44_mobile_mid.m3u8"
+        },
+        "id": "59255fa1ef23a8308c970de4"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593600fbd5fa2213f156cc06",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:10:33.813Z",
+      "updatedAt": "2018-01-02T03:21:08.902Z",
+      "parentId": "5935ffdbd5fa2213f156cbce",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：Would like的用法",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ea2d09ff-01cb-45ee-acbf-c035de6a1473_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ea2d09ff-01cb-45ee-acbf-c035de6a1473_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ea2d09ff-01cb-45ee-acbf-c035de6a1473_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ea2d09ff-01cb-45ee-acbf-c035de6a1473_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ea2d09ff-01cb-45ee-acbf-c035de6a1473_mobile_mid.m3u8"
+        },
+        "id": "592560e9d5ff75238e3f6c87"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360109d5fa2213f156cc08",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:05:43.012Z",
+    "updatedAt": "2017-06-06T01:06:09.195Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 11 How was your school trip?",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffe7d5fa2213f156cbd0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:10:45.686Z",
+      "updatedAt": "2018-01-02T03:21:17.679Z",
+      "parentId": "5935ffe7d5fa2213f156cbd0",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5b42a448-9019-4424-86cc-9e45b5918de4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5b42a448-9019-4424-86cc-9e45b5918de4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5b42a448-9019-4424-86cc-9e45b5918de4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5b42a448-9019-4424-86cc-9e45b5918de4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5b42a448-9019-4424-86cc-9e45b5918de4_mobile_mid.m3u8"
+        },
+        "id": "59256157d5ff75238e3f6c88"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360115d5fa2213f156cc0a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:10:55.200Z",
+      "updatedAt": "2018-01-02T03:21:22.520Z",
+      "parentId": "5935ffe7d5fa2213f156cbd0",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/08e5bf90-35a4-4159-956b-f6b376d4b7de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/08e5bf90-35a4-4159-956b-f6b376d4b7de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/08e5bf90-35a4-4159-956b-f6b376d4b7de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/08e5bf90-35a4-4159-956b-f6b376d4b7de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/08e5bf90-35a4-4159-956b-f6b376d4b7de_mobile_mid.m3u8"
+        },
+        "id": "592561a7d5ff752379dbcfc3"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936011fd5fa2213f156cc0c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:11:05.413Z",
+      "updatedAt": "2018-01-02T03:21:26.847Z",
+      "parentId": "5935ffe7d5fa2213f156cbd0",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：一般过去时（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/841dbbdc-4cf9-4998-8e73-265feee1b610_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/841dbbdc-4cf9-4998-8e73-265feee1b610_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/841dbbdc-4cf9-4998-8e73-265feee1b610_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/841dbbdc-4cf9-4998-8e73-265feee1b610_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/841dbbdc-4cf9-4998-8e73-265feee1b610_mobile_mid.m3u8"
+        },
+        "id": "5925609cef23a83072ca0b6b"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360129d5fa2213f156cc0e",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:05:50.211Z",
+    "updatedAt": "2017-06-06T01:06:10.842Z",
+    "courseId": "592e34fab45f51716ab6f485",
+    "name": "Unit 12 What did you do last weekend?",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935ffeed5fa2213f156cbd2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:11:16.864Z",
+      "updatedAt": "2018-01-02T03:21:34.066Z",
+      "parentId": "5935ffeed5fa2213f156cbd2",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section A",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/85d0220b-c081-4ec0-a8c9-34b9f304c175_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/85d0220b-c081-4ec0-a8c9-34b9f304c175_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/85d0220b-c081-4ec0-a8c9-34b9f304c175_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/85d0220b-c081-4ec0-a8c9-34b9f304c175_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/85d0220b-c081-4ec0-a8c9-34b9f304c175_mobile_mid.m3u8"
+        },
+        "id": "59256226d5ff75238e3f6c89"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360134d5fa2213f156cc10",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:11:25.836Z",
+      "updatedAt": "2018-01-02T03:21:39.489Z",
+      "parentId": "5935ffeed5fa2213f156cbd2",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "Section B",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/95af0ce5-9a02-4f79-a1b4-2b8c68bb083c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/95af0ce5-9a02-4f79-a1b4-2b8c68bb083c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/95af0ce5-9a02-4f79-a1b4-2b8c68bb083c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/95af0ce5-9a02-4f79-a1b4-2b8c68bb083c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/95af0ce5-9a02-4f79-a1b4-2b8c68bb083c_mobile_mid.m3u8"
+        },
+        "id": "59b216bdef23a84321c2792f"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936013dd5fa2213f156cc12",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:11:35.324Z",
+      "updatedAt": "2018-01-02T03:21:44.604Z",
+      "parentId": "5935ffeed5fa2213f156cbd2",
+      "courseId": "592e34fab45f51716ab6f485",
+      "name": "单元巩固：一般过去时（二）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4fe29090-eb4d-42d8-b436-f7b9e4ffc9d4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4fe29090-eb4d-42d8-b436-f7b9e4ffc9d4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4fe29090-eb4d-42d8-b436-f7b9e4ffc9d4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4fe29090-eb4d-42d8-b436-f7b9e4ffc9d4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4fe29090-eb4d-42d8-b436-f7b9e4ffc9d4_mobile_mid.m3u8"
+        },
+        "id": "59256283d5ff752394a46fa8"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360147d5fa2213f156cc14",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

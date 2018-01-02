@@ -17,8 +17,8 @@ public interface ClassesContract {
     }
 
     interface Remote {
-        Observable<Courses> classes(String classId);
+        Observable<Courses> classes(String subjectType, String classId);
     }
 
-    Observable<Courses> classes(String classId);
+    Observable<Courses> classes(String subjectType, String classId);
 }

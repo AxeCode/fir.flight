@@ -1,0 +1,267 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-07-24T07:08:45.573Z",
+  "updatedAt": "2017-12-07T13:04:39.008Z",
+  "name": "暑期清北学霸周末直播课堂——初中物理",
+  "description": "由来自清华北大各个系科的学霸学神在周末直播课堂上帮你复习难点，查缺补漏，传授高考“考试真经”，预习领先，让你处处快人一步，各位平易近人的学长学姐们有问必答，只要你有任何不懂的问题，请随时缠上他们！",
+  "price": 0,
+  "teacher": {
+    "description": "来自于清北的学霸们带你查漏补缺，进步提分！",
+    "name": "清北物理答疑老师",
+    "avatar": "http://imgs.wanmen.org/b00d48e51727991bfc6c0d1991f7f0c3.png",
+    "id": "5902e5c0d7e5f316c6045853"
+  },
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/efac6498-54e8-4419-80b3-fcd372062d10_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/efac6498-54e8-4419-80b3-fcd372062d10_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/efac6498-54e8-4419-80b3-fcd372062d10_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/efac6498-54e8-4419-80b3-fcd372062d10_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/efac6498-54e8-4419-80b3-fcd372062d10_mobile_mid.m3u8"
+    },
+    "id": "59647839d5ff7513bb4105aa"
+  },
+  "openingAt": "2017-07-16T10:00:12.978Z",
+  "hide": false,
+  "major": "592e38d4b45f51716ab6f487",
+  "expiration": 12,
+  "streamKey": "25334761331313227",
+  "numOfClasses": 6,
+  "smallImage": "http://imgs.wanmen.org/ec3e7d8b19b94a07e98d1f699379662e.png",
+  "bigImage": "http://imgs.wanmen.org/800b4dfc41b27ffd6df0fd56aff27e78.png",
+  "lastConnectedAt": 1504431585,
+  "tag": "清北物理答疑老师 初中 暑期 清北学霸 周末 直播 课堂 物理 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 5,
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "finished",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a27955c0c69752405df720b",
+    "endTime": "19:00",
+    "startTime": "18:00",
+    "startDate": "2017-07-16T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——初中物理专题：运动的描述和测量"
+  }, {
+    "_id": "5a27955c0c69752405df720a",
+    "startDate": "2017-07-29T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——初中物理专题：声音与速度",
+    "endTime": "19:00",
+    "startTime": "18:00"
+  }, {
+    "_id": "5a27955c0c69752405df7209",
+    "startDate": "2017-08-06T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——初中物理专题：物态变化",
+    "endTime": "19:00",
+    "startTime": "18:00"
+  }, {
+    "_id": "5a27955c0c69752405df7208",
+    "startDate": "2017-08-19T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——初中物理专题：光的传播与成像",
+    "endTime": "19:00",
+    "startTime": "18:00"
+  }, {
+    "_id": "5a27955c0c69752405df7207",
+    "startDate": "2017-08-27T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——初中物理专题：光学现象，透镜（一）",
+    "endTime": "19:00",
+    "startTime": "18:00"
+  }, {
+    "_id": "5a27955c0c69752405df7206",
+    "startDate": "2017-09-03T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——初中物理专题：透镜（二）",
+    "endTime": "19:00",
+    "startTime": "18:00"
+  }],
+  "type": "record",
+  "likes": 2,
+  "app": "mid",
+  "numberOfClasses": 6,
+  "teacherDescription": "来自于清北的学霸们带你查漏补缺，进步提分！",
+  "teacherAvatar": "http://imgs.wanmen.org/b00d48e51727991bfc6c0d1991f7f0c3.png",
+  "teacherName": "清北物理答疑老师",
+  "mobileCoverUrl": "http://imgs.wanmen.org/ec3e7d8b19b94a07e98d1f699379662e.png",
+  "coverUrl": "http://imgs.wanmen.org/800b4dfc41b27ffd6df0fd56aff27e78.png",
+  "smallImageUrl": "http://imgs.wanmen.org/ec3e7d8b19b94a07e98d1f699379662e.png",
+  "bigImageUrl": "http://imgs.wanmen.org/800b4dfc41b27ffd6df0fd56aff27e78.png",
+  "id": "59759cfd1932dd0c3df1ef00",
+  "lectures": [{
+    "courseId": "59759cfd1932dd0c3df1ef00",
+    "name": "2017.07.29",
+    "createdAt": "2017-07-29T10:51:25.665Z",
+    "updatedAt": "2017-08-26T10:07:09.827Z",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "597c68ad2f8052899cbe6616",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-29T10:51:25.740Z",
+      "updatedAt": "2017-08-26T10:07:25.175Z",
+      "name": "声音与速度",
+      "parentId": "597c68ad2f8052899cbe6616",
+      "courseId": "59759cfd1932dd0c3df1ef00",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501322269_1501325485.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501322269_1501325485.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501322269_1501325485.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501322269_1501325485.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501322269_1501325485.m3u8"
+      },
+      "hide": false,
+      "id": "597c68ad87c7ca441eb3e5a2"
+    }]
+  }, {
+    "courseId": "59759cfd1932dd0c3df1ef00",
+    "name": "2017.08.06",
+    "createdAt": "2017-08-05T11:15:51.322Z",
+    "updatedAt": "2017-08-26T10:07:39.131Z",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5985a8e72f8052899cbeed44",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-05T11:15:51.355Z",
+      "updatedAt": "2017-08-26T10:07:57.918Z",
+      "name": "物态变化",
+      "parentId": "5985a8e72f8052899cbeed44",
+      "courseId": "59759cfd1932dd0c3df1ef00",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501926978_1501931748.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501926978_1501931748.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501926978_1501931748.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501926978_1501931748.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1501926978_1501931748.m3u8"
+      },
+      "hide": false,
+      "id": "5985a8e739956211bf35deff"
+    }]
+  }, {
+    "courseId": "59759cfd1932dd0c3df1ef00",
+    "name": "2017.08.19",
+    "createdAt": "2017-08-19T09:56:38.350Z",
+    "updatedAt": "2017-08-26T10:08:11.343Z",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59980b562f8052899cbfcd78",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-19T11:00:54.956Z",
+      "updatedAt": "2017-08-27T11:23:28.343Z",
+      "name": "光的传播与成像（一）",
+      "parentId": "59980b562f8052899cbfcd78",
+      "courseId": "59759cfd1932dd0c3df1ef00",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503136785_1503140453.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503136785_1503140453.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503136785_1503140453.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503136785_1503140453.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503136785_1503140453.m3u8"
+      },
+      "hide": false,
+      "id": "59981a66698e2318e14bae6f"
+    }]
+  }, {
+    "courseId": "59759cfd1932dd0c3df1ef00",
+    "name": "2017.08.27",
+    "createdAt": "2017-08-27T10:54:26.967Z",
+    "updatedAt": "2017-08-27T11:22:13.808Z",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59a2a4e22f8052899cc03f2d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-27T10:54:27.001Z",
+      "updatedAt": "2017-08-27T11:23:38.295Z",
+      "name": "光的传播与成像（二）",
+      "parentId": "59a2a4e22f8052899cc03f2d",
+      "courseId": "59759cfd1932dd0c3df1ef00",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503827610_1503831265.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503827610_1503831265.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503827610_1503831265.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503827610_1503831265.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1503827610_1503831265.m3u8"
+      },
+      "hide": false,
+      "id": "59a2a4e2ac8fa07d2cbba1ac"
+    }]
+  }, {
+    "courseId": "59759cfd1932dd0c3df1ef00",
+    "name": "2017.09.03",
+    "createdAt": "2017-09-03T10:42:44.013Z",
+    "updatedAt": "2017-09-03T10:48:15.792Z",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59abdca42f8052899cc09cca",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-03T10:42:44.049Z",
+      "updatedAt": "2017-09-03T10:49:19.407Z",
+      "name": "透镜",
+      "parentId": "59abdca42f8052899cc09cca",
+      "courseId": "59759cfd1932dd0c3df1ef00",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1504431585_1504435363.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1504431585_1504435363.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1504431585_1504435363.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1504431585_1504435363.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.25334761331313227/1504431585_1504435363.m3u8"
+      },
+      "hide": false,
+      "id": "59abdca40c7eac5fa9b598dd"
+    }]
+  }],
+  "hasTopic": false
+}

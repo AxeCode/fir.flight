@@ -1,0 +1,1561 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-10-14T06:32:48.359Z",
+  "updatedAt": "2017-12-10T03:51:01.800Z",
+  "name": "基础初中物理八年级上",
+  "numOfClasses": 6,
+  "teacher": {
+    "name": "吕德贵",
+    "description": "吕德贵，拥有近10年中考物理一线教学经验，曾于2009-2013年重点公立校担任物理老师，获得优秀教师称号；2013-2015年担任知名机构王府井校区物理组负责人；2014年和2015年初中物理优秀讲师前5名。善于从学生角度出发设计课程，根据中考改革作出教学调整；强化实验探究的能力；多次参与由中考物理命题组组长秦晓文老师的命题方向讲座，强调生活联系物理，重点突出课堂的实验教学和反思。多年教学把难懂的物理原理用简单好记的语言呈现，对于模块知识都有系统深入的汇编；讲课幽默，课堂氛围活跃。",
+    "avatar": "http://imgs.wanmen.org/bd85c68bd86450a958a6f5d5c02ea281.png",
+    "id": "59e1af1951fd8d4d255283c3"
+  },
+  "hide": false,
+  "major": "592e38d4b45f51716ab6f487",
+  "expiration": 12,
+  "bigImage": "http://imgs.wanmen.org/ec330ca741d4935708f4a9d00c549f99.png",
+  "smallImage": "http://imgs.wanmen.org/f8a448fa083f55adb5ea0d9183f73e6b.png",
+  "description": "本课程为八年级物理上册人教版，课程章节的设置大体上跟教材同步，也有一些总结的专题内容，目的是让学生们更好掌握细化的知识点，强化考试做题的能力。课程分为两大类，一类是基础同步课程，对基础知识进行详细讲解并适度提升，适合所有初中学生，无论有无基础，成绩好坏都可学习；二类是课后习题课程，只讲题，题目由简入难，少量涉及物理竞赛的题，适合巩固提升的同学。课程内容充实，细化知识点全，知识讲解有深度，题目设置有区分度，物理规律联系生活实际，学好物理，决胜考场。",
+  "price": 78,
+  "characterization": "<p ><br></p>",
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_mobile_mid.m3u8"
+    },
+    "id": "5a1f7f2051f07410bab95c64"
+  },
+  "tag": "吕德贵 初中 基础 物理 八年级上 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 53,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 10,
+  "app": "mid",
+  "numberOfClasses": 6,
+  "teacherDescription": "吕德贵，拥有近10年中考物理一线教学经验，曾于2009-2013年重点公立校担任物理老师，获得优秀教师称号；2013-2015年担任知名机构王府井校区物理组负责人；2014年和2015年初中物理优秀讲师前5名。善于从学生角度出发设计课程，根据中考改革作出教学调整；强化实验探究的能力；多次参与由中考物理命题组组长秦晓文老师的命题方向讲座，强调生活联系物理，重点突出课堂的实验教学和反思。多年教学把难懂的物理原理用简单好记的语言呈现，对于模块知识都有系统深入的汇编；讲课幽默，课堂氛围活跃。",
+  "teacherAvatar": "http://imgs.wanmen.org/bd85c68bd86450a958a6f5d5c02ea281.png",
+  "teacherName": "吕德贵",
+  "mobileCoverUrl": "http://imgs.wanmen.org/f8a448fa083f55adb5ea0d9183f73e6b.png",
+  "coverUrl": "http://imgs.wanmen.org/ec330ca741d4935708f4a9d00c549f99.png",
+  "smallImageUrl": "http://imgs.wanmen.org/f8a448fa083f55adb5ea0d9183f73e6b.png",
+  "bigImageUrl": "http://imgs.wanmen.org/ec330ca741d4935708f4a9d00c549f99.png",
+  "id": "59e1af90cb90496151cc7129",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-12T09:24:05.084Z",
+    "updatedAt": "2017-12-12T09:24:12.576Z",
+    "courseId": "59e1af90cb90496151cc7129",
+    "name": "宣传片",
+    "order": -1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a2fa0350c69752405df7496",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-12T09:24:20.038Z",
+      "updatedAt": "2017-12-12T09:32:23.326Z",
+      "parentId": "5a2fa0350c69752405df7496",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "宣传片",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_mobile_mid.m3u8"
+        },
+        "id": "5a1f7f2051f07410bab95c64"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a2fa0440c69752405df7498",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/992700c9-a301-4ebb-a904-b7fdbc9dede9_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-10-19T03:07:14.112Z",
+    "updatedAt": "2017-12-21T04:02:09.188Z",
+    "courseId": "59e1af90cb90496151cc7129",
+    "name": "机械运动",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59e816e2e88b0b32d1fb0279",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-19T03:07:30.991Z",
+      "updatedAt": "2017-12-21T04:02:26.796Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "长度和时间的测量（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_mobile_mid.m3u8"
+        },
+        "id": "5a1d1cf851f07463d22f73d8"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59e816f2a899652fb085335c",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e9f72a46-5137-441f-88b0-62f450c004a5_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-19T03:08:06.281Z",
+      "updatedAt": "2017-12-21T04:02:43.692Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "长度和时间的测量（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_mobile_mid.m3u8"
+        },
+        "id": "5a0e45e151f074019c92cd85"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59e81716f4587c2d9120256c",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7a77e8ee-3bf2-40ea-b0ef-e4ed9dc79a09_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-23T10:12:36.323Z",
+      "updatedAt": "2017-12-21T04:03:11.272Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "长度和时间的测量习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_mobile_mid.m3u8"
+        },
+        "id": "59e09d0ed5ff752177cf3745"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59edc0949f2dff58500f0178",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c2a07d2b-c90c-49ef-8f1e-7a71b9c3711f_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-23T10:12:50.905Z",
+      "updatedAt": "2017-12-21T04:03:28.247Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "运动的描述",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d148e4e6-7dc3-43f0-9d38-c8e18b628865_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d148e4e6-7dc3-43f0-9d38-c8e18b628865_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d148e4e6-7dc3-43f0-9d38-c8e18b628865_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d148e4e6-7dc3-43f0-9d38-c8e18b628865_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d148e4e6-7dc3-43f0-9d38-c8e18b628865_mobile_mid.m3u8"
+        },
+        "id": "59e09bcbef23a83d10140268"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59edc0a29f2dff58500f017a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-23T10:13:09.028Z",
+      "updatedAt": "2017-12-21T04:03:49.566Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "运动的描述习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ae406f45-a76c-43a1-b6ad-08613943d7d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ae406f45-a76c-43a1-b6ad-08613943d7d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ae406f45-a76c-43a1-b6ad-08613943d7d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ae406f45-a76c-43a1-b6ad-08613943d7d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ae406f45-a76c-43a1-b6ad-08613943d7d2_mobile_mid.m3u8"
+        },
+        "id": "59e09be6ef23a83038f67c9b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59edc0b59f2dff58500f017c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-23T10:13:18.747Z",
+      "updatedAt": "2017-12-21T04:04:12.983Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "运动的快慢",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4e636718-c591-4cf9-bc48-c62374dce2fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4e636718-c591-4cf9-bc48-c62374dce2fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4e636718-c591-4cf9-bc48-c62374dce2fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4e636718-c591-4cf9-bc48-c62374dce2fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4e636718-c591-4cf9-bc48-c62374dce2fb_mobile_mid.m3u8"
+        },
+        "id": "59e09d8bd5ff75216640d0a8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59edc0be9f2dff58500f017e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-23T10:13:36.397Z",
+      "updatedAt": "2017-12-21T04:04:33.224Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "运动的快慢习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fad2d73c-7ea0-4dd0-be2c-48392fab38db_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fad2d73c-7ea0-4dd0-be2c-48392fab38db_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fad2d73c-7ea0-4dd0-be2c-48392fab38db_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fad2d73c-7ea0-4dd0-be2c-48392fab38db_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fad2d73c-7ea0-4dd0-be2c-48392fab38db_mobile_mid.m3u8"
+        },
+        "id": "59f0203ad5ff750f955f0638"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59edc0d09f2dff58500f0180",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-10-23T10:16:02.582Z",
+      "updatedAt": "2017-12-21T04:04:48.194Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "平均速度",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/32945fce-238b-4d4c-895d-606a985f3475_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/32945fce-238b-4d4c-895d-606a985f3475_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/32945fce-238b-4d4c-895d-606a985f3475_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/32945fce-238b-4d4c-895d-606a985f3475_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/32945fce-238b-4d4c-895d-606a985f3475_mobile_mid.m3u8"
+        },
+        "id": "59ed5f26d5ff750fd1b83e89"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59edc1629f2dff58500f0182",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:30:17.894Z",
+      "updatedAt": "2017-12-21T04:05:06.093Z",
+      "parentId": "59e816e2e88b0b32d1fb0279",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "平均速度习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ce23010e-a7a4-4a30-8f42-6de26b27c8aa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ce23010e-a7a4-4a30-8f42-6de26b27c8aa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ce23010e-a7a4-4a30-8f42-6de26b27c8aa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ce23010e-a7a4-4a30-8f42-6de26b27c8aa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ce23010e-a7a4-4a30-8f42-6de26b27c8aa_mobile_mid.m3u8"
+        },
+        "id": "5a18ebe8d5ff752ccab5c77d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fa9499f2dff58500f5552",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-03T07:49:10.936Z",
+    "updatedAt": "2017-12-21T04:05:32.612Z",
+    "courseId": "59e1af90cb90496151cc7129",
+    "name": "声现象",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59fc1f769f2dff58500f040f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-03T10:28:02.730Z",
+      "updatedAt": "2017-12-21T04:05:49.098Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声音的产生和传播",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/73655406-3ee4-4e23-8156-15be71548e6f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/73655406-3ee4-4e23-8156-15be71548e6f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/73655406-3ee4-4e23-8156-15be71548e6f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/73655406-3ee4-4e23-8156-15be71548e6f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/73655406-3ee4-4e23-8156-15be71548e6f_mobile_mid.m3u8"
+        },
+        "id": "5a1d2b39ef23a812f61ae09c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59fc44b29f2dff58500f0419",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:38:39.944Z",
+      "updatedAt": "2017-12-21T04:06:06.996Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声音的产生和传播习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9b8b4a9e-085b-4cb6-9048-c68695923f53_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9b8b4a9e-085b-4cb6-9048-c68695923f53_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9b8b4a9e-085b-4cb6-9048-c68695923f53_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9b8b4a9e-085b-4cb6-9048-c68695923f53_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9b8b4a9e-085b-4cb6-9048-c68695923f53_mobile_mid.m3u8"
+        },
+        "id": "59f2d531d5ff750fb41774bd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fab3f37beee5855953a68",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:39:15.401Z",
+      "updatedAt": "2017-12-21T04:06:24.093Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声音的特性",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0be81f7c-5cca-46da-903e-f4692c95d56f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0be81f7c-5cca-46da-903e-f4692c95d56f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0be81f7c-5cca-46da-903e-f4692c95d56f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0be81f7c-5cca-46da-903e-f4692c95d56f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0be81f7c-5cca-46da-903e-f4692c95d56f_mobile_mid.m3u8"
+        },
+        "id": "5a0e4607ef23a802a31942e2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fab639f2dff58500f5554",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:39:47.155Z",
+      "updatedAt": "2017-12-21T04:06:42.029Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声音的特性习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/95e8e03d-8c35-4620-8b7f-6b6f7c905fe2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/95e8e03d-8c35-4620-8b7f-6b6f7c905fe2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/95e8e03d-8c35-4620-8b7f-6b6f7c905fe2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/95e8e03d-8c35-4620-8b7f-6b6f7c905fe2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/95e8e03d-8c35-4620-8b7f-6b6f7c905fe2_mobile_mid.m3u8"
+        },
+        "id": "59f2d580d5ff750f955f0644"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fab839f2dff58500f5556",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:40:21.020Z",
+      "updatedAt": "2017-12-21T04:06:58.074Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声的利用与噪音的控制",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/02c99834-1533-42f1-9435-68e8602358d1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/02c99834-1533-42f1-9435-68e8602358d1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/02c99834-1533-42f1-9435-68e8602358d1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/02c99834-1533-42f1-9435-68e8602358d1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/02c99834-1533-42f1-9435-68e8602358d1_mobile_mid.m3u8"
+        },
+        "id": "5a0e463151f074017d8ad275"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0faba59f2dff58500f5558",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:41:01.627Z",
+      "updatedAt": "2017-12-21T04:07:15.315Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声的利用与噪音的控制习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8fcd298d-007b-4bcf-be38-78d95ea008fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8fcd298d-007b-4bcf-be38-78d95ea008fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8fcd298d-007b-4bcf-be38-78d95ea008fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8fcd298d-007b-4bcf-be38-78d95ea008fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8fcd298d-007b-4bcf-be38-78d95ea008fb_mobile_mid.m3u8"
+        },
+        "id": "59f2d5cfd5ff750fdd1097a7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fabcd9f2dff58500f555a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:42:15.350Z",
+      "updatedAt": "2017-12-21T04:07:34.006Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声速的计算",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c7e8adcc-3670-461f-b7b6-b95fb1751f1d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c7e8adcc-3670-461f-b7b6-b95fb1751f1d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c7e8adcc-3670-461f-b7b6-b95fb1751f1d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c7e8adcc-3670-461f-b7b6-b95fb1751f1d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c7e8adcc-3670-461f-b7b6-b95fb1751f1d_mobile_mid.m3u8"
+        },
+        "id": "5a0e4652ef23a80254205d42"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fac179f2dff58500f555c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:43:28.936Z",
+      "updatedAt": "2017-12-21T04:07:50.452Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声速的计算习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bf49d7a1-0ecb-4044-8491-60fa10ae4cbb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bf49d7a1-0ecb-4044-8491-60fa10ae4cbb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bf49d7a1-0ecb-4044-8491-60fa10ae4cbb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bf49d7a1-0ecb-4044-8491-60fa10ae4cbb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bf49d7a1-0ecb-4044-8491-60fa10ae4cbb_mobile_mid.m3u8"
+        },
+        "id": "5a0e47f9d5ff755a53dfb320"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fac609f2dff58500f555e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:44:09.861Z",
+      "updatedAt": "2017-12-21T04:08:05.947Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声学实验简答专题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/87ee3173-eec1-4d0b-ac0c-01f9fabdd59f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/87ee3173-eec1-4d0b-ac0c-01f9fabdd59f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/87ee3173-eec1-4d0b-ac0c-01f9fabdd59f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/87ee3173-eec1-4d0b-ac0c-01f9fabdd59f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/87ee3173-eec1-4d0b-ac0c-01f9fabdd59f_mobile_mid.m3u8"
+        },
+        "id": "5a0e469451f074017d8ad276"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fac899f2dff58500f5560",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T03:44:37.693Z",
+      "updatedAt": "2017-12-21T04:08:22.916Z",
+      "parentId": "59fc1f769f2dff58500f040f",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "声学实验简答专题习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ac84b0cf-0de8-4fbb-91ff-d3aa59e6c9f5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ac84b0cf-0de8-4fbb-91ff-d3aa59e6c9f5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ac84b0cf-0de8-4fbb-91ff-d3aa59e6c9f5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ac84b0cf-0de8-4fbb-91ff-d3aa59e6c9f5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ac84b0cf-0de8-4fbb-91ff-d3aa59e6c9f5_mobile_mid.m3u8"
+        },
+        "id": "5a0e46b451f0740160007c4b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0faca59f2dff58500f5562",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-18T04:04:26.990Z",
+    "updatedAt": "2017-12-21T04:08:39.740Z",
+    "courseId": "59e1af90cb90496151cc7129",
+    "name": "物态变化",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a0fb14a9f2dff58500f5564",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:04:49.729Z",
+      "updatedAt": "2017-12-21T04:09:11.507Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "温度及温度计的使用和读数",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5d6e72f5-9c47-4be1-92ea-66bc295e2745_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5d6e72f5-9c47-4be1-92ea-66bc295e2745_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5d6e72f5-9c47-4be1-92ea-66bc295e2745_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5d6e72f5-9c47-4be1-92ea-66bc295e2745_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5d6e72f5-9c47-4be1-92ea-66bc295e2745_mobile_mid.m3u8"
+        },
+        "id": "5a0e4876d5ff755a0bb6c835"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb1619f2dff58500f5566",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:05:02.924Z",
+      "updatedAt": "2017-12-21T04:09:38.641Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "温度及温度计的使用和读数习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3f303234-60a0-4c54-bf7f-99f755d49483_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3f303234-60a0-4c54-bf7f-99f755d49483_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3f303234-60a0-4c54-bf7f-99f755d49483_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3f303234-60a0-4c54-bf7f-99f755d49483_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3f303234-60a0-4c54-bf7f-99f755d49483_mobile_mid.m3u8"
+        },
+        "id": "5a0e470751f074018c289c53"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb16e9f2dff58500f5568",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:05:15.744Z",
+      "updatedAt": "2017-12-21T04:10:03.185Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "熔化和凝固",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/db2b9c70-2b9c-4bfd-840d-4af9b428789d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/db2b9c70-2b9c-4bfd-840d-4af9b428789d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/db2b9c70-2b9c-4bfd-840d-4af9b428789d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/db2b9c70-2b9c-4bfd-840d-4af9b428789d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/db2b9c70-2b9c-4bfd-840d-4af9b428789d_mobile_mid.m3u8"
+        },
+        "id": "5a0e48c4d5ff755a1a4e10b1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb17b9f2dff58500f556a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:05:28.475Z",
+      "updatedAt": "2017-12-21T04:10:30.085Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "熔化和凝固习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bf915e78-13d8-47be-b0b8-4f872e9cd348_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bf915e78-13d8-47be-b0b8-4f872e9cd348_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bf915e78-13d8-47be-b0b8-4f872e9cd348_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bf915e78-13d8-47be-b0b8-4f872e9cd348_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bf915e78-13d8-47be-b0b8-4f872e9cd348_mobile_mid.m3u8"
+        },
+        "id": "5a0e475b51f07401bae6dba8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb1889f2dff58500f556c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:05:41.816Z",
+      "updatedAt": "2017-12-21T04:10:54.688Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "汽化和液化",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3e473c7a-d523-473e-a400-ce16ec63ea43_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3e473c7a-d523-473e-a400-ce16ec63ea43_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3e473c7a-d523-473e-a400-ce16ec63ea43_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3e473c7a-d523-473e-a400-ce16ec63ea43_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3e473c7a-d523-473e-a400-ce16ec63ea43_mobile_mid.m3u8"
+        },
+        "id": "5a0e4789ef23a8026ee8f036"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb1959f2dff58500f556e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:05:53.911Z",
+      "updatedAt": "2017-12-21T04:11:18.674Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "汽化和液化习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3b18a822-7eb0-43da-9357-9e4faf60b20d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3b18a822-7eb0-43da-9357-9e4faf60b20d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3b18a822-7eb0-43da-9357-9e4faf60b20d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3b18a822-7eb0-43da-9357-9e4faf60b20d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3b18a822-7eb0-43da-9357-9e4faf60b20d_mobile_mid.m3u8"
+        },
+        "id": "5a0e47b1ef23a802918d0c5a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb1a19f2dff58500f5570",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:06:08.133Z",
+      "updatedAt": "2017-12-21T04:11:42.577Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "升华和凝华",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/17104cf6-1bfc-4457-8138-875f12c2efe2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/17104cf6-1bfc-4457-8138-875f12c2efe2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/17104cf6-1bfc-4457-8138-875f12c2efe2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/17104cf6-1bfc-4457-8138-875f12c2efe2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/17104cf6-1bfc-4457-8138-875f12c2efe2_mobile_mid.m3u8"
+        },
+        "id": "5a0e47e2ef23a802cab44926"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb1b037beee5855953a6a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-18T04:06:21.679Z",
+      "updatedAt": "2017-12-21T04:12:07.574Z",
+      "parentId": "5a0fb14a9f2dff58500f5564",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "升华和凝华习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/93850645-a73b-4900-9171-6ca0b027c0a9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/93850645-a73b-4900-9171-6ca0b027c0a9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/93850645-a73b-4900-9171-6ca0b027c0a9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/93850645-a73b-4900-9171-6ca0b027c0a9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/93850645-a73b-4900-9171-6ca0b027c0a9_mobile_mid.m3u8"
+        },
+        "id": "5a0e480e51f07401b308669f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a0fb1bd37beee5855953a6c",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T02:06:56.010Z",
+    "updatedAt": "2017-12-21T04:16:17.805Z",
+    "courseId": "59e1af90cb90496151cc7129",
+    "name": "光现象",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a1238c09f2dff58500f55a3",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:14:50.776Z",
+      "updatedAt": "2017-12-21T04:12:39.679Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "光的直线传播",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ba034f53-0c55-4d39-a5b2-f2f7ea6153d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ba034f53-0c55-4d39-a5b2-f2f7ea6153d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ba034f53-0c55-4d39-a5b2-f2f7ea6153d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ba034f53-0c55-4d39-a5b2-f2f7ea6153d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ba034f53-0c55-4d39-a5b2-f2f7ea6153d2_mobile_mid.m3u8"
+        },
+        "id": "5a18ec2951f0746353b1f62f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123a9a37beee5855953ae9",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:15:03.771Z",
+      "updatedAt": "2017-12-21T04:13:07.487Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "光的直线传播习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8956c157-55de-48f4-b00c-50bd7c7764cb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8956c157-55de-48f4-b00c-50bd7c7764cb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8956c157-55de-48f4-b00c-50bd7c7764cb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8956c157-55de-48f4-b00c-50bd7c7764cb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8956c157-55de-48f4-b00c-50bd7c7764cb_mobile_mid.m3u8"
+        },
+        "id": "5a13830bef23a802ac93c8d6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123aa737beee5855953aeb",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:15:15.384Z",
+      "updatedAt": "2017-12-21T04:13:34.161Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "光的反射",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/535d97b9-cd93-4d22-87d5-8b9285f4ba2b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/535d97b9-cd93-4d22-87d5-8b9285f4ba2b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/535d97b9-cd93-4d22-87d5-8b9285f4ba2b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/535d97b9-cd93-4d22-87d5-8b9285f4ba2b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/535d97b9-cd93-4d22-87d5-8b9285f4ba2b_mobile_mid.m3u8"
+        },
+        "id": "5a138334ef23a802e282da0d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123ab337beee5855953aed",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:15:29.921Z",
+      "updatedAt": "2017-12-21T04:14:00.515Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "光的反射习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ff7e1e0f-da70-4e11-bf36-78b35b13c0c7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ff7e1e0f-da70-4e11-bf36-78b35b13c0c7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ff7e1e0f-da70-4e11-bf36-78b35b13c0c7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ff7e1e0f-da70-4e11-bf36-78b35b13c0c7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ff7e1e0f-da70-4e11-bf36-78b35b13c0c7_mobile_mid.m3u8"
+        },
+        "id": "5a13835def23a8023e608792"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123ac137beee5855953aef",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:17:29.095Z",
+      "updatedAt": "2017-12-21T04:14:25.889Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "平面镜成像",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d71e868d-4f22-4174-9c15-5296fbb6e6a7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d71e868d-4f22-4174-9c15-5296fbb6e6a7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d71e868d-4f22-4174-9c15-5296fbb6e6a7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d71e868d-4f22-4174-9c15-5296fbb6e6a7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d71e868d-4f22-4174-9c15-5296fbb6e6a7_mobile_mid.m3u8"
+        },
+        "id": "5a162154ef23a8127162f068"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123b3937beee5855953af3",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:17:44.294Z",
+      "updatedAt": "2017-12-21T04:14:56.776Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "平面镜成像习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fe719427-2230-422d-9568-93e27c2bb5ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fe719427-2230-422d-9568-93e27c2bb5ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fe719427-2230-422d-9568-93e27c2bb5ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fe719427-2230-422d-9568-93e27c2bb5ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fe719427-2230-422d-9568-93e27c2bb5ad_mobile_mid.m3u8"
+        },
+        "id": "5a1383aeef23a8021e1e7e57"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123b4837beee5855953af5",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:17:58.875Z",
+      "updatedAt": "2017-12-21T04:15:23.195Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "光的折射与色散",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/861b05e2-c529-4db1-a3c4-cdfcc5a8c62f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/861b05e2-c529-4db1-a3c4-cdfcc5a8c62f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/861b05e2-c529-4db1-a3c4-cdfcc5a8c62f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/861b05e2-c529-4db1-a3c4-cdfcc5a8c62f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/861b05e2-c529-4db1-a3c4-cdfcc5a8c62f_mobile_mid.m3u8"
+        },
+        "id": "5a1383e051f074018221691c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123b5637beee5855953af7",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:18:17.000Z",
+      "updatedAt": "2017-12-21T04:15:49.093Z",
+      "parentId": "5a1238c09f2dff58500f55a3",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "光的折射与色散习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5ee390bf-dd56-4fd1-9640-7802caf55e33_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5ee390bf-dd56-4fd1-9640-7802caf55e33_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5ee390bf-dd56-4fd1-9640-7802caf55e33_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5ee390bf-dd56-4fd1-9640-7802caf55e33_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5ee390bf-dd56-4fd1-9640-7802caf55e33_mobile_mid.m3u8"
+        },
+        "id": "5a13840351f0747fef6c939a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123b6837beee5855953af9",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T02:13:53.993Z",
+    "updatedAt": "2017-12-21T04:16:48.434Z",
+    "courseId": "59e1af90cb90496151cc7129",
+    "name": "透镜及其应用",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a123a619f2dff58500f55a5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:18:46.403Z",
+      "updatedAt": "2017-12-21T04:17:13.882Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "神奇的透镜",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ae44a3aa-3daf-4b61-8656-27c909e2aaa8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ae44a3aa-3daf-4b61-8656-27c909e2aaa8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ae44a3aa-3daf-4b61-8656-27c909e2aaa8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ae44a3aa-3daf-4b61-8656-27c909e2aaa8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ae44a3aa-3daf-4b61-8656-27c909e2aaa8_mobile_mid.m3u8"
+        },
+        "id": "5a1385fbd5ff755a0bb6c838"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123b8637beee5855953afd",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:18:56.883Z",
+      "updatedAt": "2017-12-21T04:17:40.034Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "神奇的透镜习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/58e546a4-2f51-4d97-a329-3148bf451b35_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/58e546a4-2f51-4d97-a329-3148bf451b35_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/58e546a4-2f51-4d97-a329-3148bf451b35_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/58e546a4-2f51-4d97-a329-3148bf451b35_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/58e546a4-2f51-4d97-a329-3148bf451b35_mobile_mid.m3u8"
+        },
+        "id": "5a18ec3eef23a812eda5fbb7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123b9037beee5855953aff",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:19:12.344Z",
+      "updatedAt": "2017-12-21T04:17:47.001Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "凸透镜成像规律",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d4a09a7e-5c26-42c5-8d5b-361f6375a239_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d4a09a7e-5c26-42c5-8d5b-361f6375a239_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d4a09a7e-5c26-42c5-8d5b-361f6375a239_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d4a09a7e-5c26-42c5-8d5b-361f6375a239_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d4a09a7e-5c26-42c5-8d5b-361f6375a239_mobile_mid.m3u8"
+        },
+        "id": "5a18ec6a51f07463a7d81fc2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123ba037beee5855953b01",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:19:24.852Z",
+      "updatedAt": "2017-12-21T04:17:53.423Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "凸透镜成像规律习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0eab1f77-3cda-4710-b6b4-e5224c02fcff_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0eab1f77-3cda-4710-b6b4-e5224c02fcff_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0eab1f77-3cda-4710-b6b4-e5224c02fcff_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0eab1f77-3cda-4710-b6b4-e5224c02fcff_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0eab1f77-3cda-4710-b6b4-e5224c02fcff_mobile_mid.m3u8"
+        },
+        "id": "5a13850b51f0747fedb4fcda"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123bac37beee5855953b03",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:19:39.027Z",
+      "updatedAt": "2017-12-21T04:17:59.719Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "生活中的透镜",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/738c05c9-f98c-4708-aa45-8744d820aafd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/738c05c9-f98c-4708-aa45-8744d820aafd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/738c05c9-f98c-4708-aa45-8744d820aafd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/738c05c9-f98c-4708-aa45-8744d820aafd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/738c05c9-f98c-4708-aa45-8744d820aafd_mobile_mid.m3u8"
+        },
+        "id": "5a13853def23a802918d0c5d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123bbb37beee5855953b05",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:19:51.012Z",
+      "updatedAt": "2017-12-21T04:18:12.114Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "生活中的透镜习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8b188b39-71d2-4be6-be95-ed45f6257802_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8b188b39-71d2-4be6-be95-ed45f6257802_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8b188b39-71d2-4be6-be95-ed45f6257802_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8b188b39-71d2-4be6-be95-ed45f6257802_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8b188b39-71d2-4be6-be95-ed45f6257802_mobile_mid.m3u8"
+        },
+        "id": "5a1386f6d5ff7559eb703acf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123bc637beee5855953b07",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:20:04.766Z",
+      "updatedAt": "2017-12-21T04:18:18.114Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "眼睛和眼镜",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/81bdfe2f-686e-42a4-abba-9d1eacf1484c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/81bdfe2f-686e-42a4-abba-9d1eacf1484c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/81bdfe2f-686e-42a4-abba-9d1eacf1484c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/81bdfe2f-686e-42a4-abba-9d1eacf1484c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/81bdfe2f-686e-42a4-abba-9d1eacf1484c_mobile_mid.m3u8"
+        },
+        "id": "5a138599ef23a802ab82594b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123bd437beee5855953b09",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:20:26.147Z",
+      "updatedAt": "2017-12-21T04:19:48.503Z",
+      "parentId": "5a123a619f2dff58500f55a5",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "眼睛和眼镜习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/638b5490-7b8f-42ca-9b57-bb85c628d983_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/638b5490-7b8f-42ca-9b57-bb85c628d983_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/638b5490-7b8f-42ca-9b57-bb85c628d983_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/638b5490-7b8f-42ca-9b57-bb85c628d983_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/638b5490-7b8f-42ca-9b57-bb85c628d983_mobile_mid.m3u8"
+        },
+        "id": "5a18ec7d51f07463e35b844e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123bea37beee5855953b0b",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-20T02:14:17.235Z",
+    "updatedAt": "2017-12-21T04:20:27.903Z",
+    "courseId": "59e1af90cb90496151cc7129",
+    "name": "质量和密度",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a123a7937beee5855953ae7",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:20:51.250Z",
+      "updatedAt": "2017-12-21T04:20:15.594Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "质量",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f36d385a-5bf2-479a-bf9c-36173b773e01_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f36d385a-5bf2-479a-bf9c-36173b773e01_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f36d385a-5bf2-479a-bf9c-36173b773e01_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f36d385a-5bf2-479a-bf9c-36173b773e01_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f36d385a-5bf2-479a-bf9c-36173b773e01_mobile_mid.m3u8"
+        },
+        "id": "5a138787d5ff755a4408e2e3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c0337beee5855953b0d",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:21:01.686Z",
+      "updatedAt": "2017-12-21T04:20:40.570Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "体积",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a2a4334a-b44b-40f4-b897-f7b8c5d93c90_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a2a4334a-b44b-40f4-b897-f7b8c5d93c90_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a2a4334a-b44b-40f4-b897-f7b8c5d93c90_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a2a4334a-b44b-40f4-b897-f7b8c5d93c90_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a2a4334a-b44b-40f4-b897-f7b8c5d93c90_mobile_mid.m3u8"
+        },
+        "id": "5a138625ef23a80257b88b05"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c0d37beee5855953b0f",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:21:14.429Z",
+      "updatedAt": "2017-12-21T04:21:04.563Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "质量和体积习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fed05dd2-6b49-477c-9735-793c97653c95_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fed05dd2-6b49-477c-9735-793c97653c95_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fed05dd2-6b49-477c-9735-793c97653c95_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fed05dd2-6b49-477c-9735-793c97653c95_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fed05dd2-6b49-477c-9735-793c97653c95_mobile_mid.m3u8"
+        },
+        "id": "5a13866d51f074019c92cd87"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c1a37beee5855953b11",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:21:26.911Z",
+      "updatedAt": "2017-12-21T04:21:17.225Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "认识密度",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/19d33c5f-0354-4353-83a2-18d2b1351166_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/19d33c5f-0354-4353-83a2-18d2b1351166_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/19d33c5f-0354-4353-83a2-18d2b1351166_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/19d33c5f-0354-4353-83a2-18d2b1351166_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/19d33c5f-0354-4353-83a2-18d2b1351166_mobile_mid.m3u8"
+        },
+        "id": "5a18ec9f51f07463e35b844f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c2637beee5855953b13",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:21:40.956Z",
+      "updatedAt": "2017-12-21T04:21:30.102Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "认识密度习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2a4afc58-a2e6-443d-988b-e2114fe660a3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2a4afc58-a2e6-443d-988b-e2114fe660a3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2a4afc58-a2e6-443d-988b-e2114fe660a3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2a4afc58-a2e6-443d-988b-e2114fe660a3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2a4afc58-a2e6-443d-988b-e2114fe660a3_mobile_mid.m3u8"
+        },
+        "id": "5a18ecbdd5ff752cdfd7bd85"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c3437beee5855953b15",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:21:56.124Z",
+      "updatedAt": "2017-12-21T04:21:42.605Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "密度的计算",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/52e32396-f0c8-435c-b54e-4f114e092579_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/52e32396-f0c8-435c-b54e-4f114e092579_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/52e32396-f0c8-435c-b54e-4f114e092579_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/52e32396-f0c8-435c-b54e-4f114e092579_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/52e32396-f0c8-435c-b54e-4f114e092579_mobile_mid.m3u8"
+        },
+        "id": "5a138744ef23a802e1afc6a4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c4437beee5855953b17",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:22:10.528Z",
+      "updatedAt": "2017-12-21T04:21:55.935Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "密度的计算习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/196a9ecd-e4e5-4ec3-a978-4ef83f2db0da_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/196a9ecd-e4e5-4ec3-a978-4ef83f2db0da_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/196a9ecd-e4e5-4ec3-a978-4ef83f2db0da_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/196a9ecd-e4e5-4ec3-a978-4ef83f2db0da_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/196a9ecd-e4e5-4ec3-a978-4ef83f2db0da_mobile_mid.m3u8"
+        },
+        "id": "5a1388fdd5ff755a2fc193dc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c5237beee5855953b19",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:22:27.064Z",
+      "updatedAt": "2017-12-21T04:22:07.985Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "密度测量试验",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79ce61fc-aa0f-46f0-a833-53b3cb84b6ba_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79ce61fc-aa0f-46f0-a833-53b3cb84b6ba_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79ce61fc-aa0f-46f0-a833-53b3cb84b6ba_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79ce61fc-aa0f-46f0-a833-53b3cb84b6ba_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79ce61fc-aa0f-46f0-a833-53b3cb84b6ba_mobile_mid.m3u8"
+        },
+        "id": "5a1387a5ef23a80257b88b06"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c6337beee5855953b1b",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-20T02:22:43.537Z",
+      "updatedAt": "2017-12-21T04:22:19.024Z",
+      "parentId": "5a123a7937beee5855953ae7",
+      "courseId": "59e1af90cb90496151cc7129",
+      "name": "密度测量试验习题课",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/18cb9272-fe51-4904-a427-2c68bf77aac7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/18cb9272-fe51-4904-a427-2c68bf77aac7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/18cb9272-fe51-4904-a427-2c68bf77aac7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/18cb9272-fe51-4904-a427-2c68bf77aac7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/18cb9272-fe51-4904-a427-2c68bf77aac7_mobile_mid.m3u8"
+        },
+        "id": "5a18eccdef23a8124285a5b2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a123c7337beee5855953b1d",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

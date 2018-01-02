@@ -6,14 +6,9 @@
         android:title="@string/ff.profile.menu.settings"
         android:icon="@drawable/ic_nav_settings"
         app:showAsAction="always"
-        android:visible="false"
         />
     <item
         android:id="@+id/menu_item_about"
         android:title="@string/ff.profile.menu.about"
-        />
-    <item
-        android:id="@+id/menu_item_sign_out"
-        android:title="@string/ff.profile.menu.sign_out"
         />
 </menu>

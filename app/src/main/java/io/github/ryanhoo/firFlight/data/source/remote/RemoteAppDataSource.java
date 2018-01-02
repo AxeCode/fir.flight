@@ -22,8 +22,8 @@ public class RemoteAppDataSource extends AbstractRemoteDataSource implements App
     }
 
     @Override
-    public Observable<List<Courses>> courses() {
-        return mApi.courses().flatMap(new Func1<List<Courses>, Observable<List<Courses>>>() {
+    public Observable<List<Courses>> courses(String courseId) {
+        return mApi.courses(courseId).flatMap(new Func1<List<Courses>, Observable<List<Courses>>>() {
             @Override
             public Observable<List<Courses>> call(List<Courses> courses) {
                 if (courses != null) {

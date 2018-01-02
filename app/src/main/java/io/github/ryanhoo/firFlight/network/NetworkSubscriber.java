@@ -2,6 +2,7 @@ package io.github.ryanhoo.firFlight.network;
 
 import android.content.Context;
 import android.util.Log;
+
 import io.github.ryanhoo.firFlight.R;
 import io.github.ryanhoo.firFlight.RxBus;
 import io.github.ryanhoo.firFlight.event.SignOutEvent;
@@ -74,9 +75,9 @@ public class NetworkSubscriber<T> extends Subscriber<T> {
             }
         }
         if (context != null) {
-            new FlightToast.Builder(context)
-                    .message(message)
-                    .show();
+//            new FlightToast.Builder(context)
+//                    .message(message)
+//                    .show();
         } else {
             Log.e(TAG, "" + message, e);
         }

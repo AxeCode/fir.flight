@@ -11,10 +11,12 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 import io.github.ryanhoo.firFlight.R;
 import io.github.ryanhoo.firFlight.RxBus;
+import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.event.SignOutEvent;
 import io.github.ryanhoo.firFlight.ui.app.CoursesFragment;
 import io.github.ryanhoo.firFlight.ui.base.BaseActivity;
 import io.github.ryanhoo.firFlight.ui.base.BaseFragment;
+import io.github.ryanhoo.firFlight.ui.common.Constants;
 import io.github.ryanhoo.firFlight.ui.message.MessagesFragment;
 import io.github.ryanhoo.firFlight.ui.profile.ProfileFragment;
 import io.github.ryanhoo.firFlight.ui.signin.SignInActivity;
@@ -51,9 +53,15 @@ public class MainActivity extends BaseActivity {
 
         final String[] tabTitles = getResources().getStringArray(R.array.ff_main_tab_titles);
         final BaseFragment[] fragments = new BaseFragment[tabTitles.length];
-        fragments[0] = new CoursesFragment();
-        fragments[1] = new MessagesFragment();
-        fragments[2] = new ProfileFragment();
+        //数学
+        fragments[0] = CoursesFragment.newInstance(Constants.SUBJECT_MATH, "58f0331bc6bdf222b1744e10");
+        //物理
+        fragments[1] = CoursesFragment.newInstance(Constants.SUBJECT_PHYSICS, "592e38d4b45f51716ab6f487");
+        //英语
+        fragments[2] = CoursesFragment.newInstance(Constants.SUBJECT_ENGLISH, "590b35f071b2262ac78f19fb");
+        //语文
+        fragments[3] = CoursesFragment.newInstance(Constants.SUBJECT_CHINESE, "59354a36d5fa2213f156cb86");
+        fragments[4] = new ProfileFragment();
 
         MainTabAdapter adapter = new MainTabAdapter(getSupportFragmentManager(), tabTitles, fragments);
         viewPager.setAdapter(adapter);

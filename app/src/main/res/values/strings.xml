@@ -22,14 +22,18 @@
     <string name="ff.signin.password.example">******</string>
 
     <!-- Main -->
-    <string name="ff.main.tab.apps">数学</string>
-    <string name="ff.main.tab.messages">语文</string>
-    <string name="ff.main.tab.profile">Profile</string>
+    <string name="ff.main.tab.math">数学</string>
+    <string name="ff.main.tab.physics">物理</string>
+    <string name="ff.main.tab.english">英语</string>
+    <string name="ff.main.tab.chinese">语文</string>
+    <string name="ff.main.tab.about">关于</string>
 
     <string-array name="ff_main_tab_titles">
-        <item>@string/ff.main.tab.apps</item>
-        <item>@string/ff.main.tab.messages</item>
-        <item>@string/ff.main.tab.profile</item>
+        <item>@string/ff.main.tab.math</item>
+        <item>@string/ff.main.tab.physics</item>
+        <item>@string/ff.main.tab.english</item>
+        <item>@string/ff.main.tab.chinese</item>
+        <item>@string/ff.main.tab.about</item>
     </string-array>
 
     <!-- Apps -->
@@ -38,6 +42,7 @@
     <string name="ff.apps.install">Install</string>
     <string name="ff.apps.empty">No apps found</string>
     <string name="ff.courses.class">共%s节</string>
+    <string name="ff.courses.chapter">第%1$s节  %2$s</string>
 
     <!-- Messages -->
     <string name="ff.messages.empty">No messages received</string>

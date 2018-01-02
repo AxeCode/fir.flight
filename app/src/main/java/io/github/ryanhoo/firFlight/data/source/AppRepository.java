@@ -40,14 +40,9 @@ public class AppRepository implements AppContract {
     }
 
     @Override
-    public Observable<List<Courses>> courses() {
-        return courses(false);
-    }
-
-    @Override
-    public Observable<List<Courses>> courses(boolean forceUpdate) {
-        Observable<List<Courses>> local = mLocalDataSource.courses();
-        Observable<List<Courses>> remote = mRemoteDataSource.courses()
+    public Observable<List<Courses>> courses(String courseId) {
+        Observable<List<Courses>> local = mLocalDataSource.courses(courseId);
+        Observable<List<Courses>> remote = mRemoteDataSource.courses(courseId)
                 .doOnNext(new Action1<List<Courses>>() {
                     @Override
                     public void call(List<Courses> apps) {
@@ -55,10 +50,7 @@ public class AppRepository implements AppContract {
                         mLocalDataSource.save(apps);
                     }
                 });
-        if (forceUpdate) {
-            return remote;
-        }
-        return Observable.concat(local.first(), remote);
+        return remote;
     }
 
 }

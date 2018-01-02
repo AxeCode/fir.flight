@@ -125,9 +125,6 @@ public class ProfileFragment extends BaseFragment implements ProfileContract.Vie
             case R.id.menu_item_about:
                 onOpenAbout();
                 break;
-            case R.id.menu_item_sign_out:
-                onSignOut();
-                break;
         }
         return super.onOptionsItemSelected(item);
     }
@@ -140,19 +137,6 @@ public class ProfileFragment extends BaseFragment implements ProfileContract.Vie
         startActivity(new Intent(getActivity(), AboutActivity.class));
     }
 
-    private void onSignOut() {
-        new AlertDialog.Builder(getActivity())
-                .setTitle(R.string.ff_dialog_sign_out_title)
-                .setMessage(R.string.ff_dialog_sign_out_message)
-                .setNegativeButton(R.string.ff_no, null)
-                .setPositiveButton(R.string.ff_yes, new DialogInterface.OnClickListener() {
-                    @Override
-                    public void onClick(DialogInterface dialogInterface, int i) {
-                        UserSession.getInstance().signOut();
-                    }
-                })
-                .show();
-    }
 
     // OnClick Events
 

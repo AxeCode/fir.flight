@@ -16,7 +16,7 @@ public interface AppContract {
 
     interface Local {
 
-        Observable<List<Courses>> courses();
+        Observable<List<Courses>> courses(String courseId);
 
         boolean save(Courses course);
 
@@ -30,11 +30,9 @@ public interface AppContract {
     }
 
     interface Remote {
-        Observable<List<Courses>> courses();
+        Observable<List<Courses>> courses(String courseId);
     }
 
-    Observable<List<Courses>> courses();
-
-    Observable<List<Courses>> courses(boolean forceUpdate);
+    Observable<List<Courses>> courses(String courseId);
 
 }
