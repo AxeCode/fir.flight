@@ -3,6 +3,8 @@ package io.github.ryanhoo.firFlight;
 import android.app.Application;
 import android.support.annotation.NonNull;
 import com.facebook.stetho.Stetho;
+import com.tencent.bugly.Bugly;
+
 import io.github.ryanhoo.firFlight.analytics.FlightAnalytics;
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 
@@ -35,6 +37,8 @@ public class FlightApplication extends Application {
                         .setFontAttrId(R.attr.fontPath)
                         .build()
         );
+
+        Bugly.init(getApplicationContext(), "c1789aa9d4", false);
 
         // Facebook debug bridge
         Stetho.initializeWithDefaults(this);

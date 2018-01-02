@@ -18,10 +18,10 @@ import android.widget.TextView;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import io.github.ryanhoo.firFlight.R;
-import io.github.ryanhoo.firFlight.account.UserSession;
 import io.github.ryanhoo.firFlight.ui.base.BaseActivity;
 import io.github.ryanhoo.firFlight.ui.main.MainActivity;
-import io.github.ryanhoo.firFlight.ui.signin.SignInActivity;
+
+import static java.lang.Math.random;
 
 /**
  * Created with Android Studio.
@@ -33,8 +33,17 @@ import io.github.ryanhoo.firFlight.ui.signin.SignInActivity;
 public class SplashScreenActivity extends BaseActivity {
 
     final long ANIMATION_DURATION = 1000;
-    final long SIGNED_IN_DELAY = 2500;
+    final long SIGNED_IN_DELAY = 3500;
 
+    String[] slogans = new String[] {
+            "香香, 成功源于自信, 信心源于成绩, 成绩需要不断的努力. 加油 \n -金金",
+            "生活赋予我们一种巨大的和无限高贵的礼品，这就是青春：充满着力量，充满着期待志愿，充满着求知和斗争的志向，充满着希望信心和青春。",
+            "遇到困难时不要抱怨，既然改变不了过去，那么就努力改变未来。",
+            "不要自卑，你不比别人笨。不要自满，别人不比你笨",
+            "成功的道路上充满荆棘，苦战方能成功。",
+            "You're beautiful!",
+            "You gotta carry that weight, carry that weight a long time."
+    };
     @Bind(R.id.text_view_app_name)
     TextView textViewAppName;
     @Bind(R.id.text_view_slogan)
@@ -50,6 +59,8 @@ public class SplashScreenActivity extends BaseActivity {
 
         mHandler = new Handler();
 
+        int index = (int)(Math.random() * 10) % slogans.length;
+        textViewSlogan.setText(slogans[index]);
         // Animate UI in
         animateTextViews();
 

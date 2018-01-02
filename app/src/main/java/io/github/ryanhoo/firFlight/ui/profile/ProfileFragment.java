@@ -1,34 +1,22 @@
 package io.github.ryanhoo.firFlight.ui.profile;
 
-import android.content.ClipData;
-import android.content.ClipboardManager;
-import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v7.app.AlertDialog;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.TextView;
 
-import butterknife.Bind;
 import butterknife.ButterKnife;
-import butterknife.OnClick;
 import io.github.ryanhoo.firFlight.R;
-import io.github.ryanhoo.firFlight.account.UserSession;
 import io.github.ryanhoo.firFlight.data.model.Token;
 import io.github.ryanhoo.firFlight.data.model.User;
 import io.github.ryanhoo.firFlight.ui.about.AboutActivity;
 import io.github.ryanhoo.firFlight.ui.base.BaseFragment;
 import io.github.ryanhoo.firFlight.ui.common.alert.FlightDialog;
-import io.github.ryanhoo.firFlight.ui.common.alert.FlightToast;
 import io.github.ryanhoo.firFlight.ui.setting.SettingsActivity;
 
 /**
@@ -40,16 +28,6 @@ import io.github.ryanhoo.firFlight.ui.setting.SettingsActivity;
  */
 public class ProfileFragment extends BaseFragment implements ProfileContract.View {
 
-    @Bind(R.id.image_view_avatar)
-    ImageView imageView;
-    @Bind(R.id.text_view_user)
-    TextView textViewUser;
-    @Bind(R.id.text_view_email)
-    TextView textViewEmail;
-    @Bind(R.id.text_view_api_token)
-    TextView textViewApiToken;
-    @Bind(R.id.button_refresh)
-    Button buttonRefresh;
 
     ProfileContract.Presenter mPresenter;
     FlightDialog mProgressDialog;
@@ -57,7 +35,7 @@ public class ProfileFragment extends BaseFragment implements ProfileContract.Vie
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setHasOptionsMenu(true);
+        setHasOptionsMenu(false);
     }
 
     @Nullable
@@ -70,14 +48,6 @@ public class ProfileFragment extends BaseFragment implements ProfileContract.Vie
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         ButterKnife.bind(this, view);
-
-        mProgressDialog = FlightDialog.defaultLoadingDialog(getActivity());
-
-        // Init
-        User user = UserSession.getInstance().getUser();
-        Token token = UserSession.getInstance().getToken();
-        updateUserProfile(user);
-        updateApiToken(token);
 
         ProfilePresenter presenter = new ProfilePresenter(this);
         presenter.subscribe();
@@ -96,24 +66,12 @@ public class ProfileFragment extends BaseFragment implements ProfileContract.Vie
 
     // OnClick Events
 
-    @OnClick(R.id.text_view_api_token)
-    public void onApiTokenClick(TextView textView) {
-        final CharSequence token = textView.getText();
-
-        ClipboardManager manager = (ClipboardManager) getActivity().getSystemService(Context.CLIPBOARD_SERVICE);
-        manager.setPrimaryClip(ClipData.newPlainText("Api Token", token));
-
-        new FlightToast.Builder(getActivity())
-                .message(getString(R.string.ff_profile_copy_token, token))
-                .show();
-    }
-
     // Menu
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
-        inflater.inflate(R.menu.profile, menu);
+        //inflater.inflate(R.menu.profile, menu);
     }
 
     @Override
@@ -137,14 +95,6 @@ public class ProfileFragment extends BaseFragment implements ProfileContract.Vie
         startActivity(new Intent(getActivity(), AboutActivity.class));
     }
 
-
-    // OnClick Events
-
-    @OnClick(R.id.button_refresh)
-    public void onRefreshApiToken() {
-        mPresenter.refreshApiToken();
-    }
-
     // MVP View
 
     @Override
@@ -158,12 +108,10 @@ public class ProfileFragment extends BaseFragment implements ProfileContract.Vie
     @Override
     public void onRefreshApiTokenStart() {
         mProgressDialog.show();
-        buttonRefresh.setEnabled(false);
     }
 
     @Override
     public void onRefreshApiTokenCompleted() {
         mProgressDialog.dismiss();
-        buttonRefresh.setEnabled(true);
     }
 }

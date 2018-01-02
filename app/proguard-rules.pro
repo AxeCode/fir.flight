@@ -118,3 +118,9 @@
 -keep class org.mozilla.javascript.v8dtoa.** { *; }
 -keep class org.mozilla.javascript.xml.** { *; }
 -keep class org.mozilla.javascript.xmlimpl.** { *; }
+
+-keep class io.github.ryanhoo.firFlight.data.model.** { *; }
+
+-dontwarn com.tencent.bugly.**
+-keep public class com.tencent.bugly.**{*;}
+-keep class android.support.**{*;}

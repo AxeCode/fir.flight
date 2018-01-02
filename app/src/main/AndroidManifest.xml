@@ -15,6 +15,8 @@
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
+    <uses-permission android:name="android.permission.READ_LOGS" />
+
     <application
         android:name=".FlightApplication"
         android:allowBackup="true"
@@ -69,6 +71,21 @@
             android:label="@string/ff.acknowledgements"
             android:screenOrientation="portrait" />
 
+        <activity
+            android:name="com.tencent.bugly.beta.ui.BetaActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|locale"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.fileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"/>
+        </provider>
+
         <receiver android:name=".receiver.SystemPackageReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.PACKAGE_ADDED" />
@@ -83,9 +100,10 @@
             android:name="io.github.ryanhoo.firFlight.GlideConfiguration"
             android:value="GlideModule" />
 
-        <!--<meta-data-->
-        <!--android:name="io.fabric.ApiKey"-->
-        <!--android:value="${fabricApiKey}" />-->
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="2d252ad2430c0ccf0b8f536e92a7a13122bb17d7"
+            />
 
         <meta-data
             android:name="FLIGHT_FLAVOR_NAME"
