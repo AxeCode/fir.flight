@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
     <cn.jzvd.JZVideoPlayerStandard
-        android:id="@+id/videoplayer"
+        android:id="@+id/video_player"
         android:layout_width="match_parent"
-        android:layout_height="200dp" />
+        android:layout_height="200dp"/>
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_below="@id/video_player"
         android:clipToPadding="false"
         android:paddingBottom="@dimen/ff.padding.large"
         android:paddingTop="@dimen/ff.padding.large"
         android:scrollbars="vertical"
-        tools:listitem="@layout/item_app" />
+        tools:listitem="@layout/item_app"/>
 
 </RelativeLayout>
