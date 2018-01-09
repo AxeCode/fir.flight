@@ -1,0 +1,601 @@
+{
+  "id": "586d23485f07127674135dd7",
+  "name": "考研概率论",
+  "logo": "http://img.wanmen.org/images/3750be2a-4d6c-456b-b766-14f1006f94cd.png",
+  "order": 25,
+  "price": 588,
+  "promotion": null,
+  "description": "备考数学不一定是煎熬和虐心，当数学解题进行到不知所措的时候，要学会“制造浪漫” 转化为熟悉的套路，这一次，考研概率统计特训班全力助攻，彻底碾压！你会在考场上欣喜发现 “都是熟悉的面庞，都是熟悉的身影”",
+  "shortDescription": "备考数学不一定是煎熬和虐心，当数学解题进行到不知所措的时候，要学会“制造浪漫” 转化为熟悉的套路，这一次，考研概率统计特训班全力助攻，彻底碾压！你会在考场上欣喜发现 “都是熟悉的面庞，都是熟悉的身影”",
+  "hide": false,
+  "major": "5a4307270b61756f4d2c44e9",
+  "teacherName": "童哲",
+  "teacherAvatar": "http://imgs.wanmen.org/8d03f67441f1c4f8c20fc95c583ec1ff.png",
+  "teacherDescription": "童哲，万门大学校长。高中以物理竞赛福建省第一名成绩保送北京大学物理学院，大三暑假考上法国巴黎高等师范学校，留法攻读物理。获得巴黎高师本科+巴黎高师硕士M1学位后回国创建了万门大学。对数学和物理有着极大的热忱和独特的见解。",
+  "numOfClasses": 2,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/e77d0ea89903913730466feb6adb3524.png",
+  "bigImageUrl": "http://imgs.wanmen.org/6e70e6f01b4f6a93320d62714c043fd5.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/6b0a3666-f7dd-4e55-b76c-5dd650328a0d.png",
+  "smallHomeImageUrl": null,
+  "tag": "童哲 大学 考研 概率论 数学 ",
+  "isPresell": null,
+  "liked": 4,
+  "createdAt": "2016-11-25T02:29:01.000Z",
+  "updatedAt": "2018-01-02T09:21:06.210Z",
+  "homeSmallImage": "http://img.wanmen.org/images/bc8452b9-7a01-43d2-ad5f-8e276592a0a1.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/6b0a3666-f7dd-4e55-b76c-5dd650328a0d.png",
+  "bigImage": "http://imgs.wanmen.org/6e70e6f01b4f6a93320d62714c043fd5.png",
+  "smallImage": "http://imgs.wanmen.org/e77d0ea89903913730466feb6adb3524.png",
+  "bookId": [],
+  "teacher": {
+    "name": "童哲",
+    "description": "童哲，万门大学校长。高中以物理竞赛福建省第一名成绩保送北京大学物理学院，大三暑假考上法国巴黎高等师范学校，留法攻读物理。获得巴黎高师本科+巴黎高师硕士M1学位后回国创建了万门大学。对数学和物理有着极大的热忱和独特的见解。",
+    "avatar": "http://imgs.wanmen.org/8d03f67441f1c4f8c20fc95c583ec1ff.png",
+    "id": "586d235d5f0712767415bb41"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 36,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 12,
+  "app": "uni",
+  "numberOfClasses": 2,
+  "mobileCoverUrl": "http://imgs.wanmen.org/e77d0ea89903913730466feb6adb3524.png",
+  "coverUrl": "http://imgs.wanmen.org/6e70e6f01b4f6a93320d62714c043fd5.png",
+  "lectures": [{
+    "courseId": "586d23485f07127674135dd7",
+    "name": "考研概率统计 课程介绍",
+    "createdAt": "2017-03-04T22:02:44.937Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-08-02T05:03:50.872Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb398f8d3ac6dc9b13cbc7",
+    "children": [{
+      "courseId": "586d23485f07127674135dd7",
+      "name": "考研概率统计 课程介绍",
+      "parentId": "58bb398f8d3ac6dc9b13cbc7",
+      "createdAt": "2017-03-04T22:02:58.698Z",
+      "order": 1,
+      "updatedAt": "2017-08-02T05:03:56.398Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5911711b0eded33c7624e591a8206b03_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/5911711b0eded33c7624e591a8206b03_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/5911711b0eded33c7624e591a8206b03_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/5911711b0eded33c7624e591a8206b03_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/5911711b0eded33c7624e591a8206b03_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "58bb39968d3ac6dc9b13cbc8"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135dd7",
+    "name": "考研概率统计1",
+    "createdAt": "2017-03-04T22:01:44.084Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-10-25T01:13:34.297Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb39498d3ac6dc9b13cbb1",
+    "children": [{
+      "courseId": "586d23485f07127674135dd7",
+      "name": "概率密度",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:01:52.251Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:52:50.352Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_mobile_mid.m3u8"
+        },
+        "id": "598a6ce351f0744b09d589df"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/40e4978b-edca-41f4-85a8-9688492541c5_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58bb39558d3ac6dc9b13cbb2"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "Py(Y)的概率密度运算",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:01:57.177Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:52:56.001Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8ff602a7-de4c-4fe2-8a2a-60d358c6bf3b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8ff602a7-de4c-4fe2-8a2a-60d358c6bf3b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8ff602a7-de4c-4fe2-8a2a-60d358c6bf3b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8ff602a7-de4c-4fe2-8a2a-60d358c6bf3b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8ff602a7-de4c-4fe2-8a2a-60d358c6bf3b_mobile_mid.m3u8"
+        },
+        "id": "598a6f0551f0744b127f8677"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39568d3ac6dc9b13cbb3"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "指数分布",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:01.525Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:53:00.807Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6c428313-a219-41d2-b93c-8ca58fdf64ca_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6c428313-a219-41d2-b93c-8ca58fdf64ca_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6c428313-a219-41d2-b93c-8ca58fdf64ca_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6c428313-a219-41d2-b93c-8ca58fdf64ca_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6c428313-a219-41d2-b93c-8ca58fdf64ca_mobile_mid.m3u8"
+        },
+        "id": "598a6ee651f0744b7dbf1cb2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb395b8d3ac6dc9b13cbb4"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "二项分布与泊松分布",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:03.026Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T02:53:05.622Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/243d569f-2663-4487-b7bf-63dab1d70e1b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/243d569f-2663-4487-b7bf-63dab1d70e1b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/243d569f-2663-4487-b7bf-63dab1d70e1b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/243d569f-2663-4487-b7bf-63dab1d70e1b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/243d569f-2663-4487-b7bf-63dab1d70e1b_mobile_mid.m3u8"
+        },
+        "id": "598aaac251f0744b7694213f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb395c8d3ac6dc9b13cbb5"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "泊松定理的推导及例题",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:04.324Z",
+      "order": 5,
+      "updatedAt": "2017-12-22T02:53:10.896Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fe5b2efb-8fd4-4803-8dff-5c52969c896c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fe5b2efb-8fd4-4803-8dff-5c52969c896c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fe5b2efb-8fd4-4803-8dff-5c52969c896c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fe5b2efb-8fd4-4803-8dff-5c52969c896c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fe5b2efb-8fd4-4803-8dff-5c52969c896c_mobile_mid.m3u8"
+        },
+        "id": "598a703151f0744b09d589e0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb395d8d3ac6dc9b13cbb6"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "多随机变量",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:05.587Z",
+      "order": 6,
+      "updatedAt": "2017-12-22T02:53:15.129Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/01987227-acf8-41bd-ac6c-3b86321434ef_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/01987227-acf8-41bd-ac6c-3b86321434ef_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/01987227-acf8-41bd-ac6c-3b86321434ef_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/01987227-acf8-41bd-ac6c-3b86321434ef_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/01987227-acf8-41bd-ac6c-3b86321434ef_mobile_mid.m3u8"
+        },
+        "id": "598a70aeef23a80d3835ccee"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb395f8d3ac6dc9b13cbb7"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "ρ的公式推导",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:07.043Z",
+      "order": 7,
+      "updatedAt": "2017-12-22T02:53:18.965Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/44e884e4-8448-4688-ab78-aeb09c1a4a0e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/44e884e4-8448-4688-ab78-aeb09c1a4a0e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/44e884e4-8448-4688-ab78-aeb09c1a4a0e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/44e884e4-8448-4688-ab78-aeb09c1a4a0e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/44e884e4-8448-4688-ab78-aeb09c1a4a0e_mobile_mid.m3u8"
+        },
+        "id": "598a9e48d5ff75138a2b5517"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39608d3ac6dc9b13cbb8"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "中心极限定理",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:08.479Z",
+      "order": 8,
+      "updatedAt": "2017-12-22T02:53:23.630Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/521d1a3e-b34f-4b41-8602-7f69ad456aa9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/521d1a3e-b34f-4b41-8602-7f69ad456aa9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/521d1a3e-b34f-4b41-8602-7f69ad456aa9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/521d1a3e-b34f-4b41-8602-7f69ad456aa9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/521d1a3e-b34f-4b41-8602-7f69ad456aa9_mobile_mid.m3u8"
+        },
+        "id": "598aac70d5ff7513ad66092f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39658d3ac6dc9b13cbb9"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "证明两个正态分布的和还是正态分布",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:13.674Z",
+      "order": 9,
+      "updatedAt": "2017-12-22T02:53:28.373Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c1520d73-c2e9-47e0-bb36-b9a46ecf7fb8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c1520d73-c2e9-47e0-bb36-b9a46ecf7fb8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c1520d73-c2e9-47e0-bb36-b9a46ecf7fb8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c1520d73-c2e9-47e0-bb36-b9a46ecf7fb8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c1520d73-c2e9-47e0-bb36-b9a46ecf7fb8_mobile_mid.m3u8"
+        },
+        "id": "598a726751f0744b70df3e40"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39678d3ac6dc9b13cbba"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "考研概率统计1-10",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:15.038Z",
+      "order": 10,
+      "updatedAt": "2017-12-22T02:53:50.159Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7bd0c9ff-e3a0-4d7e-88ef-f4d96e280c68_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7bd0c9ff-e3a0-4d7e-88ef-f4d96e280c68_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7bd0c9ff-e3a0-4d7e-88ef-f4d96e280c68_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7bd0c9ff-e3a0-4d7e-88ef-f4d96e280c68_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7bd0c9ff-e3a0-4d7e-88ef-f4d96e280c68_mobile_mid.m3u8"
+        },
+        "id": "598a9c78ef23a82ffaa0c529"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39688d3ac6dc9b13cbbb"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "大量事件中的概率性质",
+      "parentId": "58bb39498d3ac6dc9b13cbb1",
+      "createdAt": "2017-03-04T22:02:16.442Z",
+      "order": 11,
+      "updatedAt": "2017-12-22T02:53:54.718Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/09d1f4c0-3346-4134-a5a3-66a9869b1abc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/09d1f4c0-3346-4134-a5a3-66a9869b1abc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/09d1f4c0-3346-4134-a5a3-66a9869b1abc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/09d1f4c0-3346-4134-a5a3-66a9869b1abc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/09d1f4c0-3346-4134-a5a3-66a9869b1abc_mobile_mid.m3u8"
+        },
+        "id": "598a7dbeef23a8052253c75a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39698d3ac6dc9b13cbbc"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135dd7",
+    "name": "考研概率统计2",
+    "createdAt": "2017-03-04T22:02:17.796Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-10-25T01:13:30.519Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb396b8d3ac6dc9b13cbbd",
+    "children": [{
+      "courseId": "586d23485f07127674135dd7",
+      "name": "开方分布-t分布-F分布",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:24.952Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:54:06.907Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8db15f54-ddd7-4378-b4b1-211d471c16d3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8db15f54-ddd7-4378-b4b1-211d471c16d3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8db15f54-ddd7-4378-b4b1-211d471c16d3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8db15f54-ddd7-4378-b4b1-211d471c16d3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8db15f54-ddd7-4378-b4b1-211d471c16d3_mobile_mid.m3u8"
+        },
+        "id": "598a7e1fef23a86cb312197e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39728d3ac6dc9b13cbbe"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "相同概率密度函数例题解析",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:26.335Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:54:10.803Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4b487dcf-074e-431e-aaed-27a307e790b5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4b487dcf-074e-431e-aaed-27a307e790b5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4b487dcf-074e-431e-aaed-27a307e790b5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4b487dcf-074e-431e-aaed-27a307e790b5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4b487dcf-074e-431e-aaed-27a307e790b5_mobile_mid.m3u8"
+        },
+        "id": "598a7eb1ef23a82fd4f5dc56"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39738d3ac6dc9b13cbbf"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "历年真题解析",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:27.772Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:54:21.017Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d24b42b1-37b0-4239-bf37-7fed4721f9c8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d24b42b1-37b0-4239-bf37-7fed4721f9c8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d24b42b1-37b0-4239-bf37-7fed4721f9c8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d24b42b1-37b0-4239-bf37-7fed4721f9c8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d24b42b1-37b0-4239-bf37-7fed4721f9c8_mobile_mid.m3u8"
+        },
+        "id": "598a7fa2ef23a80d3835ccef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39788d3ac6dc9b13cbc0"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "随机变量和概率密度函数",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:32.945Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T02:54:28.163Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/29324aa7-2bc2-4390-8c29-8772d2e56775_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/29324aa7-2bc2-4390-8c29-8772d2e56775_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/29324aa7-2bc2-4390-8c29-8772d2e56775_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/29324aa7-2bc2-4390-8c29-8772d2e56775_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/29324aa7-2bc2-4390-8c29-8772d2e56775_mobile_mid.m3u8"
+        },
+        "id": "598a7fa3ef23a82ffd2354c7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb397d8d3ac6dc9b13cbc1"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "随机变量例题解析",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:37.124Z",
+      "order": 5,
+      "updatedAt": "2017-12-22T02:54:34.471Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ac7a5c50-c0ac-4cc5-bee6-b2d65e64c63c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ac7a5c50-c0ac-4cc5-bee6-b2d65e64c63c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ac7a5c50-c0ac-4cc5-bee6-b2d65e64c63c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ac7a5c50-c0ac-4cc5-bee6-b2d65e64c63c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ac7a5c50-c0ac-4cc5-bee6-b2d65e64c63c_mobile_mid.m3u8"
+        },
+        "id": "598aa7a9ef23a85887e057ef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb397e8d3ac6dc9b13cbc2"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "概率统计例题（99年）",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:38.388Z",
+      "order": 6,
+      "updatedAt": "2017-12-22T02:54:40.837Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0affbf46-e295-4b0b-b51d-fcf46fe1e574_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0affbf46-e295-4b0b-b51d-fcf46fe1e574_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0affbf46-e295-4b0b-b51d-fcf46fe1e574_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0affbf46-e295-4b0b-b51d-fcf46fe1e574_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0affbf46-e295-4b0b-b51d-fcf46fe1e574_mobile_mid.m3u8"
+        },
+        "id": "598a9f1bd5ff751390384575"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb397f8d3ac6dc9b13cbc3"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "二维随机变量联合分布例题解析1",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:39.889Z",
+      "order": 7,
+      "updatedAt": "2017-12-22T02:54:47.571Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ea0b9541-d2d7-456e-b6e3-9eaa467b2496_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ea0b9541-d2d7-456e-b6e3-9eaa467b2496_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ea0b9541-d2d7-456e-b6e3-9eaa467b2496_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ea0b9541-d2d7-456e-b6e3-9eaa467b2496_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ea0b9541-d2d7-456e-b6e3-9eaa467b2496_mobile_mid.m3u8"
+        },
+        "id": "598a9e2151f0744b7dbf1cb3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39818d3ac6dc9b13cbc4"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "二维随机变量联合分布例题解析2",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:41.234Z",
+      "order": 8,
+      "updatedAt": "2017-12-22T02:54:51.777Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/85b51436-366c-440e-ac91-5d22b3b6de92_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/85b51436-366c-440e-ac91-5d22b3b6de92_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/85b51436-366c-440e-ac91-5d22b3b6de92_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/85b51436-366c-440e-ac91-5d22b3b6de92_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/85b51436-366c-440e-ac91-5d22b3b6de92_mobile_mid.m3u8"
+        },
+        "id": "598a9ec251f0744b1ec89237"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39828d3ac6dc9b13cbc5"
+    }, {
+      "courseId": "586d23485f07127674135dd7",
+      "name": "概率统计例题（04、03年）",
+      "parentId": "58bb396b8d3ac6dc9b13cbbd",
+      "createdAt": "2017-03-04T22:02:42.582Z",
+      "order": 9,
+      "updatedAt": "2017-12-22T02:55:14.181Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ea9585a9-4a30-4ccc-b586-706da288bce4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ea9585a9-4a30-4ccc-b586-706da288bce4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ea9585a9-4a30-4ccc-b586-706da288bce4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ea9585a9-4a30-4ccc-b586-706da288bce4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ea9585a9-4a30-4ccc-b586-706da288bce4_mobile_mid.m3u8"
+        },
+        "id": "598a9eeaef23a83055f06511"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb39848d3ac6dc9b13cbc6"
+    }]
+  }],
+  "hasTopic": false
+}

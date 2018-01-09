@@ -1,0 +1,735 @@
+{
+  "id": "586d23485f07127674135dd2",
+  "name": "考研英语基础班",
+  "logo": "http://img.wanmen.org/images/89186f26-6cbf-4b5d-a70b-652850ee736c.png",
+  "order": 20,
+  "price": 328,
+  "promotion": null,
+  "description": "基础阶段重点讲解词汇和语法，强化阶段重点讲解完形填空、阅读、写作和翻译答题技巧，冲刺阶段精讲近年真题。循序渐进，冲刺高分。三个阶段环环相扣，拯救考研小鲜肉！",
+  "shortDescription": "三个阶段环环相扣，拯救考研小鲜肉！",
+  "hide": false,
+  "major": "5a4307168c7e4d6f4ef7968e",
+  "teacherName": "汤洁",
+  "teacherAvatar": "http://imgs.wanmen.org/7b59ab18185fc56ec6b763b007cb0a26.png",
+  "teacherDescription": "汤洁，北京大学翻译硕士在读。雅思8分，听力满分9分。专业英语八级，全国翻译专业资格水平二级（笔译），上海市外语口译证书高级。曾获2013年全国大学生英语竞赛B类特等奖。拥有多年英语大小班教学经验。曾在万门大学教授过英语类课程，视频观看次数超过80万次。",
+  "numOfClasses": 12,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/d458be3b623b77673373b8792a17d136.png",
+  "bigImageUrl": "http://imgs.wanmen.org/273856c3ed7df7a99b23c96457a0b50a.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/e857f8b2-01c0-44e7-99ee-eafe9e81d391.png",
+  "smallHomeImageUrl": null,
+  "tag": "汤洁 大学 考研 英语 基础 班 ",
+  "isPresell": null,
+  "liked": 7,
+  "createdAt": "2016-11-07T07:49:41.000Z",
+  "updatedAt": "2018-01-02T09:24:28.700Z",
+  "homeSmallImage": "http://img.wanmen.org/images/48d08308-7622-4df5-82b7-7dffcae7b997.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/e857f8b2-01c0-44e7-99ee-eafe9e81d391.png",
+  "bigImage": "http://imgs.wanmen.org/273856c3ed7df7a99b23c96457a0b50a.png",
+  "smallImage": "http://imgs.wanmen.org/d458be3b623b77673373b8792a17d136.png",
+  "bookId": [],
+  "teacher": {
+    "name": "汤洁",
+    "description": "汤洁，北京大学翻译硕士在读。雅思8分，听力满分9分。专业英语八级，全国翻译专业资格水平二级（笔译），上海市外语口译证书高级。曾获2013年全国大学生英语竞赛B类特等奖。拥有多年英语大小班教学经验。曾在万门大学教授过英语类课程，视频观看次数超过80万次。",
+    "avatar": "http://imgs.wanmen.org/7b59ab18185fc56ec6b763b007cb0a26.png",
+    "id": "586d236d5f071276741ba963"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 35,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 20,
+  "app": "uni",
+  "numberOfClasses": 12,
+  "mobileCoverUrl": "http://imgs.wanmen.org/d458be3b623b77673373b8792a17d136.png",
+  "coverUrl": "http://imgs.wanmen.org/273856c3ed7df7a99b23c96457a0b50a.png",
+  "lectures": [{
+    "createdAt": "2017-02-21T17:38:41.586Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 1,
+    "name": "词汇（一）",
+    "updatedAt": "2018-01-05T06:56:29.577Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9b5",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:41.589Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9b5",
+      "order": 1,
+      "name": "词汇",
+      "updatedAt": "2017-12-22T03:40:54.352Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/80e386c3-e2f6-4818-8bd5-20b4b163f889_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/80e386c3-e2f6-4818-8bd5-20b4b163f889_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/80e386c3-e2f6-4818-8bd5-20b4b163f889_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/80e386c3-e2f6-4818-8bd5-20b4b163f889_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/80e386c3-e2f6-4818-8bd5-20b4b163f889_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a9e9"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.591Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9b5",
+      "order": 2,
+      "name": "lead",
+      "updatedAt": "2017-12-22T03:41:00.131Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/33e1b6e1-e51e-48d4-a84d-603986ff5506_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/33e1b6e1-e51e-48d4-a84d-603986ff5506_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/33e1b6e1-e51e-48d4-a84d-603986ff5506_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/33e1b6e1-e51e-48d4-a84d-603986ff5506_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/33e1b6e1-e51e-48d4-a84d-603986ff5506_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a9ea"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.594Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9b5",
+      "order": 3,
+      "name": "leader leadership leading",
+      "updatedAt": "2017-12-22T03:41:06.004Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5fc4215b-bd91-449d-9b10-1127b518ccb9_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/5fc4215b-bd91-449d-9b10-1127b518ccb9_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/5fc4215b-bd91-449d-9b10-1127b518ccb9_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/5fc4215b-bd91-449d-9b10-1127b518ccb9_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/5fc4215b-bd91-449d-9b10-1127b518ccb9_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415aa6b"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.596Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9b5",
+      "order": 4,
+      "name": "mislead plead account",
+      "updatedAt": "2017-12-22T03:41:10.625Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/63ac22de-9415-4531-b15d-7c0e27e3161a_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/63ac22de-9415-4531-b15d-7c0e27e3161a_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/63ac22de-9415-4531-b15d-7c0e27e3161a_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/63ac22de-9415-4531-b15d-7c0e27e3161a_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/63ac22de-9415-4531-b15d-7c0e27e3161a_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415aa6c"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:41.657Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 2,
+    "name": "词汇（二）",
+    "updatedAt": "2018-01-05T06:56:57.211Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9b9",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:41.659Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9b9",
+      "order": 1,
+      "name": "account explanation consumer consumption",
+      "updatedAt": "2017-12-22T03:41:17.610Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a9ef"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.661Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9b9",
+      "order": 2,
+      "name": "client hold household holder shareholer stakeholder cling withstand state",
+      "updatedAt": "2017-12-22T03:41:22.040Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a9f0"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.664Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9b9",
+      "order": 3,
+      "name": "statement overstate statistical devastating workstation status assert",
+      "updatedAt": "2017-12-22T03:41:26.099Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa6d"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:41.730Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 3,
+    "name": "词汇（三）",
+    "updatedAt": "2018-01-05T06:57:07.534Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9dd",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:41.733Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9dd",
+      "order": 1,
+      "name": "mean meaningfully meanwhile implication live alive ",
+      "updatedAt": "2017-12-22T03:41:32.081Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa6e"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.735Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9dd",
+      "order": 2,
+      "name": "deliver outlive federal federation mark marked ",
+      "updatedAt": "2017-12-22T03:41:38.970Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa6f"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.738Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9dd",
+      "order": 3,
+      "name": "market marketer symtematically regime stress ",
+      "updatedAt": "2017-12-22T03:41:43.907Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa70"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.740Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9dd",
+      "order": 4,
+      "name": "peer issue tissue disclaim acclaim allege ",
+      "updatedAt": "2017-12-22T03:41:48.783Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa71"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:41.807Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 4,
+    "name": "词汇（四）",
+    "updatedAt": "2018-01-05T06:57:15.285Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9de",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:41.809Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9de",
+      "order": 1,
+      "name": "line hardline underline decline online deadline outline lineage ",
+      "updatedAt": "2017-12-22T03:41:55.533Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa72"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.812Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9de",
+      "order": 2,
+      "name": "interview review perspective consider reconsider ",
+      "updatedAt": "2017-12-22T03:42:02.421Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa73"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.814Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9de",
+      "order": 3,
+      "name": "considerable considering concern concerned ",
+      "updatedAt": "2017-12-22T03:46:48.064Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa74"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:41.879Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 5,
+    "name": "词汇（五）",
+    "updatedAt": "2018-01-05T06:57:25.287Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9df",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:41.881Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9df",
+      "order": 1,
+      "name": "emerge surface originate appear content ",
+      "updatedAt": "2017-12-22T03:46:55.543Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa75"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.884Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9df",
+      "order": 2,
+      "name": "contention involve involvement revolve ",
+      "updatedAt": "2017-12-22T03:46:59.982Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa76"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.887Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9df",
+      "order": 3,
+      "name": "engage press express expression ",
+      "updatedAt": "2017-12-22T03:47:05.032Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa77"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:41.956Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 6,
+    "name": "词汇（六）",
+    "updatedAt": "2018-01-05T06:58:00.965Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9e0",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:41.959Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9e0",
+      "order": 1,
+      "name": "impressive depression position posture composition ",
+      "updatedAt": "2017-12-22T03:47:11.540Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa78"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.962Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9e0",
+      "order": 2,
+      "name": "opposition disposition determine clause ",
+      "updatedAt": "2017-12-22T03:47:17.767Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa79"
+    }, {
+      "createdAt": "2017-02-21T17:38:41.964Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9e0",
+      "order": 3,
+      "name": "labor laboratory elaborate collaborate collaboratively primary prime",
+      "updatedAt": "2017-12-22T03:47:22.600Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa7a"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:42.031Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 7,
+    "name": "定语从句（一）",
+    "updatedAt": "2018-01-05T07:00:28.612Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9e4",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:42.033Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9e4",
+      "order": 1,
+      "name": "定语从句 ",
+      "updatedAt": "2017-12-22T03:47:29.313Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa7b"
+    }, {
+      "createdAt": "2017-02-21T17:38:42.036Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9e4",
+      "order": 2,
+      "name": "关系代词which/that/who 关系形容词whose 关系代词what",
+      "updatedAt": "2017-12-22T03:47:33.487Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa7c"
+    }, {
+      "createdAt": "2017-02-21T17:38:42.038Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415b9e4",
+      "order": 3,
+      "name": "关系代词as",
+      "updatedAt": "2017-12-22T03:47:37.684Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac12"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:42.101Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 8,
+    "name": "定语从句（二）",
+    "updatedAt": "2018-01-05T07:00:37.242Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ba10",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:42.103Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba10",
+      "order": 1,
+      "name": "关系代词than 关系副词when",
+      "updatedAt": "2017-12-22T03:49:22.397Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aaf5"
+    }, {
+      "createdAt": "2017-02-21T17:38:42.105Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba10",
+      "order": 2,
+      "name": "关系副词where ",
+      "updatedAt": "2017-12-22T03:49:18.356Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aaf6"
+    }, {
+      "createdAt": "2017-02-21T17:38:42.109Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba10",
+      "order": 3,
+      "name": "特殊关系副词whereby 带有插入语的定语从句",
+      "updatedAt": "2017-12-22T03:49:13.868Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac13"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:42.187Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 9,
+    "name": "状语从句（一）",
+    "updatedAt": "2018-01-05T07:00:59.392Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ba7d",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:42.190Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba7d",
+      "order": 1,
+      "name": "状语从句",
+      "updatedAt": "2017-12-22T03:49:39.756Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac14"
+    }, {
+      "createdAt": "2017-02-21T17:38:42.194Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba7d",
+      "order": 2,
+      "name": "时间状语从句",
+      "updatedAt": "2017-12-22T03:49:34.340Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac15"
+    }, {
+      "createdAt": "2017-02-21T17:38:42.196Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba7d",
+      "order": 3,
+      "name": "地点状语从句 原因状语从句",
+      "updatedAt": "2017-12-22T03:49:29.736Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac16"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:42.278Z",
+    "courseId": "586d23485f07127674135dd2",
+    "order": 10,
+    "name": "状语从句（二）",
+    "updatedAt": "2018-01-05T07:01:05.799Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ba7e",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:42.280Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba7e",
+      "order": 1,
+      "name": "目的状语从句 结果状语从句(1)",
+      "updatedAt": "2017-12-22T03:49:59.996Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac17"
+    }, {
+      "createdAt": "2017-02-21T17:38:42.283Z",
+      "courseId": "586d23485f07127674135dd2",
+      "parentId": "586d23555f0712767415ba7e",
+      "order": 2,
+      "name": "结果状语从句(2)",
+      "updatedAt": "2017-12-22T03:49:55.731Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac18"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135dd2",
+    "name": "状语从句（三）",
+    "createdAt": "2017-03-04T21:54:26.239Z",
+    "order": 11,
+    "description": null,
+    "updatedAt": "2018-01-05T07:01:12.138Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb37958d3ac6dc9b13cb83",
+    "children": [{
+      "courseId": "586d23485f07127674135dd2",
+      "name": "条件状语从句",
+      "parentId": "58bb37958d3ac6dc9b13cb83",
+      "createdAt": "2017-03-04T21:54:36.544Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T03:50:12.150Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb37a68d3ac6dc9b13cb84"
+    }, {
+      "courseId": "586d23485f07127674135dd2",
+      "name": "让步状语从句(1)",
+      "parentId": "58bb37958d3ac6dc9b13cb83",
+      "createdAt": "2017-03-04T21:54:46.974Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T03:50:07.388Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb37a88d3ac6dc9b13cb85"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135dd2",
+    "name": "状语从句（四）",
+    "createdAt": "2017-03-04T21:54:48.476Z",
+    "order": 12,
+    "description": null,
+    "updatedAt": "2018-01-05T07:01:18.789Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb37af8d3ac6dc9b13cb86",
+    "children": [{
+      "courseId": "586d23485f07127674135dd2",
+      "name": "让步状语从句(2)",
+      "parentId": "58bb37af8d3ac6dc9b13cb86",
+      "createdAt": "2017-03-04T21:55:16.487Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T03:50:38.890Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb37d18d3ac6dc9b13cb87"
+    }, {
+      "courseId": "586d23485f07127674135dd2",
+      "name": "比较状语从句 方式状语从句",
+      "parentId": "58bb37af8d3ac6dc9b13cb86",
+      "createdAt": "2017-03-04T21:55:30.021Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T03:50:20.019Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb37d68d3ac6dc9b13cb88"
+    }]
+  }],
+  "hasTopic": false
+}

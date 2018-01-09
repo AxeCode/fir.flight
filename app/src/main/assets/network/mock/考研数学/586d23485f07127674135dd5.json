@@ -1,0 +1,497 @@
+{
+  "id": "586d23485f07127674135dd5",
+  "name": "考研高等数学",
+  "logo": "http://img.wanmen.org/images/2d589530-c859-48d5-ba51-7ecf52b13e70.png",
+  "order": 23,
+  "price": 588,
+  "promotion": null,
+  "description": "备考数学不一定是煎熬和虐心，当数学解题进行到不知所措的时候，要学会“制造浪漫”  转化为熟悉的套路，这一次，考研高等数学全力助攻，彻底碾压！你会在考场上欣喜发现  “都是熟悉的面庞，都是熟悉的身影”",
+  "shortDescription": "备考数学不一定是煎熬和虐心，当数学解题进行到不知所措的时候，要学会“制造浪漫”  转化为熟悉的套路，这一次，考研高等数学全力助攻，彻底碾压！你会在考场上欣喜发现  “都是熟悉的面庞，都是熟悉的身影”",
+  "hide": false,
+  "major": "5a4307270b61756f4d2c44e9",
+  "teacherName": "童哲",
+  "teacherAvatar": "http://imgs.wanmen.org/8d03f67441f1c4f8c20fc95c583ec1ff.png",
+  "teacherDescription": "童哲，万门大学校长。高中以物理竞赛福建省第一名成绩保送北京大学物理学院，大三暑假考上法国巴黎高等师范学校，留法攻读物理。获得巴黎高师本科+巴黎高师硕士M1学位后回国创建了万门大学。对数学和物理有着极大的热忱和独特的见解。",
+  "numOfClasses": 4,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/5228d0f568c2c3cd08d4f2d0808eb22e.png",
+  "bigImageUrl": "http://imgs.wanmen.org/dff3edfcfaf690f7e237b7d1cc128790.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/b19b6967-eebd-44ea-99df-719fd8051395.png",
+  "smallHomeImageUrl": null,
+  "tag": "童哲 大学 考研 数学 高数",
+  "isPresell": null,
+  "liked": 6,
+  "createdAt": "2016-11-18T01:56:20.000Z",
+  "updatedAt": "2018-01-02T09:21:45.592Z",
+  "homeSmallImage": "http://img.wanmen.org/images/5f05d8c5-5414-4ce9-8a77-81b92d2517ab.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/b19b6967-eebd-44ea-99df-719fd8051395.png",
+  "bigImage": "http://imgs.wanmen.org/dff3edfcfaf690f7e237b7d1cc128790.png",
+  "smallImage": "http://imgs.wanmen.org/5228d0f568c2c3cd08d4f2d0808eb22e.png",
+  "bookId": [],
+  "teacher": {
+    "name": "童哲",
+    "description": "童哲，万门大学校长。高中以物理竞赛福建省第一名成绩保送北京大学物理学院，大三暑假考上法国巴黎高等师范学校，留法攻读物理。获得巴黎高师本科+巴黎高师硕士M1学位后回国创建了万门大学。对数学和物理有着极大的热忱和独特的见解。",
+    "avatar": "http://imgs.wanmen.org/8d03f67441f1c4f8c20fc95c583ec1ff.png",
+    "id": "586d235d5f0712767415bb41"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 24,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 23,
+  "app": "uni",
+  "numberOfClasses": 4,
+  "mobileCoverUrl": "http://imgs.wanmen.org/5228d0f568c2c3cd08d4f2d0808eb22e.png",
+  "coverUrl": "http://imgs.wanmen.org/dff3edfcfaf690f7e237b7d1cc128790.png",
+  "lectures": [{
+    "createdAt": "2017-02-21T17:38:44.278Z",
+    "courseId": "586d23485f07127674135dd5",
+    "order": 1,
+    "name": "万门大学app宣传片",
+    "updatedAt": "2017-05-27T08:56:48.797Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415baa6",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:44.281Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415baa6",
+      "order": 1,
+      "name": "万门大学app宣传片1",
+      "updatedAt": "2017-08-02T03:23:40.061Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_mobile_mid.m3u8"
+        },
+        "id": "59252596ef23a8303956a200"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/d204c0b8-083e-4b07-96ef-6ba91467fad1_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ac6e"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:43.999Z",
+    "courseId": "586d23485f07127674135dd5",
+    "order": 2,
+    "name": "考研高数1",
+    "updatedAt": "2017-05-27T08:57:03.916Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9cc",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:44.007Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cc",
+      "order": 1,
+      "name": "高数知识框架梳理1",
+      "updatedAt": "2017-12-22T03:23:00.983Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7b330487-eacb-4018-b1f5-495205f7b941_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/7b330487-eacb-4018-b1f5-495205f7b941_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/7b330487-eacb-4018-b1f5-495205f7b941_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/7b330487-eacb-4018-b1f5-495205f7b941_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/7b330487-eacb-4018-b1f5-495205f7b941_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415aa4d"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.010Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cc",
+      "order": 2,
+      "name": "高数知识框架梳理2",
+      "updatedAt": "2017-12-22T03:23:05.852Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e9eb0924-b870-4268-8fd4-6b68da980525_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/e9eb0924-b870-4268-8fd4-6b68da980525_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/e9eb0924-b870-4268-8fd4-6b68da980525_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/e9eb0924-b870-4268-8fd4-6b68da980525_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/e9eb0924-b870-4268-8fd4-6b68da980525_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415aa4e"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.013Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cc",
+      "order": 3,
+      "name": "函数1",
+      "updatedAt": "2017-12-22T03:23:10.225Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/283aa486-3661-4cf9-a7db-97b6393a8159_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/283aa486-3661-4cf9-a7db-97b6393a8159_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/283aa486-3661-4cf9-a7db-97b6393a8159_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/283aa486-3661-4cf9-a7db-97b6393a8159_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/283aa486-3661-4cf9-a7db-97b6393a8159_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415aa4f"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.015Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cc",
+      "order": 4,
+      "name": "函数2",
+      "updatedAt": "2017-12-22T03:23:15.362Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/aad1c9f7-f059-474e-b520-8fe02765409b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/aad1c9f7-f059-474e-b520-8fe02765409b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/aad1c9f7-f059-474e-b520-8fe02765409b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/aad1c9f7-f059-474e-b520-8fe02765409b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/aad1c9f7-f059-474e-b520-8fe02765409b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ab13"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.018Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cc",
+      "order": 5,
+      "name": "极限",
+      "updatedAt": "2017-12-22T03:23:19.905Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ab35bb99-40f7-4090-b85f-ae70f6a6e150_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/ab35bb99-40f7-4090-b85f-ae70f6a6e150_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/ab35bb99-40f7-4090-b85f-ae70f6a6e150_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/ab35bb99-40f7-4090-b85f-ae70f6a6e150_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/ab35bb99-40f7-4090-b85f-ae70f6a6e150_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ab14"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.021Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cc",
+      "order": 6,
+      "name": "极限的运算1",
+      "updatedAt": "2017-12-22T03:23:26.408Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/08554d8e-542e-412d-8288-a6e8a7f02100_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/08554d8e-542e-412d-8288-a6e8a7f02100_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/08554d8e-542e-412d-8288-a6e8a7f02100_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/08554d8e-542e-412d-8288-a6e8a7f02100_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/08554d8e-542e-412d-8288-a6e8a7f02100_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ab15"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:44.193Z",
+    "courseId": "586d23485f07127674135dd5",
+    "order": 3,
+    "name": "考研高数2",
+    "updatedAt": "2017-05-27T08:57:05.250Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ba8c",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:44.196Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415ba8c",
+      "order": 1,
+      "name": "极限的运算2",
+      "updatedAt": "2017-12-22T03:23:34.995Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac31"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.199Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415ba8c",
+      "order": 2,
+      "name": "极限的运算3",
+      "updatedAt": "2017-12-22T03:23:39.573Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac32"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.202Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415ba8c",
+      "order": 3,
+      "name": "导数",
+      "updatedAt": "2017-12-22T03:23:43.746Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac33"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.204Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415ba8c",
+      "order": 4,
+      "name": "导数的运算",
+      "updatedAt": "2017-12-22T03:23:48.770Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac34"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.206Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415ba8c",
+      "order": 5,
+      "name": "常见函数与反函数求导",
+      "updatedAt": "2017-12-22T03:23:53.299Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac35"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.209Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415ba8c",
+      "order": 6,
+      "name": "极值",
+      "updatedAt": "2017-12-22T03:23:58.258Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ac36"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:44.089Z",
+    "courseId": "586d23485f07127674135dd5",
+    "order": 4,
+    "name": "考研高数3",
+    "updatedAt": "2017-05-27T08:57:08.741Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b9cd",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:44.092Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 1,
+      "name": "中值定理",
+      "updatedAt": "2017-12-22T03:24:06.749Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa50"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.095Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 2,
+      "name": "洛必达法则及其推论",
+      "updatedAt": "2017-12-22T03:24:10.699Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa51"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.098Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 3,
+      "name": "泰勒展开",
+      "updatedAt": "2017-12-22T03:24:14.693Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415aa52"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.101Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 4,
+      "name": "泰勒展开应用",
+      "updatedAt": "2017-12-22T03:24:18.831Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab16"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.103Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 5,
+      "name": "单元积分",
+      "updatedAt": "2017-12-22T03:24:23.625Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab17"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.107Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 6,
+      "name": "积分运算",
+      "updatedAt": "2017-12-22T03:24:28.306Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab18"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.110Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 7,
+      "name": "对参数求导",
+      "updatedAt": "2017-12-22T03:24:34.062Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab19"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.113Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 8,
+      "name": "分部积分",
+      "updatedAt": "2017-12-22T03:24:38.606Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab1a"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.116Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 9,
+      "name": "多重积分",
+      "updatedAt": "2017-12-22T03:24:44.151Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab1b"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.118Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 10,
+      "name": "正态分布积分",
+      "updatedAt": "2017-12-22T03:24:53.575Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab1c"
+    }, {
+      "createdAt": "2017-02-21T17:38:44.121Z",
+      "courseId": "586d23485f07127674135dd5",
+      "parentId": "586d23555f0712767415b9cd",
+      "order": 11,
+      "name": "无穷级数",
+      "updatedAt": "2017-12-22T03:25:00.125Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ab1d"
+    }]
+  }],
+  "hasTopic": false
+}

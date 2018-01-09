@@ -1,0 +1,580 @@
+{
+  "id": "586d23485f07127674135df4",
+  "name": "考研英语冲刺班",
+  "logo": "http://img.wanmen.org/images/a9e67069-216e-4b79-b781-107189f75fae.png",
+  "order": 49,
+  "price": 448,
+  "promotion": null,
+  "description": "挖掘考点重中之重 重点难点再次强调 现场多套真题演练 考试技巧全面武装",
+  "shortDescription": "挖掘考点重中之重",
+  "hide": false,
+  "major": "5a4307168c7e4d6f4ef7968e",
+  "teacherName": "汤洁",
+  "teacherAvatar": "http://imgs.wanmen.org/7b59ab18185fc56ec6b763b007cb0a26.png",
+  "teacherDescription": "汤洁，北京大学翻译硕士在读。雅思8分，听力满分9分。专业英语八级，全国翻译专业资格水平二级（笔译），上海市外语口译证书高级。曾获2013年全国大学生英语竞赛B类特等奖。拥有多年英语大小班教学经验。曾在万门大学教授过英语类课程，视频观看次数超过80万次。",
+  "numOfClasses": 6,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/b8cc9dc9e28cb557af55b7f841818db6.png",
+  "bigImageUrl": "http://imgs.wanmen.org/f25dc71434d8139522eda230de6e7919.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/029edf0c-91c7-4eb9-b363-451df61ccb07.png",
+  "smallHomeImageUrl": null,
+  "tag": "汤洁 大学 考研 英语 冲刺班 ",
+  "isPresell": null,
+  "liked": 0,
+  "createdAt": "2016-12-23T13:17:44.000Z",
+  "updatedAt": "2018-01-02T09:11:37.095Z",
+  "homeSmallImage": "http://img.wanmen.org/images/80334d71-a14f-4afd-b4ff-6317bcb72baa.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/029edf0c-91c7-4eb9-b363-451df61ccb07.png",
+  "bigImage": "http://imgs.wanmen.org/f25dc71434d8139522eda230de6e7919.png",
+  "smallImage": "http://imgs.wanmen.org/b8cc9dc9e28cb557af55b7f841818db6.png",
+  "bookId": [],
+  "teacher": {
+    "name": "汤洁",
+    "description": "汤洁，北京大学翻译硕士在读。雅思8分，听力满分9分。专业英语八级，全国翻译专业资格水平二级（笔译），上海市外语口译证书高级。曾获2013年全国大学生英语竞赛B类特等奖。拥有多年英语大小班教学经验。曾在万门大学教授过英语类课程，视频观看次数超过80万次。",
+    "avatar": "http://imgs.wanmen.org/7b59ab18185fc56ec6b763b007cb0a26.png",
+    "id": "586d236d5f071276741ba963"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 17,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 5,
+  "app": "uni",
+  "numberOfClasses": 6,
+  "mobileCoverUrl": "http://imgs.wanmen.org/b8cc9dc9e28cb557af55b7f841818db6.png",
+  "coverUrl": "http://imgs.wanmen.org/f25dc71434d8139522eda230de6e7919.png",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-30T08:35:43.003Z",
+    "updatedAt": "2017-09-30T08:35:43.003Z",
+    "courseId": "586d23485f07127674135df4",
+    "name": "宣传片",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59cf575e97b5b86346de79d0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-30T08:35:51.481Z",
+      "updatedAt": "2017-11-17T07:22:49.999Z",
+      "parentId": "59cf575e97b5b86346de79d0",
+      "courseId": "586d23485f07127674135df4",
+      "name": "宣传片",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a0d8f6c8-719c-4be6-9149-7aa90511bf6c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a0d8f6c8-719c-4be6-9149-7aa90511bf6c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a0d8f6c8-719c-4be6-9149-7aa90511bf6c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a0d8f6c8-719c-4be6-9149-7aa90511bf6c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a0d8f6c8-719c-4be6-9149-7aa90511bf6c_mobile_mid.m3u8"
+        },
+        "id": "5a0e839651f074018221691a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cf5767ac93cf636097e008",
+      "hls": {}
+    }]
+  }, {
+    "courseId": "586d23485f07127674135df4",
+    "name": "2016真题：完形填空、阅读一",
+    "createdAt": "2017-03-05T00:47:50.494Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2018-01-05T07:51:13.165Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb60368d3ac6dc9b13cd19",
+    "children": [{
+      "courseId": "586d23485f07127674135df4",
+      "name": "2016真题解析（完形1-6）",
+      "parentId": "58bb60368d3ac6dc9b13cd19",
+      "createdAt": "2017-03-05T00:47:59.053Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T08:52:11.829Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_mobile_mid.m3u8"
+        },
+        "id": "591e5399ef23a83037f2db11"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/24131a75-24e7-46bc-a535-d450b2df8cc4_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58bb603f8d3ac6dc9b13cd1a"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": "2016真题解析（完形7-20）",
+      "parentId": "58bb60368d3ac6dc9b13cd19",
+      "createdAt": "2017-03-05T00:47:59.139Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T08:52:15.527Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_mobile_mid.m3u8"
+        },
+        "id": "591e5494ef23a82fd4f5dbbb"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/6168faa0-f4f0-4ff1-9983-4d4dd0cf0030_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58bb603f8d3ac6dc9b13cd1b"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": "2016真题解析（阅读第一篇）",
+      "parentId": "58bb60368d3ac6dc9b13cd19",
+      "createdAt": "2017-03-05T00:47:59.602Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T08:52:19.498Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_mobile_mid.m3u8"
+        },
+        "id": "591e56b1d5ff75239a7bad5b"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c3d6af19-74df-47ff-81ad-60843d4bf643_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58bb60408d3ac6dc9b13cd1c"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135df4",
+    "name": "2016真题：阅读、翻译、写作",
+    "createdAt": "2017-03-05T00:48:00.418Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2018-01-05T07:52:36.657Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb60408d3ac6dc9b13cd1d",
+    "children": [{
+      "courseId": "586d23485f07127674135df4",
+      "name": "2016真题解析（阅读第二、三篇）",
+      "parentId": "58bb60408d3ac6dc9b13cd1d",
+      "createdAt": "2017-03-05T00:48:02.046Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T08:52:27.706Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/71232111-f157-4daf-8bde-fcca7c8eb56e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/71232111-f157-4daf-8bde-fcca7c8eb56e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/71232111-f157-4daf-8bde-fcca7c8eb56e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/71232111-f157-4daf-8bde-fcca7c8eb56e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/71232111-f157-4daf-8bde-fcca7c8eb56e_mobile_mid.m3u8"
+        },
+        "id": "591e573fd5ff752353a29ff0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60428d3ac6dc9b13cd1e"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": " 2016真题解析（阅读第四篇、翻译）",
+      "parentId": "58bb60408d3ac6dc9b13cd1d",
+      "createdAt": "2017-03-05T00:48:02.947Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T08:52:31.898Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ad5faf81-d8a0-4c9c-901e-1119ab4d28e2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ad5faf81-d8a0-4c9c-901e-1119ab4d28e2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ad5faf81-d8a0-4c9c-901e-1119ab4d28e2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ad5faf81-d8a0-4c9c-901e-1119ab4d28e2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ad5faf81-d8a0-4c9c-901e-1119ab4d28e2_mobile_mid.m3u8"
+        },
+        "id": "591e57add5ff752381c45c03"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60438d3ac6dc9b13cd1f"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": "2016真题解析（写作）",
+      "parentId": "58bb60408d3ac6dc9b13cd1d",
+      "createdAt": "2017-03-05T00:48:03.392Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T08:52:36.496Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9f83688f-ff8e-4481-be46-c196c6ea1026_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9f83688f-ff8e-4481-be46-c196c6ea1026_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9f83688f-ff8e-4481-be46-c196c6ea1026_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9f83688f-ff8e-4481-be46-c196c6ea1026_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9f83688f-ff8e-4481-be46-c196c6ea1026_mobile_mid.m3u8"
+        },
+        "id": "591e56f6ef23a8303956a1ef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60448d3ac6dc9b13cd20"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135df4",
+    "name": "2015真题：完形填空、阅读",
+    "createdAt": "2017-03-05T00:48:04.493Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2018-01-05T07:51:47.709Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb60458d3ac6dc9b13cd21",
+    "children": [{
+      "courseId": "586d23485f07127674135df4",
+      "name": " 2015真题解析（完形1-14）",
+      "parentId": "58bb60458d3ac6dc9b13cd21",
+      "createdAt": "2017-03-05T00:48:08.360Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T08:52:47.028Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d90135e7-fcaf-4144-a4c9-7fe4f82fe2fd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d90135e7-fcaf-4144-a4c9-7fe4f82fe2fd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d90135e7-fcaf-4144-a4c9-7fe4f82fe2fd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d90135e7-fcaf-4144-a4c9-7fe4f82fe2fd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d90135e7-fcaf-4144-a4c9-7fe4f82fe2fd_mobile_mid.m3u8"
+        },
+        "id": "591e57f6ef23a83038f67c10"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60498d3ac6dc9b13cd23"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": " 2015真题解析（完形15-20、阅读第一篇）",
+      "parentId": "58bb60458d3ac6dc9b13cd21",
+      "createdAt": "2017-03-05T00:48:09.048Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T08:52:50.907Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/37999c70-b310-4582-b702-b1d97fdf2a70_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/37999c70-b310-4582-b702-b1d97fdf2a70_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/37999c70-b310-4582-b702-b1d97fdf2a70_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/37999c70-b310-4582-b702-b1d97fdf2a70_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/37999c70-b310-4582-b702-b1d97fdf2a70_mobile_mid.m3u8"
+        },
+        "id": "591e58c9ef23a82fe208eafe"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60498d3ac6dc9b13cd24"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": " 2015真题解析（阅读第二篇）",
+      "parentId": "58bb60458d3ac6dc9b13cd21",
+      "createdAt": "2017-03-05T00:48:09.617Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T08:52:54.268Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e04c7083-ba82-40b2-bc94-9f079cc669f1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e04c7083-ba82-40b2-bc94-9f079cc669f1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e04c7083-ba82-40b2-bc94-9f079cc669f1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e04c7083-ba82-40b2-bc94-9f079cc669f1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e04c7083-ba82-40b2-bc94-9f079cc669f1_mobile_mid.m3u8"
+        },
+        "id": "591e5934ef23a83038f67c11"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb604a8d3ac6dc9b13cd25"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135df4",
+    "name": "2015真题：阅读、翻译、写作",
+    "createdAt": "2017-03-05T00:48:10.227Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2018-01-05T07:52:42.932Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb604c8d3ac6dc9b13cd26",
+    "children": [{
+      "courseId": "586d23485f07127674135df4",
+      "name": "2015真题解析（阅读第三篇）",
+      "parentId": "58bb604c8d3ac6dc9b13cd26",
+      "createdAt": "2017-03-05T00:48:17.366Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T08:53:01.329Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/531349bb-b1ad-4d3f-94ad-766bfb3553f0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/531349bb-b1ad-4d3f-94ad-766bfb3553f0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/531349bb-b1ad-4d3f-94ad-766bfb3553f0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/531349bb-b1ad-4d3f-94ad-766bfb3553f0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/531349bb-b1ad-4d3f-94ad-766bfb3553f0_mobile_mid.m3u8"
+        },
+        "id": "591e5593d5ff752394a46fa0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60528d3ac6dc9b13cd27"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": "2015真题解析（阅读第四篇、翻译）",
+      "parentId": "58bb604c8d3ac6dc9b13cd26",
+      "createdAt": "2017-03-05T00:48:18.025Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T08:53:05.213Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fb92ff1f-8614-4cdf-a939-d823ebe04342_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fb92ff1f-8614-4cdf-a939-d823ebe04342_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fb92ff1f-8614-4cdf-a939-d823ebe04342_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fb92ff1f-8614-4cdf-a939-d823ebe04342_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fb92ff1f-8614-4cdf-a939-d823ebe04342_mobile_mid.m3u8"
+        },
+        "id": "591e553eef23a82ffd235436"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60538d3ac6dc9b13cd28"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": " 2015真题解析（写作）",
+      "parentId": "58bb604c8d3ac6dc9b13cd26",
+      "createdAt": "2017-03-05T00:48:19.089Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T08:53:08.949Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bce3d6ff-e742-4788-bd73-a2415ab4f576_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bce3d6ff-e742-4788-bd73-a2415ab4f576_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bce3d6ff-e742-4788-bd73-a2415ab4f576_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bce3d6ff-e742-4788-bd73-a2415ab4f576_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bce3d6ff-e742-4788-bd73-a2415ab4f576_mobile_mid.m3u8"
+        },
+        "id": "591e557bef23a82eb67467c0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60538d3ac6dc9b13cd29"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135df4",
+    "name": "2014真题：完形填空、阅读",
+    "createdAt": "2017-03-05T00:48:19.568Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2018-01-05T07:52:54.832Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb60568d3ac6dc9b13cd2a",
+    "children": [{
+      "courseId": "586d23485f07127674135df4",
+      "name": "2014真题解析（完形）",
+      "parentId": "58bb60568d3ac6dc9b13cd2a",
+      "createdAt": "2017-03-05T00:48:24.198Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T08:53:15.565Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f8354e57-f8f7-40c8-a584-55895f0ede6c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f8354e57-f8f7-40c8-a584-55895f0ede6c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f8354e57-f8f7-40c8-a584-55895f0ede6c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f8354e57-f8f7-40c8-a584-55895f0ede6c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f8354e57-f8f7-40c8-a584-55895f0ede6c_mobile_mid.m3u8"
+        },
+        "id": "591e564aef23a82fe81869ec"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60588d3ac6dc9b13cd2b"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": " 2014真题解析（阅读21-35）",
+      "parentId": "58bb60568d3ac6dc9b13cd2a",
+      "createdAt": "2017-03-05T00:48:25.599Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T08:53:19.609Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4e192a88-46e9-492a-b78b-c23e80303d9e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4e192a88-46e9-492a-b78b-c23e80303d9e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4e192a88-46e9-492a-b78b-c23e80303d9e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4e192a88-46e9-492a-b78b-c23e80303d9e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4e192a88-46e9-492a-b78b-c23e80303d9e_mobile_mid.m3u8"
+        },
+        "id": "591e5827d5ff7523a0331285"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb60598d3ac6dc9b13cd2c"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135df4",
+    "name": "2015真题：阅读、翻译、写作",
+    "createdAt": "2017-03-05T00:48:25.931Z",
+    "order": 9,
+    "description": null,
+    "updatedAt": "2018-01-05T07:53:08.214Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb60598d3ac6dc9b13cd2d",
+    "children": [{
+      "courseId": "586d23485f07127674135df4",
+      "name": "2014真题解析（阅读36-45）",
+      "parentId": "58bb60598d3ac6dc9b13cd2d",
+      "createdAt": "2017-03-05T00:48:29.156Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T08:53:25.375Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3648a45d-ba59-4a27-94f4-5fb3aa5af125_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3648a45d-ba59-4a27-94f4-5fb3aa5af125_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3648a45d-ba59-4a27-94f4-5fb3aa5af125_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3648a45d-ba59-4a27-94f4-5fb3aa5af125_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3648a45d-ba59-4a27-94f4-5fb3aa5af125_mobile_mid.m3u8"
+        },
+        "id": "591e58d0d5ff75236719eee5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb605e8d3ac6dc9b13cd2e"
+    }, {
+      "courseId": "586d23485f07127674135df4",
+      "name": " 2014真题解析（翻译、写作）",
+      "parentId": "58bb60598d3ac6dc9b13cd2d",
+      "createdAt": "2017-03-05T00:48:30.337Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T08:53:29.147Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/93991d4f-7058-4fd5-bdde-603440a79af4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/93991d4f-7058-4fd5-bdde-603440a79af4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/93991d4f-7058-4fd5-bdde-603440a79af4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/93991d4f-7058-4fd5-bdde-603440a79af4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/93991d4f-7058-4fd5-bdde-603440a79af4_mobile_mid.m3u8"
+        },
+        "id": "591e5834ef23a82fd4f5dbbc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb605e8d3ac6dc9b13cd2f"
+    }]
+  }],
+  "hasTopic": false
+}

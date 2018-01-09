@@ -1,0 +1,148 @@
+{
+  "id": "59fd62e037beee58559535a1",
+  "createdAt": "2017-11-04T14:49:04.571+08:00",
+  "updatedAt": "2018-01-08T14:34:56.299+08:00",
+  "name": "2018考研（数学）冲刺预测一月特训班",
+  "teacher": {
+    "id": "5a4de5994cfdd91772e02752",
+    "createdAt": "2018-01-04T16:28:09.049+08:00",
+    "updatedAt": "2018-01-04T16:28:09.049+08:00",
+    "name": "仲毅",
+    "avatar": "http://imgs.wanmen.org/b5060fc8243a22526b61bfe80cdc5690.png",
+    "description": "考研数学辅导专家，有多年考研数学（一、二、三）以及MBA、MPA等专业硕士联考数学讲课经验。仲毅老师讲课风格轻松幽默，深受学生的欢迎，上课富于激情，耐心讲解。仲毅老师的目标是通过精炼精准的语言，到位的点拨指导，必备的实战演练，使数学不再成为考生的困扰!\n"
+  },
+  "presentationVideo": {
+    "id": "59ce4661d5ff75136d2008fb",
+    "createdAt": "2017-09-29T21:07:31.666+08:00",
+    "updatedAt": "2017-09-29T21:08:38.788+08:00",
+    "hls": {
+      "pcLow": "http://media.wanmen.org/3bc833ce-309a-48e7-b291-65b55d62c6fc_pc_low.m3u8",
+      "pcMid": "http://media.wanmen.org/3bc833ce-309a-48e7-b291-65b55d62c6fc_pc_mid.m3u8",
+      "pcHigh": "http://media.wanmen.org/3bc833ce-309a-48e7-b291-65b55d62c6fc_pc_high.m3u8",
+      "mobileMid": "http://media.wanmen.org/3bc833ce-309a-48e7-b291-65b55d62c6fc_mobile_mid.m3u8",
+      "mobileLow": "http://media.wanmen.org/3bc833ce-309a-48e7-b291-65b55d62c6fc_mobile_low.m3u8"
+    }
+  },
+  "description": "「2018考研冲刺预测一月特训班」覆盖了考研复习期间的核心知识点，包括：政治、英一、二，数学一、二、三。本课程邀请国内考研培训业一线师资，旨在通过26天的密集学习，为考研学生做最后的冲刺。 做为最后的点睛，对考生的最后阶段提分起到不可替代的促进作用",
+  "schedule": [{
+    "id": "5a4de5f80991a7176de91343",
+    "name": "1.函数、极限、连续 2.一元函数微分学",
+    "status": "pending",
+    "startDate": "2017-10-30T08:00:00+08:00",
+    "startTime": "18:00",
+    "endTime": "21:00"
+  }, {
+    "id": "5a4de5f80991a7176de91342",
+    "name": "3.一元函数积分学",
+    "status": "pending",
+    "startDate": "2017-10-31T08:00:00+08:00",
+    "startTime": "18:00",
+    "endTime": "21:00"
+  }, {
+    "id": "5a4de5f80991a7176de91341",
+    "name": "4.向量代数和空间解析几何 5.多元函数微分学",
+    "status": "pending",
+    "startDate": "2017-11-03T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }, {
+    "id": "5a4de5f80991a7176de91340",
+    "name": "6.多元函数积分学（1）",
+    "status": "pending",
+    "startDate": "2017-11-06T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }, {
+    "id": "5a4de5f80991a7176de9133f",
+    "name": "6.多元函数积分学（2）",
+    "status": "pending",
+    "startDate": "2017-11-07T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }, {
+    "id": "5a4de5f80991a7176de9133e",
+    "name": "7.无穷级数",
+    "status": "pending",
+    "startDate": "2017-11-08T08:00:00+08:00",
+    "startTime": "18:00",
+    "endTime": "21:00"
+  }, {
+    "id": "5a4de5f80991a7176de9133d",
+    "name": "8.常微分方程",
+    "status": "pending",
+    "startDate": "2017-11-10T08:00:00+08:00",
+    "startTime": "18:00",
+    "endTime": "21:00"
+  }, {
+    "id": "5a4de5f80991a7176de9133c",
+    "name": "线性代数：1.行列式 2. 矩阵",
+    "status": "pending",
+    "startDate": "2017-11-14T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }, {
+    "id": "5a4de5f80991a7176de9133b",
+    "name": "3.向量",
+    "status": "pending",
+    "startDate": "2017-11-19T08:00:00+08:00",
+    "startTime": "18:00",
+    "endTime": "21:00"
+  }, {
+    "id": "5a4de5f80991a7176de9133a",
+    "name": "4.线性方程组",
+    "status": "pending",
+    "startDate": "2017-11-20T08:00:00+08:00",
+    "startTime": "18:00",
+    "endTime": "21:00"
+  }, {
+    "id": "5a4de5f80991a7176de91339",
+    "name": "5.矩阵的特征值和特征向量 6.二次型",
+    "status": "pending",
+    "startDate": "2017-11-27T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }, {
+    "id": "5a4de5f80991a7176de91338",
+    "name": "概率论与数理统计：1.随机事件和概率 2.随机变量及其分布",
+    "status": "pending",
+    "startDate": "2017-11-28T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }, {
+    "id": "5a4de5f80991a7176de91337",
+    "name": "3.多维随机变量及其分布 4.随机变量的数字特征",
+    "status": "pending",
+    "startDate": "2017-11-29T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }, {
+    "id": "5a4de5f80991a7176de91336",
+    "name": "5.大数定律和中心极限定理 6.数理统计的基本概念 7.参数估计 8.假设检验",
+    "status": "pending",
+    "startDate": "2017-11-30T08:00:00+08:00",
+    "startTime": "09:00",
+    "endTime": "16:30"
+  }],
+  "coverUrl": "http://imgs.wanmen.org/5c3ef632aff17f60fec0ced98da377c5.png",
+  "mobileCoverUrl": "http://imgs.wanmen.org/1f998fdfea9ae827bdf2c1f08772991f.png",
+  "bigImage": "http://imgs.wanmen.org/5c3ef632aff17f60fec0ced98da377c5.png",
+  "smallImage": "http://imgs.wanmen.org/1f998fdfea9ae827bdf2c1f08772991f.png",
+  "isPinned": false,
+  "isPaid": false,
+  "openingAt": "0001-01-01T00:00:00Z",
+  "status": "finished",
+  "price": 1648,
+  "introductionVideo": "http://media.wanmen.org/3bc833ce-309a-48e7-b291-65b55d62c6fc_pc_high.m3u8",
+  "playbackStatus": "done",
+  "expiration": 12,
+  "expirationText": "自直播课程完结后12个月内有效",
+  "app": "uni",
+  "finishedAt": "0001-01-01T00:00:00Z",
+  "remainingDays": -1,
+  "history": {
+    "id": "",
+    "createdAt": "0001-01-01T00:00:00Z",
+    "updatedAt": "0001-01-01T00:00:00Z"
+  },
+  "type": "live"
+}
