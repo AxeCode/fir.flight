@@ -1,0 +1,262 @@
+{
+  "id": "586d23485f07127674135da7",
+  "name": "考霸六级写作冲刺",
+  "logo": "http://img.wanmen.org/images/45cefb08-f7f9-4c50-af02-b5ac3173660a.jpeg",
+  "order": 19,
+  "price": 0,
+  "promotion": null,
+  "description": "英语写作是考察考生英语综合能力的题型，涉及单词拼写，语法结构，句子组织，段落安排等等。本课程通过对改革之后的新题型进行深入解析，对各类写作类型进行总结，从各个方面入手传授了四六级写作中需要掌握的技巧以及方法，值得同学们认真研究。",
+  "shortDescription": "考霸六级写作冲刺",
+  "hide": false,
+  "major": "5a4302500b61756f4d2c4493",
+  "teacherName": "宋平明",
+  "teacherAvatar": "http://imgs.wanmen.org/0825dfd1ff72ddc097637dfc8fc4b012.png",
+  "teacherDescription": "前北京新东方学校考研一线名师。中国人民大学研究生，2014年在美国德克萨斯大学从事博士后研究工作。从事考研、四六级教学十余年，已教授十数万学员，教学效果显著。",
+  "numOfClasses": 6,
+  "qqGroup": "",
+  "smallImageUrl": "http://imgs.wanmen.org/2e05028279772e18771933572804899e.png",
+  "bigImageUrl": "http://imgs.wanmen.org/681518bde7c12b9564cb3cbaf2abefb4.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/c6cb218e-1f2e-49be-9225-14fab6334f79.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "宋平明 语言 考霸 六级 写作 冲刺 大学 英语六级 ",
+  "isPresell": null,
+  "createdAt": "2016-05-03T22:24:05.000Z",
+  "updatedAt": "2018-01-02T09:32:58.935Z",
+  "homeSmallImage": "http://img.wanmen.org/images/c1c9c14c-f40a-4436-8564-023ce16a1526.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/c6cb218e-1f2e-49be-9225-14fab6334f79.jpeg",
+  "bigImage": "http://imgs.wanmen.org/681518bde7c12b9564cb3cbaf2abefb4.png",
+  "smallImage": "http://imgs.wanmen.org/2e05028279772e18771933572804899e.png",
+  "bookId": [],
+  "teacher": {
+    "name": "宋平明",
+    "description": "前北京新东方学校考研一线名师。中国人民大学研究生，2014年在美国德克萨斯大学从事博士后研究工作。从事考研、四六级教学十余年，已教授十数万学员，教学效果显著。",
+    "avatar": "http://imgs.wanmen.org/0825dfd1ff72ddc097637dfc8fc4b012.png",
+    "id": "5923f39229a8354075e09ae5"
+  },
+  "specialTrainingOrder": 0,
+  "expiration": 12,
+  "videoCount": 6,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 40,
+  "app": "uni",
+  "numberOfClasses": 6,
+  "mobileCoverUrl": "http://imgs.wanmen.org/2e05028279772e18771933572804899e.png",
+  "coverUrl": "http://imgs.wanmen.org/681518bde7c12b9564cb3cbaf2abefb4.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:37:51.706Z",
+    "courseId": "586d23485f07127674135da7",
+    "order": 1,
+    "name": "六级写作总述及评分标准",
+    "updatedAt": "2017-03-24T15:30:01.687Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b735",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.709Z",
+      "courseId": "586d23485f07127674135da7",
+      "parentId": "586d23555f0712767415b735",
+      "order": 1,
+      "name": "六级写作总述及评分标准",
+      "updatedAt": "2017-03-24T15:30:01.715Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5bc723c0-386a-467a-bdd3-19d1b30c279d_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/5bc723c0-386a-467a-bdd3-19d1b30c279d_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/5bc723c0-386a-467a-bdd3-19d1b30c279d_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/5bc723c0-386a-467a-bdd3-19d1b30c279d_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/5bc723c0-386a-467a-bdd3-19d1b30c279d_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a26d"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:51.773Z",
+    "courseId": "586d23485f07127674135da7",
+    "order": 2,
+    "name": "六级写作考试类型和写作难点",
+    "updatedAt": "2017-03-24T15:30:01.724Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b736",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.777Z",
+      "courseId": "586d23485f07127674135da7",
+      "parentId": "586d23555f0712767415b736",
+      "order": 1,
+      "name": "六级写作考试类型和写作难点",
+      "updatedAt": "2017-03-24T15:30:01.752Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d5f59d4d-21bf-436e-b47e-e6d057aa6f87_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d5f59d4d-21bf-436e-b47e-e6d057aa6f87_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d5f59d4d-21bf-436e-b47e-e6d057aa6f87_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d5f59d4d-21bf-436e-b47e-e6d057aa6f87_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d5f59d4d-21bf-436e-b47e-e6d057aa6f87_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a26e"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:51.840Z",
+    "courseId": "586d23485f07127674135da7",
+    "order": 3,
+    "name": "各类型作文写作技巧",
+    "updatedAt": "2017-03-24T15:30:01.761Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b737",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.842Z",
+      "courseId": "586d23485f07127674135da7",
+      "parentId": "586d23555f0712767415b737",
+      "order": 1,
+      "name": "各类型作文写作技巧",
+      "updatedAt": "2017-03-24T15:30:01.785Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0ab3a0c6-610a-47c9-a2ba-082889fb1c9d_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/0ab3a0c6-610a-47c9-a2ba-082889fb1c9d_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/0ab3a0c6-610a-47c9-a2ba-082889fb1c9d_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/0ab3a0c6-610a-47c9-a2ba-082889fb1c9d_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/0ab3a0c6-610a-47c9-a2ba-082889fb1c9d_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a26f"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:51.906Z",
+    "courseId": "586d23485f07127674135da7",
+    "order": 4,
+    "name": "图画图表类",
+    "updatedAt": "2017-03-24T15:30:01.800Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b738",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.909Z",
+      "courseId": "586d23485f07127674135da7",
+      "parentId": "586d23555f0712767415b738",
+      "order": 1,
+      "name": "图画图表类",
+      "updatedAt": "2017-03-24T15:30:01.826Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/17456341-a7e7-422e-aaae-da6444416e87_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/17456341-a7e7-422e-aaae-da6444416e87_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/17456341-a7e7-422e-aaae-da6444416e87_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/17456341-a7e7-422e-aaae-da6444416e87_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/17456341-a7e7-422e-aaae-da6444416e87_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a270"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:51.971Z",
+    "courseId": "586d23485f07127674135da7",
+    "order": 5,
+    "name": "阐明原因类",
+    "updatedAt": "2017-03-24T15:30:01.837Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b739",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.973Z",
+      "courseId": "586d23485f07127674135da7",
+      "parentId": "586d23555f0712767415b739",
+      "order": 1,
+      "name": "阐明原因类",
+      "updatedAt": "2017-03-24T15:30:01.862Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f59f611a-b320-4c98-be43-d1d8896f271c_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f59f611a-b320-4c98-be43-d1d8896f271c_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f59f611a-b320-4c98-be43-d1d8896f271c_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f59f611a-b320-4c98-be43-d1d8896f271c_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f59f611a-b320-4c98-be43-d1d8896f271c_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a271"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:52.033Z",
+    "courseId": "586d23485f07127674135da7",
+    "order": 6,
+    "name": "提纲类",
+    "updatedAt": "2017-03-24T15:30:01.869Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b73a",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:52.036Z",
+      "courseId": "586d23485f07127674135da7",
+      "parentId": "586d23555f0712767415b73a",
+      "order": 1,
+      "name": "提纲类",
+      "updatedAt": "2017-03-24T15:30:01.896Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/cae7365d-5046-4d60-a0df-04be709337f3_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/cae7365d-5046-4d60-a0df-04be709337f3_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/cae7365d-5046-4d60-a0df-04be709337f3_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/cae7365d-5046-4d60-a0df-04be709337f3_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/cae7365d-5046-4d60-a0df-04be709337f3_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a272"
+    }]
+  }],
+  "hasTopic": false
+}

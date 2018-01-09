@@ -1,5 +1,5 @@
 <resources>
-    <string name="ff.app.name">严家学堂</string>
+    <string name="ff.app.name">M3U8下载</string>
     <string name="ff.splash.slogan">An android version Test Flight\nby using the testing app distribution\nservice provided by fir.im</string>
     <string name="ff.splash.slogan.about">An android version Test Flight\nby using the testing app distribution service provided by fir.im</string>
 
@@ -22,17 +22,17 @@
     <string name="ff.signin.password.example">******</string>
 
     <!-- Main -->
-    <string name="ff.main.tab.math">数学</string>
-    <string name="ff.main.tab.physics">物理</string>
-    <string name="ff.main.tab.english">英语</string>
-    <string name="ff.main.tab.chinese">语文</string>
+    <string name="ff.main.tab.lang">语言</string>
+    <string name="ff.main.tab.college">大学</string>
+    <string name="ff.main.tab.senior">高中</string>
+    <string name="ff.main.tab.junior">初中</string>
     <string name="ff.main.tab.about">关于</string>
 
     <string-array name="ff_main_tab_titles">
-        <item>@string/ff.main.tab.math</item>
-        <item>@string/ff.main.tab.physics</item>
-        <item>@string/ff.main.tab.english</item>
-        <item>@string/ff.main.tab.chinese</item>
+        <item>@string/ff.main.tab.lang</item>
+        <item>@string/ff.main.tab.college</item>
+        <item>@string/ff.main.tab.senior</item>
+        <item>@string/ff.main.tab.junior</item>
         <item>@string/ff.main.tab.about</item>
     </string-array>
 

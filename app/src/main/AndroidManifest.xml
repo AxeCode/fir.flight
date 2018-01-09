@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="io.github.ryanhoo.firFlight">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -23,7 +24,8 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/ff.app.name"
         android:supportsRtl="false"
-        android:theme="@style/FFTheme">
+        android:theme="@style/FFTheme"
+        tools:replace="android:supportsRtl">
         <activity
             android:name=".ui.SplashScreenActivity"
             android:label="@string/ff.app.name"
@@ -62,6 +64,9 @@
             android:label="@string/ff.settings"
             android:screenOrientation="portrait" />
 
+        <activity
+            android:name=".ui.app.CoursesActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".ui.about.AboutActivity"
             android:label="@string/ff.about"

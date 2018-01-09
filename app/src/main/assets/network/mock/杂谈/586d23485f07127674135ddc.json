@@ -1,0 +1,383 @@
+{
+  "id": "586d23485f07127674135ddc",
+  "name": "理工科英文教材阅读入门",
+  "logo": "http://img.wanmen.org/images/e21c8dae-6708-4411-9de1-8bc6696e36da.jpeg",
+  "order": 11,
+  "price": 298,
+  "promotion": null,
+  "description": "深奥的问题可以被演绎得浅显易懂，晦涩难懂的知识可以变得深入浅出，它们保留了趣味又不失学术水平，理工科英文教材的魔力，可以让学习变成一件乐事，让你的世界观愈加清晰，这种对英语和专业知识一箭双雕的乐事，只有阅读英文原版教材才能够获得！这一次，用校长带你入坑。",
+  "shortDescription": "深奥的问题可以被演绎得浅显易懂，晦涩难懂的知识可以变得深入浅出，它们保留了趣味又不失学术水平，理工科英文教材的魔力，可以让学习变成一件乐事，让你的世界观愈加清晰，这种对英语和专业知识一箭双雕的乐事，只有阅读英文原版教材才能够获得！这一次，用校长带你入坑。",
+  "hide": false,
+  "major": "5a43028a8c7e4d6f4ef79656",
+  "teacherName": "童哲",
+  "teacherAvatar": "http://imgs.wanmen.org/8d03f67441f1c4f8c20fc95c583ec1ff.png",
+  "teacherDescription": "童哲，万门大学校长。高中以物理竞赛福建省第一名成绩保送北京大学物理学院，大三暑假考上法国巴黎高等师范学校，留法攻读物理。获得巴黎高师本科+巴黎高师硕士M1学位后回国创建了万门大学。对数学和物理有着极大的热忱和独特的见解。",
+  "numOfClasses": 8,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/39aa4165008472e60e8bf5b304e94824.png",
+  "bigImageUrl": "http://imgs.wanmen.org/4194b025bd7fbe9042a9418fb4aae508.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/38837ea9-5487-49a0-88a3-37752f29873f.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "童哲 语言 理工科 英文 教材 阅读 入门 杂谈 ",
+  "isPresell": null,
+  "liked": 5,
+  "createdAt": "2016-12-01T01:59:09.000Z",
+  "updatedAt": "2018-01-02T09:19:14.638Z",
+  "homeSmallImage": "http://img.wanmen.org/images/507cf467-fb66-4e3f-a1b7-fd34b148a570.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/38837ea9-5487-49a0-88a3-37752f29873f.jpeg",
+  "bigImage": "http://imgs.wanmen.org/4194b025bd7fbe9042a9418fb4aae508.png",
+  "smallImage": "http://imgs.wanmen.org/39aa4165008472e60e8bf5b304e94824.png",
+  "bookId": [],
+  "teacher": {
+    "name": "童哲",
+    "description": "童哲，万门大学校长。高中以物理竞赛福建省第一名成绩保送北京大学物理学院，大三暑假考上法国巴黎高等师范学校，留法攻读物理。获得巴黎高师本科+巴黎高师硕士M1学位后回国创建了万门大学。对数学和物理有着极大的热忱和独特的见解。",
+    "avatar": "http://imgs.wanmen.org/8d03f67441f1c4f8c20fc95c583ec1ff.png",
+    "id": "586d235d5f0712767415bb41"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 25,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 18,
+  "app": "uni",
+  "numberOfClasses": 8,
+  "mobileCoverUrl": "http://imgs.wanmen.org/39aa4165008472e60e8bf5b304e94824.png",
+  "coverUrl": "http://imgs.wanmen.org/4194b025bd7fbe9042a9418fb4aae508.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "courseId": "586d23485f07127674135ddc",
+    "name": "消除英文原版教材神秘感",
+    "createdAt": "2017-03-05T00:35:53.559Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2018-01-05T09:18:19.267Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5d698d3ac6dc9b13cbf8",
+    "children": [{
+      "courseId": "586d23485f07127674135ddc",
+      "name": "消除英文原版教材神秘感",
+      "parentId": "58bb5d698d3ac6dc9b13cbf8",
+      "createdAt": "2017-03-05T00:36:07.464Z",
+      "order": 1,
+      "updatedAt": "2017-12-23T06:22:32.583Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_mobile_mid.m3u8"
+        },
+        "id": "593144c1ef23a84321c278c5"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/215653a4-7f4f-4fb2-8b2c-b0efe61a38bf_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58bb5d778d3ac6dc9b13cbfb"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ddc",
+    "name": "英文原版教材结构与前言讲解",
+    "createdAt": "2017-03-05T00:36:07.519Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2018-01-08T01:59:10.869Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5d778d3ac6dc9b13cbfc",
+    "children": [{
+      "courseId": "586d23485f07127674135ddc",
+      "name": "英文原版教材结构讲解",
+      "parentId": "58bb5d778d3ac6dc9b13cbfc",
+      "createdAt": "2017-03-05T00:36:13.410Z",
+      "order": 1,
+      "updatedAt": "2017-12-23T06:22:36.797Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d7d8d3ac6dc9b13cbfe"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "目录讲解",
+      "parentId": "58bb5d778d3ac6dc9b13cbfc",
+      "createdAt": "2017-03-05T00:36:13.591Z",
+      "order": 2,
+      "updatedAt": "2017-12-23T06:23:42.276Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d7d8d3ac6dc9b13cbff"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "前言讲解",
+      "parentId": "58bb5d778d3ac6dc9b13cbfc",
+      "createdAt": "2017-03-05T00:36:13.728Z",
+      "order": 3,
+      "updatedAt": "2017-12-23T06:22:56.707Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d7e8d3ac6dc9b13cc00"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ddc",
+    "name": "导论及正文讲解",
+    "createdAt": "2017-03-05T00:36:14.313Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2018-01-08T02:01:31.402Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5d7e8d3ac6dc9b13cc01",
+    "children": [{
+      "courseId": "586d23485f07127674135ddc",
+      "name": "导论部分",
+      "parentId": "58bb5d7e8d3ac6dc9b13cc01",
+      "createdAt": "2017-03-05T00:36:27.417Z",
+      "order": 1,
+      "updatedAt": "2017-12-23T06:23:47.117Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d8b8d3ac6dc9b13cc02"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "The study of Functions",
+      "parentId": "58bb5d7e8d3ac6dc9b13cc01",
+      "createdAt": "2017-03-05T00:36:27.673Z",
+      "order": 2,
+      "updatedAt": "2018-01-04T06:41:14.313Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d8c8d3ac6dc9b13cc03"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "正文部分",
+      "parentId": "58bb5d7e8d3ac6dc9b13cc01",
+      "createdAt": "2017-03-05T00:36:28.374Z",
+      "order": 3,
+      "updatedAt": "2017-12-23T06:23:55.492Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d8d8d3ac6dc9b13cc04"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ddc",
+    "name": "正文讲解二",
+    "createdAt": "2017-03-05T00:36:29.243Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2018-01-08T02:04:47.945Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5d8d8d3ac6dc9b13cc05",
+    "children": [{
+      "courseId": "586d23485f07127674135ddc",
+      "name": "第二段讲解",
+      "parentId": "58bb5d8d8d3ac6dc9b13cc05",
+      "createdAt": "2017-03-05T00:36:39.649Z",
+      "order": 1,
+      "updatedAt": "2017-12-23T06:23:58.921Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d988d3ac6dc9b13cc06"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "definition",
+      "parentId": "58bb5d8d8d3ac6dc9b13cc05",
+      "createdAt": "2017-03-05T00:36:40.330Z",
+      "order": 2,
+      "updatedAt": "2017-12-23T06:24:02.686Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d988d3ac6dc9b13cc07"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "证明的讲解",
+      "parentId": "58bb5d8d8d3ac6dc9b13cc05",
+      "createdAt": "2017-03-05T00:36:40.931Z",
+      "order": 3,
+      "updatedAt": "2017-12-23T06:24:05.918Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5d998d3ac6dc9b13cc08"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ddc",
+    "name": "正文讲解三",
+    "createdAt": "2017-03-05T00:36:41.292Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2018-01-08T02:05:12.505Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5d998d3ac6dc9b13cc09",
+    "children": [{
+      "courseId": "586d23485f07127674135ddc",
+      "name": "线性代数的核心定理",
+      "parentId": "58bb5d998d3ac6dc9b13cc09",
+      "createdAt": "2017-03-05T00:37:00.296Z",
+      "order": 1,
+      "updatedAt": "2017-12-23T06:24:11.558Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5dac8d3ac6dc9b13cc0b"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "proposition1.8.1",
+      "parentId": "58bb5d998d3ac6dc9b13cc09",
+      "createdAt": "2017-03-05T00:37:00.988Z",
+      "order": 2,
+      "updatedAt": "2017-12-23T06:24:14.248Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5dad8d3ac6dc9b13cc0c"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "Dual Vector Spaces",
+      "parentId": "58bb5d998d3ac6dc9b13cc09",
+      "createdAt": "2017-03-05T00:37:01.929Z",
+      "order": 3,
+      "updatedAt": "2017-12-23T06:24:17.196Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5dae8d3ac6dc9b13cc0d"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ddc",
+    "name": "正文讲解四",
+    "createdAt": "2017-03-05T00:37:02.354Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2018-01-08T02:06:33.552Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5dae8d3ac6dc9b13cc0e",
+    "children": [{
+      "courseId": "586d23485f07127674135ddc",
+      "name": "第三段讲解",
+      "parentId": "58bb5dae8d3ac6dc9b13cc0e",
+      "createdAt": "2017-03-05T00:37:07.335Z",
+      "order": 1,
+      "updatedAt": "2017-12-23T06:24:21.283Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5db48d3ac6dc9b13cc0f"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "技术概念",
+      "parentId": "58bb5dae8d3ac6dc9b13cc0e",
+      "createdAt": "2017-03-05T00:37:08.490Z",
+      "order": 2,
+      "updatedAt": "2017-12-23T06:24:23.774Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5db58d3ac6dc9b13cc10"
+    }, {
+      "courseId": "586d23485f07127674135ddc",
+      "name": "可逆与不可逆过程",
+      "parentId": "58bb5dae8d3ac6dc9b13cc0e",
+      "createdAt": "2017-03-05T00:37:09.032Z",
+      "order": 3,
+      "updatedAt": "2017-12-23T06:24:26.633Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5db58d3ac6dc9b13cc11"
+    }]
+  }],
+  "hasTopic": false
+}

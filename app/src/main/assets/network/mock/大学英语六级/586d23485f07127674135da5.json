@@ -1,0 +1,296 @@
+{
+  "id": "586d23485f07127674135da5",
+  "name": "考霸六级翻译冲刺",
+  "logo": "http://img.wanmen.org/images/08d5ae99-0efe-445d-8a1a-4db2be0fcbd8.jpeg",
+  "order": 17,
+  "price": 0,
+  "promotion": null,
+  "description": "六级翻译越来越重视中国的历史、文化、经济和社会发展等主题，本课程在把控命题方向的基础上，讲解了从单词到句子再到段落层层递进的翻译策略，让你形成一个完整的翻译理念。总结了翻译万能技巧以及基本句型，可以让你在翻译中更得心应手",
+  "shortDescription": "考霸六级翻译冲刺",
+  "hide": false,
+  "major": "5a4302500b61756f4d2c4493",
+  "teacherName": "宋平明",
+  "teacherAvatar": "http://imgs.wanmen.org/0825dfd1ff72ddc097637dfc8fc4b012.png",
+  "teacherDescription": "前北京新东方学校考研一线名师。中国人民大学研究生，2014年在美国德克萨斯大学从事博士后研究工作。从事考研、四六级教学十余年，已教授十数万学员，教学效果显著。",
+  "numOfClasses": 7,
+  "qqGroup": "",
+  "smallImageUrl": "http://imgs.wanmen.org/b6d95580cdae9e28a7b1818a112c5690.png",
+  "bigImageUrl": "http://imgs.wanmen.org/98735ffed55849010fbd85ba97d4aa14.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/5af12559-8ed0-4aa9-bbaa-a2305fdc19ce.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "宋平明 语言 考霸 六级 翻译 冲刺 大学 英语六级 ",
+  "isPresell": null,
+  "createdAt": "2016-04-27T17:55:19.000Z",
+  "updatedAt": "2018-01-02T09:33:10.760Z",
+  "homeSmallImage": "http://img.wanmen.org/images/7ca328b8-71aa-435d-acc9-94da282faff9.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/5af12559-8ed0-4aa9-bbaa-a2305fdc19ce.jpeg",
+  "bigImage": "http://imgs.wanmen.org/98735ffed55849010fbd85ba97d4aa14.png",
+  "smallImage": "http://imgs.wanmen.org/b6d95580cdae9e28a7b1818a112c5690.png",
+  "bookId": [],
+  "teacher": {
+    "name": "宋平明",
+    "description": "前北京新东方学校考研一线名师。中国人民大学研究生，2014年在美国德克萨斯大学从事博士后研究工作。从事考研、四六级教学十余年，已教授十数万学员，教学效果显著。",
+    "avatar": "http://imgs.wanmen.org/0825dfd1ff72ddc097637dfc8fc4b012.png",
+    "id": "5923f39229a8354075e09ae5"
+  },
+  "specialTrainingOrder": 0,
+  "expiration": 12,
+  "videoCount": 7,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 34,
+  "app": "uni",
+  "numberOfClasses": 7,
+  "mobileCoverUrl": "http://imgs.wanmen.org/b6d95580cdae9e28a7b1818a112c5690.png",
+  "coverUrl": "http://imgs.wanmen.org/98735ffed55849010fbd85ba97d4aa14.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:37:50.744Z",
+    "courseId": "586d23485f07127674135da5",
+    "order": 1,
+    "name": "六级翻译概述",
+    "updatedAt": "2017-03-22T13:50:59.499Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b722",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.747Z",
+      "courseId": "586d23485f07127674135da5",
+      "parentId": "586d23555f0712767415b722",
+      "order": 1,
+      "name": "六级翻译概述",
+      "updatedAt": "2017-03-22T13:50:59.550Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/81fe29c0-ebc1-4e34-81a9-da97811b931d_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/81fe29c0-ebc1-4e34-81a9-da97811b931d_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/81fe29c0-ebc1-4e34-81a9-da97811b931d_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/81fe29c0-ebc1-4e34-81a9-da97811b931d_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/81fe29c0-ebc1-4e34-81a9-da97811b931d_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a25f"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.808Z",
+    "courseId": "586d23485f07127674135da5",
+    "order": 2,
+    "name": "六级翻译的两大痛点",
+    "updatedAt": "2017-03-22T13:50:59.577Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b728",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.811Z",
+      "courseId": "586d23485f07127674135da5",
+      "parentId": "586d23555f0712767415b728",
+      "order": 1,
+      "name": "六级翻译的两大痛点",
+      "updatedAt": "2017-03-22T13:50:59.628Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/709d2898-5a13-419c-87fa-fa12dcb8f5b9_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/709d2898-5a13-419c-87fa-fa12dcb8f5b9_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/709d2898-5a13-419c-87fa-fa12dcb8f5b9_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/709d2898-5a13-419c-87fa-fa12dcb8f5b9_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/709d2898-5a13-419c-87fa-fa12dcb8f5b9_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a260"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.884Z",
+    "courseId": "586d23485f07127674135da5",
+    "order": 3,
+    "name": "比较级和最高级以及as和while的用法",
+    "updatedAt": "2017-03-22T13:50:59.664Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b729",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.887Z",
+      "courseId": "586d23485f07127674135da5",
+      "parentId": "586d23555f0712767415b729",
+      "order": 1,
+      "name": "比较级和最高级以及as和while的用法",
+      "updatedAt": "2017-03-22T13:50:59.712Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/936f8df7-8593-41a7-a454-53ce6675fea9_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/936f8df7-8593-41a7-a454-53ce6675fea9_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/936f8df7-8593-41a7-a454-53ce6675fea9_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/936f8df7-8593-41a7-a454-53ce6675fea9_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/936f8df7-8593-41a7-a454-53ce6675fea9_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a261"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.952Z",
+    "courseId": "586d23485f07127674135da5",
+    "order": 4,
+    "name": "rather than 和分词短语",
+    "updatedAt": "2017-03-22T13:50:59.749Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b72a",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.955Z",
+      "courseId": "586d23485f07127674135da5",
+      "parentId": "586d23555f0712767415b72a",
+      "order": 1,
+      "name": "rather than 和分词短语",
+      "updatedAt": "2017-03-22T13:50:59.816Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/75974588-f7f2-45c1-b9ad-3db9f2e53502_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/75974588-f7f2-45c1-b9ad-3db9f2e53502_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/75974588-f7f2-45c1-b9ad-3db9f2e53502_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/75974588-f7f2-45c1-b9ad-3db9f2e53502_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/75974588-f7f2-45c1-b9ad-3db9f2e53502_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a262"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:51.017Z",
+    "courseId": "586d23485f07127674135da5",
+    "order": 5,
+    "name": "五种基本主干句型和并列句",
+    "updatedAt": "2017-03-22T13:50:59.850Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b72b",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.020Z",
+      "courseId": "586d23485f07127674135da5",
+      "parentId": "586d23555f0712767415b72b",
+      "order": 1,
+      "name": "五种基本主干句型和并列句",
+      "updatedAt": "2017-03-22T13:51:00.031Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/dbe65155-74b6-4169-b8d2-519f0033984c_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/dbe65155-74b6-4169-b8d2-519f0033984c_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/dbe65155-74b6-4169-b8d2-519f0033984c_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/dbe65155-74b6-4169-b8d2-519f0033984c_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/dbe65155-74b6-4169-b8d2-519f0033984c_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a263"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:51.084Z",
+    "courseId": "586d23485f07127674135da5",
+    "order": 6,
+    "name": "被动句、定语从句和宾语从句",
+    "updatedAt": "2017-03-22T13:51:00.086Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b72c",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.087Z",
+      "courseId": "586d23485f07127674135da5",
+      "parentId": "586d23555f0712767415b72c",
+      "order": 1,
+      "name": "被动句、定语从句和宾语从句",
+      "updatedAt": "2017-03-22T13:51:00.148Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/4289209b-1f93-4ae4-b5ea-c5da2402b22b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/4289209b-1f93-4ae4-b5ea-c5da2402b22b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/4289209b-1f93-4ae4-b5ea-c5da2402b22b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/4289209b-1f93-4ae4-b5ea-c5da2402b22b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/4289209b-1f93-4ae4-b5ea-c5da2402b22b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a264"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:51.147Z",
+    "courseId": "586d23485f07127674135da5",
+    "order": 7,
+    "name": "状语从句的几个重点",
+    "updatedAt": "2017-03-22T13:51:00.175Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b72d",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:51.150Z",
+      "courseId": "586d23485f07127674135da5",
+      "parentId": "586d23555f0712767415b72d",
+      "order": 1,
+      "name": "状语从句的几个重点",
+      "updatedAt": "2017-03-22T13:51:00.230Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/69a96a11-68b7-45a5-8d23-99c70f02e0c4_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/69a96a11-68b7-45a5-8d23-99c70f02e0c4_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/69a96a11-68b7-45a5-8d23-99c70f02e0c4_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/69a96a11-68b7-45a5-8d23-99c70f02e0c4_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/69a96a11-68b7-45a5-8d23-99c70f02e0c4_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a265"
+    }]
+  }],
+  "hasTopic": false
+}

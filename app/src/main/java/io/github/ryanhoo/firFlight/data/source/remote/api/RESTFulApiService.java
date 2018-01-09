@@ -4,6 +4,7 @@ import java.util.List;
 
 import io.github.ryanhoo.firFlight.data.model.AppInstallInfo;
 import io.github.ryanhoo.firFlight.data.model.Courses;
+import io.github.ryanhoo.firFlight.data.model.Genre;
 import io.github.ryanhoo.firFlight.data.model.Message;
 import io.github.ryanhoo.firFlight.data.model.Token;
 import io.github.ryanhoo.firFlight.data.model.User;
@@ -38,6 +39,8 @@ public interface RESTFulApiService {
     Observable<User> user();
 
     // Apps
+    @GET("/courses/genres/{genreId}?mock=true")
+    Observable<List<Genre>> genres(@Path("genreId") String genreId);
 
     @GET("/courses/majors/{courseId}?mock=true")
     Observable<List<Courses>> courses(@Path("courseId") String classId);

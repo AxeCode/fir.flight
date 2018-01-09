@@ -1,0 +1,1078 @@
+{
+  "id": "586d23485f07127674135d41",
+  "name": "苏曼日语每日一句",
+  "logo": "http://img.wanmen.org/course/logo/3c59119a-12e3-445d-96c6-b710d743e914..jpg",
+  "order": 5,
+  "price": 0,
+  "promotion": null,
+  "description": "初级小白看过来！苏曼老师的人气教材《简单日语极速入门》配套小剧场，苏曼＋苏然，淑女帅哥超级组合，每日一句，教你马上开口。通过高频使用的生活用语，简洁明了，一语中的，让你不知不觉打好地基！",
+  "shortDescription": "用实用的场景讲解基础日语",
+  "hide": false,
+  "major": "586d234f5f07127674152c42",
+  "teacherName": "刘苏曼&苏然",
+  "teacherAvatar": "http://imgs.wanmen.org/2d27f567d92d959db5ad4c65637f377a.png",
+  "teacherDescription": "刘苏曼，北京大学日语博士在读，著有《简单日语极速入门》。曾获第16届中日友好之声日语演讲比赛低年级组第1名，曾赴日本京都大学交换留学。多场口译、笔译、主持经验，曾负责东北亚学生论坛即席翻译。",
+  "numOfClasses": 30,
+  "qqGroup": "万门大学日语QQ交流群：336188749    或加万门官方微信号“小万君：wanmen009”为好友，备注“我要进日语微信群”。",
+  "smallImageUrl": "http://imgs.wanmen.org/64aecaace3e47660ec0374ca97f9f4aa.png",
+  "bigImageUrl": "http://imgs.wanmen.org/c7df9a4c82699df0dea242be57b035f9.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/dfa6f3fb-f39a-4a89-b9c9-6abcaaf622a0.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "刘苏曼&苏然 语言 苏曼 日语 每日 一句  日本语",
+  "isPresell": null,
+  "createdAt": "2015-04-08T18:06:11.000Z",
+  "updatedAt": "2018-01-05T13:37:35.744Z",
+  "homeSmallImage": "http://img.wanmen.org/images/0497c802-4cc1-4008-93ee-7283ef7f09c7.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/dfa6f3fb-f39a-4a89-b9c9-6abcaaf622a0.jpeg",
+  "bigImage": "http://imgs.wanmen.org/c7df9a4c82699df0dea242be57b035f9.png",
+  "smallImage": "http://imgs.wanmen.org/64aecaace3e47660ec0374ca97f9f4aa.png",
+  "bookId": [],
+  "teacher": {
+    "name": "刘苏曼&苏然",
+    "description": "刘苏曼，北京大学日语博士在读，著有《简单日语极速入门》。曾获第16届中日友好之声日语演讲比赛低年级组第1名，曾赴日本京都大学交换留学。多场口译、笔译、主持经验，曾负责东北亚学生论坛即席翻译。",
+    "avatar": "http://imgs.wanmen.org/2d27f567d92d959db5ad4c65637f377a.png",
+    "id": "5923f37c29a8354075e09acb"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 30,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 233,
+  "app": "uni",
+  "numberOfClasses": 30,
+  "mobileCoverUrl": "http://imgs.wanmen.org/64aecaace3e47660ec0374ca97f9f4aa.png",
+  "coverUrl": "http://imgs.wanmen.org/c7df9a4c82699df0dea242be57b035f9.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:35:58.904Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 1,
+    "name": "苏曼日语每日一句 第1句",
+    "updatedAt": "2017-05-09T06:25:44.698Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0bb",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:58.907Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0bb",
+      "order": 1,
+      "name": "苏曼日语每日一句 第1句",
+      "updatedAt": "2017-05-09T06:25:44.721Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/621b9496-a53e-4ad4-90d8-bbc983a3105f_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/621b9496-a53e-4ad4-90d8-bbc983a3105f_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/621b9496-a53e-4ad4-90d8-bbc983a3105f_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/621b9496-a53e-4ad4-90d8-bbc983a3105f_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/621b9496-a53e-4ad4-90d8-bbc983a3105f_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ec5"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:58.973Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 2,
+    "name": "苏曼日语每日一句 第2句",
+    "updatedAt": "2017-05-09T06:25:44.725Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0bc",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:58.976Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0bc",
+      "order": 1,
+      "name": "苏曼日语每日一句 第2句",
+      "updatedAt": "2017-05-09T06:25:44.751Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a4c3b99b-878d-4101-bb0c-f302c6b6b208_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/a4c3b99b-878d-4101-bb0c-f302c6b6b208_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/a4c3b99b-878d-4101-bb0c-f302c6b6b208_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/a4c3b99b-878d-4101-bb0c-f302c6b6b208_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/a4c3b99b-878d-4101-bb0c-f302c6b6b208_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ec6"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.040Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 3,
+    "name": "苏曼日语每日一句 第3句",
+    "updatedAt": "2017-05-09T06:25:44.756Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0bd",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.043Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0bd",
+      "order": 1,
+      "name": "苏曼日语每日一句 第3句",
+      "updatedAt": "2017-05-09T06:25:44.778Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/669d2aab-f088-4d79-a47f-db069c2bcc81_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/669d2aab-f088-4d79-a47f-db069c2bcc81_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/669d2aab-f088-4d79-a47f-db069c2bcc81_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/669d2aab-f088-4d79-a47f-db069c2bcc81_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/669d2aab-f088-4d79-a47f-db069c2bcc81_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ec7"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.114Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 4,
+    "name": "苏曼日语每日一句 第4句",
+    "updatedAt": "2017-05-09T06:25:44.785Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0be",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.117Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0be",
+      "order": 1,
+      "name": "苏曼日语每日一句 第4句",
+      "updatedAt": "2017-05-09T06:25:44.811Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e9dcb6bd-9d4f-4181-bc5e-3bccbd110e88_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/e9dcb6bd-9d4f-4181-bc5e-3bccbd110e88_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/e9dcb6bd-9d4f-4181-bc5e-3bccbd110e88_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/e9dcb6bd-9d4f-4181-bc5e-3bccbd110e88_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/e9dcb6bd-9d4f-4181-bc5e-3bccbd110e88_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ec8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.190Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 5,
+    "name": "苏曼日语每日一句 第5句",
+    "updatedAt": "2017-05-09T06:25:44.818Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0bf",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.194Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0bf",
+      "order": 1,
+      "name": "苏曼日语每日一句 第5句",
+      "updatedAt": "2017-05-09T06:25:44.839Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6b1f897e-752d-4819-9c3c-f6b877c8471b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/6b1f897e-752d-4819-9c3c-f6b877c8471b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/6b1f897e-752d-4819-9c3c-f6b877c8471b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/6b1f897e-752d-4819-9c3c-f6b877c8471b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/6b1f897e-752d-4819-9c3c-f6b877c8471b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ec9"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.263Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 6,
+    "name": "苏曼日语每日一句 第6句",
+    "updatedAt": "2017-05-09T06:25:44.847Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0c0",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.266Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0c0",
+      "order": 1,
+      "name": "苏曼日语每日一句 第6句",
+      "updatedAt": "2017-05-09T06:25:44.869Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9c6342ab-2feb-4296-8050-69fa70d66085_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/9c6342ab-2feb-4296-8050-69fa70d66085_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/9c6342ab-2feb-4296-8050-69fa70d66085_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/9c6342ab-2feb-4296-8050-69fa70d66085_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/9c6342ab-2feb-4296-8050-69fa70d66085_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158eca"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.328Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 7,
+    "name": "苏曼日语每日一句 第7句",
+    "updatedAt": "2017-05-09T06:25:44.874Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0c1",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.332Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0c1",
+      "order": 1,
+      "name": "苏曼日语每日一句 第7句",
+      "updatedAt": "2017-05-09T06:25:44.895Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5c741f8e-9f79-442d-bdb0-7e03594d6663_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/5c741f8e-9f79-442d-bdb0-7e03594d6663_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/5c741f8e-9f79-442d-bdb0-7e03594d6663_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/5c741f8e-9f79-442d-bdb0-7e03594d6663_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/5c741f8e-9f79-442d-bdb0-7e03594d6663_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ecb"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.396Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 8,
+    "name": "苏曼日语每日一句 第8句",
+    "updatedAt": "2017-05-09T06:25:44.900Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0c2",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.399Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0c2",
+      "order": 1,
+      "name": "苏曼日语每日一句 第8句",
+      "updatedAt": "2017-05-09T06:25:44.923Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2f9ad7ea-8190-4158-9fa0-c8df35f5db0d_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/2f9ad7ea-8190-4158-9fa0-c8df35f5db0d_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/2f9ad7ea-8190-4158-9fa0-c8df35f5db0d_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/2f9ad7ea-8190-4158-9fa0-c8df35f5db0d_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/2f9ad7ea-8190-4158-9fa0-c8df35f5db0d_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ecc"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.464Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 9,
+    "name": "苏曼日语每日一句 第9句",
+    "updatedAt": "2017-05-09T06:25:44.928Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0c3",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.466Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0c3",
+      "order": 1,
+      "name": "苏曼日语每日一句 第9句",
+      "updatedAt": "2017-05-09T06:25:44.952Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/972ca2c6-4e14-491f-8d21-1ea67cfe52db_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/972ca2c6-4e14-491f-8d21-1ea67cfe52db_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/972ca2c6-4e14-491f-8d21-1ea67cfe52db_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/972ca2c6-4e14-491f-8d21-1ea67cfe52db_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/972ca2c6-4e14-491f-8d21-1ea67cfe52db_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ecd"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.532Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 10,
+    "name": "苏曼日语每日一句 第10句",
+    "updatedAt": "2017-05-09T06:25:44.959Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0c4",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.534Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0c4",
+      "order": 1,
+      "name": "苏曼日语每日一句 第10句",
+      "updatedAt": "2017-05-09T06:25:44.985Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e8b8d0e4-7258-48bb-82dd-556b6ee7f4de_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/e8b8d0e4-7258-48bb-82dd-556b6ee7f4de_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/e8b8d0e4-7258-48bb-82dd-556b6ee7f4de_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/e8b8d0e4-7258-48bb-82dd-556b6ee7f4de_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/e8b8d0e4-7258-48bb-82dd-556b6ee7f4de_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ece"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.599Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 11,
+    "name": "苏曼日语每日一句 第11句",
+    "updatedAt": "2017-05-09T06:25:44.996Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0cb",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.603Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0cb",
+      "order": 1,
+      "name": "苏曼日语每日一句 第11句",
+      "updatedAt": "2017-05-09T06:25:45.019Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/63b6dfe6-642c-4771-a30a-654cd3ea12d5_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/63b6dfe6-642c-4771-a30a-654cd3ea12d5_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/63b6dfe6-642c-4771-a30a-654cd3ea12d5_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/63b6dfe6-642c-4771-a30a-654cd3ea12d5_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/63b6dfe6-642c-4771-a30a-654cd3ea12d5_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ee4"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.666Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 12,
+    "name": "苏曼日语每日一句 第12句",
+    "updatedAt": "2017-05-09T06:25:45.030Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0cc",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.669Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0cc",
+      "order": 1,
+      "name": "苏曼日语每日一句 第12句",
+      "updatedAt": "2017-05-09T06:25:45.053Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a8653da0-11e8-4f6b-8007-63173ebe6168_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/a8653da0-11e8-4f6b-8007-63173ebe6168_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/a8653da0-11e8-4f6b-8007-63173ebe6168_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/a8653da0-11e8-4f6b-8007-63173ebe6168_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/a8653da0-11e8-4f6b-8007-63173ebe6168_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ee5"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.732Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 13,
+    "name": "苏曼日语每日一句 第13句",
+    "updatedAt": "2017-05-09T06:25:45.057Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0cd",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.736Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0cd",
+      "order": 1,
+      "name": "苏曼日语每日一句 第13句",
+      "updatedAt": "2017-05-09T06:25:45.082Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6a8d90fc-bc5e-41cf-9d5a-fe3ead8ba7ae_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/6a8d90fc-bc5e-41cf-9d5a-fe3ead8ba7ae_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/6a8d90fc-bc5e-41cf-9d5a-fe3ead8ba7ae_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/6a8d90fc-bc5e-41cf-9d5a-fe3ead8ba7ae_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/6a8d90fc-bc5e-41cf-9d5a-fe3ead8ba7ae_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ee6"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.810Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 14,
+    "name": "苏曼日语每日一句 第14句",
+    "updatedAt": "2017-05-09T06:25:45.087Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0ce",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.813Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0ce",
+      "order": 1,
+      "name": "苏曼日语每日一句 第14句",
+      "updatedAt": "2017-05-09T06:25:45.114Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2f0d46e0-4d75-4c3c-b788-d9c1fffd5315_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/2f0d46e0-4d75-4c3c-b788-d9c1fffd5315_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/2f0d46e0-4d75-4c3c-b788-d9c1fffd5315_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/2f0d46e0-4d75-4c3c-b788-d9c1fffd5315_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/2f0d46e0-4d75-4c3c-b788-d9c1fffd5315_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ee7"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.890Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 15,
+    "name": "苏曼日语每日一句 第15句",
+    "updatedAt": "2017-05-09T06:25:45.118Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0cf",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.892Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0cf",
+      "order": 1,
+      "name": "苏曼日语每日一句 第15句",
+      "updatedAt": "2017-05-09T06:25:45.141Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/401c45da-f6db-4509-b45f-e553de27b1f9_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/401c45da-f6db-4509-b45f-e553de27b1f9_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/401c45da-f6db-4509-b45f-e553de27b1f9_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/401c45da-f6db-4509-b45f-e553de27b1f9_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/401c45da-f6db-4509-b45f-e553de27b1f9_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ee8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:59.959Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 16,
+    "name": "苏曼日语每日一句 第16句",
+    "updatedAt": "2017-05-09T06:25:45.147Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0d0",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:59.962Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0d0",
+      "order": 1,
+      "name": "苏曼日语每日一句 第16句",
+      "updatedAt": "2017-05-09T06:25:45.171Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1f547f6f-a9aa-45b3-b65e-085dcc62409b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/1f547f6f-a9aa-45b3-b65e-085dcc62409b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/1f547f6f-a9aa-45b3-b65e-085dcc62409b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/1f547f6f-a9aa-45b3-b65e-085dcc62409b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/1f547f6f-a9aa-45b3-b65e-085dcc62409b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158ee9"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.025Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 17,
+    "name": "苏曼日语每日一句 第17句",
+    "updatedAt": "2017-05-09T06:25:45.176Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0d1",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.027Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0d1",
+      "order": 1,
+      "name": "苏曼日语每日一句 第17句",
+      "updatedAt": "2017-05-09T06:25:45.198Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9b2533e9-061a-491f-8514-6e09e51ff0ee_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/9b2533e9-061a-491f-8514-6e09e51ff0ee_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/9b2533e9-061a-491f-8514-6e09e51ff0ee_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/9b2533e9-061a-491f-8514-6e09e51ff0ee_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/9b2533e9-061a-491f-8514-6e09e51ff0ee_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158eea"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.091Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 18,
+    "name": "苏曼日语每日一句 第18句",
+    "updatedAt": "2017-05-09T06:25:45.202Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0d2",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.095Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0d2",
+      "order": 1,
+      "name": "苏曼日语每日一句 第18句",
+      "updatedAt": "2017-05-09T06:25:45.225Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/86ce1c79-9235-4613-b554-0177e67a2595_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/86ce1c79-9235-4613-b554-0177e67a2595_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/86ce1c79-9235-4613-b554-0177e67a2595_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/86ce1c79-9235-4613-b554-0177e67a2595_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/86ce1c79-9235-4613-b554-0177e67a2595_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158eeb"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.172Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 19,
+    "name": "苏曼日语每日一句 第19句",
+    "updatedAt": "2017-05-09T06:25:45.230Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0d3",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.175Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0d3",
+      "order": 1,
+      "name": "苏曼日语每日一句 第19句",
+      "updatedAt": "2017-05-09T06:25:45.254Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f64acf8d-c027-4db7-b89b-5be3b35e73ba_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f64acf8d-c027-4db7-b89b-5be3b35e73ba_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f64acf8d-c027-4db7-b89b-5be3b35e73ba_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f64acf8d-c027-4db7-b89b-5be3b35e73ba_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f64acf8d-c027-4db7-b89b-5be3b35e73ba_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158eec"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.247Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 20,
+    "name": "苏曼日语每日一句 第20句",
+    "updatedAt": "2017-05-09T06:25:45.265Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0d4",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.250Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0d4",
+      "order": 1,
+      "name": "苏曼日语每日一句 第20句",
+      "updatedAt": "2017-05-09T06:25:45.288Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d1099804-10bd-45aa-b218-69d9657173bb_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d1099804-10bd-45aa-b218-69d9657173bb_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d1099804-10bd-45aa-b218-69d9657173bb_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d1099804-10bd-45aa-b218-69d9657173bb_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d1099804-10bd-45aa-b218-69d9657173bb_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158eed"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.326Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 21,
+    "name": "苏曼日语每日一句 第21句",
+    "updatedAt": "2017-05-09T06:25:45.292Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0fb",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.329Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0fb",
+      "order": 1,
+      "name": "苏曼日语每日一句 第21句",
+      "updatedAt": "2017-05-09T06:25:45.320Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/755477dc-d719-4f0b-ba6b-b3b4f017c454_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/755477dc-d719-4f0b-ba6b-b3b4f017c454_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/755477dc-d719-4f0b-ba6b-b3b4f017c454_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/755477dc-d719-4f0b-ba6b-b3b4f017c454_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/755477dc-d719-4f0b-ba6b-b3b4f017c454_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f74"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.398Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 22,
+    "name": "苏曼日语每日一句 第22句",
+    "updatedAt": "2017-05-09T06:25:45.328Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0fc",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.402Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0fc",
+      "order": 1,
+      "name": "苏曼日语每日一句 第22句",
+      "updatedAt": "2017-05-09T06:25:45.353Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/cba62503-dd97-414e-a5d8-6f353ba3e63b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/cba62503-dd97-414e-a5d8-6f353ba3e63b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/cba62503-dd97-414e-a5d8-6f353ba3e63b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/cba62503-dd97-414e-a5d8-6f353ba3e63b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/cba62503-dd97-414e-a5d8-6f353ba3e63b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f75"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.469Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 23,
+    "name": "苏曼日语每日一句 第23句",
+    "updatedAt": "2017-05-09T06:25:45.360Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0fd",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.471Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0fd",
+      "order": 1,
+      "name": "苏曼日语每日一句 第23句",
+      "updatedAt": "2017-05-09T06:25:45.384Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d13a18aa-3c37-4be9-bbb6-cd998e83f502_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d13a18aa-3c37-4be9-bbb6-cd998e83f502_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d13a18aa-3c37-4be9-bbb6-cd998e83f502_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d13a18aa-3c37-4be9-bbb6-cd998e83f502_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d13a18aa-3c37-4be9-bbb6-cd998e83f502_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f76"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.540Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 24,
+    "name": "苏曼日语每日一句 第24句",
+    "updatedAt": "2017-05-09T06:25:45.391Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0fe",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.544Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0fe",
+      "order": 1,
+      "name": "苏曼日语每日一句 第24句",
+      "updatedAt": "2017-05-09T06:25:45.418Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0fccc1d7-d4f3-4c5b-91c7-fb10391b0ac1_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/0fccc1d7-d4f3-4c5b-91c7-fb10391b0ac1_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/0fccc1d7-d4f3-4c5b-91c7-fb10391b0ac1_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/0fccc1d7-d4f3-4c5b-91c7-fb10391b0ac1_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/0fccc1d7-d4f3-4c5b-91c7-fb10391b0ac1_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f77"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.620Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 25,
+    "name": "苏曼日语每日一句 第25句",
+    "updatedAt": "2017-05-09T06:25:45.424Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b0ff",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.623Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b0ff",
+      "order": 1,
+      "name": "苏曼日语每日一句 第25句",
+      "updatedAt": "2017-05-09T06:25:45.457Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5a71013b-faee-4f74-9df2-2a0ece3d5c26_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/5a71013b-faee-4f74-9df2-2a0ece3d5c26_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/5a71013b-faee-4f74-9df2-2a0ece3d5c26_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/5a71013b-faee-4f74-9df2-2a0ece3d5c26_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/5a71013b-faee-4f74-9df2-2a0ece3d5c26_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f78"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.705Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 26,
+    "name": "苏曼日语每日一句 第26句",
+    "updatedAt": "2017-05-09T06:25:45.463Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b100",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.708Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b100",
+      "order": 1,
+      "name": "苏曼日语每日一句 第26句",
+      "updatedAt": "2017-05-09T06:25:45.496Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9274c167-5d10-4f23-9cad-f8d0f4e090ff_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/9274c167-5d10-4f23-9cad-f8d0f4e090ff_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/9274c167-5d10-4f23-9cad-f8d0f4e090ff_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/9274c167-5d10-4f23-9cad-f8d0f4e090ff_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/9274c167-5d10-4f23-9cad-f8d0f4e090ff_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f79"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.774Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 27,
+    "name": "苏曼日语每日一句 第27句",
+    "updatedAt": "2017-05-09T06:25:45.506Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b101",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.776Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b101",
+      "order": 1,
+      "name": "苏曼日语每日一句 第27句",
+      "updatedAt": "2017-05-09T06:25:45.532Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/907b88a3-7eac-49ef-a808-c43a7eda0c4f_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/907b88a3-7eac-49ef-a808-c43a7eda0c4f_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/907b88a3-7eac-49ef-a808-c43a7eda0c4f_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/907b88a3-7eac-49ef-a808-c43a7eda0c4f_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/907b88a3-7eac-49ef-a808-c43a7eda0c4f_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f7a"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.858Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 28,
+    "name": "苏曼日语每日一句 第28句",
+    "updatedAt": "2017-05-09T06:25:45.545Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b102",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.860Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b102",
+      "order": 1,
+      "name": "苏曼日语每日一句 第28句",
+      "updatedAt": "2017-05-09T06:25:45.568Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/dd1ae4f3-9185-4cc3-80d5-92426f7cc03d_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/dd1ae4f3-9185-4cc3-80d5-92426f7cc03d_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/dd1ae4f3-9185-4cc3-80d5-92426f7cc03d_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/dd1ae4f3-9185-4cc3-80d5-92426f7cc03d_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/dd1ae4f3-9185-4cc3-80d5-92426f7cc03d_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f7b"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.929Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 29,
+    "name": "苏曼日语每日一句 第29句",
+    "updatedAt": "2017-05-09T06:25:45.582Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b103",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:00.932Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b103",
+      "order": 1,
+      "name": "苏曼日语每日一句 第29句",
+      "updatedAt": "2017-05-09T06:25:45.977Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b8bf571a-e4ad-45a2-933b-7c2eecce281c_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/b8bf571a-e4ad-45a2-933b-7c2eecce281c_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/b8bf571a-e4ad-45a2-933b-7c2eecce281c_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/b8bf571a-e4ad-45a2-933b-7c2eecce281c_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/b8bf571a-e4ad-45a2-933b-7c2eecce281c_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f7c"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:00.999Z",
+    "courseId": "586d23485f07127674135d41",
+    "order": 30,
+    "name": "苏曼日语每日一句 第30句",
+    "updatedAt": "2017-05-09T06:25:45.991Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b104",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:01.003Z",
+      "courseId": "586d23485f07127674135d41",
+      "parentId": "586d23555f0712767415b104",
+      "order": 1,
+      "name": "苏曼日语每日一句 第30句",
+      "updatedAt": "2017-05-09T06:25:46.027Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d3d68a59-6eb1-4928-9eaf-93f58ff1e7ac_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d3d68a59-6eb1-4928-9eaf-93f58ff1e7ac_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d3d68a59-6eb1-4928-9eaf-93f58ff1e7ac_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d3d68a59-6eb1-4928-9eaf-93f58ff1e7ac_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d3d68a59-6eb1-4928-9eaf-93f58ff1e7ac_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158f7d"
+    }]
+  }],
+  "hasTopic": false
+}

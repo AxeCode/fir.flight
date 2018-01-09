@@ -1,0 +1,670 @@
+{
+  "id": "586d23485f07127674135da4",
+  "name": "考霸六级长难句冲刺",
+  "logo": "http://img.wanmen.org/images/3165e6db-e1a1-40c2-98bd-b986cc75a8c3.jpeg",
+  "order": 16,
+  "price": 0,
+  "promotion": null,
+  "description": "六级长难句的丰富内容和复杂结构往往会导致理解的困难。理解长难句的关键是了解长难句的类型，理清句子成分，抓住句子中的关键部分，本课程从长难句题型的突破口着手，希望能帮助同学们更好的攻克大关。",
+  "shortDescription": "考霸六级长难句冲刺",
+  "hide": false,
+  "major": "5a4302500b61756f4d2c4493",
+  "teacherName": "许密杉",
+  "teacherAvatar": "http://imgs.wanmen.org/951dc44d8be2dfee4d04966a8180cce1.png",
+  "teacherDescription": "中国传媒大学日语专业与新闻专业双学士，英语专业八级，托福总分113分，前新东方四六级考研一线名师，瑞银上海香格里拉酒店大中华区年会口译。",
+  "numOfClasses": 18,
+  "qqGroup": "",
+  "smallImageUrl": "http://imgs.wanmen.org/8da69224653d0d45cf6c2fad846a0fae.png",
+  "bigImageUrl": "http://imgs.wanmen.org/0055b07c69c3803ed5239b0eed2dc1bc.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/0157ba91-74b5-4ed1-aa39-847ff0b85c24.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "许密杉 语言 考霸 六级 长难句 冲刺 大学 英语六级 ",
+  "isPresell": null,
+  "createdAt": "2016-04-19T19:31:42.000Z",
+  "updatedAt": "2018-01-02T09:33:54.521Z",
+  "homeSmallImage": "http://img.wanmen.org/images/3ce836f3-a13f-4868-8a7c-646d83494909.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/0157ba91-74b5-4ed1-aa39-847ff0b85c24.jpeg",
+  "bigImage": "http://imgs.wanmen.org/0055b07c69c3803ed5239b0eed2dc1bc.png",
+  "smallImage": "http://imgs.wanmen.org/8da69224653d0d45cf6c2fad846a0fae.png",
+  "bookId": [],
+  "teacher": {
+    "name": "许密杉",
+    "description": "中国传媒大学日语专业与新闻专业双学士，英语专业八级，托福总分113分，前新东方四六级考研一线名师，瑞银上海香格里拉酒店大中华区年会口译。",
+    "avatar": "http://imgs.wanmen.org/951dc44d8be2dfee4d04966a8180cce1.png",
+    "id": "5923f39b29a8354075e09aeb"
+  },
+  "specialTrainingOrder": 0,
+  "expiration": 12,
+  "videoCount": 18,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 38,
+  "app": "uni",
+  "numberOfClasses": 18,
+  "mobileCoverUrl": "http://imgs.wanmen.org/8da69224653d0d45cf6c2fad846a0fae.png",
+  "coverUrl": "http://imgs.wanmen.org/0055b07c69c3803ed5239b0eed2dc1bc.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:37:49.478Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 1,
+    "name": "简单句的基本概念",
+    "updatedAt": "2017-03-22T13:50:57.192Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6f3",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.480Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6f3",
+      "order": 1,
+      "name": "简单句的基本概念",
+      "updatedAt": "2017-03-22T13:50:57.242Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ac1e76cc-1e6f-496c-81e8-6d270857a71e_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/ac1e76cc-1e6f-496c-81e8-6d270857a71e_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/ac1e76cc-1e6f-496c-81e8-6d270857a71e_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/ac1e76cc-1e6f-496c-81e8-6d270857a71e_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/ac1e76cc-1e6f-496c-81e8-6d270857a71e_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1ea"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:49.541Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 2,
+    "name": "简单句的五种句型",
+    "updatedAt": "2017-03-22T13:50:57.276Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6f4",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.544Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6f4",
+      "order": 1,
+      "name": "简单句的五种句型",
+      "updatedAt": "2017-03-22T13:50:57.328Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/536cdb62-a2a2-48ee-9813-f29df7224048_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/536cdb62-a2a2-48ee-9813-f29df7224048_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/536cdb62-a2a2-48ee-9813-f29df7224048_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/536cdb62-a2a2-48ee-9813-f29df7224048_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/536cdb62-a2a2-48ee-9813-f29df7224048_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1eb"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:49.608Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 3,
+    "name": "简单句真题例句",
+    "updatedAt": "2017-03-22T13:50:57.363Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6f5",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.610Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6f5",
+      "order": 1,
+      "name": "简单句真题例句",
+      "updatedAt": "2017-03-22T13:50:57.405Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/59866620-7295-4cd8-88eb-caebba28a863_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/59866620-7295-4cd8-88eb-caebba28a863_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/59866620-7295-4cd8-88eb-caebba28a863_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/59866620-7295-4cd8-88eb-caebba28a863_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/59866620-7295-4cd8-88eb-caebba28a863_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1ec"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:49.672Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 4,
+    "name": "名词性从句之主语从句",
+    "updatedAt": "2017-03-22T13:50:57.446Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6f6",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.675Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6f6",
+      "order": 1,
+      "name": "名词性从句之主语从句",
+      "updatedAt": "2017-03-22T13:50:57.520Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/784f5e83-f159-401b-9c65-dfa6ff071390_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/784f5e83-f159-401b-9c65-dfa6ff071390_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/784f5e83-f159-401b-9c65-dfa6ff071390_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/784f5e83-f159-401b-9c65-dfa6ff071390_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/784f5e83-f159-401b-9c65-dfa6ff071390_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1ed"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:49.736Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 5,
+    "name": "名词性从句之宾语从句",
+    "updatedAt": "2017-03-22T13:50:57.555Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6f7",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.739Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6f7",
+      "order": 1,
+      "name": "名词性从句之宾语从句",
+      "updatedAt": "2017-03-22T13:50:57.606Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/16dc5bb5-a061-4530-9bd8-0c5e5cae4b57_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/16dc5bb5-a061-4530-9bd8-0c5e5cae4b57_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/16dc5bb5-a061-4530-9bd8-0c5e5cae4b57_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/16dc5bb5-a061-4530-9bd8-0c5e5cae4b57_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/16dc5bb5-a061-4530-9bd8-0c5e5cae4b57_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1ee"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:49.806Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 6,
+    "name": "名词性从句真题例句",
+    "updatedAt": "2017-03-22T13:50:57.643Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6f8",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.809Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6f8",
+      "order": 1,
+      "name": "名词性从句真题例句",
+      "updatedAt": "2017-03-22T13:50:57.696Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fba4df57-659e-4942-a44b-369464532264_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/fba4df57-659e-4942-a44b-369464532264_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/fba4df57-659e-4942-a44b-369464532264_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/fba4df57-659e-4942-a44b-369464532264_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/fba4df57-659e-4942-a44b-369464532264_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1ef"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:49.874Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 7,
+    "name": "状语从句之什么是状语",
+    "updatedAt": "2017-03-22T13:50:57.736Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6f9",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.876Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6f9",
+      "order": 1,
+      "name": "状语从句之什么是状语",
+      "updatedAt": "2017-03-22T13:50:57.786Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2971be7e-7300-4673-96b9-274b1ae15a80_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/2971be7e-7300-4673-96b9-274b1ae15a80_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/2971be7e-7300-4673-96b9-274b1ae15a80_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/2971be7e-7300-4673-96b9-274b1ae15a80_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/2971be7e-7300-4673-96b9-274b1ae15a80_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f0"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:49.946Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 8,
+    "name": "目的状语从句",
+    "updatedAt": "2017-03-22T13:50:57.836Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6fa",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:49.949Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6fa",
+      "order": 1,
+      "name": "目的状语从句",
+      "updatedAt": "2017-03-22T13:50:57.891Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d761fab2-418b-4725-9ad4-a3312c153d74_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d761fab2-418b-4725-9ad4-a3312c153d74_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d761fab2-418b-4725-9ad4-a3312c153d74_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d761fab2-418b-4725-9ad4-a3312c153d74_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d761fab2-418b-4725-9ad4-a3312c153d74_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f1"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.022Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 9,
+    "name": "状语从句真题例句",
+    "updatedAt": "2017-03-22T13:50:57.930Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6fb",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.025Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6fb",
+      "order": 1,
+      "name": "状语从句真题例句",
+      "updatedAt": "2017-03-22T13:50:58.306Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1738a589-ceb6-43a2-b5e4-f6be8c8fea22_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/1738a589-ceb6-43a2-b5e4-f6be8c8fea22_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/1738a589-ceb6-43a2-b5e4-f6be8c8fea22_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/1738a589-ceb6-43a2-b5e4-f6be8c8fea22_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/1738a589-ceb6-43a2-b5e4-f6be8c8fea22_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f2"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.092Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 10,
+    "name": "定语从句的概念",
+    "updatedAt": "2017-03-22T13:50:58.341Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6fc",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.095Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6fc",
+      "order": 1,
+      "name": "定语从句的概念",
+      "updatedAt": "2017-03-22T13:50:58.410Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2609bc0b-d6fa-4e9d-8165-29fd9068e004_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/2609bc0b-d6fa-4e9d-8165-29fd9068e004_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/2609bc0b-d6fa-4e9d-8165-29fd9068e004_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/2609bc0b-d6fa-4e9d-8165-29fd9068e004_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/2609bc0b-d6fa-4e9d-8165-29fd9068e004_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f3"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.166Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 11,
+    "name": "定语从句之关系副词",
+    "updatedAt": "2017-03-22T13:50:58.461Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6fd",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.169Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6fd",
+      "order": 1,
+      "name": "定语从句之关系副词",
+      "updatedAt": "2017-03-22T13:50:58.511Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/dfdb4e97-af13-46a6-a422-87b232b9bad5_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/dfdb4e97-af13-46a6-a422-87b232b9bad5_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/dfdb4e97-af13-46a6-a422-87b232b9bad5_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/dfdb4e97-af13-46a6-a422-87b232b9bad5_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/dfdb4e97-af13-46a6-a422-87b232b9bad5_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f4"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.241Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 12,
+    "name": "定语从句真题例句",
+    "updatedAt": "2017-03-22T13:50:58.553Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6fe",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.244Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6fe",
+      "order": 1,
+      "name": "定语从句真题例句",
+      "updatedAt": "2017-03-22T13:50:58.603Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1f8fe400-c999-4c1f-a3d0-dbfa412572b0_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/1f8fe400-c999-4c1f-a3d0-dbfa412572b0_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/1f8fe400-c999-4c1f-a3d0-dbfa412572b0_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/1f8fe400-c999-4c1f-a3d0-dbfa412572b0_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/1f8fe400-c999-4c1f-a3d0-dbfa412572b0_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f5"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.307Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 13,
+    "name": "同位语从句的概念",
+    "updatedAt": "2017-03-22T13:50:58.637Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b6ff",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.310Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b6ff",
+      "order": 1,
+      "name": "同位语从句的概念",
+      "updatedAt": "2017-03-22T13:50:58.691Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/05dbb67d-b686-4852-bdfd-9de2dbcd1359_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/05dbb67d-b686-4852-bdfd-9de2dbcd1359_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/05dbb67d-b686-4852-bdfd-9de2dbcd1359_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/05dbb67d-b686-4852-bdfd-9de2dbcd1359_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/05dbb67d-b686-4852-bdfd-9de2dbcd1359_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f6"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.377Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 14,
+    "name": "同位语从句与定语从句的区别",
+    "updatedAt": "2017-03-22T13:50:58.730Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b700",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.380Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b700",
+      "order": 1,
+      "name": "同位语从句与定语从句的区别",
+      "updatedAt": "2017-03-22T13:50:58.785Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/139cb5c7-4c6c-443a-9be8-5d57d50b722d_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/139cb5c7-4c6c-443a-9be8-5d57d50b722d_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/139cb5c7-4c6c-443a-9be8-5d57d50b722d_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/139cb5c7-4c6c-443a-9be8-5d57d50b722d_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/139cb5c7-4c6c-443a-9be8-5d57d50b722d_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f7"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.448Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 15,
+    "name": "同位语从句真题例句",
+    "updatedAt": "2017-03-22T13:50:58.821Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b701",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.451Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b701",
+      "order": 1,
+      "name": "同位语从句真题例句",
+      "updatedAt": "2017-03-22T13:50:58.877Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/36308129-287b-4a1e-9cdd-3357edd6d23e_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/36308129-287b-4a1e-9cdd-3357edd6d23e_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/36308129-287b-4a1e-9cdd-3357edd6d23e_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/36308129-287b-4a1e-9cdd-3357edd6d23e_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/36308129-287b-4a1e-9cdd-3357edd6d23e_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.519Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 16,
+    "name": "非谓语动词的概念",
+    "updatedAt": "2017-03-22T13:50:58.915Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b702",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.521Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b702",
+      "order": 1,
+      "name": "非谓语动词的概念",
+      "updatedAt": "2017-03-22T13:50:58.964Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a69b0bfb-48bd-43c4-9ad5-f09e8ba6cbea_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/a69b0bfb-48bd-43c4-9ad5-f09e8ba6cbea_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/a69b0bfb-48bd-43c4-9ad5-f09e8ba6cbea_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/a69b0bfb-48bd-43c4-9ad5-f09e8ba6cbea_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/a69b0bfb-48bd-43c4-9ad5-f09e8ba6cbea_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1f9"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.588Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 17,
+    "name": "非谓语动词做状语",
+    "updatedAt": "2017-03-22T13:50:59.001Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b703",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.590Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b703",
+      "order": 1,
+      "name": "非谓语动词做状语",
+      "updatedAt": "2017-03-22T13:50:59.076Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/66f9cd0e-9488-4caa-8e8c-cc8cb561c188_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/66f9cd0e-9488-4caa-8e8c-cc8cb561c188_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/66f9cd0e-9488-4caa-8e8c-cc8cb561c188_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/66f9cd0e-9488-4caa-8e8c-cc8cb561c188_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/66f9cd0e-9488-4caa-8e8c-cc8cb561c188_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1fa"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:50.655Z",
+    "courseId": "586d23485f07127674135da4",
+    "order": 18,
+    "name": "非谓语动词真题例句",
+    "updatedAt": "2017-03-22T13:50:59.364Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b704",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:50.658Z",
+      "courseId": "586d23485f07127674135da4",
+      "parentId": "586d23555f0712767415b704",
+      "order": 1,
+      "name": "非谓语动词真题例句",
+      "updatedAt": "2017-03-22T13:50:59.424Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/8de81e55-744d-4f9f-86db-e70f08d5c11b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/8de81e55-744d-4f9f-86db-e70f08d5c11b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/8de81e55-744d-4f9f-86db-e70f08d5c11b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/8de81e55-744d-4f9f-86db-e70f08d5c11b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/8de81e55-744d-4f9f-86db-e70f08d5c11b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a1fb"
+    }]
+  }],
+  "hasTopic": false
+}

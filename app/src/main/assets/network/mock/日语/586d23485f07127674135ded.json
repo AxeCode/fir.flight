@@ -1,0 +1,457 @@
+{
+  "id": "586d23485f07127674135ded",
+  "name": "日本文化深度体验班（二）（个人版）",
+  "logo": "http://img.wanmen.org/images/f36f0d96-6bd5-499c-bd91-282217e0941e.png",
+  "order": 43,
+  "price": 148,
+  "promotion": null,
+  "description": "日本的文化中，存有一种独有的恬静，物哀，幽玄的风格。樱花、武士道、花火、、戏剧、俳句、茶道、动漫、茶道、香道，这一次，日本文化深度体验班，让日本人带你淋漓尽致一次遍历。",
+  "shortDescription": "樱花、武士道、花火、、戏剧、俳句、茶道、动漫、茶道、香道，这一次，日本文化深度体验班，让日本人带你淋漓尽致一次遍历。",
+  "hide": false,
+  "major": "586d234f5f07127674152c42",
+  "teacherName": "天地西伦",
+  "teacherAvatar": "http://imgs.wanmen.org/cc0dadb0e506326b999d1fbc619146d5.png",
+  "teacherDescription": "天地西伦，来自日本大阪。现在北京大学攻读国际关系博士学位，博士二年级。大学本科就读于京都外国语大学，专业是西班牙语。精通汉语（中国汉语水平级别考试（HSK)6级通过）、英语、日语、西班牙语四国语言，对于语言学习有深入的研究，也拥有丰富的日语教学经验。",
+  "numOfClasses": 4,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/825a16cc0df102db03e6ed7cfb7158dc.png",
+  "bigImageUrl": "http://imgs.wanmen.org/6eb383003abe9083c9a5183b9db953ca.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/53a1f3b3-f4f6-4c96-9dad-2bff6d20f5ab.png",
+  "smallHomeImageUrl": null,
+  "tag": "天地西伦 语言 日本 文化 深度 体验 班 二 个人版 日语 日本语 小语种",
+  "isPresell": null,
+  "liked": 3,
+  "createdAt": "2016-12-16T08:03:41.000Z",
+  "updatedAt": "2018-01-02T09:16:04.580Z",
+  "homeSmallImage": "http://img.wanmen.org/images/4bb6ec06-a02e-49e3-8fac-b7357b12284a.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/53a1f3b3-f4f6-4c96-9dad-2bff6d20f5ab.png",
+  "bigImage": "http://imgs.wanmen.org/6eb383003abe9083c9a5183b9db953ca.png",
+  "smallImage": "http://imgs.wanmen.org/825a16cc0df102db03e6ed7cfb7158dc.png",
+  "bookId": [],
+  "teacher": {
+    "name": "天地西伦",
+    "description": "天地西伦，来自日本大阪。现在北京大学攻读国际关系博士学位，博士二年级。大学本科就读于京都外国语大学，专业是西班牙语。精通汉语（中国汉语水平级别考试（HSK)6级通过）、英语、日语、西班牙语四国语言，对于语言学习有深入的研究，也拥有丰富的日语教学经验。",
+    "avatar": "http://imgs.wanmen.org/cc0dadb0e506326b999d1fbc619146d5.png",
+    "id": "586d23815f071276741c487d"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 18,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 6,
+  "app": "uni",
+  "numberOfClasses": 4,
+  "mobileCoverUrl": "http://imgs.wanmen.org/825a16cc0df102db03e6ed7cfb7158dc.png",
+  "coverUrl": "http://imgs.wanmen.org/6eb383003abe9083c9a5183b9db953ca.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "courseId": "586d23485f07127674135ded",
+    "name": "日本婚葬文化",
+    "createdAt": "2017-03-05T00:40:51.716Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2018-01-08T03:29:52.162Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5e938d3ac6dc9b13ccc0",
+    "children": [{
+      "courseId": "586d23485f07127674135ded",
+      "name": "庆祝仪式",
+      "parentId": "58bb5e938d3ac6dc9b13ccc0",
+      "createdAt": "2017-03-05T00:40:52.795Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T07:57:41.813Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_mobile_mid.m3u8"
+        },
+        "id": "590a8ddaef23a8305dbf4d63"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7f979d6c-e7b6-4511-a0c6-5e7167f59097_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58bb5e948d3ac6dc9b13ccc1"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "有关结婚的介绍",
+      "parentId": "58bb5e938d3ac6dc9b13ccc0",
+      "createdAt": "2017-03-05T00:40:53.376Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T07:57:45.803Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3d474ece-cfc0-4c4d-8caf-14cdfe10c35e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3d474ece-cfc0-4c4d-8caf-14cdfe10c35e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3d474ece-cfc0-4c4d-8caf-14cdfe10c35e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3d474ece-cfc0-4c4d-8caf-14cdfe10c35e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3d474ece-cfc0-4c4d-8caf-14cdfe10c35e_mobile_mid.m3u8"
+        },
+        "id": "591eb335d5ff752353a29ff3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5e958d3ac6dc9b13ccc2"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "结纳品、结婚形式",
+      "parentId": "58bb5e938d3ac6dc9b13ccc0",
+      "createdAt": "2017-03-05T00:40:53.533Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T07:57:50.210Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c6c2b65d-19f5-45a0-add9-a92fa460a627_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c6c2b65d-19f5-45a0-add9-a92fa460a627_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c6c2b65d-19f5-45a0-add9-a92fa460a627_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c6c2b65d-19f5-45a0-add9-a92fa460a627_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c6c2b65d-19f5-45a0-add9-a92fa460a627_mobile_mid.m3u8"
+        },
+        "id": "591eb382ef23a8301e5ebdd8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5e958d3ac6dc9b13ccc3"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "披露式、葬式",
+      "parentId": "58bb5e938d3ac6dc9b13ccc0",
+      "createdAt": "2017-03-05T00:40:53.728Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T07:57:54.603Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ebd84e6f-420d-475b-b6c2-eadc53432ef5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ebd84e6f-420d-475b-b6c2-eadc53432ef5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ebd84e6f-420d-475b-b6c2-eadc53432ef5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ebd84e6f-420d-475b-b6c2-eadc53432ef5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ebd84e6f-420d-475b-b6c2-eadc53432ef5_mobile_mid.m3u8"
+        },
+        "id": "591eb4d1ef23a83038f67c14"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5e958d3ac6dc9b13ccc4"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ded",
+    "name": "人与人之间的礼仪",
+    "createdAt": "2017-03-05T00:40:54.361Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2018-01-08T03:30:33.430Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5e968d3ac6dc9b13ccc5",
+    "children": [{
+      "courseId": "586d23485f07127674135ded",
+      "name": "葬仪",
+      "parentId": "58bb5e968d3ac6dc9b13ccc5",
+      "createdAt": "2017-03-05T00:45:37.473Z",
+      "order": 1,
+      "updatedAt": "2018-01-08T03:30:21.372Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/73e23b64-ba20-4ae7-b039-e2601a755f4d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/73e23b64-ba20-4ae7-b039-e2601a755f4d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/73e23b64-ba20-4ae7-b039-e2601a755f4d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/73e23b64-ba20-4ae7-b039-e2601a755f4d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/73e23b64-ba20-4ae7-b039-e2601a755f4d_mobile_mid.m3u8"
+        },
+        "id": "591eb5b0ef23a8302f307419"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fb18d3ac6dc9b13cccd"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "人与人之间的礼仪",
+      "parentId": "58bb5e968d3ac6dc9b13ccc5",
+      "createdAt": "2017-03-05T00:45:38.387Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T07:57:19.336Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/31d8acf4-3a67-430e-add8-6a9402159db4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/31d8acf4-3a67-430e-add8-6a9402159db4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/31d8acf4-3a67-430e-add8-6a9402159db4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/31d8acf4-3a67-430e-add8-6a9402159db4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/31d8acf4-3a67-430e-add8-6a9402159db4_mobile_mid.m3u8"
+        },
+        "id": "591ebb27d5ff752353a29ff4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fb28d3ac6dc9b13ccce"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "名刺",
+      "parentId": "58bb5e968d3ac6dc9b13ccc5",
+      "createdAt": "2017-03-05T00:45:38.590Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T07:57:25.454Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9b002ac4-f077-424e-a7f8-216958e1712f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9b002ac4-f077-424e-a7f8-216958e1712f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9b002ac4-f077-424e-a7f8-216958e1712f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9b002ac4-f077-424e-a7f8-216958e1712f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9b002ac4-f077-424e-a7f8-216958e1712f_mobile_mid.m3u8"
+        },
+        "id": "591ebb3cef23a830822d9c28"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fb38d3ac6dc9b13cccf"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "手势研究",
+      "parentId": "58bb5e968d3ac6dc9b13ccc5",
+      "createdAt": "2017-03-05T00:45:39.415Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T07:57:29.755Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/44b56de0-5d81-4cd4-a4ed-a55a22314dde_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/44b56de0-5d81-4cd4-a4ed-a55a22314dde_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/44b56de0-5d81-4cd4-a4ed-a55a22314dde_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/44b56de0-5d81-4cd4-a4ed-a55a22314dde_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/44b56de0-5d81-4cd4-a4ed-a55a22314dde_mobile_mid.m3u8"
+        },
+        "id": "591ebbd0ef23a82feb8a145a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fb38d3ac6dc9b13ccd0"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ded",
+    "name": "日本出行文化一",
+    "createdAt": "2017-03-05T00:45:39.851Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2018-01-08T03:31:13.969Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5fb48d3ac6dc9b13ccd1",
+    "children": [{
+      "courseId": "586d23485f07127674135ded",
+      "name": "日本“行”的特征",
+      "parentId": "58bb5fb48d3ac6dc9b13ccd1",
+      "createdAt": "2017-03-05T00:45:54.854Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T07:56:46.507Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/492036d4-bd0a-4262-b14f-90564d6c4eee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/492036d4-bd0a-4262-b14f-90564d6c4eee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/492036d4-bd0a-4262-b14f-90564d6c4eee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/492036d4-bd0a-4262-b14f-90564d6c4eee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/492036d4-bd0a-4262-b14f-90564d6c4eee_mobile_mid.m3u8"
+        },
+        "id": "591ebc76ef23a82eb67467c3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fc48d3ac6dc9b13ccd2"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "“行”之电车、地铁",
+      "parentId": "58bb5fb48d3ac6dc9b13ccd1",
+      "createdAt": "2017-03-05T00:45:56.306Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T07:56:51.371Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aeec84e8-1dae-43ee-96ea-028899e5ef36_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aeec84e8-1dae-43ee-96ea-028899e5ef36_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aeec84e8-1dae-43ee-96ea-028899e5ef36_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aeec84e8-1dae-43ee-96ea-028899e5ef36_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aeec84e8-1dae-43ee-96ea-028899e5ef36_mobile_mid.m3u8"
+        },
+        "id": "591ebf93ef23a8300dc58f0c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fc58d3ac6dc9b13ccd3"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "电车内部活动及电车睡眠",
+      "parentId": "58bb5fb48d3ac6dc9b13ccd1",
+      "createdAt": "2017-03-05T00:45:57.361Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T07:56:55.673Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1c509f40-c6af-49da-ad6e-cc5dbc24ba0a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1c509f40-c6af-49da-ad6e-cc5dbc24ba0a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1c509f40-c6af-49da-ad6e-cc5dbc24ba0a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1c509f40-c6af-49da-ad6e-cc5dbc24ba0a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1c509f40-c6af-49da-ad6e-cc5dbc24ba0a_mobile_mid.m3u8"
+        },
+        "id": "591ec308d5ff752353a29ff5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fc68d3ac6dc9b13ccd4"
+    }]
+  }, {
+    "courseId": "586d23485f07127674135ded",
+    "name": "日本出行文化二",
+    "createdAt": "2017-03-05T00:45:58.525Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2018-01-08T03:31:08.628Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58bb5fc78d3ac6dc9b13ccd5",
+    "children": [{
+      "courseId": "586d23485f07127674135ded",
+      "name": "电车、地铁中发生的事件",
+      "parentId": "58bb5fc78d3ac6dc9b13ccd5",
+      "createdAt": "2017-03-05T00:46:03.848Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T07:56:15.095Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dad37de9-ccee-4113-9ab8-6e6bdf1535f7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dad37de9-ccee-4113-9ab8-6e6bdf1535f7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dad37de9-ccee-4113-9ab8-6e6bdf1535f7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dad37de9-ccee-4113-9ab8-6e6bdf1535f7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dad37de9-ccee-4113-9ab8-6e6bdf1535f7_mobile_mid.m3u8"
+        },
+        "id": "591ec457ef23a8300e2477ba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fce8d3ac6dc9b13ccd6"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "接力赛、新干线、飞机",
+      "parentId": "58bb5fc78d3ac6dc9b13ccd5",
+      "createdAt": "2017-03-05T00:46:06.334Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T07:56:20.779Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b84223ff-70b1-496d-89af-c28e1c05c085_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b84223ff-70b1-496d-89af-c28e1c05c085_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b84223ff-70b1-496d-89af-c28e1c05c085_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b84223ff-70b1-496d-89af-c28e1c05c085_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b84223ff-70b1-496d-89af-c28e1c05c085_mobile_mid.m3u8"
+        },
+        "id": "591ec6c5ef23a830822d9c29"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fce8d3ac6dc9b13ccd7"
+    }, {
+      "courseId": "586d23485f07127674135ded",
+      "name": "“行”之巴士、出租车和其他方式",
+      "parentId": "58bb5fc78d3ac6dc9b13ccd5",
+      "createdAt": "2017-03-05T00:46:06.943Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T07:56:25.369Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/743370d3-b919-48e6-b402-9850a2343c2f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/743370d3-b919-48e6-b402-9850a2343c2f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/743370d3-b919-48e6-b402-9850a2343c2f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/743370d3-b919-48e6-b402-9850a2343c2f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/743370d3-b919-48e6-b402-9850a2343c2f_mobile_mid.m3u8"
+        },
+        "id": "591eca33d5ff75238841281f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58bb5fcf8d3ac6dc9b13ccd8"
+    }]
+  }],
+  "hasTopic": false
+}

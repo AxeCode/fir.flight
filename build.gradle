@@ -18,6 +18,7 @@ allprojects {
         maven {
             url "http://maven.bughd.com/public"
         }
+        maven { url 'https://jitpack.io' }
     }
 }
 
@@ -63,7 +64,8 @@ ext {
             calligraphy           : 'uk.co.chrisjenx:calligraphy:2.2.0',
             videoplayer           : 'cn.jzvd:jiaozivideoplayer:6.2.3',
             nativecrashreport     : 'com.tencent.bugly:nativecrashreport:latest.release',
-            upgrade               : 'com.tencent.bugly:crashreport_upgrade:latest.release'
+            upgrade               : 'com.tencent.bugly:crashreport_upgrade:latest.release',
+            m3u8downloader        : 'com.github.Jay-Goo:M3U8Downloader:V1.0.6'
     ]
 
     // classpath

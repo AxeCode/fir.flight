@@ -1,0 +1,602 @@
+{
+  "id": "586d23485f07127674135d12",
+  "name": "日语五十音图语音入门",
+  "logo": "http://img.wanmen.org/course/logo/0960d34f-0b64-43d5-9a58-efdc40f6a31e..jpg",
+  "order": 1,
+  "price": 0,
+  "promotion": null,
+  "description": "日本语的五十音图及一些日语的发音知识，配合生动有趣的动漫辅助发音。 ",
+  "shortDescription": "16讲轻松掌握日语50音图，日语进阶之路为您打开",
+  "hide": false,
+  "major": "586d234f5f07127674152c42",
+  "teacherName": "刘苏曼",
+  "teacherAvatar": "http://imgs.wanmen.org/e1daf21e4eb4e234d219d000173a1c8d.png",
+  "teacherDescription": "刘苏曼，北京大学日语博士在读，著有《简单日语极速入门》。曾获第16届中日友好之声日语演讲比赛低年级组第1名，曾赴日本京都大学交换留学。多场口译、笔译、主持经验，曾负责东北亚学生论坛即席翻译。",
+  "numOfClasses": 16,
+  "qqGroup": "万门大学日语QQ交流群：336188749    或加万门官方微信号“小万君：wanmen009”为好友，备注“我要进日语微信群”。",
+  "smallImageUrl": "http://imgs.wanmen.org/fdbacbdf4d32e78f90e06ad0437c34af.png",
+  "bigImageUrl": "http://imgs.wanmen.org/6168a1795e3834371cd1d4cd08dbe784.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/655d1c64-1fff-44fa-b394-94feedade50c.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "刘苏曼 语言 日语 五十 音图 语音 入门  日本语",
+  "isPresell": null,
+  "createdAt": "2014-11-20T05:20:36.000Z",
+  "updatedAt": "2018-01-08T13:37:42.111Z",
+  "homeSmallImage": "http://img.wanmen.org/images/cdbad2d7-58d1-46f8-ba9d-ea52145b69a0.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/655d1c64-1fff-44fa-b394-94feedade50c.jpeg",
+  "bigImage": "http://imgs.wanmen.org/6168a1795e3834371cd1d4cd08dbe784.png",
+  "smallImage": "http://imgs.wanmen.org/fdbacbdf4d32e78f90e06ad0437c34af.png",
+  "bookId": [],
+  "teacher": {
+    "name": "刘苏曼",
+    "description": "刘苏曼，北京大学日语博士在读，著有《简单日语极速入门》。曾获第16届中日友好之声日语演讲比赛低年级组第1名，曾赴日本京都大学交换留学。多场口译、笔译、主持经验，曾负责东北亚学生论坛即席翻译。",
+    "avatar": "http://imgs.wanmen.org/e1daf21e4eb4e234d219d000173a1c8d.png",
+    "id": "5923f37629a8354075e09ac2"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 16,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 1052,
+  "app": "uni",
+  "numberOfClasses": 16,
+  "mobileCoverUrl": "http://imgs.wanmen.org/fdbacbdf4d32e78f90e06ad0437c34af.png",
+  "coverUrl": "http://imgs.wanmen.org/6168a1795e3834371cd1d4cd08dbe784.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:34:59.866Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 1,
+    "name": "日本文字介绍",
+    "updatedAt": "2017-05-09T06:26:13.940Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae2e",
+    "children": [{
+      "createdAt": "2017-02-21T17:34:59.869Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae2e",
+      "order": 1,
+      "name": "日本文字介绍",
+      "updatedAt": "2017-05-09T06:26:13.960Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/28843623-76d0-42de-bc74-06c876dc9997_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/28843623-76d0-42de-bc74-06c876dc9997_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/28843623-76d0-42de-bc74-06c876dc9997_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/28843623-76d0-42de-bc74-06c876dc9997_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/28843623-76d0-42de-bc74-06c876dc9997_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158694"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:34:59.931Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 2,
+    "name": "五十音图第一行",
+    "updatedAt": "2017-05-09T06:26:13.963Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae33",
+    "children": [{
+      "createdAt": "2017-02-21T17:34:59.933Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae33",
+      "order": 1,
+      "name": "五十音图第一行",
+      "updatedAt": "2017-05-09T06:26:13.984Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3ee9c98c-6be1-4527-b13c-c39d265c6f76_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/3ee9c98c-6be1-4527-b13c-c39d265c6f76_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/3ee9c98c-6be1-4527-b13c-c39d265c6f76_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/3ee9c98c-6be1-4527-b13c-c39d265c6f76_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/3ee9c98c-6be1-4527-b13c-c39d265c6f76_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415869f"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:34:59.994Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 3,
+    "name": "五十音图第二行",
+    "updatedAt": "2017-05-09T06:26:13.988Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae34",
+    "children": [{
+      "createdAt": "2017-02-21T17:34:59.997Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae34",
+      "order": 1,
+      "name": "五十音图第二行",
+      "updatedAt": "2017-05-09T06:26:14.008Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d774940c-71f4-46c6-8aef-a80e8e6d6cfe_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d774940c-71f4-46c6-8aef-a80e8e6d6cfe_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d774940c-71f4-46c6-8aef-a80e8e6d6cfe_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d774940c-71f4-46c6-8aef-a80e8e6d6cfe_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d774940c-71f4-46c6-8aef-a80e8e6d6cfe_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586a0"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.060Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 4,
+    "name": "五十音图第三行",
+    "updatedAt": "2017-05-09T06:26:14.010Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae37",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.063Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae37",
+      "order": 1,
+      "name": "五十音图第三行",
+      "updatedAt": "2017-05-09T06:26:14.029Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/023e7cc0-2677-4ff3-bf9d-e94b960fef30_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/023e7cc0-2677-4ff3-bf9d-e94b960fef30_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/023e7cc0-2677-4ff3-bf9d-e94b960fef30_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/023e7cc0-2677-4ff3-bf9d-e94b960fef30_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/023e7cc0-2677-4ff3-bf9d-e94b960fef30_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586a9"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.142Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 5,
+    "name": "五十音图第四行",
+    "updatedAt": "2017-05-09T06:26:14.034Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae38",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.145Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae38",
+      "order": 1,
+      "name": "五十音图第四行",
+      "updatedAt": "2017-05-09T06:26:14.053Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/31ab3150-a8df-4271-b026-90ce961a6259_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/31ab3150-a8df-4271-b026-90ce961a6259_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/31ab3150-a8df-4271-b026-90ce961a6259_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/31ab3150-a8df-4271-b026-90ce961a6259_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/31ab3150-a8df-4271-b026-90ce961a6259_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586aa"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.215Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 6,
+    "name": "五十音图第五行",
+    "updatedAt": "2017-05-09T06:26:14.060Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae3a",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.218Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae3a",
+      "order": 1,
+      "name": "五十音图第五行",
+      "updatedAt": "2017-05-09T06:26:14.081Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0d204557-3735-4b7d-b0ba-62ab5467e97b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/0d204557-3735-4b7d-b0ba-62ab5467e97b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/0d204557-3735-4b7d-b0ba-62ab5467e97b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/0d204557-3735-4b7d-b0ba-62ab5467e97b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/0d204557-3735-4b7d-b0ba-62ab5467e97b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586af"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.287Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 7,
+    "name": "五十音图第六行",
+    "updatedAt": "2017-05-09T06:26:14.084Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae3b",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.290Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae3b",
+      "order": 1,
+      "name": "五十音图第六行",
+      "updatedAt": "2017-05-09T06:26:14.106Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3f4adeb9-96c9-4396-9b5e-e46ff3f10ed7_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/3f4adeb9-96c9-4396-9b5e-e46ff3f10ed7_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/3f4adeb9-96c9-4396-9b5e-e46ff3f10ed7_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/3f4adeb9-96c9-4396-9b5e-e46ff3f10ed7_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/3f4adeb9-96c9-4396-9b5e-e46ff3f10ed7_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586b0"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.358Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 8,
+    "name": "五十音图第七行",
+    "updatedAt": "2017-05-09T06:26:14.109Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae40",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.361Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae40",
+      "order": 1,
+      "name": "五十音图第七行",
+      "updatedAt": "2017-05-09T06:26:14.129Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d9acdabf-431c-4d59-a8df-556956f26336_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d9acdabf-431c-4d59-a8df-556956f26336_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d9acdabf-431c-4d59-a8df-556956f26336_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d9acdabf-431c-4d59-a8df-556956f26336_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d9acdabf-431c-4d59-a8df-556956f26336_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586ba"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.435Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 9,
+    "name": "五十音图第八行",
+    "updatedAt": "2017-05-09T06:26:14.133Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae41",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.438Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae41",
+      "order": 1,
+      "name": "五十音图第八行",
+      "updatedAt": "2017-05-09T06:26:14.154Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e1ac5ed7-023a-48b2-8d2c-969e401232b7_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/e1ac5ed7-023a-48b2-8d2c-969e401232b7_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/e1ac5ed7-023a-48b2-8d2c-969e401232b7_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/e1ac5ed7-023a-48b2-8d2c-969e401232b7_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/e1ac5ed7-023a-48b2-8d2c-969e401232b7_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586bb"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.513Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 10,
+    "name": "五十音图第九行",
+    "updatedAt": "2017-05-09T06:26:14.157Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae48",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.515Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae48",
+      "order": 1,
+      "name": "五十音图第九行",
+      "updatedAt": "2017-05-09T06:26:14.182Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f6e0ea13-811a-47f6-9915-5fc66637e64c_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f6e0ea13-811a-47f6-9915-5fc66637e64c_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f6e0ea13-811a-47f6-9915-5fc66637e64c_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f6e0ea13-811a-47f6-9915-5fc66637e64c_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f6e0ea13-811a-47f6-9915-5fc66637e64c_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586d1"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.579Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 11,
+    "name": "五十音图第十行",
+    "updatedAt": "2017-05-09T06:26:14.186Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae49",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.581Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae49",
+      "order": 1,
+      "name": "五十音图第十行",
+      "updatedAt": "2017-05-09T06:26:14.208Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f9bed27a-1eb3-4811-9a1a-411d2801d8ce_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f9bed27a-1eb3-4811-9a1a-411d2801d8ce_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f9bed27a-1eb3-4811-9a1a-411d2801d8ce_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f9bed27a-1eb3-4811-9a1a-411d2801d8ce_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f9bed27a-1eb3-4811-9a1a-411d2801d8ce_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586d2"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.652Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 12,
+    "name": "浊音半浊音",
+    "updatedAt": "2017-05-09T06:26:14.221Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae53",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.655Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae53",
+      "order": 1,
+      "name": "浊音半浊音",
+      "updatedAt": "2017-05-09T06:26:14.247Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9c8d576f-f6d5-4893-a4d6-643365c11dc7_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/9c8d576f-f6d5-4893-a4d6-643365c11dc7_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/9c8d576f-f6d5-4893-a4d6-643365c11dc7_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/9c8d576f-f6d5-4893-a4d6-643365c11dc7_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/9c8d576f-f6d5-4893-a4d6-643365c11dc7_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586f7"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.736Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 13,
+    "name": "拨音",
+    "updatedAt": "2017-05-09T06:26:14.251Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae54",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.739Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae54",
+      "order": 1,
+      "name": "拨音",
+      "updatedAt": "2017-05-09T06:26:14.273Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b7704331-fc96-43be-bb81-2e6665e24294_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/b7704331-fc96-43be-bb81-2e6665e24294_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/b7704331-fc96-43be-bb81-2e6665e24294_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/b7704331-fc96-43be-bb81-2e6665e24294_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/b7704331-fc96-43be-bb81-2e6665e24294_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741586f8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.808Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 14,
+    "name": "拗音",
+    "updatedAt": "2017-05-09T06:26:14.277Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae60",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.811Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae60",
+      "order": 1,
+      "name": "拗音",
+      "updatedAt": "2017-05-09T06:26:14.303Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fc42d2d2-aa0e-4b41-9dba-05cb15b0657b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/fc42d2d2-aa0e-4b41-9dba-05cb15b0657b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/fc42d2d2-aa0e-4b41-9dba-05cb15b0657b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/fc42d2d2-aa0e-4b41-9dba-05cb15b0657b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/fc42d2d2-aa0e-4b41-9dba-05cb15b0657b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415871a"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.880Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 15,
+    "name": "长音",
+    "updatedAt": "2017-05-09T06:26:14.315Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae61",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.883Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae61",
+      "order": 1,
+      "name": "长音",
+      "updatedAt": "2017-05-09T06:26:14.339Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0e97166f-71f8-4852-bd47-3e7375c24a5b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/0e97166f-71f8-4852-bd47-3e7375c24a5b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/0e97166f-71f8-4852-bd47-3e7375c24a5b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/0e97166f-71f8-4852-bd47-3e7375c24a5b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/0e97166f-71f8-4852-bd47-3e7375c24a5b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415871b"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:00.959Z",
+    "courseId": "586d23485f07127674135d12",
+    "order": 16,
+    "name": "促音",
+    "updatedAt": "2017-05-09T06:26:14.360Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae62",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:00.962Z",
+      "courseId": "586d23485f07127674135d12",
+      "parentId": "586d23555f0712767415ae62",
+      "order": 1,
+      "name": "促音",
+      "updatedAt": "2017-05-09T06:26:14.381Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/396f10b5-4669-4a13-aa78-6b684c201b1d_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/396f10b5-4669-4a13-aa78-6b684c201b1d_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/396f10b5-4669-4a13-aa78-6b684c201b1d_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/396f10b5-4669-4a13-aa78-6b684c201b1d_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/396f10b5-4669-4a13-aa78-6b684c201b1d_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415871c"
+    }]
+  }],
+  "hasTopic": false
+}

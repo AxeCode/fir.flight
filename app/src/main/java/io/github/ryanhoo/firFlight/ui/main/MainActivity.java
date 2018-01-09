@@ -15,13 +15,10 @@ import butterknife.ButterKnife;
 import io.fabric.sdk.android.Fabric;
 import io.github.ryanhoo.firFlight.R;
 import io.github.ryanhoo.firFlight.RxBus;
-import io.github.ryanhoo.firFlight.data.model.Courses;
 import io.github.ryanhoo.firFlight.event.SignOutEvent;
-import io.github.ryanhoo.firFlight.ui.app.CoursesFragment;
 import io.github.ryanhoo.firFlight.ui.base.BaseActivity;
 import io.github.ryanhoo.firFlight.ui.base.BaseFragment;
-import io.github.ryanhoo.firFlight.ui.common.Constants;
-import io.github.ryanhoo.firFlight.ui.message.MessagesFragment;
+import io.github.ryanhoo.firFlight.ui.genre.GenresFragment;
 import io.github.ryanhoo.firFlight.ui.profile.ProfileFragment;
 import io.github.ryanhoo.firFlight.ui.signin.SignInActivity;
 import rx.Subscription;
@@ -57,14 +54,14 @@ public class MainActivity extends BaseActivity {
 
         final String[] tabTitles = getResources().getStringArray(R.array.ff_main_tab_titles);
         final BaseFragment[] fragments = new BaseFragment[tabTitles.length];
-        //数学
-        fragments[0] = CoursesFragment.newInstance(Constants.SUBJECT_MATH, "58f0331bc6bdf222b1744e10");
-        //物理
-        fragments[1] = CoursesFragment.newInstance(Constants.SUBJECT_PHYSICS, "592e38d4b45f51716ab6f487");
-        //英语
-        fragments[2] = CoursesFragment.newInstance(Constants.SUBJECT_ENGLISH, "590b35f071b2262ac78f19fb");
-        //语文
-        fragments[3] = CoursesFragment.newInstance(Constants.SUBJECT_CHINESE, "59354a36d5fa2213f156cb86");
+        //语言
+        fragments[0] = GenresFragment.newInstance("586d234a5f071276741397fe");
+        //大学
+        fragments[1] = GenresFragment.newInstance("586d234a5f071276741397fc");
+        //高中
+        fragments[2] = GenresFragment.newInstance("586d234a5f071276741397fd");
+        //初中
+        fragments[3] = GenresFragment.newInstance("58ed8edff2ad3d5337232854");
         fragments[4] = new ProfileFragment();
 
         MainTabAdapter adapter = new MainTabAdapter(getSupportFragmentManager(), tabTitles, fragments);

@@ -44,7 +44,7 @@ android {
     buildToolsVersion "$rootProject.buildToolsVersion"
 
     defaultConfig {
-        applicationId 'io.yan.xuetang'
+        applicationId 'io.yan.xiazai'
         minSdkVersion "$rootProject.minSdkVersion".toInteger()
         targetSdkVersion "$rootProject.targetSdkVersion".toInteger()
         versionCode "$VERSION_CODE".toInteger()
@@ -156,5 +156,7 @@ dependencies {
 
     compile libs.upgrade
     compile libs.nativecrashreport
+
+    compile libs.m3u8downloader
 
 }

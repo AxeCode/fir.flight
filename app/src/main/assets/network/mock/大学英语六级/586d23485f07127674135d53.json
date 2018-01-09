@@ -1,0 +1,596 @@
+{
+  "id": "586d23485f07127674135d53",
+  "name": "四六级阅读精练",
+  "logo": "http://img.wanmen.org/course/logo/3ed06314-2a86-4a23-abc9-66b2b0b5e218..jpg",
+  "order": 5,
+  "price": 0,
+  "promotion": null,
+  "description": "按照四六级常考的几类阅读主题划分，并结合三类阅读题型，讲解解题思路，帮助备考同学熟悉题型并学会自己拓展相关主题背景知识的方法。",
+  "shortDescription": "四六级阅读特训专门班！",
+  "hide": false,
+  "major": "5a4302500b61756f4d2c4493",
+  "teacherName": "史心语",
+  "teacherAvatar": "http://imgs.wanmen.org/6c59985697eb99682e2a3fdf918397c2.png",
+  "teacherDescription": "史心语，北京大学英语翻译硕士，多年标准化考试应试和授课经验，雅思听力、阅读均达到满分水平，所授高中英文课程因风格独特清晰而深受学生喜爱。",
+  "numOfClasses": 7,
+  "qqGroup": "万门大学四六级QQ交流群：365044582",
+  "smallImageUrl": "http://imgs.wanmen.org/466370d5544c73c3593e596516d013f2.png",
+  "bigImageUrl": "http://imgs.wanmen.org/0edfa0e6b15b52cf298514a9a3509790.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/975ffe89-8ee1-4cf9-a8ff-fe5528a2e364.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "史心语 语言 四六级 阅读 精练 大学 英语六级 ",
+  "isPresell": null,
+  "createdAt": "2015-06-03T21:57:09.000Z",
+  "updatedAt": "2018-01-03T12:51:36.128Z",
+  "homeSmallImage": "http://img.wanmen.org/images/25d0761a-f165-4b1b-ba3b-48529d9deff4.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/975ffe89-8ee1-4cf9-a8ff-fe5528a2e364.jpeg",
+  "bigImage": "http://imgs.wanmen.org/0edfa0e6b15b52cf298514a9a3509790.png",
+  "smallImage": "http://imgs.wanmen.org/466370d5544c73c3593e596516d013f2.png",
+  "bookId": [],
+  "teacher": {
+    "name": "史心语",
+    "description": "史心语，北京大学英语翻译硕士，多年标准化考试应试和授课经验，雅思听力、阅读均达到满分水平，所授高中英文课程因风格独特清晰而深受学生喜爱。",
+    "avatar": "http://imgs.wanmen.org/6c59985697eb99682e2a3fdf918397c2.png",
+    "id": "586d236d5f071276741bab98"
+  },
+  "specialTrainingOrder": 0,
+  "expiration": 12,
+  "videoCount": 22,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 34,
+  "app": "uni",
+  "numberOfClasses": 7,
+  "mobileCoverUrl": "http://imgs.wanmen.org/466370d5544c73c3593e596516d013f2.png",
+  "coverUrl": "http://imgs.wanmen.org/0edfa0e6b15b52cf298514a9a3509790.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:36:24.190Z",
+    "courseId": "586d23485f07127674135d53",
+    "order": 1,
+    "name": "阅读概述",
+    "updatedAt": "2017-05-09T06:26:01.766Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b1c9",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:24.193Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1c9",
+      "order": 1,
+      "name": "考试要求",
+      "updatedAt": "2017-05-09T06:26:01.790Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/23570efd-64fb-4e0f-baf8-6cbaa1dc3155_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/23570efd-64fb-4e0f-baf8-6cbaa1dc3155_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/23570efd-64fb-4e0f-baf8-6cbaa1dc3155_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/23570efd-64fb-4e0f-baf8-6cbaa1dc3155_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/23570efd-64fb-4e0f-baf8-6cbaa1dc3155_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674159220"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.195Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1c9",
+      "order": 2,
+      "name": "题型介绍",
+      "updatedAt": "2017-05-09T06:26:01.801Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/cf6fdd78-b1b5-453b-a820-4a03dc11b7b8_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/cf6fdd78-b1b5-453b-a820-4a03dc11b7b8_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/cf6fdd78-b1b5-453b-a820-4a03dc11b7b8_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/cf6fdd78-b1b5-453b-a820-4a03dc11b7b8_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/cf6fdd78-b1b5-453b-a820-4a03dc11b7b8_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674159221"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.198Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1c9",
+      "order": 3,
+      "name": "如何阅读",
+      "updatedAt": "2017-05-09T06:26:01.810Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ee3f657a-4920-4c25-bee7-630fc88cd357_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/ee3f657a-4920-4c25-bee7-630fc88cd357_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/ee3f657a-4920-4c25-bee7-630fc88cd357_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/ee3f657a-4920-4c25-bee7-630fc88cd357_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/ee3f657a-4920-4c25-bee7-630fc88cd357_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674159222"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.201Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1c9",
+      "order": 4,
+      "name": "如何备考",
+      "updatedAt": "2017-05-09T06:26:01.818Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/964edb38-d4a4-48b6-a349-352a80af68ca_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/964edb38-d4a4-48b6-a349-352a80af68ca_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/964edb38-d4a4-48b6-a349-352a80af68ca_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/964edb38-d4a4-48b6-a349-352a80af68ca_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/964edb38-d4a4-48b6-a349-352a80af68ca_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674159223"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:24.262Z",
+    "courseId": "586d23485f07127674135d53",
+    "order": 2,
+    "name": "社会生活类",
+    "updatedAt": "2017-05-09T06:26:01.825Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b1ee",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:24.271Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ee",
+      "order": 1,
+      "name": "例题分析",
+      "updatedAt": "2017-05-09T06:26:01.853Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/76e0e0b2-7030-4866-896c-9265ed58d945_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/76e0e0b2-7030-4866-896c-9265ed58d945_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/76e0e0b2-7030-4866-896c-9265ed58d945_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/76e0e0b2-7030-4866-896c-9265ed58d945_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/76e0e0b2-7030-4866-896c-9265ed58d945_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592a3"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.274Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ee",
+      "order": 2,
+      "name": "阅读技巧",
+      "updatedAt": "2017-05-09T06:26:01.864Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/10b8f5bd-2953-4424-aeea-6518b1833c8b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/10b8f5bd-2953-4424-aeea-6518b1833c8b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/10b8f5bd-2953-4424-aeea-6518b1833c8b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/10b8f5bd-2953-4424-aeea-6518b1833c8b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/10b8f5bd-2953-4424-aeea-6518b1833c8b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592a4"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.276Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ee",
+      "order": 3,
+      "name": "举一反三",
+      "updatedAt": "2017-05-09T06:26:01.871Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2ea350e2-573b-4faa-bc75-725b235b5a1e_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/2ea350e2-573b-4faa-bc75-725b235b5a1e_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/2ea350e2-573b-4faa-bc75-725b235b5a1e_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/2ea350e2-573b-4faa-bc75-725b235b5a1e_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/2ea350e2-573b-4faa-bc75-725b235b5a1e_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592a5"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:24.337Z",
+    "courseId": "586d23485f07127674135d53",
+    "order": 3,
+    "name": "商业经济",
+    "updatedAt": "2017-05-09T06:26:01.877Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b1ef",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:24.340Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ef",
+      "order": 1,
+      "name": "例题分析",
+      "updatedAt": "2017-05-09T06:26:01.904Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/be531422-caf0-44c5-a4e6-99f21bb15c17_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/be531422-caf0-44c5-a4e6-99f21bb15c17_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/be531422-caf0-44c5-a4e6-99f21bb15c17_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/be531422-caf0-44c5-a4e6-99f21bb15c17_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/be531422-caf0-44c5-a4e6-99f21bb15c17_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592a6"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.342Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ef",
+      "order": 2,
+      "name": "阅读技巧",
+      "updatedAt": "2017-05-09T06:26:01.919Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b258afb6-0938-456a-b5d2-9502e6115f0c_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/b258afb6-0938-456a-b5d2-9502e6115f0c_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/b258afb6-0938-456a-b5d2-9502e6115f0c_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/b258afb6-0938-456a-b5d2-9502e6115f0c_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/b258afb6-0938-456a-b5d2-9502e6115f0c_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592a7"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.348Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ef",
+      "order": 3,
+      "name": "举一反三",
+      "updatedAt": "2017-05-09T06:26:01.927Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/84901c6b-4e1b-4bb9-a167-3c0aa820c222_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/84901c6b-4e1b-4bb9-a167-3c0aa820c222_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/84901c6b-4e1b-4bb9-a167-3c0aa820c222_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/84901c6b-4e1b-4bb9-a167-3c0aa820c222_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/84901c6b-4e1b-4bb9-a167-3c0aa820c222_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592a8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:24.410Z",
+    "courseId": "586d23485f07127674135d53",
+    "order": 4,
+    "name": "自然科学",
+    "updatedAt": "2017-05-09T06:26:01.936Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b1f0",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:24.414Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f0",
+      "order": 1,
+      "name": "例题分析",
+      "updatedAt": "2017-05-09T06:26:01.958Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6df7b711-1c70-49a1-9506-fcd6d329a967_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/6df7b711-1c70-49a1-9506-fcd6d329a967_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/6df7b711-1c70-49a1-9506-fcd6d329a967_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/6df7b711-1c70-49a1-9506-fcd6d329a967_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/6df7b711-1c70-49a1-9506-fcd6d329a967_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592a9"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.417Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f0",
+      "order": 2,
+      "name": "阅读技巧",
+      "updatedAt": "2017-05-09T06:26:01.967Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/18e32965-42e2-48fc-a9e7-8f90b9e36f10_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/18e32965-42e2-48fc-a9e7-8f90b9e36f10_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/18e32965-42e2-48fc-a9e7-8f90b9e36f10_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/18e32965-42e2-48fc-a9e7-8f90b9e36f10_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/18e32965-42e2-48fc-a9e7-8f90b9e36f10_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592aa"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.420Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f0",
+      "order": 3,
+      "name": "举一反三",
+      "updatedAt": "2017-05-09T06:26:01.980Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/bd6a37e2-70fc-4017-882f-1ca08143a082_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/bd6a37e2-70fc-4017-882f-1ca08143a082_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/bd6a37e2-70fc-4017-882f-1ca08143a082_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/bd6a37e2-70fc-4017-882f-1ca08143a082_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/bd6a37e2-70fc-4017-882f-1ca08143a082_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592ab"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:24.484Z",
+    "courseId": "586d23485f07127674135d53",
+    "order": 5,
+    "name": "环境健康",
+    "updatedAt": "2017-05-09T06:26:01.986Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b1f1",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:24.487Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f1",
+      "order": 1,
+      "name": "例题分析",
+      "updatedAt": "2017-05-09T06:26:02.013Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1d7cbdb4-0316-4a68-bd6e-72cdd6ff6e2b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/1d7cbdb4-0316-4a68-bd6e-72cdd6ff6e2b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/1d7cbdb4-0316-4a68-bd6e-72cdd6ff6e2b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/1d7cbdb4-0316-4a68-bd6e-72cdd6ff6e2b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/1d7cbdb4-0316-4a68-bd6e-72cdd6ff6e2b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592ac"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.489Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f1",
+      "order": 2,
+      "name": "阅读技巧",
+      "updatedAt": "2017-05-09T06:26:02.021Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5e48619a-2e81-4e4b-9aa5-9ca3ebb54336_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/5e48619a-2e81-4e4b-9aa5-9ca3ebb54336_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/5e48619a-2e81-4e4b-9aa5-9ca3ebb54336_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/5e48619a-2e81-4e4b-9aa5-9ca3ebb54336_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/5e48619a-2e81-4e4b-9aa5-9ca3ebb54336_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592ad"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.492Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f1",
+      "order": 3,
+      "name": "举一反三",
+      "updatedAt": "2017-05-09T06:26:02.028Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f399df83-c698-4902-ba36-d099c785dcda_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f399df83-c698-4902-ba36-d099c785dcda_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f399df83-c698-4902-ba36-d099c785dcda_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f399df83-c698-4902-ba36-d099c785dcda_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f399df83-c698-4902-ba36-d099c785dcda_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592ae"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:24.556Z",
+    "courseId": "586d23485f07127674135d53",
+    "order": 6,
+    "name": "文化教育",
+    "updatedAt": "2017-05-09T06:26:02.034Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b1f9",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:24.559Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f9",
+      "order": 1,
+      "name": "例题分析",
+      "updatedAt": "2017-05-09T06:26:02.056Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2fa51a0a-46f6-403c-a08f-48021efd3f5b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/2fa51a0a-46f6-403c-a08f-48021efd3f5b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/2fa51a0a-46f6-403c-a08f-48021efd3f5b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/2fa51a0a-46f6-403c-a08f-48021efd3f5b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/2fa51a0a-46f6-403c-a08f-48021efd3f5b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592c6"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.562Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f9",
+      "order": 2,
+      "name": "阅读技巧",
+      "updatedAt": "2017-05-09T06:26:02.062Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/851f6fbf-7b28-4b3f-93e3-3dfbd30aba14_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/851f6fbf-7b28-4b3f-93e3-3dfbd30aba14_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/851f6fbf-7b28-4b3f-93e3-3dfbd30aba14_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/851f6fbf-7b28-4b3f-93e3-3dfbd30aba14_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/851f6fbf-7b28-4b3f-93e3-3dfbd30aba14_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592c7"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.564Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1f9",
+      "order": 3,
+      "name": "举一反三",
+      "updatedAt": "2017-05-09T06:26:02.070Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/de1cc4b6-8e95-460d-93e6-53b95cb94865_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/de1cc4b6-8e95-460d-93e6-53b95cb94865_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/de1cc4b6-8e95-460d-93e6-53b95cb94865_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/de1cc4b6-8e95-460d-93e6-53b95cb94865_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/de1cc4b6-8e95-460d-93e6-53b95cb94865_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592c8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:24.633Z",
+    "courseId": "586d23485f07127674135d53",
+    "order": 7,
+    "name": "考前综合",
+    "updatedAt": "2017-05-09T06:26:02.077Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b1ff",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:24.636Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ff",
+      "order": 1,
+      "name": "长难句",
+      "updatedAt": "2017-05-09T06:26:02.100Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/423fda23-a6bb-4241-b7c7-87a49551aba1_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/423fda23-a6bb-4241-b7c7-87a49551aba1_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/423fda23-a6bb-4241-b7c7-87a49551aba1_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/423fda23-a6bb-4241-b7c7-87a49551aba1_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/423fda23-a6bb-4241-b7c7-87a49551aba1_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592db"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.639Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ff",
+      "order": 2,
+      "name": "如何模考",
+      "updatedAt": "2017-05-09T06:26:02.108Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2ff320c7-ace5-4c34-bee2-e13dfc1631bb_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/2ff320c7-ace5-4c34-bee2-e13dfc1631bb_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/2ff320c7-ace5-4c34-bee2-e13dfc1631bb_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/2ff320c7-ace5-4c34-bee2-e13dfc1631bb_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/2ff320c7-ace5-4c34-bee2-e13dfc1631bb_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592dc"
+    }, {
+      "createdAt": "2017-02-21T17:36:24.641Z",
+      "courseId": "586d23485f07127674135d53",
+      "parentId": "586d23555f0712767415b1ff",
+      "order": 3,
+      "name": "考场注意事项",
+      "updatedAt": "2017-05-09T06:26:02.118Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b6e8598f-de11-4009-a8bc-37fe1696da26_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/b6e8598f-de11-4009-a8bc-37fe1696da26_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/b6e8598f-de11-4009-a8bc-37fe1696da26_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/b6e8598f-de11-4009-a8bc-37fe1696da26_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/b6e8598f-de11-4009-a8bc-37fe1696da26_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592dd"
+    }]
+  }],
+  "hasTopic": false
+}

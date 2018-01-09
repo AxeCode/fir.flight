@@ -1,0 +1,520 @@
+{
+  "id": "586d23485f07127674135d99",
+  "name": "考霸六级词汇冲刺",
+  "logo": "http://img.wanmen.org/course/logo/77248cfb-efb8-4825-920a-296d1af09515..jpg",
+  "order": 8,
+  "price": 0,
+  "promotion": null,
+  "description": "在四级词汇名词后缀和副词后缀的基础上，总结形容词后缀和动词后缀，重点在于六级核心词汇的归纳总结上，结合词根后缀，帮助学生快速搞定六级词汇",
+  "shortDescription": "学霸六级词汇冲刺",
+  "hide": false,
+  "major": "5a4302500b61756f4d2c4493",
+  "teacherName": "杨子江",
+  "teacherAvatar": "http://imgs.wanmen.org/ddc6ecb1c0e2bb249200aabce0a3adc7.png",
+  "teacherDescription": "在四级词汇名词后缀和副词后缀的基础上，总结形容词后缀和动词后缀，重点在于六级核心词汇的归纳总结上，结合词根后缀，帮助学生快速搞定六级词汇",
+  "numOfClasses": 14,
+  "qqGroup": "",
+  "smallImageUrl": "http://imgs.wanmen.org/4975552c0a9858b039bfdb197d4a5fb8.png",
+  "bigImageUrl": "http://imgs.wanmen.org/6c522cea2dff8741f2bdfbf9b4c9c0b9.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/7aa5e2a4-c18f-4dd6-9610-f69942456639.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "杨子江 语言 考霸 六级 词汇 冲刺 大学 英语六级 ",
+  "isPresell": null,
+  "createdAt": "2016-03-18T21:46:31.000Z",
+  "updatedAt": "2018-01-02T09:31:01.425Z",
+  "homeSmallImage": "http://img.wanmen.org/images/20592184-25eb-4ec0-9da4-670d084d8f1d.jpeg",
+  "mobileSmallImage": "http://img.wanmen.org/images/7aa5e2a4-c18f-4dd6-9610-f69942456639.jpeg",
+  "bigImage": "http://imgs.wanmen.org/6c522cea2dff8741f2bdfbf9b4c9c0b9.png",
+  "smallImage": "http://imgs.wanmen.org/4975552c0a9858b039bfdb197d4a5fb8.png",
+  "bookId": [],
+  "teacher": {
+    "name": "杨子江",
+    "description": "在四级词汇名词后缀和副词后缀的基础上，总结形容词后缀和动词后缀，重点在于六级核心词汇的归纳总结上，结合词根后缀，帮助学生快速搞定六级词汇",
+    "avatar": "http://imgs.wanmen.org/ddc6ecb1c0e2bb249200aabce0a3adc7.png",
+    "id": "586d23715f071276741bcfc0"
+  },
+  "specialTrainingOrder": 0,
+  "expiration": 12,
+  "videoCount": 14,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 129,
+  "app": "uni",
+  "numberOfClasses": 14,
+  "mobileCoverUrl": "http://imgs.wanmen.org/4975552c0a9858b039bfdb197d4a5fb8.png",
+  "coverUrl": "http://imgs.wanmen.org/6c522cea2dff8741f2bdfbf9b4c9c0b9.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:37:34.569Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 1,
+    "name": "形容词后缀",
+    "updatedAt": "2017-03-30T23:00:01.462Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b5ff",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:34.571Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b5ff",
+      "order": 1,
+      "name": "形容词后缀（1）",
+      "updatedAt": "2017-03-30T23:00:01.495Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0cbff4bb-d8af-4e0d-b73e-b0b1f7095e3c_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/0cbff4bb-d8af-4e0d-b73e-b0b1f7095e3c_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/0cbff4bb-d8af-4e0d-b73e-b0b1f7095e3c_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/0cbff4bb-d8af-4e0d-b73e-b0b1f7095e3c_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/0cbff4bb-d8af-4e0d-b73e-b0b1f7095e3c_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a077"
+    }, {
+      "createdAt": "2017-02-21T17:37:34.574Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b5ff",
+      "order": 2,
+      "name": "形容词后缀（2）",
+      "updatedAt": "2017-03-30T23:00:01.507Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/125e5039-2270-434a-b7ff-7100011ef6bb_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/125e5039-2270-434a-b7ff-7100011ef6bb_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/125e5039-2270-434a-b7ff-7100011ef6bb_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/125e5039-2270-434a-b7ff-7100011ef6bb_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/125e5039-2270-434a-b7ff-7100011ef6bb_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a078"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:34.641Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 2,
+    "name": "动词后缀",
+    "updatedAt": "2017-03-30T23:00:01.518Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b608",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:34.643Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b608",
+      "order": 1,
+      "name": "动词后缀",
+      "updatedAt": "2017-03-30T23:00:01.545Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f172d0c9-508d-4b87-98d5-0e98c8924241_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f172d0c9-508d-4b87-98d5-0e98c8924241_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f172d0c9-508d-4b87-98d5-0e98c8924241_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f172d0c9-508d-4b87-98d5-0e98c8924241_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f172d0c9-508d-4b87-98d5-0e98c8924241_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a08e"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:34.710Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 3,
+    "name": "六级核心词汇（1）",
+    "updatedAt": "2017-03-30T23:00:01.556Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b609",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:34.713Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b609",
+      "order": 1,
+      "name": "六级核心词汇（1）",
+      "updatedAt": "2017-03-30T23:00:01.584Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f38e67e7-34f4-4496-a4d3-73f5f7d719ed_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f38e67e7-34f4-4496-a4d3-73f5f7d719ed_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f38e67e7-34f4-4496-a4d3-73f5f7d719ed_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f38e67e7-34f4-4496-a4d3-73f5f7d719ed_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f38e67e7-34f4-4496-a4d3-73f5f7d719ed_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a08f"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:34.777Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 4,
+    "name": "六级核心词汇（2）",
+    "updatedAt": "2017-03-30T23:00:01.595Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b60a",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:34.781Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b60a",
+      "order": 1,
+      "name": "六级核心词汇（2）",
+      "updatedAt": "2017-03-30T23:00:01.624Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/8004e694-facc-4bb1-961c-d0dbce8b8459_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/8004e694-facc-4bb1-961c-d0dbce8b8459_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/8004e694-facc-4bb1-961c-d0dbce8b8459_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/8004e694-facc-4bb1-961c-d0dbce8b8459_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/8004e694-facc-4bb1-961c-d0dbce8b8459_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a090"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:34.848Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 5,
+    "name": "六级核心词汇（3）",
+    "updatedAt": "2017-03-30T23:00:01.635Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b616",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:34.851Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b616",
+      "order": 1,
+      "name": "六级核心词汇（3）",
+      "updatedAt": "2017-03-30T23:00:01.662Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f3cbba9f-a1c5-4219-8ab2-b0a92dc20c41_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f3cbba9f-a1c5-4219-8ab2-b0a92dc20c41_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f3cbba9f-a1c5-4219-8ab2-b0a92dc20c41_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f3cbba9f-a1c5-4219-8ab2-b0a92dc20c41_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f3cbba9f-a1c5-4219-8ab2-b0a92dc20c41_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0a1"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:34.916Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 6,
+    "name": "六级核心词汇（4）",
+    "updatedAt": "2017-03-30T23:00:01.674Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b617",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:34.922Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b617",
+      "order": 1,
+      "name": "六级核心词汇（4）",
+      "updatedAt": "2017-03-30T23:00:01.698Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/cc67b63f-d68d-462c-a7ca-19ff700ae17b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/cc67b63f-d68d-462c-a7ca-19ff700ae17b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/cc67b63f-d68d-462c-a7ca-19ff700ae17b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/cc67b63f-d68d-462c-a7ca-19ff700ae17b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/cc67b63f-d68d-462c-a7ca-19ff700ae17b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0a2"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:34.992Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 7,
+    "name": "六级核心词汇（5）",
+    "updatedAt": "2017-03-30T23:00:01.708Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b618",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:35.001Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b618",
+      "order": 1,
+      "name": "六级核心词汇（5）",
+      "updatedAt": "2017-03-30T23:00:01.733Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f4533d2e-210e-46fd-8a7f-bfff481f5cdf_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/f4533d2e-210e-46fd-8a7f-bfff481f5cdf_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/f4533d2e-210e-46fd-8a7f-bfff481f5cdf_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/f4533d2e-210e-46fd-8a7f-bfff481f5cdf_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/f4533d2e-210e-46fd-8a7f-bfff481f5cdf_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0a3"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:35.061Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 8,
+    "name": "六级核心词汇（6）",
+    "updatedAt": "2017-03-30T23:00:01.744Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b62c",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:35.068Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b62c",
+      "order": 1,
+      "name": "六级核心词汇（6）",
+      "updatedAt": "2017-03-30T23:00:01.770Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b1f33adf-6035-4670-8b40-995f75122a11_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/b1f33adf-6035-4670-8b40-995f75122a11_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/b1f33adf-6035-4670-8b40-995f75122a11_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/b1f33adf-6035-4670-8b40-995f75122a11_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/b1f33adf-6035-4670-8b40-995f75122a11_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0c8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:35.126Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 9,
+    "name": "六级核心词汇（7）",
+    "updatedAt": "2017-03-30T23:00:01.778Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b62d",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:35.128Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b62d",
+      "order": 1,
+      "name": "六级核心词汇（7）",
+      "updatedAt": "2017-03-30T23:00:01.809Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/998bd7a3-5ab8-4ce4-9c98-1cb5b53dba94_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/998bd7a3-5ab8-4ce4-9c98-1cb5b53dba94_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/998bd7a3-5ab8-4ce4-9c98-1cb5b53dba94_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/998bd7a3-5ab8-4ce4-9c98-1cb5b53dba94_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/998bd7a3-5ab8-4ce4-9c98-1cb5b53dba94_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0cb"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:35.186Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 10,
+    "name": "六级核心词汇（8）",
+    "updatedAt": "2017-03-30T23:00:01.820Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b62e",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:35.188Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b62e",
+      "order": 1,
+      "name": "六级核心词汇（8）",
+      "updatedAt": "2017-03-30T23:00:01.845Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ee3e73fc-3a17-4262-bb5a-b2b7dfbb4cc4_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/ee3e73fc-3a17-4262-bb5a-b2b7dfbb4cc4_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/ee3e73fc-3a17-4262-bb5a-b2b7dfbb4cc4_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/ee3e73fc-3a17-4262-bb5a-b2b7dfbb4cc4_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/ee3e73fc-3a17-4262-bb5a-b2b7dfbb4cc4_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0ca"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:35.249Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 11,
+    "name": "六级核心词汇（9）",
+    "updatedAt": "2017-03-30T23:00:01.856Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b63e",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:35.252Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b63e",
+      "order": 1,
+      "name": "六级核心词汇（9）",
+      "updatedAt": "2017-03-30T23:00:01.882Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d18caa2f-a018-470f-945e-542192283677_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d18caa2f-a018-470f-945e-542192283677_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d18caa2f-a018-470f-945e-542192283677_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d18caa2f-a018-470f-945e-542192283677_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d18caa2f-a018-470f-945e-542192283677_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0e0"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:35.309Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 12,
+    "name": "六级核心词汇（10）",
+    "updatedAt": "2017-03-30T23:00:01.893Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b63f",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:35.312Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b63f",
+      "order": 1,
+      "name": "六级核心词汇（10）",
+      "updatedAt": "2017-03-30T23:00:01.923Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/43e56e85-10d1-4d95-813f-9897fbcd064b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/43e56e85-10d1-4d95-813f-9897fbcd064b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/43e56e85-10d1-4d95-813f-9897fbcd064b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/43e56e85-10d1-4d95-813f-9897fbcd064b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/43e56e85-10d1-4d95-813f-9897fbcd064b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0e1"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:37:35.385Z",
+    "courseId": "586d23485f07127674135d99",
+    "order": 13,
+    "name": "英文词汇和中文翻译",
+    "updatedAt": "2017-03-30T23:00:01.934Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b640",
+    "children": [{
+      "createdAt": "2017-02-21T17:37:35.387Z",
+      "courseId": "586d23485f07127674135d99",
+      "parentId": "586d23555f0712767415b640",
+      "order": 1,
+      "name": "英文词汇和中文翻译",
+      "updatedAt": "2017-03-30T23:00:01.962Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1350ffcb-8a45-4993-b554-11a9aaf20412_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/1350ffcb-8a45-4993-b554-11a9aaf20412_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/1350ffcb-8a45-4993-b554-11a9aaf20412_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/1350ffcb-8a45-4993-b554-11a9aaf20412_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/1350ffcb-8a45-4993-b554-11a9aaf20412_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a0e2"
+    }]
+  }],
+  "hasTopic": false
+}

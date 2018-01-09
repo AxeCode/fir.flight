@@ -1,0 +1,719 @@
+{
+  "id": "586d23485f07127674135dc4",
+  "name": "日语五十音图特训班",
+  "logo": "http://img.wanmen.org/images/266c23c0-785c-4f87-b666-8c83dd377e54.png",
+  "order": 8,
+  "price": 98,
+  "promotion": null,
+  "description": "玩游戏看动漫不会日语怎么办？新日剧看不懂？追idol很苦手…没时间解释了，日本外教带你零基础上车！五十音图快速入门！新世界大门立即打开！全程中日双语授课，北大博士带你飞！知识点涵盖： 零基础日语方法介绍、五十音图平假名、五十音图片假名、日本平假名文化、N多单词例句发音示范、简单的生活日语。",
+  "shortDescription": "日本平假名文化、N多单词例句发音示范、简单的生活日语",
+  "hide": false,
+  "major": "586d234f5f07127674152c42",
+  "teacherName": "天地西伦",
+  "teacherAvatar": "http://imgs.wanmen.org/cc0dadb0e506326b999d1fbc619146d5.png",
+  "teacherDescription": "天地西伦，来自日本大阪。现在北京大学攻读国际关系博士学位，博士二年级。大学本科就读于京都外国语大学，专业是西班牙语。精通汉语（中国汉语水平级别考试（HSK)6级通过）、英语、日语、西班牙语四国语言，对于语言学习有深入的研究，也拥有丰富的日语教学经验。",
+  "numOfClasses": 23,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/ed594abe38c8d4f01e15e47a9034d99d.png",
+  "bigImageUrl": "http://imgs.wanmen.org/847270f41a98d581ce5720a0ddf11873.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/da693c36-01de-424d-b10a-5a088c6bacea.png",
+  "smallHomeImageUrl": null,
+  "tag": "天地西伦 语言 日语 五十 音图 特训班 日本语 小语种",
+  "isPresell": null,
+  "liked": 37,
+  "createdAt": "2016-09-30T09:56:49.000Z",
+  "updatedAt": "2018-01-02T09:42:07.794Z",
+  "homeSmallImage": "http://img.wanmen.org/images/69c8ed4a-4e6a-4a7e-bca5-0c0e7496ee5c.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/da693c36-01de-424d-b10a-5a088c6bacea.png",
+  "bigImage": "http://imgs.wanmen.org/847270f41a98d581ce5720a0ddf11873.png",
+  "smallImage": "http://imgs.wanmen.org/ed594abe38c8d4f01e15e47a9034d99d.png",
+  "bookId": [],
+  "teacher": {
+    "name": "天地西伦",
+    "description": "天地西伦，来自日本大阪。现在北京大学攻读国际关系博士学位，博士二年级。大学本科就读于京都外国语大学，专业是西班牙语。精通汉语（中国汉语水平级别考试（HSK)6级通过）、英语、日语、西班牙语四国语言，对于语言学习有深入的研究，也拥有丰富的日语教学经验。",
+    "avatar": "http://imgs.wanmen.org/cc0dadb0e506326b999d1fbc619146d5.png",
+    "id": "586d23815f071276741c487d"
+  },
+  "expiration": 12,
+  "specialTrainingOrder": 0,
+  "videoCount": 23,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 37,
+  "app": "uni",
+  "numberOfClasses": 23,
+  "mobileCoverUrl": "http://imgs.wanmen.org/ed594abe38c8d4f01e15e47a9034d99d.png",
+  "coverUrl": "http://imgs.wanmen.org/847270f41a98d581ce5720a0ddf11873.png",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "createdAt": "2017-02-21T17:38:27.060Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 1,
+    "name": "日语五十音图特训班",
+    "updatedAt": "2018-01-02T03:06:33.064Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b8c7",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.062Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b8c7",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:06:11.628Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/8776eaf8-f4e6-414f-99f6-e84b5c7ffc2a_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/8776eaf8-f4e6-414f-99f6-e84b5c7ffc2a_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/8776eaf8-f4e6-414f-99f6-e84b5c7ffc2a_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/8776eaf8-f4e6-414f-99f6-e84b5c7ffc2a_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/8776eaf8-f4e6-414f-99f6-e84b5c7ffc2a_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415a774"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.143Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 2,
+    "name": "日语五十音图特训班",
+    "updatedAt": "2018-01-02T03:06:37.013Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b8d1",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.146Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b8d1",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:06:17.905Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a782"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.213Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 3,
+    "name": "日语五十音图特训班",
+    "updatedAt": "2018-01-02T03:06:43.385Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b925",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.215Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b925",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:06:23.987Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8b5"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.290Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 4,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:06:52.537Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b926",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.293Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b926",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:06:56.341Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8b6"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.353Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 5,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:07:00.660Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b927",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.355Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b927",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:07:05.855Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8b7"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.419Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 6,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:07:12.577Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b928",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.422Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b928",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:07:21.126Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8b8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.491Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 7,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:07:29.709Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b929",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.494Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b929",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:07:26.076Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8b9"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.553Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 8,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:07:35.256Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b92a",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.556Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b92a",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:07:39.222Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8ba"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.616Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 9,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:07:47.434Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b92b",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.619Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b92b",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:07:51.591Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8bb"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.683Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 10,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:07:57.369Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b92c",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.686Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b92c",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:08:01.492Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8bc"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.765Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 11,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:08:08.343Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b92d",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.768Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b92d",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:08:12.849Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/794d25e1-8587-4f8d-a892-7abdd8b6a584_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/794d25e1-8587-4f8d-a892-7abdd8b6a584_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/794d25e1-8587-4f8d-a892-7abdd8b6a584_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/794d25e1-8587-4f8d-a892-7abdd8b6a584_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/794d25e1-8587-4f8d-a892-7abdd8b6a584_mobile_mid.m3u8"
+        },
+        "id": "590a8e8bef23a8308c970db6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8bd"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.829Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 12,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:08:18.200Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b92e",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.832Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b92e",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:08:22.631Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8be"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.893Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 13,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:08:28.794Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b92f",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.896Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b92f",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:08:33.176Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8bf"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:27.959Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 14,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:08:38.892Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b930",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:27.962Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b930",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:08:43.862Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c0"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.026Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 15,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:08:50.203Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b931",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.028Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b931",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:08:55.073Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c1"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.099Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 16,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:09:00.634Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b932",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.102Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b932",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:10:17.136Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c2"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.162Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 17,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:10:22.084Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b933",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.164Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b933",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:10:26.431Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c3"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.227Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 18,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:10:33.770Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b934",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.230Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b934",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:10:38.061Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c4"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.301Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 19,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:10:44.375Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b935",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.304Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b935",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:10:48.629Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c5"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.366Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 20,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:10:54.544Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b936",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.368Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b936",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:10:59.050Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c6"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.434Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 21,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:11:05.834Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b937",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.436Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b937",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:11:09.998Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c7"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.496Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 22,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:11:18.021Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b938",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.499Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b938",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:11:23.228Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c8"
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:28.569Z",
+    "courseId": "586d23485f07127674135dc4",
+    "order": 23,
+    "name": "日语五十音图特训班 ",
+    "updatedAt": "2018-01-02T03:11:30.316Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b939",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:28.572Z",
+      "courseId": "586d23485f07127674135dc4",
+      "parentId": "586d23555f0712767415b939",
+      "order": 1,
+      "name": "日语五十音图特训班",
+      "updatedAt": "2018-01-02T03:11:35.325Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415a8c9"
+    }]
+  }],
+  "hasTopic": false
+}

@@ -1,4 +1,4 @@
-package io.github.ryanhoo.firFlight.ui.app;
+package io.github.ryanhoo.firFlight.ui.genre;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,12 +16,12 @@ import java.util.List;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import io.github.ryanhoo.firFlight.R;
-import io.github.ryanhoo.firFlight.data.model.Courses;
-import io.github.ryanhoo.firFlight.data.source.AppRepository;
+import io.github.ryanhoo.firFlight.data.model.Genre;
+import io.github.ryanhoo.firFlight.data.source.GenreRepository;
+import io.github.ryanhoo.firFlight.ui.app.CoursesActivity;
 import io.github.ryanhoo.firFlight.ui.base.BaseFragment;
 import io.github.ryanhoo.firFlight.ui.common.DefaultItemDecoration;
 import io.github.ryanhoo.firFlight.ui.helper.SwipeRefreshHelper;
-import io.github.ryanhoo.firFlight.ui.play.PlayActivity;
 
 import static io.github.ryanhoo.firFlight.ui.common.Constants.INTENT_CLASS_ID;
 import static io.github.ryanhoo.firFlight.ui.common.Constants.INTENT_SUBJECT_TYPE;
@@ -33,10 +33,11 @@ import static io.github.ryanhoo.firFlight.ui.common.Constants.INTENT_SUBJECT_TYP
  * Time: 12:29 AM
  * Desc: AppListFragment
  */
-public class CoursesFragment extends BaseFragment
-        implements AppContract.View, SwipeRefreshLayout.OnRefreshListener, CoursesAdapter.AppItemClickListener {
+public class GenresFragment extends BaseFragment
+        implements GenreContract.View, SwipeRefreshLayout.OnRefreshListener, GenresAdapter.AppItemClickListener {
 
     private static final String TAG = "AppListFragment";
+    private static final String GENRE_ID = "genre_id";
 
     @Bind(R.id.swipe_refresh_layout)
     SwipeRefreshLayout swipeRefreshLayout;
@@ -46,17 +47,15 @@ public class CoursesFragment extends BaseFragment
     @Bind(R.id.empty_view)
     View emptyView;
 
-    CoursesAdapter mAdapter;
+    GenresAdapter mAdapter;
 
-    String subjectType;
-    String classId;
-    AppContract.Presenter mPresenter;
+    String genreId;
+    GenreContract.Presenter mPresenter;
 
-    public static CoursesFragment newInstance(String subjectType, String courseId) {
-        CoursesFragment fragment = new CoursesFragment();
+    public static GenresFragment newInstance(String courseId) {
+        GenresFragment fragment = new GenresFragment();
         Bundle args = new Bundle();
-        args.putString(INTENT_SUBJECT_TYPE, subjectType);
-        args.putString(INTENT_CLASS_ID, courseId);
+        args.putString(GENRE_ID, courseId);
         fragment.setArguments(args);
         return fragment;
     }
@@ -73,13 +72,12 @@ public class CoursesFragment extends BaseFragment
         ButterKnife.bind(this, view);
 
         if (getArguments() != null) {
-            subjectType = getArguments().getString(INTENT_SUBJECT_TYPE);
-            classId = getArguments().getString(INTENT_CLASS_ID);
+            genreId = getArguments().getString(GENRE_ID);
         }
 
         SwipeRefreshHelper.setRefreshIndicatorColorScheme(swipeRefreshLayout);
         swipeRefreshLayout.setOnRefreshListener(this);
-        mAdapter = new CoursesAdapter(getActivity(), null);
+        mAdapter = new GenresAdapter(getActivity(), null);
         mAdapter.setOnItemClickListener(this);
         recyclerView.setAdapter(mAdapter);
         layoutManager = new LinearLayoutManager(getActivity());
@@ -90,7 +88,7 @@ public class CoursesFragment extends BaseFragment
                 getContext().getResources().getDimensionPixelSize(R.dimen.ff_padding_large)
         ));
 
-        new AppPresenter(AppRepository.getInstance(), this, classId).subscribe();
+        new GenrePresenter(GenreRepository.getInstance(), this, genreId).subscribe();
 
     }
 
@@ -100,7 +98,7 @@ public class CoursesFragment extends BaseFragment
     }
 
     @Override
-    public void onLoadAppStarted() {
+    public void onLoadGenreStarted() {
         swipeRefreshLayout.post(new Runnable() {
             @Override
             public void run() {
@@ -110,20 +108,20 @@ public class CoursesFragment extends BaseFragment
     }
 
     @Override
-    public void onLoadAppCompleted() {
+    public void onLoadGenreCompleted() {
         swipeRefreshLayout.setRefreshing(false);
         boolean isEmpty = mAdapter.getItemCount() == 0;
         emptyView.setVisibility(isEmpty ? View.VISIBLE : View.GONE);
     }
 
     @Override
-    public void onCourseLoaded(List<Courses> courses) {
-        mAdapter.setData(courses);
+    public void onGenreLoaded(List<Genre> genres) {
+        mAdapter.setData(genres);
         mAdapter.notifyDataSetChanged();
     }
 
     @Override
-    public void setPresenter(AppContract.Presenter presenter) {
+    public void setPresenter(GenreContract.Presenter presenter) {
         mPresenter = presenter;
     }
 
@@ -131,24 +129,24 @@ public class CoursesFragment extends BaseFragment
 
     @Override
     public void onRefresh() {
-        mPresenter.loadApps(classId);
+        mPresenter.loadGenres(genreId);
     }
 
     // AppItemClickListener
 
     @Override
     public void onItemClick(int position) {
-        Courses courses = mAdapter.getItem(position);
-        if (courses != null) {
-            Intent intent = new Intent(getActivity(), PlayActivity.class);
-            intent.putExtra(INTENT_SUBJECT_TYPE, subjectType);
-            intent.putExtra(INTENT_CLASS_ID, courses.getId());
+        Genre genre = mAdapter.getItem(position);
+        if (genre != null) {
+            Intent intent = new Intent(getActivity(), CoursesActivity.class);
+            intent.putExtra(INTENT_SUBJECT_TYPE, genre.getName());
+            intent.putExtra(INTENT_CLASS_ID, genre.getId());
             startActivity(intent);
         }
     }
 
     @Override
-    public void onButtonClick(final CoursesItemView itemView, final int position) {
+    public void onButtonClick(final GenresItemView itemView, final int position) {
     }
 
 }

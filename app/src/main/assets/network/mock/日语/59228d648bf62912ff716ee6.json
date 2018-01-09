@@ -1,0 +1,1604 @@
+{
+  "major": "586d234f5f07127674152c42",
+  "description": "混迹在各种日语学习交流群，听遍了各大机构的五十音课程，然而对五十音图还是一知半解？北大日语硕士汤汤老师将结合日本动漫进行教学，视频加音频，在欣赏动漫的过程中轻松熟记日语五十音。课程讲授包括五十音和基础词汇、句子精讲，非常适合日语零基础的同学。这一次，带你真正轻松玩转五十音！",
+  "characterization": "<p >“北大学姐带你玩转五十音”课程从6月5日--26日每周一、三、五20:00—21:00，由北大日语硕士汤汤老师主讲。</p>",
+  "deleted": false,
+  "bigImage": "http://imgs.wanmen.org/73cb4e055003d82e142b9e1f25e22937.png",
+  "smallImage": "http://imgs.wanmen.org/88c0d1c4de7e635db50f9e755ec70f83.png",
+  "updatedAt": "2018-01-04T01:35:22.224Z",
+  "teacher": {
+    "name": "汤汤",
+    "description": "汤汤，万门大学日语全职讲师，北京大学日语硕士，CATTI二级，114家教网日语明星讲师，曾翻译过《富士仓库资料》和《北部事变画报》等作品。",
+    "avatar": "http://imgs.wanmen.org/407a1d82da9f5f56aa555aa17ed7a7c6.png",
+    "id": "59228de28bf62912ff716ee9"
+  },
+  "createdAt": "2017-05-22T07:04:04.646Z",
+  "hide": false,
+  "name": "北大学姐带你玩转五十音",
+  "isPinned": true,
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/444b334f-e8d4-4189-a7a7-05c8b051f31e_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/444b334f-e8d4-4189-a7a7-05c8b051f31e_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/444b334f-e8d4-4189-a7a7-05c8b051f31e_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/444b334f-e8d4-4189-a7a7-05c8b051f31e_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/444b334f-e8d4-4189-a7a7-05c8b051f31e_mobile_mid.m3u8"
+    },
+    "id": "5934c0f4d5ff75236719ef05"
+  },
+  "expiration": 36,
+  "deletedAt": null,
+  "streamKey": "8184260578065929",
+  "price": 78,
+  "openingAt": "2017-06-05T12:00:00.755Z",
+  "lastConnectedAt": 1501240219,
+  "order": null,
+  "numOfClasses": 10,
+  "tag": "汤汤 语言 北大 玩转 五十音 日语 ",
+  "specialTrainingOrder": 0,
+  "videoCount": 51,
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "finished",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a41aea6a4df6c5e2dbfa19d",
+    "startDate": "2017-06-05T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音1",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa19c",
+    "startDate": "2017-06-07T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音2",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa19b",
+    "startDate": "2017-06-09T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音3",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa19a",
+    "startDate": "2017-06-12T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音4",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa199",
+    "startDate": "2017-06-14T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音5",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa198",
+    "startDate": "2017-06-16T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音6",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa197",
+    "startDate": "2017-06-19T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音7",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa196",
+    "startDate": "2017-06-21T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音8",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa195",
+    "startDate": "2017-06-23T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音9",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }, {
+    "_id": "5a41aea6a4df6c5e2dbfa194",
+    "startDate": "2017-06-26T00:00:00.000Z",
+    "name": "北大学姐带你玩转五十音10",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }],
+  "type": "record",
+  "likes": 4,
+  "app": "uni",
+  "numberOfClasses": 10,
+  "teacherDescription": "汤汤，万门大学日语全职讲师，北京大学日语硕士，CATTI二级，114家教网日语明星讲师，曾翻译过《富士仓库资料》和《北部事变画报》等作品。",
+  "teacherAvatar": "http://imgs.wanmen.org/407a1d82da9f5f56aa555aa17ed7a7c6.png",
+  "teacherName": "汤汤",
+  "mobileCoverUrl": "http://imgs.wanmen.org/88c0d1c4de7e635db50f9e755ec70f83.png",
+  "coverUrl": "http://imgs.wanmen.org/73cb4e055003d82e142b9e1f25e22937.png",
+  "smallImageUrl": "http://imgs.wanmen.org/88c0d1c4de7e635db50f9e755ec70f83.png",
+  "bigImageUrl": "http://imgs.wanmen.org/73cb4e055003d82e142b9e1f25e22937.png",
+  "id": "59228d648bf62912ff716ee6",
+  "isPaid": false,
+  "remainingDays": -1,
+  "isLiked": false,
+  "isFaved": false,
+  "history": null,
+  "isPass": false,
+  "lectures": [{
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日本文字介绍及あ行假名精讲",
+    "order": 1,
+    "updatedAt": "2017-12-22T04:13:13.400Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5935565fd5fa2213f156cb93",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:40:16.562Z",
+      "updatedAt": "2017-12-22T04:13:19.605Z",
+      "parentId": "5935565fd5fa2213f156cb93",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "日本文字平假名、片假名介绍",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_mobile_mid.m3u8"
+        },
+        "id": "5977220fef23a8306926cbfd"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5977f3007124035265032928",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/0608bc4a-de3a-4d94-9ff0-52f1b9030ebd_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:40:50.002Z",
+      "updatedAt": "2017-12-22T04:13:25.403Z",
+      "parentId": "5935565fd5fa2213f156cb93",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "日本文字罗马字、汉字介绍及五十音图假名之あ、い精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_mobile_mid.m3u8"
+        },
+        "id": "5977225751f0744b7dbf1ca7"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5977f322712403526503292a",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/08db15ef-0ba6-4e86-b450-3d93f802d00f_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:41:05.345Z",
+      "updatedAt": "2017-12-22T04:13:33.492Z",
+      "parentId": "5935565fd5fa2213f156cb93",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之う、え、お精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_mobile_mid.m3u8"
+        },
+        "id": "5977228c51f0744b09d589d1"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5977f331712403526503292c",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/334bbe3f-d93c-4fb3-bb23-402bc4699721_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:41:21.424Z",
+      "updatedAt": "2017-12-22T04:13:42.596Z",
+      "parentId": "5935565fd5fa2213f156cb93",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图之あ行假名发音练习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_mobile_mid.m3u8"
+        },
+        "id": "597722bfef23a87f216eeb2c"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5977f341712403526503292e",
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/14979317-46ec-4c17-b5b1-5053aa778c03_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语五十音图か行及さ行假名精讲2",
+    "order": 2,
+    "updatedAt": "2017-12-22T04:16:03.216Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5937fd81064d04147897b7ed",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:43:48.682Z",
+      "updatedAt": "2017-12-22T04:13:52.843Z",
+      "parentId": "5937fd81064d04147897b7ed",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之か 、き精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8bb8ac1f-f27d-406f-8756-98568bf843da_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8bb8ac1f-f27d-406f-8756-98568bf843da_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8bb8ac1f-f27d-406f-8756-98568bf843da_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8bb8ac1f-f27d-406f-8756-98568bf843da_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8bb8ac1f-f27d-406f-8756-98568bf843da_mobile_mid.m3u8"
+        },
+        "id": "59772468d5ff75136d2008d7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f3d47124035265032930",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:44:02.334Z",
+      "updatedAt": "2017-12-22T04:13:58.617Z",
+      "parentId": "5937fd81064d04147897b7ed",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之ク、け、こ精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f135d7b3-73ee-48f7-81c6-2924b3e81d0c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f135d7b3-73ee-48f7-81c6-2924b3e81d0c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f135d7b3-73ee-48f7-81c6-2924b3e81d0c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f135d7b3-73ee-48f7-81c6-2924b3e81d0c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f135d7b3-73ee-48f7-81c6-2924b3e81d0c_mobile_mid.m3u8"
+        },
+        "id": "5977235051f0744b290f9597"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f3e27124035265032932",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:44:19.706Z",
+      "updatedAt": "2017-12-22T04:14:03.808Z",
+      "parentId": "5937fd81064d04147897b7ed",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图 之か行假名发音练习及假名さ精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c80ec305-b602-4685-bbdf-8d882d922f41_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c80ec305-b602-4685-bbdf-8d882d922f41_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c80ec305-b602-4685-bbdf-8d882d922f41_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c80ec305-b602-4685-bbdf-8d882d922f41_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c80ec305-b602-4685-bbdf-8d882d922f41_mobile_mid.m3u8"
+        },
+        "id": "59772385ef23a82feb8a14ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f3f37124035265032934",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:44:44.361Z",
+      "updatedAt": "2017-12-22T04:14:08.951Z",
+      "parentId": "5937fd81064d04147897b7ed",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之し、す、せ、そ精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/64c2bf1b-26d2-4309-b0c1-d3bf4cb7c826_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/64c2bf1b-26d2-4309-b0c1-d3bf4cb7c826_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/64c2bf1b-26d2-4309-b0c1-d3bf4cb7c826_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/64c2bf1b-26d2-4309-b0c1-d3bf4cb7c826_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/64c2bf1b-26d2-4309-b0c1-d3bf4cb7c826_mobile_mid.m3u8"
+        },
+        "id": "597723be51f0744b70df3e3d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f40c7124035265032936",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:45:19.945Z",
+      "updatedAt": "2017-12-22T04:14:14.150Z",
+      "parentId": "5937fd81064d04147897b7ed",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图之さ行假名发音练习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b28f2995-0c3b-4939-a18e-481a8dd91ed7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b28f2995-0c3b-4939-a18e-481a8dd91ed7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b28f2995-0c3b-4939-a18e-481a8dd91ed7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b28f2995-0c3b-4939-a18e-481a8dd91ed7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b28f2995-0c3b-4939-a18e-481a8dd91ed7_mobile_mid.m3u8"
+        },
+        "id": "5977254bd5ff751382935b84"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f42f7124035265032938",
+      "hls": {}
+    }]
+  }, {
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语五十音图た行及な行假名精讲",
+    "order": 3,
+    "updatedAt": "2017-12-22T04:16:09.360Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "593aa0cbfd6d795a342d9940",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:48:08.806Z",
+      "updatedAt": "2017-12-22T04:15:51.769Z",
+      "parentId": "593aa0cbfd6d795a342d9940",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之た、ち精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/563eac73-1ba6-4250-8701-7fae6c42f40f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/563eac73-1ba6-4250-8701-7fae6c42f40f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/563eac73-1ba6-4250-8701-7fae6c42f40f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/563eac73-1ba6-4250-8701-7fae6c42f40f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/563eac73-1ba6-4250-8701-7fae6c42f40f_mobile_mid.m3u8"
+        },
+        "id": "5977243d51f0744b5fdc6b3d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f4d8712403526503293a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:48:23.971Z",
+      "updatedAt": "2017-12-22T04:17:03.975Z",
+      "parentId": "593aa0cbfd6d795a342d9940",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之つ、て、と精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8bcf2c75-557a-43ce-bdb4-dc4fd9f70c7f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8bcf2c75-557a-43ce-bdb4-dc4fd9f70c7f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8bcf2c75-557a-43ce-bdb4-dc4fd9f70c7f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8bcf2c75-557a-43ce-bdb4-dc4fd9f70c7f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8bcf2c75-557a-43ce-bdb4-dc4fd9f70c7f_mobile_mid.m3u8"
+        },
+        "id": "5977248e51f0744b7dbf1ca8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f4e7712403526503293c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:48:40.448Z",
+      "updatedAt": "2017-12-22T04:17:10.709Z",
+      "parentId": "593aa0cbfd6d795a342d9940",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "た行假名发音练习及假名な、に精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0f41f3d5-eca8-40ab-a44f-be54ea114133_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0f41f3d5-eca8-40ab-a44f-be54ea114133_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0f41f3d5-eca8-40ab-a44f-be54ea114133_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0f41f3d5-eca8-40ab-a44f-be54ea114133_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0f41f3d5-eca8-40ab-a44f-be54ea114133_mobile_mid.m3u8"
+        },
+        "id": "5977263cd5ff75138a2b550f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f4f8712403526503293e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:48:57.848Z",
+      "updatedAt": "2017-12-22T04:17:16.676Z",
+      "parentId": "593aa0cbfd6d795a342d9940",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之ぬ、ね、の精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/caaa9c14-abf8-451d-a5d4-6085e4f0f390_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/caaa9c14-abf8-451d-a5d4-6085e4f0f390_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/caaa9c14-abf8-451d-a5d4-6085e4f0f390_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/caaa9c14-abf8-451d-a5d4-6085e4f0f390_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/caaa9c14-abf8-451d-a5d4-6085e4f0f390_mobile_mid.m3u8"
+        },
+        "id": "5977250951f0744b5fdc6b3e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f5097124035265032940",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:49:35.064Z",
+      "updatedAt": "2017-12-22T04:17:22.124Z",
+      "parentId": "593aa0cbfd6d795a342d9940",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图之な行假名发音练习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ba47a317-65f0-4417-aca3-9efe1f827030_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ba47a317-65f0-4417-aca3-9efe1f827030_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ba47a317-65f0-4417-aca3-9efe1f827030_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ba47a317-65f0-4417-aca3-9efe1f827030_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ba47a317-65f0-4417-aca3-9efe1f827030_mobile_mid.m3u8"
+        },
+        "id": "5977254851f0744b7dbf1ca9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f52f7124035265032942",
+      "hls": {}
+    }]
+  }, {
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语五十音图前五行阶段测试与试题精讲",
+    "order": 4,
+    "updatedAt": "2017-12-22T04:16:14.979Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "593e94a9206e46163b6dd61c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:52:26.430Z",
+      "updatedAt": "2017-12-22T04:17:37.602Z",
+      "parentId": "593e94a9206e46163b6dd61c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（一）（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d41f83d6-3f14-43d9-b870-9090743882b9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d41f83d6-3f14-43d9-b870-9090743882b9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d41f83d6-3f14-43d9-b870-9090743882b9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d41f83d6-3f14-43d9-b870-9090743882b9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d41f83d6-3f14-43d9-b870-9090743882b9_mobile_mid.m3u8"
+        },
+        "id": "597725b5ef23a82feb8a14cf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f5da7124035265032944",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:52:42.216Z",
+      "updatedAt": "2017-12-22T04:28:49.656Z",
+      "parentId": "593e94a9206e46163b6dd61c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（一）（2）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/40bebb71-d383-476d-b850-a5e9217c8a73_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/40bebb71-d383-476d-b850-a5e9217c8a73_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/40bebb71-d383-476d-b850-a5e9217c8a73_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/40bebb71-d383-476d-b850-a5e9217c8a73_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/40bebb71-d383-476d-b850-a5e9217c8a73_mobile_mid.m3u8"
+        },
+        "id": "5977261eef23a831f5967f7e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f5ea7124035265032946",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:52:57.968Z",
+      "updatedAt": "2017-12-22T04:28:54.383Z",
+      "parentId": "593e94a9206e46163b6dd61c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（一）（3）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/285c8b28-2527-4c25-9860-89fe6a08f680_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/285c8b28-2527-4c25-9860-89fe6a08f680_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/285c8b28-2527-4c25-9860-89fe6a08f680_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/285c8b28-2527-4c25-9860-89fe6a08f680_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/285c8b28-2527-4c25-9860-89fe6a08f680_mobile_mid.m3u8"
+        },
+        "id": "59772673ef23a83026369cda"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f5f97124035265032948",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:53:25.622Z",
+      "updatedAt": "2017-12-22T04:29:00.615Z",
+      "parentId": "593e94a9206e46163b6dd61c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（一）（4）和假名发音练习（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5eba0aeb-c6cd-4a06-9a55-bb9986530382_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5eba0aeb-c6cd-4a06-9a55-bb9986530382_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5eba0aeb-c6cd-4a06-9a55-bb9986530382_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5eba0aeb-c6cd-4a06-9a55-bb9986530382_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5eba0aeb-c6cd-4a06-9a55-bb9986530382_mobile_mid.m3u8"
+        },
+        "id": "597726cd51f0744b852de0bf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f615712403526503294a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:53:41.210Z",
+      "updatedAt": "2017-12-22T04:29:06.535Z",
+      "parentId": "593e94a9206e46163b6dd61c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "假名发音练习（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/663a2f97-39f0-4aca-9c9c-3cfda413556b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/663a2f97-39f0-4aca-9c9c-3cfda413556b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/663a2f97-39f0-4aca-9c9c-3cfda413556b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/663a2f97-39f0-4aca-9c9c-3cfda413556b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/663a2f97-39f0-4aca-9c9c-3cfda413556b_mobile_mid.m3u8"
+        },
+        "id": "597726eb51f07461f271af60"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f625712403526503294c",
+      "hls": {}
+    }]
+  }, {
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语五十音图は行ま行假名精讲",
+    "order": 5,
+    "updatedAt": "2017-12-22T04:16:19.835Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59413a7106b7805ab23fca1c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:55:25.664Z",
+      "updatedAt": "2017-12-22T04:29:14.095Z",
+      "parentId": "59413a7106b7805ab23fca1c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之は、ひ精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dfec41fd-c42b-4e36-8d22-678757e0158d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dfec41fd-c42b-4e36-8d22-678757e0158d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dfec41fd-c42b-4e36-8d22-678757e0158d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dfec41fd-c42b-4e36-8d22-678757e0158d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dfec41fd-c42b-4e36-8d22-678757e0158d_mobile_mid.m3u8"
+        },
+        "id": "5977272eef23a82080b5d262"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f68d712403526503294e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:55:39.019Z",
+      "updatedAt": "2017-12-22T04:29:19.304Z",
+      "parentId": "59413a7106b7805ab23fca1c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之ふ、へ、ほ精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d73b0bd0-20f6-4d83-8646-b16b57375918_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d73b0bd0-20f6-4d83-8646-b16b57375918_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d73b0bd0-20f6-4d83-8646-b16b57375918_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d73b0bd0-20f6-4d83-8646-b16b57375918_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d73b0bd0-20f6-4d83-8646-b16b57375918_mobile_mid.m3u8"
+        },
+        "id": "5977277951f0744b1cd60fe7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f69b7124035265032950",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:55:55.660Z",
+      "updatedAt": "2017-12-22T04:29:34.436Z",
+      "parentId": "59413a7106b7805ab23fca1c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图之は行假名发音练习及假名ま精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1f403a34-76d7-4cf4-b919-a0783741ebab_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1f403a34-76d7-4cf4-b919-a0783741ebab_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1f403a34-76d7-4cf4-b919-a0783741ebab_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1f403a34-76d7-4cf4-b919-a0783741ebab_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1f403a34-76d7-4cf4-b919-a0783741ebab_mobile_mid.m3u8"
+        },
+        "id": "597727d151f0740e0781029f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f6ab7124035265032952",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:56:09.242Z",
+      "updatedAt": "2017-12-22T04:30:12.724Z",
+      "parentId": "59413a7106b7805ab23fca1c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之み、む、め精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f1dad9c7-f145-46de-97ed-5772143a8b3d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f1dad9c7-f145-46de-97ed-5772143a8b3d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f1dad9c7-f145-46de-97ed-5772143a8b3d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f1dad9c7-f145-46de-97ed-5772143a8b3d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f1dad9c7-f145-46de-97ed-5772143a8b3d_mobile_mid.m3u8"
+        },
+        "id": "5977282eef23a82ffaa0c521"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f6b97124035265032954",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:56:23.465Z",
+      "updatedAt": "2017-12-22T04:30:18.876Z",
+      "parentId": "59413a7106b7805ab23fca1c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之も精讲及ま行假名发音练习（上）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/92cf3a15-2f17-4b2d-a5ba-d96e2461a2f0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/92cf3a15-2f17-4b2d-a5ba-d96e2461a2f0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/92cf3a15-2f17-4b2d-a5ba-d96e2461a2f0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/92cf3a15-2f17-4b2d-a5ba-d96e2461a2f0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/92cf3a15-2f17-4b2d-a5ba-d96e2461a2f0_mobile_mid.m3u8"
+        },
+        "id": "597728a151f0744b35e96a6e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f6c77124035265032956",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T01:56:43.283Z",
+      "updatedAt": "2017-12-22T04:30:25.539Z",
+      "parentId": "59413a7106b7805ab23fca1c",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图之ま行假名发音练习（下）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a57058fb-fda4-4def-b979-ab9e2310d4c8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a57058fb-fda4-4def-b979-ab9e2310d4c8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a57058fb-fda4-4def-b979-ab9e2310d4c8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a57058fb-fda4-4def-b979-ab9e2310d4c8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a57058fb-fda4-4def-b979-ab9e2310d4c8_mobile_mid.m3u8"
+        },
+        "id": "59772a2cd5ff7513ad660925"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f6db7124035265032958",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-12T06:36:27.628Z",
+    "updatedAt": "2017-12-22T04:16:24.797Z",
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语五十音图や行ら行假名精讲",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5965c36b7e648230eb1677b2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:06:14.759Z",
+      "updatedAt": "2017-12-22T04:33:52.916Z",
+      "parentId": "5965c36b7e648230eb1677b2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之や、ゆ、よ精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5d1a5194-1815-40b3-aa6b-69a52eecb82d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5d1a5194-1815-40b3-aa6b-69a52eecb82d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5d1a5194-1815-40b3-aa6b-69a52eecb82d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5d1a5194-1815-40b3-aa6b-69a52eecb82d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5d1a5194-1815-40b3-aa6b-69a52eecb82d_mobile_mid.m3u8"
+        },
+        "id": "5977292a51f0744b76942136"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f916712403526503295a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:06:33.520Z",
+      "updatedAt": "2017-12-22T04:34:09.942Z",
+      "parentId": "5965c36b7e648230eb1677b2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图之や行假名发音练习及假名ら、り、る精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5826bd03-e08f-4296-adc8-14393dbd2c4c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5826bd03-e08f-4296-adc8-14393dbd2c4c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5826bd03-e08f-4296-adc8-14393dbd2c4c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5826bd03-e08f-4296-adc8-14393dbd2c4c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5826bd03-e08f-4296-adc8-14393dbd2c4c_mobile_mid.m3u8"
+        },
+        "id": "59772ac1d5ff75139038456c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f929712403526503295c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:06:46.926Z",
+      "updatedAt": "2017-12-22T06:30:47.576Z",
+      "parentId": "5965c36b7e648230eb1677b2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之れ、ろ精讲及ら行假名发音练习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/984514bd-aac9-4c07-a854-8610421571df_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/984514bd-aac9-4c07-a854-8610421571df_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/984514bd-aac9-4c07-a854-8610421571df_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/984514bd-aac9-4c07-a854-8610421571df_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/984514bd-aac9-4c07-a854-8610421571df_mobile_mid.m3u8"
+        },
+        "id": "59772b14d5ff7513783b2c84"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f936712403526503295e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:07:02.121Z",
+      "updatedAt": "2017-12-22T06:58:01.700Z",
+      "parentId": "5965c36b7e648230eb1677b2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图假名之わ、を精讲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b49af7d5-7b57-4b5e-81cd-2aa660e2ca91_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b49af7d5-7b57-4b5e-81cd-2aa660e2ca91_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b49af7d5-7b57-4b5e-81cd-2aa660e2ca91_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b49af7d5-7b57-4b5e-81cd-2aa660e2ca91_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b49af7d5-7b57-4b5e-81cd-2aa660e2ca91_mobile_mid.m3u8"
+        },
+        "id": "59772b43d5ff751391ba89f1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f9467124035265032960",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:07:17.177Z",
+      "updatedAt": "2017-12-22T06:58:07.225Z",
+      "parentId": "5965c36b7e648230eb1677b2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图之假名ん精讲及わ、を、ん发音练习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/01b11a80-102e-4e75-8e8c-0fe823aa6d2b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/01b11a80-102e-4e75-8e8c-0fe823aa6d2b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/01b11a80-102e-4e75-8e8c-0fe823aa6d2b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/01b11a80-102e-4e75-8e8c-0fe823aa6d2b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/01b11a80-102e-4e75-8e8c-0fe823aa6d2b_mobile_mid.m3u8"
+        },
+        "id": "59772a2c51f0744b3d5146b5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f9557124035265032962",
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-07-12T06:38:59.572Z",
+    "updatedAt": "2017-12-22T04:16:30.434Z",
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语五十音图阶段测试",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5965c4037e648230eb1677b6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:09:09.173Z",
+      "updatedAt": "2017-12-22T06:58:20.112Z",
+      "parentId": "5965c4037e648230eb1677b6",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（二）（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f3b693fb-f38d-442c-980a-f3ce0957cd92_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f3b693fb-f38d-442c-980a-f3ce0957cd92_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f3b693fb-f38d-442c-980a-f3ce0957cd92_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f3b693fb-f38d-442c-980a-f3ce0957cd92_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f3b693fb-f38d-442c-980a-f3ce0957cd92_mobile_mid.m3u8"
+        },
+        "id": "59772c10d5ff7513bb4105b0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f9c57124035265032964",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:09:34.452Z",
+      "updatedAt": "2017-12-22T06:58:27.575Z",
+      "parentId": "5965c4037e648230eb1677b6",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（二）（2）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f72e13e6-8ca4-4a2a-81b0-b03b57c6f1ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f72e13e6-8ca4-4a2a-81b0-b03b57c6f1ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f72e13e6-8ca4-4a2a-81b0-b03b57c6f1ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f72e13e6-8ca4-4a2a-81b0-b03b57c6f1ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f72e13e6-8ca4-4a2a-81b0-b03b57c6f1ad_mobile_mid.m3u8"
+        },
+        "id": "59772c58d5ff7513bb4105b1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f9de7124035265032966",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:09:53.614Z",
+      "updatedAt": "2017-12-22T06:58:33.362Z",
+      "parentId": "5965c4037e648230eb1677b6",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（二）（3）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f8248699-aa15-4ee3-9a0e-f848064c3115_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f8248699-aa15-4ee3-9a0e-f848064c3115_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f8248699-aa15-4ee3-9a0e-f848064c3115_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f8248699-aa15-4ee3-9a0e-f848064c3115_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f8248699-aa15-4ee3-9a0e-f848064c3115_mobile_mid.m3u8"
+        },
+        "id": "59772b3d51f07461f271af61"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f9f17124035265032968",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:10:06.082Z",
+      "updatedAt": "2017-12-22T06:58:38.296Z",
+      "parentId": "5965c4037e648230eb1677b6",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（二）(4)",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/826ccc5f-3d88-4c80-a840-f09247a64d57_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/826ccc5f-3d88-4c80-a840-f09247a64d57_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/826ccc5f-3d88-4c80-a840-f09247a64d57_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/826ccc5f-3d88-4c80-a840-f09247a64d57_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/826ccc5f-3d88-4c80-a840-f09247a64d57_mobile_mid.m3u8"
+        },
+        "id": "59772cf0d5ff7513727b086a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977f9fe712403526503296a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:10:23.380Z",
+      "updatedAt": "2017-12-22T06:58:44.025Z",
+      "parentId": "5965c4037e648230eb1677b6",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "五十音图阶段测试及试题精讲（二）（5）和假名发音练习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/29bd8579-0d53-47ba-8aae-0bf4201e7da5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/29bd8579-0d53-47ba-8aae-0bf4201e7da5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/29bd8579-0d53-47ba-8aae-0bf4201e7da5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/29bd8579-0d53-47ba-8aae-0bf4201e7da5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/29bd8579-0d53-47ba-8aae-0bf4201e7da5_mobile_mid.m3u8"
+        },
+        "id": "59772be9ef23a82ffd2354b9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fa0f712403526503296c",
+      "hls": {}
+    }]
+  }, {
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语声调规则、浊音、半浊音",
+    "createdAt": "2017-06-21T13:48:22.171Z",
+    "updatedAt": "2017-12-22T04:16:40.627Z",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "594a79262f8052899cbc1be0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:12:30.651Z",
+      "updatedAt": "2017-12-22T06:58:52.483Z",
+      "parentId": "594a79262f8052899cbc1be0",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "日语声调（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/221cd4dc-6377-494a-9f6f-8f5e82be565e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/221cd4dc-6377-494a-9f6f-8f5e82be565e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/221cd4dc-6377-494a-9f6f-8f5e82be565e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/221cd4dc-6377-494a-9f6f-8f5e82be565e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/221cd4dc-6377-494a-9f6f-8f5e82be565e_mobile_mid.m3u8"
+        },
+        "id": "59772c3aef23a830626948e4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fa8e712403526503296e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:12:43.669Z",
+      "updatedAt": "2017-12-22T06:58:57.612Z",
+      "parentId": "594a79262f8052899cbc1be0",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "日语声调（2）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/973403c3-c5a5-4863-85b2-2a060d183494_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/973403c3-c5a5-4863-85b2-2a060d183494_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/973403c3-c5a5-4863-85b2-2a060d183494_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/973403c3-c5a5-4863-85b2-2a060d183494_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/973403c3-c5a5-4863-85b2-2a060d183494_mobile_mid.m3u8"
+        },
+        "id": "59772cf651f0744b852de0c0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fa9b7124035265032970",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:12:57.515Z",
+      "updatedAt": "2017-12-22T06:59:02.090Z",
+      "parentId": "594a79262f8052899cbc1be0",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "日语声调（3）及浊音（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/36754967-27b8-420b-be3d-9e053791c819_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/36754967-27b8-420b-be3d-9e053791c819_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/36754967-27b8-420b-be3d-9e053791c819_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/36754967-27b8-420b-be3d-9e053791c819_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/36754967-27b8-420b-be3d-9e053791c819_mobile_mid.m3u8"
+        },
+        "id": "59772c9651f0744b5fdc6b3f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977faa97124035265032972",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:13:11.102Z",
+      "updatedAt": "2017-12-22T06:59:07.036Z",
+      "parentId": "594a79262f8052899cbc1be0",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "浊音（2）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/73552940-a339-4315-b2ee-5bc5a16fcb19_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/73552940-a339-4315-b2ee-5bc5a16fcb19_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/73552940-a339-4315-b2ee-5bc5a16fcb19_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/73552940-a339-4315-b2ee-5bc5a16fcb19_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/73552940-a339-4315-b2ee-5bc5a16fcb19_mobile_mid.m3u8"
+        },
+        "id": "59772d5851f0744b4cc9e7bf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fab77124035265032974",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:13:24.447Z",
+      "updatedAt": "2017-12-22T06:59:13.161Z",
+      "parentId": "594a79262f8052899cbc1be0",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "浊音（3）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ff29a749-cf53-4a50-96f5-7df14fd67dd4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ff29a749-cf53-4a50-96f5-7df14fd67dd4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ff29a749-cf53-4a50-96f5-7df14fd67dd4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ff29a749-cf53-4a50-96f5-7df14fd67dd4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ff29a749-cf53-4a50-96f5-7df14fd67dd4_mobile_mid.m3u8"
+        },
+        "id": "59772dafef23a82ffaa0c522"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fac47124035265032976",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:13:39.981Z",
+      "updatedAt": "2017-12-22T06:59:18.101Z",
+      "parentId": "594a79262f8052899cbc1be0",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "半浊音及浊音、半浊音发音练习",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/730ab873-dd38-4fd3-93c2-ed96fd15cb6a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/730ab873-dd38-4fd3-93c2-ed96fd15cb6a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/730ab873-dd38-4fd3-93c2-ed96fd15cb6a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/730ab873-dd38-4fd3-93c2-ed96fd15cb6a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/730ab873-dd38-4fd3-93c2-ed96fd15cb6a_mobile_mid.m3u8"
+        },
+        "id": "59772f5fd5ff7513727b086b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fad37124035265032978",
+      "hls": {}
+    }]
+  }, {
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "長音、促音、拗音",
+    "createdAt": "2017-06-23T13:09:03.121Z",
+    "updatedAt": "2017-12-22T04:16:46.105Z",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "594d12ef2f8052899cbc3472",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:16:05.473Z",
+      "updatedAt": "2017-12-22T06:59:25.915Z",
+      "parentId": "594d12ef2f8052899cbc3472",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "长音（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/501de675-a9fe-41ca-afd8-99c1d8b8f010_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/501de675-a9fe-41ca-afd8-99c1d8b8f010_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/501de675-a9fe-41ca-afd8-99c1d8b8f010_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/501de675-a9fe-41ca-afd8-99c1d8b8f010_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/501de675-a9fe-41ca-afd8-99c1d8b8f010_mobile_mid.m3u8"
+        },
+        "id": "59772fa6d5ff7513727b086c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fb65712403526503297a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:16:33.730Z",
+      "updatedAt": "2017-12-22T06:59:31.042Z",
+      "parentId": "594d12ef2f8052899cbc3472",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "长音（2）及促音（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6a12247f-6fc5-4c3a-a7e0-e90acf6f923e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6a12247f-6fc5-4c3a-a7e0-e90acf6f923e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6a12247f-6fc5-4c3a-a7e0-e90acf6f923e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6a12247f-6fc5-4c3a-a7e0-e90acf6f923e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6a12247f-6fc5-4c3a-a7e0-e90acf6f923e_mobile_mid.m3u8"
+        },
+        "id": "59772e9bef23a83026369cdb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fb81712403526503297c",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:16:47.430Z",
+      "updatedAt": "2017-12-22T06:59:36.255Z",
+      "parentId": "594d12ef2f8052899cbc3472",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "促音（2）及拗音（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f7847b0e-4f38-4b34-9ad1-7fb9af69cceb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f7847b0e-4f38-4b34-9ad1-7fb9af69cceb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f7847b0e-4f38-4b34-9ad1-7fb9af69cceb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f7847b0e-4f38-4b34-9ad1-7fb9af69cceb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f7847b0e-4f38-4b34-9ad1-7fb9af69cceb_mobile_mid.m3u8"
+        },
+        "id": "59772ee951f07461f271af62"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fb8f712403526503297e",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:17:02.934Z",
+      "updatedAt": "2017-12-22T06:59:44.182Z",
+      "parentId": "594d12ef2f8052899cbc3472",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "拗音（2）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/60b4dc84-5dc5-4b99-82fb-07dfd9f17ca9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/60b4dc84-5dc5-4b99-82fb-07dfd9f17ca9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/60b4dc84-5dc5-4b99-82fb-07dfd9f17ca9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/60b4dc84-5dc5-4b99-82fb-07dfd9f17ca9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/60b4dc84-5dc5-4b99-82fb-07dfd9f17ca9_mobile_mid.m3u8"
+        },
+        "id": "59772f2a51f0744b545a3aa8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fb9e7124035265032980",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:17:19.076Z",
+      "updatedAt": "2017-12-22T06:59:48.756Z",
+      "parentId": "594d12ef2f8052899cbc3472",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "拗音（3）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b3bc1415-2e92-42f1-8cf5-282a4c67080b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b3bc1415-2e92-42f1-8cf5-282a4c67080b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b3bc1415-2e92-42f1-8cf5-282a4c67080b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b3bc1415-2e92-42f1-8cf5-282a4c67080b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b3bc1415-2e92-42f1-8cf5-282a4c67080b_mobile_mid.m3u8"
+        },
+        "id": "597730b1d5ff751382935b85"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fbaf7124035265032982",
+      "hls": {}
+    }]
+  }, {
+    "courseId": "59228d648bf62912ff716ee6",
+    "name": "日语五十音--总测试",
+    "createdAt": "2017-06-26T13:16:12.394Z",
+    "updatedAt": "2017-12-22T04:16:54.314Z",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5951091c2f8052899cbc5ef2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:19:06.170Z",
+      "updatedAt": "2017-12-22T06:59:56.350Z",
+      "parentId": "5951091c2f8052899cbc5ef2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "总测试及试题精讲（1）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b9ff503e-e4c7-448e-9722-24c5fedc70fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b9ff503e-e4c7-448e-9722-24c5fedc70fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b9ff503e-e4c7-448e-9722-24c5fedc70fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b9ff503e-e4c7-448e-9722-24c5fedc70fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b9ff503e-e4c7-448e-9722-24c5fedc70fb_mobile_mid.m3u8"
+        },
+        "id": "597730fcd5ff751382935b86"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fc1a7124035265032984",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:19:24.800Z",
+      "updatedAt": "2017-12-22T07:00:01.527Z",
+      "parentId": "5951091c2f8052899cbc5ef2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "总测试及试题精讲（2）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2b95ff39-f9b0-4143-b067-9b557cc715dc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2b95ff39-f9b0-4143-b067-9b557cc715dc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2b95ff39-f9b0-4143-b067-9b557cc715dc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2b95ff39-f9b0-4143-b067-9b557cc715dc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2b95ff39-f9b0-4143-b067-9b557cc715dc_mobile_mid.m3u8"
+        },
+        "id": "59772ffaef23a8308c970e4b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fc2c7124035265032986",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:19:41.960Z",
+      "updatedAt": "2017-12-22T07:00:07.382Z",
+      "parentId": "5951091c2f8052899cbc5ef2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "总测试及试题精讲（3）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2f0ce7e4-fbd6-41ee-bbc8-a207a96fb416_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2f0ce7e4-fbd6-41ee-bbc8-a207a96fb416_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2f0ce7e4-fbd6-41ee-bbc8-a207a96fb416_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2f0ce7e4-fbd6-41ee-bbc8-a207a96fb416_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2f0ce7e4-fbd6-41ee-bbc8-a207a96fb416_mobile_mid.m3u8"
+        },
+        "id": "59773044ef23a80d3835ccdc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fc3d7124035265032988",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:19:57.759Z",
+      "updatedAt": "2017-12-22T07:00:12.268Z",
+      "parentId": "5951091c2f8052899cbc5ef2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "总测试及试题精讲（4）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1569efb4-4f43-4a60-9c5f-153a4152b1eb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1569efb4-4f43-4a60-9c5f-153a4152b1eb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1569efb4-4f43-4a60-9c5f-153a4152b1eb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1569efb4-4f43-4a60-9c5f-153a4152b1eb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1569efb4-4f43-4a60-9c5f-153a4152b1eb_mobile_mid.m3u8"
+        },
+        "id": "597731d2d5ff7513924acac3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fc4d712403526503298a",
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-26T02:22:11.045Z",
+      "updatedAt": "2017-12-22T07:00:18.183Z",
+      "parentId": "5951091c2f8052899cbc5ef2",
+      "courseId": "59228d648bf62912ff716ee6",
+      "name": "总测试及试题精讲（5）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bd496a2d-f40d-415e-8405-ff2b3acc8a94_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bd496a2d-f40d-415e-8405-ff2b3acc8a94_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bd496a2d-f40d-415e-8405-ff2b3acc8a94_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bd496a2d-f40d-415e-8405-ff2b3acc8a94_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bd496a2d-f40d-415e-8405-ff2b3acc8a94_mobile_mid.m3u8"
+        },
+        "id": "597730bfef23a8308c970e4c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5977fcd3712403526503298c",
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}
