@@ -1,0 +1,523 @@
+{
+  "major": "586d234f5f07127674152c49",
+  "description": "由来自清华北大各个系科的学霸学神在周末直播课堂上帮你复习难点，查缺补漏，传授高考“考试真经”，预习领先，让你处处快人一步，各位平易近人的学长学姐们有问必答，只要你有任何不懂的问题，请随时缠上他们！",
+  "deleted": false,
+  "bigImage": "http://imgs.wanmen.org/386f2f1e13c5013ae5ce55ecaec2ec4b.png",
+  "finishedAt": "2017-05-09T13:43:10.523Z",
+  "smallImage": "http://imgs.wanmen.org/7ad3fb45fdce45b8a23ae4958af0bec0.png",
+  "updatedAt": "2017-12-26T04:04:34.059Z",
+  "teacher": {
+    "name": "清北数学答疑老师",
+    "description": "来自于清北的学霸们带你查漏补缺，进步提分！",
+    "avatar": "http://imgs.wanmen.org/ad4c76801ae344837570fddefe91e886.png",
+    "id": "5902ec69d7e5f316c6045864"
+  },
+  "createdAt": "2017-04-28T07:19:17.741Z",
+  "hide": false,
+  "name": "暑期清北学霸周末直播课堂——高中数学",
+  "isPinned": true,
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/85c8d8d7-77ac-461c-bb7c-4e4236e72191_mobile_mid.m3u8"
+    },
+    "id": "59647829d5ff7513a1c2a64e"
+  },
+  "deletedAt": null,
+  "streamKey": "2602234709445119",
+  "price": 0,
+  "openingAt": "2017-07-15T11:10:44.077Z",
+  "lastConnectedAt": 1503745611,
+  "expiration": 12,
+  "numOfClasses": 10,
+  "order": 24,
+  "tag": "清北数学答疑老师 高中 暑期 清北学霸 周末 直播 课堂 数学 ",
+  "videoCount": 11,
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "finished",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a41ca52b4687a687f852ea4",
+    "endTime": "21:00",
+    "startTime": "19:00",
+    "name": "高中经验分享&集合、对数函数专题",
+    "startDate": "2017-04-30T00:00:00.000Z"
+  }, {
+    "_id": "5a41ca52b4687a687f852ea3",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "高一高二同学应该如何备战高三",
+    "startDate": "2017-05-07T00:00:00.000Z"
+  }, {
+    "_id": "5a41ca52b4687a687f852ea2",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "直线与平面的位置关系",
+    "startDate": "2017-05-20T00:00:00.000Z"
+  }, {
+    "_id": "5a41ca52b4687a687f852ea1",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "线性规划的解题技巧",
+    "startDate": "2017-05-28T00:00:00.000Z"
+  }, {
+    "_id": "5a41ca52b4687a687f852ea0",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "2017高考数学",
+    "startDate": "2017-06-10T00:00:00.000Z"
+  }, {
+    "_id": "5a41ca52b4687a687f852e9f",
+    "startDate": "2017-07-15T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——高中数学专题：集合",
+    "endTime": "20:10",
+    "startTime": "19:10"
+  }, {
+    "_id": "5a41ca52b4687a687f852e9e",
+    "startDate": "2017-07-23T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——高中数学专题：函数（一）",
+    "endTime": "20:10",
+    "startTime": "19:10"
+  }, {
+    "_id": "5a41ca52b4687a687f852e9d",
+    "startDate": "2017-08-05T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——高中数学：函数（二）",
+    "endTime": "20:10",
+    "startTime": "19:10"
+  }, {
+    "_id": "5a41ca52b4687a687f852e9c",
+    "startDate": "2017-08-13T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——高中数学专题：立体几何",
+    "endTime": "20:10",
+    "startTime": "19:10"
+  }, {
+    "_id": "5a41ca52b4687a687f852e9b",
+    "startDate": "2017-08-26T00:00:00.000Z",
+    "name": "暑期清北学霸周末直播讲堂——高中数学：平面几何",
+    "endTime": "20:10",
+    "startTime": "19:10"
+  }],
+  "type": "record",
+  "likes": 23,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 10,
+  "teacherDescription": "来自于清北的学霸们带你查漏补缺，进步提分！",
+  "teacherAvatar": "http://imgs.wanmen.org/ad4c76801ae344837570fddefe91e886.png",
+  "teacherName": "清北数学答疑老师",
+  "mobileCoverUrl": "http://imgs.wanmen.org/7ad3fb45fdce45b8a23ae4958af0bec0.png",
+  "coverUrl": "http://imgs.wanmen.org/386f2f1e13c5013ae5ce55ecaec2ec4b.png",
+  "smallImageUrl": "http://imgs.wanmen.org/7ad3fb45fdce45b8a23ae4958af0bec0.png",
+  "bigImageUrl": "http://imgs.wanmen.org/386f2f1e13c5013ae5ce55ecaec2ec4b.png",
+  "id": "5902ecf5d7e5f316c604586b",
+  "lectures": [{
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年4月30日",
+    "order": 1,
+    "updatedAt": "2017-07-18T10:03:51.561Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5905df6ad7e5f316c6045c63",
+    "children": [{
+      "from": "playback",
+      "name": "高中数学-高中经验分享&集合、对数函数专题",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_mobile_mid.m3u8"
+        },
+        "id": "59292640d5ff752381c45c12"
+      },
+      "parentId": "5905df6ad7e5f316c6045c63",
+      "order": 1,
+      "updatedAt": "2017-07-17T02:32:27.337Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/0eecf59d-24d8-475e-b94c-d07a0780f9de_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "593cea66fd6d795a342d9d8e",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年5月6日",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "590f0d7d71b2262ac78f1f4b",
+    "children": [{
+      "from": "playback",
+      "name": "高中数学-高一高二如何备战高三学习",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_mobile_mid.m3u8"
+        },
+        "id": "5929235def23a8302f30742d"
+      },
+      "parentId": "590f0d7d71b2262ac78f1f4b",
+      "order": 1,
+      "updatedAt": "2017-07-17T02:32:25.836Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a841e3de-e99f-4e0a-80f0-ba3552e72055_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "593cea76fd6d795a342d9d8f",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年5月20日",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "592030d38bf62912ff716ce9",
+    "children": [{
+      "from": "playback",
+      "name": "高中数学-直线与平面的位置关系",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_mobile_mid.m3u8"
+        },
+        "id": "592925ebef23a830026e6f83"
+      },
+      "parentId": "592030d38bf62912ff716ce9",
+      "order": 1,
+      "updatedAt": "2017-07-17T02:32:07.487Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/bab972e2-06d4-4c47-b2d1-310b038bbaef_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "593cea48fd6d795a342d9d8d",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年5月28日",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "592aa591b45f51716ab6f388",
+    "children": [{
+      "from": "playback",
+      "name": "高中数学-线性规划的解题技巧",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "parentId": "592aa591b45f51716ab6f388",
+      "order": 1,
+      "updatedAt": "2017-07-17T02:32:07.515Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1495969210_1495973026.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1495969210_1495973026.m3u8",
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1495969210_1495973026.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1495969210_1495973026.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1495969210_1495973026.m3u8"
+      },
+      "hide": false,
+      "id": "593cea35fd6d795a342d9d8c",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年6月10日",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "593be0aefd6d795a342d9cec",
+    "children": [{
+      "from": "playback",
+      "name": "2017年高考数学",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "parentId": "593be0aefd6d795a342d9cec",
+      "order": 1,
+      "updatedAt": "2017-07-18T10:07:56.343Z",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1497092089_1497096322.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1497092089_1497096322.m3u8",
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1497092089_1497096322.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1497092089_1497096322.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1497092089_1497096322.m3u8"
+      },
+      "hide": false,
+      "id": "593cea08fd6d795a342d9d8b",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年7月15日",
+    "createdAt": "2017-07-15T09:58:14.337Z",
+    "updatedAt": "2017-07-20T01:53:56.699Z",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5969e7362f8052899cbd8212",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-15T11:49:03.747Z",
+      "updatedAt": "2017-07-20T01:56:06.705Z",
+      "name": "高中数学—集合",
+      "parentId": "5969e7362f8052899cbd8212",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "order": 0,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500116364_1500119343.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500116364_1500119343.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500116364_1500119343.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500116364_1500119343.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500116364_1500119343.m3u8"
+      },
+      "hide": false,
+      "id": "596a012fd2bb2b66dd89bbcd",
+      "hasTopic": false
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-20T03:28:06.432Z",
+      "updatedAt": "2017-07-20T03:29:59.396Z",
+      "parentId": "5969e7362f8052899cbd8212",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "name": "初中数学—有理数与实数",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_mobile_mid.m3u8"
+        },
+        "id": "59701372d5ff7513783b2c82"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59702346200a381b96790b7b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/241e222a-f2d7-447a-b653-1abc7e1a052e_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年7月23日",
+    "createdAt": "2017-07-23T12:04:42.093Z",
+    "updatedAt": "2017-07-24T01:59:26.521Z",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "597490da2f8052899cbe0318",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-23T12:04:42.155Z",
+      "updatedAt": "2017-08-14T01:33:10.069Z",
+      "name": "初中数学（整式与等式专题）和高中数学（函数专题）",
+      "parentId": "597490da2f8052899cbe0318",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500803808_1500811480.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500803808_1500811480.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500803808_1500811480.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500803808_1500811480.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1500803808_1500811480.m3u8"
+      },
+      "hide": false,
+      "id": "597490da3b8135167254bffc",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年8月6日",
+    "createdAt": "2017-08-06T12:10:20.851Z",
+    "updatedAt": "2017-08-06T12:21:18.425Z",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5987072c2f8052899cbf00da",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-06T12:10:20.891Z",
+      "updatedAt": "2017-08-06T12:23:59.486Z",
+      "name": "高中数学—函数专题（二）",
+      "parentId": "5987072c2f8052899cbf00da",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502017379_1502021418.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502017379_1502021418.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502017379_1502021418.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502017379_1502021418.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502017379_1502021418.m3u8"
+      },
+      "hide": false,
+      "id": "5987072ce11fbc1f9d7e28fa",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年8月13日",
+    "createdAt": "2017-08-13T12:12:16.995Z",
+    "updatedAt": "2017-08-14T01:31:35.487Z",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "599042212f8052899cbf6d8d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-13T12:12:17.033Z",
+      "updatedAt": "2017-08-14T01:29:26.180Z",
+      "name": "立体几何专题",
+      "parentId": "599042212f8052899cbf6d8d",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502622471_1502626335.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502622471_1502626335.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502622471_1502626335.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502622471_1502626335.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1502622471_1502626335.m3u8"
+      },
+      "hide": false,
+      "id": "599042214cac34641d3c30a2",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "5902ecf5d7e5f316c604586b",
+    "name": "2017年8月26日",
+    "createdAt": "2017-08-26T12:11:26.031Z",
+    "updatedAt": "2017-08-26T12:20:54.855Z",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59a1656e2f8052899cc032be",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-26T12:11:26.094Z",
+      "updatedAt": "2017-08-26T12:21:05.559Z",
+      "name": "平面几何",
+      "parentId": "59a1656e2f8052899cc032be",
+      "courseId": "5902ecf5d7e5f316c604586b",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1503745611_1503749485.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1503745611_1503749485.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1503745611_1503749485.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1503745611_1503749485.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.2602234709445119/1503745611_1503749485.m3u8"
+      },
+      "hide": false,
+      "id": "59a1656e934525393689fa31",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

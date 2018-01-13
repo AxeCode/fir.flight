@@ -1,0 +1,2032 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-23T03:34:48.941Z",
+  "updatedAt": "2018-01-01T10:06:09.335Z",
+  "name": "初中地理七年级上",
+  "major": "592293778bf62912ff716eed",
+  "hide": false,
+  "bookId": [],
+  "shortDescription": "以地球和地图的相关知识为开篇展开初中地理知识",
+  "price": 78,
+  "description": "以地球和地图的相关知识为开篇展开初中地理知识，陆续介绍陆地和海洋、天气和气候、居民与聚落、发展与合作等内容，带领同学们了解自然地理和人文地理的基本内容、构建学习地理的基础框架，为后三册书的学习做好准备基础",
+  "bigImageUrl": "http://imgs.wanmen.org/e848dea0e6c6e204beaefaf8d942fbec.png",
+  "bigImage": "http://imgs.wanmen.org/e848dea0e6c6e204beaefaf8d942fbec.png",
+  "smallImageUrl": "http://imgs.wanmen.org/0741a34b3833a6eb5ce21db921e1559d.png",
+  "smallImage": "http://imgs.wanmen.org/0741a34b3833a6eb5ce21db921e1559d.png",
+  "teacherAvatar": "http://imgs.wanmen.org/7592e80bea6f15f4694f72d9ce41b783.png",
+  "teacherDescription": "清华大学经济管理学院与哥伦比亚大学商务分析双硕士在读，爱好探索未知世界，希望用双腿走遍地球的每一寸土地并把自己的学习方法和观点分享与每一位同学。",
+  "teacherName": "孙遮缘",
+  "teacher": {
+    "name": "孙遮缘",
+    "description": "清华大学经济管理学院与哥伦比亚大学商务分析双硕士在读，爱好探索未知世界，希望用双腿走遍地球的每一寸土地并把自己的学习方法和观点分享与每一位同学。",
+    "avatar": "http://imgs.wanmen.org/7592e80bea6f15f4694f72d9ce41b783.png",
+    "id": "587a6c76df6ce74ffe55d3e1"
+  },
+  "order": 1,
+  "numOfClasses": 20,
+  "expiration": 12,
+  "tag": "孙遮缘 初中 七年级 上 地理",
+  "videoCount": 74,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 12,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 20,
+  "mobileCoverUrl": "http://imgs.wanmen.org/0741a34b3833a6eb5ce21db921e1559d.png",
+  "coverUrl": "http://imgs.wanmen.org/e848dea0e6c6e204beaefaf8d942fbec.png",
+  "id": "5923add83eaab450bca37ba9",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:36:41.632Z",
+    "updatedAt": "2017-12-22T09:41:32.655Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "绪言",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae493eaab450bca37bab",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:18:14.357Z",
+      "updatedAt": "2017-12-22T09:41:42.735Z",
+      "parentId": "5923ae493eaab450bca37bab",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "地理的三大问题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_mobile_mid.m3u8"
+        },
+        "id": "590c2ee4ef23a82ffd23541d"
+      },
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923e2363eaab450bca37c92",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/15a6af7f-5bf7-46f2-a73d-a81146f66943_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:36:51.726Z",
+    "updatedAt": "2017-12-22T09:41:55.659Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "地球和地球仪",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae533eaab450bca37bad",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:18:52.903Z",
+      "updatedAt": "2017-12-22T09:42:12.904Z",
+      "parentId": "5923ae533eaab450bca37bad",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "地球的形状和大小、地球仪",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0a13a33-5706-4eef-b2a1-c161807540fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0a13a33-5706-4eef-b2a1-c161807540fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0a13a33-5706-4eef-b2a1-c161807540fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0a13a33-5706-4eef-b2a1-c161807540fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0a13a33-5706-4eef-b2a1-c161807540fb_mobile_mid.m3u8"
+        },
+        "id": "590c2f00ef23a82fe81869d1"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e25c3eaab450bca37c94",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:19:03.320Z",
+      "updatedAt": "2017-12-22T09:42:30.112Z",
+      "parentId": "5923ae533eaab450bca37bad",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "纬线和纬度、经线和经度",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/53d94703-a610-4433-abab-953b83ef3f89_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/53d94703-a610-4433-abab-953b83ef3f89_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/53d94703-a610-4433-abab-953b83ef3f89_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/53d94703-a610-4433-abab-953b83ef3f89_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/53d94703-a610-4433-abab-953b83ef3f89_mobile_mid.m3u8"
+        },
+        "id": "590c305cd5ff75235535574d"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2673eaab450bca37c96",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:19:12.983Z",
+      "updatedAt": "2017-12-22T09:42:49.313Z",
+      "parentId": "5923ae533eaab450bca37bad",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "利用经纬网定位、内容回顾",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3eb6aac2-8046-401e-ab42-da3b1e5496ba_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3eb6aac2-8046-401e-ab42-da3b1e5496ba_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3eb6aac2-8046-401e-ab42-da3b1e5496ba_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3eb6aac2-8046-401e-ab42-da3b1e5496ba_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3eb6aac2-8046-401e-ab42-da3b1e5496ba_mobile_mid.m3u8"
+        },
+        "id": "592408b6ef23a85f5249dc62"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2703eaab450bca37c98",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:19:23.160Z",
+      "updatedAt": "2017-12-22T09:43:06.359Z",
+      "parentId": "5923ae533eaab450bca37bad",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a78cd080-61e0-41eb-b6c2-4cbc510cde4a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a78cd080-61e0-41eb-b6c2-4cbc510cde4a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a78cd080-61e0-41eb-b6c2-4cbc510cde4a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a78cd080-61e0-41eb-b6c2-4cbc510cde4a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a78cd080-61e0-41eb-b6c2-4cbc510cde4a_mobile_mid.m3u8"
+        },
+        "id": "592408ebef23a82fd351fc86"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e27b3eaab450bca37c9a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:37:02.164Z",
+    "updatedAt": "2017-12-22T09:43:27.327Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "地球的运动",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae5e3eaab450bca37baf",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:19:37.618Z",
+      "updatedAt": "2017-12-22T09:43:36.781Z",
+      "parentId": "5923ae5e3eaab450bca37baf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "地球的自转与公转",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e2b1ab6a-2e5c-44d2-bc64-f073d3e9b875_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e2b1ab6a-2e5c-44d2-bc64-f073d3e9b875_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e2b1ab6a-2e5c-44d2-bc64-f073d3e9b875_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e2b1ab6a-2e5c-44d2-bc64-f073d3e9b875_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e2b1ab6a-2e5c-44d2-bc64-f073d3e9b875_mobile_mid.m3u8"
+        },
+        "id": "590c2f72ef23a83018b34d14"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2893eaab450bca37c9c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:19:48.689Z",
+      "updatedAt": "2017-12-22T09:43:46.947Z",
+      "parentId": "5923ae5e3eaab450bca37baf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "内容回顾与课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/28ffe713-ebdb-4c4d-99ea-5194c94f7fdf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/28ffe713-ebdb-4c4d-99ea-5194c94f7fdf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/28ffe713-ebdb-4c4d-99ea-5194c94f7fdf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/28ffe713-ebdb-4c4d-99ea-5194c94f7fdf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/28ffe713-ebdb-4c4d-99ea-5194c94f7fdf_mobile_mid.m3u8"
+        },
+        "id": "590c2faaef23a82ffd23541e"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2943eaab450bca37c9e",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:37:12.182Z",
+    "updatedAt": "2017-12-22T09:44:02.184Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "地图的阅读",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae683eaab450bca37bb1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:20:01.854Z",
+      "updatedAt": "2017-12-22T09:44:13.855Z",
+      "parentId": "5923ae683eaab450bca37bb1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "地图的三要素、选择合适的地图",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f092b8c4-7c14-434c-854d-0e323b38cbb5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f092b8c4-7c14-434c-854d-0e323b38cbb5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f092b8c4-7c14-434c-854d-0e323b38cbb5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f092b8c4-7c14-434c-854d-0e323b38cbb5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f092b8c4-7c14-434c-854d-0e323b38cbb5_mobile_mid.m3u8"
+        },
+        "id": "590c310bd5ff752379dbcfac"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2a13eaab450bca37ca0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:20:11.773Z",
+      "updatedAt": "2017-12-22T09:44:22.644Z",
+      "parentId": "5923ae683eaab450bca37bb1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "内容回顾与课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c4a3bbf3-81d3-4cf9-af78-1fd9794a0801_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c4a3bbf3-81d3-4cf9-af78-1fd9794a0801_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c4a3bbf3-81d3-4cf9-af78-1fd9794a0801_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c4a3bbf3-81d3-4cf9-af78-1fd9794a0801_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c4a3bbf3-81d3-4cf9-af78-1fd9794a0801_mobile_mid.m3u8"
+        },
+        "id": "590c300def23a82feb8a1442"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2ab3eaab450bca37ca2",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:37:22.394Z",
+    "updatedAt": "2017-12-22T09:44:39.624Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "地形图的判读",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae723eaab450bca37bb3",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:20:22.256Z",
+      "updatedAt": "2017-12-22T09:44:52.618Z",
+      "parentId": "5923ae723eaab450bca37bb3",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "等高线地形图",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e7276a7e-8dc4-48fd-9ec9-1929061188f2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e7276a7e-8dc4-48fd-9ec9-1929061188f2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e7276a7e-8dc4-48fd-9ec9-1929061188f2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e7276a7e-8dc4-48fd-9ec9-1929061188f2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e7276a7e-8dc4-48fd-9ec9-1929061188f2_mobile_mid.m3u8"
+        },
+        "id": "590c3042ef23a83074a80209"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2b63eaab450bca37ca4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:21:07.206Z",
+      "updatedAt": "2017-12-22T09:45:05.267Z",
+      "parentId": "5923ae723eaab450bca37bb3",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "分层设色地形图",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ad305b97-eb98-4a8a-a545-990af6a2815a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ad305b97-eb98-4a8a-a545-990af6a2815a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ad305b97-eb98-4a8a-a545-990af6a2815a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ad305b97-eb98-4a8a-a545-990af6a2815a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ad305b97-eb98-4a8a-a545-990af6a2815a_mobile_mid.m3u8"
+        },
+        "id": "590c3182d5ff75235535574e"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e2e33eaab450bca37ca6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:22:58.312Z",
+      "updatedAt": "2017-12-22T09:45:18.554Z",
+      "parentId": "5923ae723eaab450bca37bb3",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "地形剖面图、内容回顾、课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3ca6fac1-893e-4661-87e9-42d0453d0fc9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3ca6fac1-893e-4661-87e9-42d0453d0fc9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3ca6fac1-893e-4661-87e9-42d0453d0fc9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3ca6fac1-893e-4661-87e9-42d0453d0fc9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3ca6fac1-893e-4661-87e9-42d0453d0fc9_mobile_mid.m3u8"
+        },
+        "id": "590c31c2d5ff752346c78a0d"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e352de448f206c7769f3",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:37:31.061Z",
+    "updatedAt": "2017-12-22T09:45:35.115Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "习题课",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae7b3eaab450bca37bb5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:23:07.549Z",
+      "updatedAt": "2017-12-22T09:45:50.178Z",
+      "parentId": "5923ae7b3eaab450bca37bb5",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/43326c0f-9a63-4882-a811-6116f31a34fc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/43326c0f-9a63-4882-a811-6116f31a34fc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/43326c0f-9a63-4882-a811-6116f31a34fc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/43326c0f-9a63-4882-a811-6116f31a34fc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/43326c0f-9a63-4882-a811-6116f31a34fc_mobile_mid.m3u8"
+        },
+        "id": "590c30dcef23a8300e247795"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e35bde448f206c7769f5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:23:16.598Z",
+      "updatedAt": "2017-12-22T09:46:04.820Z",
+      "parentId": "5923ae7b3eaab450bca37bb5",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/951d8225-a0aa-449b-ae74-b3b4aa8ea272_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/951d8225-a0aa-449b-ae74-b3b4aa8ea272_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/951d8225-a0aa-449b-ae74-b3b4aa8ea272_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/951d8225-a0aa-449b-ae74-b3b4aa8ea272_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/951d8225-a0aa-449b-ae74-b3b4aa8ea272_mobile_mid.m3u8"
+        },
+        "id": "590c3127ef23a82feb8a1443"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e364de448f206c7769f7",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:37:40.423Z",
+    "updatedAt": "2017-12-22T09:46:25.236Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "大洲和大洋",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae843eaab450bca37bb7",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:23:28.700Z",
+      "updatedAt": "2017-12-22T09:46:42.341Z",
+      "parentId": "5923ae843eaab450bca37bb7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "地球？水球？",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0657ec6d-541c-4878-a387-2b723819b865_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0657ec6d-541c-4878-a387-2b723819b865_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0657ec6d-541c-4878-a387-2b723819b865_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0657ec6d-541c-4878-a387-2b723819b865_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0657ec6d-541c-4878-a387-2b723819b865_mobile_mid.m3u8"
+        },
+        "id": "590c486fef23a8300e247796"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e370de448f206c7769f9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:23:38.134Z",
+      "updatedAt": "2017-12-22T09:47:00.986Z",
+      "parentId": "5923ae843eaab450bca37bb7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "七大洲",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/079696ea-acba-4c94-b006-cb044966ab92_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/079696ea-acba-4c94-b006-cb044966ab92_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/079696ea-acba-4c94-b006-cb044966ab92_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/079696ea-acba-4c94-b006-cb044966ab92_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/079696ea-acba-4c94-b006-cb044966ab92_mobile_mid.m3u8"
+        },
+        "id": "590c488def23a8306818d0cb"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e37ade448f206c7769fb",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:23:47.014Z",
+      "updatedAt": "2017-12-22T09:47:28.369Z",
+      "parentId": "5923ae843eaab450bca37bb7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "四大洋、内容回顾",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1e70911a-03d5-45f8-9a2d-dc4ac9c43f22_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1e70911a-03d5-45f8-9a2d-dc4ac9c43f22_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1e70911a-03d5-45f8-9a2d-dc4ac9c43f22_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1e70911a-03d5-45f8-9a2d-dc4ac9c43f22_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1e70911a-03d5-45f8-9a2d-dc4ac9c43f22_mobile_mid.m3u8"
+        },
+        "id": "590c48aeef23a830026e6f42"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e383de448f206c7769fd",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:23:56.706Z",
+      "updatedAt": "2017-12-22T09:47:46.233Z",
+      "parentId": "5923ae843eaab450bca37bb7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/60cdabc1-de3d-4ab3-996f-1bfed82b39d5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/60cdabc1-de3d-4ab3-996f-1bfed82b39d5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/60cdabc1-de3d-4ab3-996f-1bfed82b39d5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/60cdabc1-de3d-4ab3-996f-1bfed82b39d5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/60cdabc1-de3d-4ab3-996f-1bfed82b39d5_mobile_mid.m3u8"
+        },
+        "id": "590c48d1ef23a83072ca0b4f"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e38cde448f206c7769ff",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:37:49.567Z",
+    "updatedAt": "2017-12-22T09:48:07.522Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "海陆的变迁",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae8d3eaab450bca37bb9",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:24:45.779Z",
+      "updatedAt": "2017-12-22T09:48:25.831Z",
+      "parentId": "5923ae8d3eaab450bca37bb9",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "大陆漂移学说",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0009aa7f-0177-4196-bc0c-c0f148d4ca84_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0009aa7f-0177-4196-bc0c-c0f148d4ca84_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0009aa7f-0177-4196-bc0c-c0f148d4ca84_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0009aa7f-0177-4196-bc0c-c0f148d4ca84_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0009aa7f-0177-4196-bc0c-c0f148d4ca84_mobile_mid.m3u8"
+        },
+        "id": "590c48eaef23a82fd5fce942"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e3bdde448f206c776a01",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:24:56.150Z",
+      "updatedAt": "2017-12-22T09:48:44.244Z",
+      "parentId": "5923ae8d3eaab450bca37bb9",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "板块的运动、内容回顾",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3301ce82-6df0-49ba-85d7-cf6a4be5bcb1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3301ce82-6df0-49ba-85d7-cf6a4be5bcb1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3301ce82-6df0-49ba-85d7-cf6a4be5bcb1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3301ce82-6df0-49ba-85d7-cf6a4be5bcb1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3301ce82-6df0-49ba-85d7-cf6a4be5bcb1_mobile_mid.m3u8"
+        },
+        "id": "590c491bef23a82fd4f5dba4"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e3c8de448f206c776a03",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:25:05.650Z",
+      "updatedAt": "2017-12-22T09:49:03.347Z",
+      "parentId": "5923ae8d3eaab450bca37bb9",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ef1c6f95-0c86-4b7f-be40-db800733b3fe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ef1c6f95-0c86-4b7f-be40-db800733b3fe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ef1c6f95-0c86-4b7f-be40-db800733b3fe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ef1c6f95-0c86-4b7f-be40-db800733b3fe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ef1c6f95-0c86-4b7f-be40-db800733b3fe_mobile_mid.m3u8"
+        },
+        "id": "590c493bef23a83037f2daf2"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e3d1de448f206c776a05",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:37:57.651Z",
+    "updatedAt": "2017-12-22T09:49:25.500Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "习题课",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae953eaab450bca37bbb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:25:17.086Z",
+      "updatedAt": "2017-12-22T09:49:49.504Z",
+      "parentId": "5923ae953eaab450bca37bbb",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/36aff4fb-f7a6-4a58-a7f6-9abe190cde11_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/36aff4fb-f7a6-4a58-a7f6-9abe190cde11_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/36aff4fb-f7a6-4a58-a7f6-9abe190cde11_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/36aff4fb-f7a6-4a58-a7f6-9abe190cde11_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/36aff4fb-f7a6-4a58-a7f6-9abe190cde11_mobile_mid.m3u8"
+        },
+        "id": "590c4979ef23a830026e6f43"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e3ddde448f206c776a07",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:25:27.269Z",
+      "updatedAt": "2017-12-22T09:50:09.174Z",
+      "parentId": "5923ae953eaab450bca37bbb",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8dce1f21-9f81-4011-9961-066c770c2948_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8dce1f21-9f81-4011-9961-066c770c2948_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8dce1f21-9f81-4011-9961-066c770c2948_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8dce1f21-9f81-4011-9961-066c770c2948_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8dce1f21-9f81-4011-9961-066c770c2948_mobile_mid.m3u8"
+        },
+        "id": "590c49c2ef23a8302f3073fb"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e3e7de448f206c776a09",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:38:07.063Z",
+    "updatedAt": "2017-12-22T09:50:31.688Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "多变的天气",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923ae9f3eaab450bca37bbd",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:25:37.247Z",
+      "updatedAt": "2017-12-22T09:50:51.344Z",
+      "parentId": "5923ae9f3eaab450bca37bbd",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "天气预报、空气污染指数",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fa11c677-bfc3-4867-a562-3e4b983567cf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fa11c677-bfc3-4867-a562-3e4b983567cf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fa11c677-bfc3-4867-a562-3e4b983567cf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fa11c677-bfc3-4867-a562-3e4b983567cf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fa11c677-bfc3-4867-a562-3e4b983567cf_mobile_mid.m3u8"
+        },
+        "id": "590c49feef23a82ffaa0c491"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e3f1de448f206c776a0b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:25:46.881Z",
+      "updatedAt": "2017-12-22T09:51:12.018Z",
+      "parentId": "5923ae9f3eaab450bca37bbd",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "内容回顾、课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a574e517-8a72-411d-8878-5c1467a9284f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a574e517-8a72-411d-8878-5c1467a9284f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a574e517-8a72-411d-8878-5c1467a9284f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a574e517-8a72-411d-8878-5c1467a9284f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a574e517-8a72-411d-8878-5c1467a9284f_mobile_mid.m3u8"
+        },
+        "id": "590c4a27ef23a8308c970dbb"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e3fade448f206c776a0d",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:38:19.513Z",
+    "updatedAt": "2017-12-22T09:51:34.275Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "气温的变化与分布",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aeab3eaab450bca37bbf",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:25:55.780Z",
+      "updatedAt": "2017-12-22T09:51:55.583Z",
+      "parentId": "5923aeab3eaab450bca37bbf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "气温的变化",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/708c6730-4ae9-4595-82b8-f17d5c48ae49_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/708c6730-4ae9-4595-82b8-f17d5c48ae49_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/708c6730-4ae9-4595-82b8-f17d5c48ae49_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/708c6730-4ae9-4595-82b8-f17d5c48ae49_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/708c6730-4ae9-4595-82b8-f17d5c48ae49_mobile_mid.m3u8"
+        },
+        "id": "590c4a63ef23a8302b0c3565"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e403de448f206c776a0f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:26:04.447Z",
+      "updatedAt": "2017-12-22T09:52:15.421Z",
+      "parentId": "5923aeab3eaab450bca37bbf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "气温年变化曲线图",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dcee8f7b-3d36-436a-a464-49a9928e2560_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dcee8f7b-3d36-436a-a464-49a9928e2560_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dcee8f7b-3d36-436a-a464-49a9928e2560_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dcee8f7b-3d36-436a-a464-49a9928e2560_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dcee8f7b-3d36-436a-a464-49a9928e2560_mobile_mid.m3u8"
+        },
+        "id": "590c4a85ef23a82ff01ce4bd"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e40cde448f206c776a11",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:26:12.720Z",
+      "updatedAt": "2017-12-22T09:52:36.095Z",
+      "parentId": "5923aeab3eaab450bca37bbf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "气温的分布规律1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6b0c23eb-876a-49b0-9bf0-d0cb572a27ac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6b0c23eb-876a-49b0-9bf0-d0cb572a27ac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6b0c23eb-876a-49b0-9bf0-d0cb572a27ac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6b0c23eb-876a-49b0-9bf0-d0cb572a27ac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6b0c23eb-876a-49b0-9bf0-d0cb572a27ac_mobile_mid.m3u8"
+        },
+        "id": "590c4abaef23a8303956a1d7"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e414de448f206c776a13",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:26:21.633Z",
+      "updatedAt": "2017-12-22T09:52:56.083Z",
+      "parentId": "5923aeab3eaab450bca37bbf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "气温的分布规律2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bf48c24b-9ff3-477c-a5fe-2cd3c118b79a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bf48c24b-9ff3-477c-a5fe-2cd3c118b79a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bf48c24b-9ff3-477c-a5fe-2cd3c118b79a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bf48c24b-9ff3-477c-a5fe-2cd3c118b79a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bf48c24b-9ff3-477c-a5fe-2cd3c118b79a_mobile_mid.m3u8"
+        },
+        "id": "590c4ae2ef23a82ff01ce4be"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e41dde448f206c776a15",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:27:21.252Z",
+      "updatedAt": "2017-12-22T09:53:15.726Z",
+      "parentId": "5923aeab3eaab450bca37bbf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "等温线图",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/82a7446e-94bf-4fa0-9503-72e64cc75b61_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/82a7446e-94bf-4fa0-9503-72e64cc75b61_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/82a7446e-94bf-4fa0-9503-72e64cc75b61_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/82a7446e-94bf-4fa0-9503-72e64cc75b61_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/82a7446e-94bf-4fa0-9503-72e64cc75b61_mobile_mid.m3u8"
+        },
+        "id": "590c4b08ef23a83074a8020a"
+      },
+      "order": 5,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e459de448f206c776a17",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:27:36.572Z",
+      "updatedAt": "2017-12-22T09:53:22.315Z",
+      "parentId": "5923aeab3eaab450bca37bbf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "内容回顾、课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a5287227-d076-43c8-bcd4-646eb6bb4bba_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a5287227-d076-43c8-bcd4-646eb6bb4bba_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a5287227-d076-43c8-bcd4-646eb6bb4bba_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a5287227-d076-43c8-bcd4-646eb6bb4bba_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a5287227-d076-43c8-bcd4-646eb6bb4bba_mobile_mid.m3u8"
+        },
+        "id": "590c4b4eef23a83072ca0b50"
+      },
+      "order": 6,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e468de448f206c776a19",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:38:29.085Z",
+    "updatedAt": "2017-12-22T09:53:30.176Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "降水的变化与分布",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aeb53eaab450bca37bc1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:28:04.583Z",
+      "updatedAt": "2017-12-22T09:53:35.833Z",
+      "parentId": "5923aeb53eaab450bca37bc1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "降水的变化",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b3014735-fbd8-4c84-a547-d660c239d17b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b3014735-fbd8-4c84-a547-d660c239d17b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b3014735-fbd8-4c84-a547-d660c239d17b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b3014735-fbd8-4c84-a547-d660c239d17b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b3014735-fbd8-4c84-a547-d660c239d17b_mobile_mid.m3u8"
+        },
+        "id": "590c4b72ef23a8306269485d"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e484de448f206c776a1b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:28:19.608Z",
+      "updatedAt": "2017-12-22T09:53:42.757Z",
+      "parentId": "5923aeb53eaab450bca37bc1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "降水量柱状图",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b1ed3646-9aba-4462-b99f-42b92fcd2062_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b1ed3646-9aba-4462-b99f-42b92fcd2062_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b1ed3646-9aba-4462-b99f-42b92fcd2062_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b1ed3646-9aba-4462-b99f-42b92fcd2062_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b1ed3646-9aba-4462-b99f-42b92fcd2062_mobile_mid.m3u8"
+        },
+        "id": "590c4cafd5ff7523626a6d15"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e493de448f206c776a1d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:28:47.409Z",
+      "updatedAt": "2017-12-22T09:53:48.925Z",
+      "parentId": "5923aeb53eaab450bca37bc1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "降水的分布1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c7c82436-c7be-4500-8b91-869a433cf2ab_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c7c82436-c7be-4500-8b91-869a433cf2ab_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c7c82436-c7be-4500-8b91-869a433cf2ab_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c7c82436-c7be-4500-8b91-869a433cf2ab_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c7c82436-c7be-4500-8b91-869a433cf2ab_mobile_mid.m3u8"
+        },
+        "id": "590c4bc7ef23a83072ca0b51"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4afde448f206c776a1f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:28:57.536Z",
+      "updatedAt": "2017-12-22T09:53:54.488Z",
+      "parentId": "5923aeb53eaab450bca37bc1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "降水的分布2、内容回顾",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5874d710-361a-4f43-80c9-df6d7c3542b7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5874d710-361a-4f43-80c9-df6d7c3542b7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5874d710-361a-4f43-80c9-df6d7c3542b7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5874d710-361a-4f43-80c9-df6d7c3542b7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5874d710-361a-4f43-80c9-df6d7c3542b7_mobile_mid.m3u8"
+        },
+        "id": "590c4be1ef23a830026e6f44"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4b9de448f206c776a21",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:29:11.075Z",
+      "updatedAt": "2017-12-22T09:53:59.976Z",
+      "parentId": "5923aeb53eaab450bca37bc1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cd3b0544-09c8-40bd-a16d-e98d1cf721bd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cd3b0544-09c8-40bd-a16d-e98d1cf721bd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cd3b0544-09c8-40bd-a16d-e98d1cf721bd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cd3b0544-09c8-40bd-a16d-e98d1cf721bd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cd3b0544-09c8-40bd-a16d-e98d1cf721bd_mobile_mid.m3u8"
+        },
+        "id": "590c4bfeef23a82feb8a1444"
+      },
+      "order": 5,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4c7de448f206c776a23",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:38:39.182Z",
+    "updatedAt": "2017-12-22T09:54:09.253Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "世界的气候",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aebf3eaab450bca37bc3",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:29:21.427Z",
+      "updatedAt": "2017-12-22T09:54:14.638Z",
+      "parentId": "5923aebf3eaab450bca37bc3",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "不同的气候类型",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/96ace09c-2071-4fdc-9c8e-a93d1018aeab_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/96ace09c-2071-4fdc-9c8e-a93d1018aeab_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/96ace09c-2071-4fdc-9c8e-a93d1018aeab_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/96ace09c-2071-4fdc-9c8e-a93d1018aeab_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/96ace09c-2071-4fdc-9c8e-a93d1018aeab_mobile_mid.m3u8"
+        },
+        "id": "59155b66ef23a82fe81869db"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4d1de448f206c776a25",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:29:32.009Z",
+      "updatedAt": "2017-12-22T09:54:19.723Z",
+      "parentId": "5923aebf3eaab450bca37bc3",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "影响气候的因素",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/37bab252-235c-4bbb-8730-14d892125089_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/37bab252-235c-4bbb-8730-14d892125089_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/37bab252-235c-4bbb-8730-14d892125089_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/37bab252-235c-4bbb-8730-14d892125089_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/37bab252-235c-4bbb-8730-14d892125089_mobile_mid.m3u8"
+        },
+        "id": "59155cafd5ff75237598a877"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4dcde448f206c776a27",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:29:48.773Z",
+      "updatedAt": "2017-12-22T09:54:24.522Z",
+      "parentId": "5923aebf3eaab450bca37bc3",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "气候与人类的生活、内容回顾",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b9779bf1-dfdc-4cec-b3d1-376fb26ff4bc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b9779bf1-dfdc-4cec-b3d1-376fb26ff4bc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b9779bf1-dfdc-4cec-b3d1-376fb26ff4bc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b9779bf1-dfdc-4cec-b3d1-376fb26ff4bc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b9779bf1-dfdc-4cec-b3d1-376fb26ff4bc_mobile_mid.m3u8"
+        },
+        "id": "59155ba3ef23a82ffaa0c49d"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4ecde448f206c776a29",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:29:57.936Z",
+      "updatedAt": "2017-12-22T09:54:31.193Z",
+      "parentId": "5923aebf3eaab450bca37bc3",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f4323154-0a42-49be-a1ec-b4407e63c657_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f4323154-0a42-49be-a1ec-b4407e63c657_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f4323154-0a42-49be-a1ec-b4407e63c657_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f4323154-0a42-49be-a1ec-b4407e63c657_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f4323154-0a42-49be-a1ec-b4407e63c657_mobile_mid.m3u8"
+        },
+        "id": "59155cf3d5ff752355355758"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4f5de448f206c776a2b",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:38:55.198Z",
+    "updatedAt": "2017-12-22T09:54:37.725Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "本章复习",
+    "order": 14,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aecf3eaab450bca37bc5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:30:07.493Z",
+      "updatedAt": "2017-12-22T09:54:43.197Z",
+      "parentId": "5923aecf3eaab450bca37bc5",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "章末回归",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/51821559-7891-4614-96c2-7495493b640b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/51821559-7891-4614-96c2-7495493b640b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/51821559-7891-4614-96c2-7495493b640b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/51821559-7891-4614-96c2-7495493b640b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/51821559-7891-4614-96c2-7495493b640b_mobile_mid.m3u8"
+        },
+        "id": "59155bf3ef23a82fe81869dc"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e4ffde448f206c776a2d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:30:16.087Z",
+      "updatedAt": "2017-12-22T09:54:49.116Z",
+      "parentId": "5923aecf3eaab450bca37bc5",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/611646d2-35df-4099-a80e-66603c428d6e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/611646d2-35df-4099-a80e-66603c428d6e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/611646d2-35df-4099-a80e-66603c428d6e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/611646d2-35df-4099-a80e-66603c428d6e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/611646d2-35df-4099-a80e-66603c428d6e_mobile_mid.m3u8"
+        },
+        "id": "59155d4ed5ff752394a46f99"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e508de448f206c776a2f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:30:24.524Z",
+      "updatedAt": "2017-12-22T09:54:57.618Z",
+      "parentId": "5923aecf3eaab450bca37bc5",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04556c88-2e3f-49c7-a2e6-e72fcab5bf26_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04556c88-2e3f-49c7-a2e6-e72fcab5bf26_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04556c88-2e3f-49c7-a2e6-e72fcab5bf26_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04556c88-2e3f-49c7-a2e6-e72fcab5bf26_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04556c88-2e3f-49c7-a2e6-e72fcab5bf26_mobile_mid.m3u8"
+        },
+        "id": "59155c42ef23a8306818d0d5"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e510de448f206c776a31",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:30:33.141Z",
+      "updatedAt": "2017-12-22T09:55:03.444Z",
+      "parentId": "5923aecf3eaab450bca37bc5",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/437f67b3-f626-4090-9e74-d0997a0ea6e5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/437f67b3-f626-4090-9e74-d0997a0ea6e5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/437f67b3-f626-4090-9e74-d0997a0ea6e5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/437f67b3-f626-4090-9e74-d0997a0ea6e5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/437f67b3-f626-4090-9e74-d0997a0ea6e5_mobile_mid.m3u8"
+        },
+        "id": "59155c62ef23a8300e2477a5"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e519de448f206c776a33",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:39:04.197Z",
+    "updatedAt": "2017-12-22T09:55:13.350Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "人口与人种",
+    "order": 15,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aed83eaab450bca37bc7",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:30:43.613Z",
+      "updatedAt": "2017-12-22T09:55:20.121Z",
+      "parentId": "5923aed83eaab450bca37bc7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "世界人口的增长",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/02851700-ad1c-4a87-99c8-9ca12429ed6f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/02851700-ad1c-4a87-99c8-9ca12429ed6f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/02851700-ad1c-4a87-99c8-9ca12429ed6f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/02851700-ad1c-4a87-99c8-9ca12429ed6f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/02851700-ad1c-4a87-99c8-9ca12429ed6f_mobile_mid.m3u8"
+        },
+        "id": "59155c88ef23a83074a80213"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e523de448f206c776a35",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:30:52.100Z",
+      "updatedAt": "2017-12-22T09:55:25.908Z",
+      "parentId": "5923aed83eaab450bca37bc7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "世界人口的分布",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0c1cf1a-c256-4952-92c5-188f8b468911_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0c1cf1a-c256-4952-92c5-188f8b468911_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0c1cf1a-c256-4952-92c5-188f8b468911_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0c1cf1a-c256-4952-92c5-188f8b468911_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0c1cf1a-c256-4952-92c5-188f8b468911_mobile_mid.m3u8"
+        },
+        "id": "59155c9def23a83074a80214"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e52cde448f206c776a37",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:31:01.341Z",
+      "updatedAt": "2017-12-22T09:55:31.750Z",
+      "parentId": "5923aed83eaab450bca37bc7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "人口问题、不同的人种",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_mobile_mid.m3u8"
+        },
+        "id": "59155cdbef23a82fd4f5dbaf"
+      },
+      "order": 3,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923e535de448f206c776a39",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/dd317c1e-5f7b-4fe9-9814-629991c33ce3_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:31:16.091Z",
+      "updatedAt": "2017-12-22T09:55:38.768Z",
+      "parentId": "5923aed83eaab450bca37bc7",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "内容回顾、课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8d8e9395-7d05-4754-bebd-27386fe9c69f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8d8e9395-7d05-4754-bebd-27386fe9c69f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8d8e9395-7d05-4754-bebd-27386fe9c69f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8d8e9395-7d05-4754-bebd-27386fe9c69f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8d8e9395-7d05-4754-bebd-27386fe9c69f_mobile_mid.m3u8"
+        },
+        "id": "59155d14ef23a82fd351fc6b"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e544de448f206c776a3b",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:39:15.275Z",
+    "updatedAt": "2017-12-22T09:55:55.902Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "世界的语言和宗教",
+    "order": 16,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aee33eaab450bca37bc9",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:31:40.045Z",
+      "updatedAt": "2017-12-22T09:56:01.798Z",
+      "parentId": "5923aee33eaab450bca37bc9",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "世界的语言",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a6ceee06-6cbd-4449-8ca1-da9ee94d44d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a6ceee06-6cbd-4449-8ca1-da9ee94d44d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a6ceee06-6cbd-4449-8ca1-da9ee94d44d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a6ceee06-6cbd-4449-8ca1-da9ee94d44d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a6ceee06-6cbd-4449-8ca1-da9ee94d44d2_mobile_mid.m3u8"
+        },
+        "id": "59155d3bef23a8300dc58ef6"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e55cde448f206c776a3d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:31:48.810Z",
+      "updatedAt": "2017-12-22T09:56:08.714Z",
+      "parentId": "5923aee33eaab450bca37bc9",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "基督教",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f3c70e07-8b33-46ee-9fa2-e1da70f8cb9d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f3c70e07-8b33-46ee-9fa2-e1da70f8cb9d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f3c70e07-8b33-46ee-9fa2-e1da70f8cb9d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f3c70e07-8b33-46ee-9fa2-e1da70f8cb9d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f3c70e07-8b33-46ee-9fa2-e1da70f8cb9d_mobile_mid.m3u8"
+        },
+        "id": "59155d68ef23a83062694867"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e564de448f206c776a3f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:32:07.204Z",
+      "updatedAt": "2017-12-22T09:56:14.090Z",
+      "parentId": "5923aee33eaab450bca37bc9",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "伊斯兰教",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8f9fe554-cf42-4754-bb00-06b1ba96c2c1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8f9fe554-cf42-4754-bb00-06b1ba96c2c1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8f9fe554-cf42-4754-bb00-06b1ba96c2c1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8f9fe554-cf42-4754-bb00-06b1ba96c2c1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8f9fe554-cf42-4754-bb00-06b1ba96c2c1_mobile_mid.m3u8"
+        },
+        "id": "59155eb2d5ff7523a033127d"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e577de448f206c776a41",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:32:17.412Z",
+      "updatedAt": "2017-12-22T09:56:20.158Z",
+      "parentId": "5923aee33eaab450bca37bc9",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "佛教、内容回顾、课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e53a7910-6521-4dd5-a6bb-15e6cf01045a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e53a7910-6521-4dd5-a6bb-15e6cf01045a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e53a7910-6521-4dd5-a6bb-15e6cf01045a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e53a7910-6521-4dd5-a6bb-15e6cf01045a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e53a7910-6521-4dd5-a6bb-15e6cf01045a_mobile_mid.m3u8"
+        },
+        "id": "59155dbdef23a8300e2477a6"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e581de448f206c776a43",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:39:26.872Z",
+    "updatedAt": "2017-12-22T09:56:29.101Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "人类聚居地",
+    "order": 17,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aeee3eaab450bca37bcb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:32:44.591Z",
+      "updatedAt": "2017-12-22T09:56:34.883Z",
+      "parentId": "5923aeee3eaab450bca37bcb",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "聚落与环境",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/02162bd2-d29c-4501-97df-47b9129c5007_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/02162bd2-d29c-4501-97df-47b9129c5007_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/02162bd2-d29c-4501-97df-47b9129c5007_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/02162bd2-d29c-4501-97df-47b9129c5007_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/02162bd2-d29c-4501-97df-47b9129c5007_mobile_mid.m3u8"
+        },
+        "id": "59155dffef23a82fd351fc6c"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e59cde448f206c776a45",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:32:55.628Z",
+      "updatedAt": "2017-12-22T09:56:41.264Z",
+      "parentId": "5923aeee3eaab450bca37bcb",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "聚落与世界文化遗产、内容回顾",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/30bef834-082d-4bb7-b02b-8d4153d529e4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/30bef834-082d-4bb7-b02b-8d4153d529e4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/30bef834-082d-4bb7-b02b-8d4153d529e4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/30bef834-082d-4bb7-b02b-8d4153d529e4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/30bef834-082d-4bb7-b02b-8d4153d529e4_mobile_mid.m3u8"
+        },
+        "id": "59155e27ef23a8301e5ebdc4"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5a7de448f206c776a47",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:33:05.532Z",
+      "updatedAt": "2017-12-22T09:56:48.701Z",
+      "parentId": "5923aeee3eaab450bca37bcb",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/05cf56a8-329a-4abc-bbf7-3f40d4529f87_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/05cf56a8-329a-4abc-bbf7-3f40d4529f87_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/05cf56a8-329a-4abc-bbf7-3f40d4529f87_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/05cf56a8-329a-4abc-bbf7-3f40d4529f87_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/05cf56a8-329a-4abc-bbf7-3f40d4529f87_mobile_mid.m3u8"
+        },
+        "id": "59155e4fef23a83074a80215"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5b1de448f206c776a49",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:39:41.026Z",
+    "updatedAt": "2017-12-22T09:56:55.995Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "本章复习",
+    "order": 18,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923aefd3eaab450bca37bcd",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:33:16.049Z",
+      "updatedAt": "2017-12-22T09:57:03.841Z",
+      "parentId": "5923aefd3eaab450bca37bcd",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "章末回顾",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9cc01e38-9d4f-40d1-892e-d9903a24aebe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9cc01e38-9d4f-40d1-892e-d9903a24aebe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9cc01e38-9d4f-40d1-892e-d9903a24aebe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9cc01e38-9d4f-40d1-892e-d9903a24aebe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9cc01e38-9d4f-40d1-892e-d9903a24aebe_mobile_mid.m3u8"
+        },
+        "id": "59155f9ad5ff7523a033127e"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5bcde448f206c776a4b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:33:24.522Z",
+      "updatedAt": "2017-12-22T09:57:09.164Z",
+      "parentId": "5923aefd3eaab450bca37bcd",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2dfaed2c-164a-47a1-8002-d7b4759ce53f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2dfaed2c-164a-47a1-8002-d7b4759ce53f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2dfaed2c-164a-47a1-8002-d7b4759ce53f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2dfaed2c-164a-47a1-8002-d7b4759ce53f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2dfaed2c-164a-47a1-8002-d7b4759ce53f_mobile_mid.m3u8"
+        },
+        "id": "59155ea0ef23a83089d83a77"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5c4de448f206c776a4d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:33:33.346Z",
+      "updatedAt": "2017-12-22T09:57:15.713Z",
+      "parentId": "5923aefd3eaab450bca37bcd",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/64f947fd-4c74-4ba0-97ff-bdf1cf9bc0dd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/64f947fd-4c74-4ba0-97ff-bdf1cf9bc0dd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/64f947fd-4c74-4ba0-97ff-bdf1cf9bc0dd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/64f947fd-4c74-4ba0-97ff-bdf1cf9bc0dd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/64f947fd-4c74-4ba0-97ff-bdf1cf9bc0dd_mobile_mid.m3u8"
+        },
+        "id": "59155ffbd5ff752394a46f9a"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5cdde448f206c776a4f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:33:42.447Z",
+      "updatedAt": "2017-12-22T09:57:22.770Z",
+      "parentId": "5923aefd3eaab450bca37bcd",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "习题课3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0c4b6943-7203-4c16-bac1-f47df9a70ac6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0c4b6943-7203-4c16-bac1-f47df9a70ac6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0c4b6943-7203-4c16-bac1-f47df9a70ac6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0c4b6943-7203-4c16-bac1-f47df9a70ac6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0c4b6943-7203-4c16-bac1-f47df9a70ac6_mobile_mid.m3u8"
+        },
+        "id": "59155eeeef23a8302f307406"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5d6de448f206c776a51",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:39:57.241Z",
+    "updatedAt": "2017-12-22T09:57:31.138Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "发展与合作",
+    "order": 19,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923af0d3eaab450bca37bcf",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:34:05.334Z",
+      "updatedAt": "2017-12-22T09:57:36.562Z",
+      "parentId": "5923af0d3eaab450bca37bcf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "发展中国家与发达国家",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9b55f657-83a7-45a3-a3c7-cbb01f595bc1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9b55f657-83a7-45a3-a3c7-cbb01f595bc1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9b55f657-83a7-45a3-a3c7-cbb01f595bc1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9b55f657-83a7-45a3-a3c7-cbb01f595bc1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9b55f657-83a7-45a3-a3c7-cbb01f595bc1_mobile_mid.m3u8"
+        },
+        "id": "59155f28ef23a8306926cb7a"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5edde448f206c776a53",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:34:13.981Z",
+      "updatedAt": "2017-12-22T09:57:41.797Z",
+      "parentId": "5923af0d3eaab450bca37bcf",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "国际经济合作、内容回顾、课堂小测",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f1f53c9b-14d8-4cd9-afb9-9f90181deac9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f1f53c9b-14d8-4cd9-afb9-9f90181deac9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f1f53c9b-14d8-4cd9-afb9-9f90181deac9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f1f53c9b-14d8-4cd9-afb9-9f90181deac9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f1f53c9b-14d8-4cd9-afb9-9f90181deac9_mobile_mid.m3u8"
+        },
+        "id": "59155f77ef23a83089d83a78"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e5f5de448f206c776a55",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:40:05.703Z",
+    "updatedAt": "2017-12-22T09:57:50.019Z",
+    "courseId": "5923add83eaab450bca37ba9",
+    "name": "章末复习",
+    "order": 20,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923af153eaab450bca37bd1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T07:34:28.592Z",
+      "updatedAt": "2017-12-22T09:57:55.774Z",
+      "parentId": "5923af153eaab450bca37bd1",
+      "courseId": "5923add83eaab450bca37ba9",
+      "name": "章末回顾、习题课",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8fb05646-ea5a-4a8b-aae9-e9f892f72a09_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8fb05646-ea5a-4a8b-aae9-e9f892f72a09_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8fb05646-ea5a-4a8b-aae9-e9f892f72a09_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8fb05646-ea5a-4a8b-aae9-e9f892f72a09_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8fb05646-ea5a-4a8b-aae9-e9f892f72a09_mobile_mid.m3u8"
+        },
+        "id": "59155f95ef23a83074a80216"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5923e604de448f206c776a57",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

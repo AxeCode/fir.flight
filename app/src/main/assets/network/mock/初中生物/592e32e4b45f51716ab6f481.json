@@ -1,0 +1,1095 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T03:05:08.243Z",
+  "updatedAt": "2017-12-30T08:40:37.718Z",
+  "name": "初中生物八年级上",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/c2e38445cd0870a2481b13cb76304762.png",
+  "bigImage": "http://imgs.wanmen.org/c2e38445cd0870a2481b13cb76304762.png",
+  "smallImageUrl": "http://imgs.wanmen.org/1c153dc78dd25c9d637910814c634aec.png",
+  "smallImage": "http://imgs.wanmen.org/1c153dc78dd25c9d637910814c634aec.png",
+  "teacherName": "牛佳丽",
+  "teacherDescription": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "description": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 3,
+  "numOfClasses": 8,
+  "expiration": 12,
+  "tag": "牛佳丽 初中 八年级 上 生物",
+  "videoCount": 32,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 4,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 8,
+  "mobileCoverUrl": "http://imgs.wanmen.org/1c153dc78dd25c9d637910814c634aec.png",
+  "coverUrl": "http://imgs.wanmen.org/c2e38445cd0870a2481b13cb76304762.png",
+  "id": "592e32e4b45f51716ab6f481",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:03:57.366Z",
+    "updatedAt": "2017-12-23T02:20:15.203Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "动物的主要类群",
+    "order": 1,
+    "actions": {
+      "download": true,
+      "watch": true
+    },
+    "hide": false,
+    "id": "59360d8dd5fa2213f156ccf6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:06:36.337Z",
+      "updatedAt": "2017-12-23T02:20:41.079Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "腔肠动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_mobile_mid.m3u8"
+        },
+        "id": "591ec63cef23a8306926cb8a"
+      },
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360e2cd5fa2213f156cd0f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/4f48a31c-00ee-4710-8fe1-d9bd82ee9068_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:06:43.708Z",
+      "updatedAt": "2017-12-23T02:21:03.357Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "扁形动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_mobile_mid.m3u8"
+        },
+        "id": "591ec783d5ff7523626a6d28"
+      },
+      "order": 2,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360e33d5fa2213f156cd11",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/6a26abe0-27a3-4ec2-93d4-c1c2f7e7fa3c_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:06:53.735Z",
+      "updatedAt": "2017-12-23T02:23:41.727Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "线形动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_mobile_mid.m3u8"
+        },
+        "id": "591ec797d5ff752346c78a26"
+      },
+      "order": 3,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360e3dd5fa2213f156cd13",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/65a7c8b8-138d-42fd-a716-6b87fa66a2da_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:07:01.833Z",
+      "updatedAt": "2017-12-23T02:24:12.255Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "环节动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_mobile_mid.m3u8"
+        },
+        "id": "591ec7b1d5ff752346c78a27"
+      },
+      "order": 4,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360e45d5fa2213f156cd15",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/3f3f3b4a-fe8b-49a1-87ed-4b40949d68c1_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:07:08.659Z",
+      "updatedAt": "2017-12-23T02:24:40.034Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "软体动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_mobile_mid.m3u8"
+        },
+        "id": "591ec7cad5ff7523417dbeae"
+      },
+      "order": 5,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360e4cd5fa2213f156cd17",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/1f6b9488-c1d2-4b96-998b-eadc7fd41d14_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:26:41.507Z",
+      "updatedAt": "2017-12-23T02:24:58.311Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "节肢动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_mobile_mid.m3u8"
+        },
+        "id": "591ec6abef23a83072ca0b62"
+      },
+      "order": 6,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593612e1d5fa2213f156cd27",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/5eab15c4-af35-4ded-a2af-a5648bbaf42d_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:26:50.065Z",
+      "updatedAt": "2017-12-23T02:25:15.565Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "鱼类",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_mobile_mid.m3u8"
+        },
+        "id": "591ec6daef23a83089d83a88"
+      },
+      "order": 7,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593612ead5fa2213f156cd29",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/843afe37-ba3d-492e-a9ff-43a0fd13e373_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:26:58.483Z",
+      "updatedAt": "2017-12-23T02:25:44.662Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "两栖动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_mobile_mid.m3u8"
+        },
+        "id": "591ec70bef23a82080b5d206"
+      },
+      "order": 8,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593612f2d5fa2213f156cd2b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c68aff02-396f-4257-ab0f-9a862656036b_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:27:05.942Z",
+      "updatedAt": "2017-12-23T02:26:09.866Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "爬行动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_mobile_mid.m3u8"
+        },
+        "id": "591ec85fd5ff75236719eee9"
+      },
+      "order": 9,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593612f9d5fa2213f156cd2d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/448d85ac-099c-4aee-8175-04e03b87f972_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T02:28:23.477Z",
+      "updatedAt": "2017-12-23T02:26:32.260Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "鸟类",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_mobile_mid.m3u8"
+        },
+        "id": "591ec87ed5ff7523a0331289"
+      },
+      "order": 10,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59361347d5fa2213f156cd2f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/0f40d6e4-b5d0-4459-9c73-0d5220406597_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:14:41.508Z",
+      "updatedAt": "2017-12-23T02:26:53.087Z",
+      "parentId": "59360d8dd5fa2213f156ccf6",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "哺乳动物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_mobile_mid.m3u8"
+        },
+        "id": "591ec76fef23a8305c40f55e"
+      },
+      "order": 11,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59361e21d5fa2213f156cd4d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/d9bcb887-31c4-45b7-bf5f-bdcaf93cf93d_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:04:05.678Z",
+    "updatedAt": "2017-12-23T02:27:29.240Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "动物的运动和行为",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360d95d5fa2213f156ccf8",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:14:52.268Z",
+      "updatedAt": "2017-12-23T02:28:54.312Z",
+      "parentId": "59360d95d5fa2213f156ccf8",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "运动系统的组成和功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/52124bd4-33a9-4c3d-9183-bb6f59fa88fc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/52124bd4-33a9-4c3d-9183-bb6f59fa88fc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/52124bd4-33a9-4c3d-9183-bb6f59fa88fc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/52124bd4-33a9-4c3d-9183-bb6f59fa88fc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/52124bd4-33a9-4c3d-9183-bb6f59fa88fc_mobile_mid.m3u8"
+        },
+        "id": "591ec78aef23a82eb67467c5"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e2cd5fa2213f156cd4f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:15:00.306Z",
+      "updatedAt": "2017-12-23T02:29:06.093Z",
+      "parentId": "59360d95d5fa2213f156ccf8",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "动物行为的分类及意义",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/88896383-ab1b-4cc1-af75-4f47f4b0a78a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/88896383-ab1b-4cc1-af75-4f47f4b0a78a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/88896383-ab1b-4cc1-af75-4f47f4b0a78a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/88896383-ab1b-4cc1-af75-4f47f4b0a78a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/88896383-ab1b-4cc1-af75-4f47f4b0a78a_mobile_mid.m3u8"
+        },
+        "id": "591ec8e0d5ff75237598a882"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e34d5fa2213f156cd51",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:15:10.899Z",
+      "updatedAt": "2017-12-23T02:29:18.031Z",
+      "parentId": "59360d95d5fa2213f156ccf8",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "先天性行为和学习行为",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/234c6fc5-d802-4745-a210-5bddf943e1a8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/234c6fc5-d802-4745-a210-5bddf943e1a8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/234c6fc5-d802-4745-a210-5bddf943e1a8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/234c6fc5-d802-4745-a210-5bddf943e1a8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/234c6fc5-d802-4745-a210-5bddf943e1a8_mobile_mid.m3u8"
+        },
+        "id": "591ec7e7ef23a83089d83a89"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e3ed5fa2213f156cd53",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:15:25.465Z",
+      "updatedAt": "2017-12-23T02:29:30.728Z",
+      "parentId": "59360d95d5fa2213f156ccf8",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "社会行为",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e802b7c4-c36f-41e2-92cc-053ad7fb91e2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e802b7c4-c36f-41e2-92cc-053ad7fb91e2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e802b7c4-c36f-41e2-92cc-053ad7fb91e2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e802b7c4-c36f-41e2-92cc-053ad7fb91e2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e802b7c4-c36f-41e2-92cc-053ad7fb91e2_mobile_mid.m3u8"
+        },
+        "id": "591ec821ef23a83089d83a8a"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e4dd5fa2213f156cd55",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:15:33.886Z",
+      "updatedAt": "2017-12-23T02:29:41.771Z",
+      "parentId": "59360d95d5fa2213f156ccf8",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "群体中的信息交流及意义",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dc75e055-1794-45f8-b189-0081a24764ed_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dc75e055-1794-45f8-b189-0081a24764ed_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dc75e055-1794-45f8-b189-0081a24764ed_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dc75e055-1794-45f8-b189-0081a24764ed_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dc75e055-1794-45f8-b189-0081a24764ed_mobile_mid.m3u8"
+        },
+        "id": "591ec853ef23a82ff01ce4dd"
+      },
+      "order": 5,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e55d5fa2213f156cd57",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:04:15.915Z",
+    "updatedAt": "2017-12-23T02:29:55.894Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "动物在生物圈中的作用",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360d9fd5fa2213f156cd01",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:15:43.661Z",
+      "updatedAt": "2017-12-23T02:30:16.554Z",
+      "parentId": "59360d9fd5fa2213f156cd01",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "动物在生物圈中的作用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1c13b9a6-be03-4ae9-bc57-0d6438052d50_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1c13b9a6-be03-4ae9-bc57-0d6438052d50_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1c13b9a6-be03-4ae9-bc57-0d6438052d50_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1c13b9a6-be03-4ae9-bc57-0d6438052d50_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1c13b9a6-be03-4ae9-bc57-0d6438052d50_mobile_mid.m3u8"
+        },
+        "id": "592100b2ef23a82fd4f5dbc5"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e5fd5fa2213f156cd59",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:04:22.334Z",
+    "updatedAt": "2017-12-23T02:30:36.667Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "细菌和真菌",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360da6d5fa2213f156cd03",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:16:10.073Z",
+      "updatedAt": "2017-12-23T02:30:57.700Z",
+      "parentId": "59360da6d5fa2213f156cd03",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "细菌和真菌的分布",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/75a48573-0068-4f02-8c0d-528998554663_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/75a48573-0068-4f02-8c0d-528998554663_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/75a48573-0068-4f02-8c0d-528998554663_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/75a48573-0068-4f02-8c0d-528998554663_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/75a48573-0068-4f02-8c0d-528998554663_mobile_mid.m3u8"
+        },
+        "id": "59214fdfef23a82fe208eb04"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e7ad5fa2213f156cd5d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:16:18.482Z",
+      "updatedAt": "2017-12-23T02:31:16.390Z",
+      "parentId": "59360da6d5fa2213f156cd03",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "细菌的形态和结构",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/df39b88d-6c67-46d6-84b4-6e5741fe16c2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/df39b88d-6c67-46d6-84b4-6e5741fe16c2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/df39b88d-6c67-46d6-84b4-6e5741fe16c2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/df39b88d-6c67-46d6-84b4-6e5741fe16c2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/df39b88d-6c67-46d6-84b4-6e5741fe16c2_mobile_mid.m3u8"
+        },
+        "id": "59215126d5ff75239a7bad5f"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e82d5fa2213f156cd5f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:16:26.779Z",
+      "updatedAt": "2017-12-23T02:31:34.981Z",
+      "parentId": "59360da6d5fa2213f156cd03",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "细菌的营养和生殖",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aa24e548-f45e-4780-9cbc-2aac9648208c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aa24e548-f45e-4780-9cbc-2aac9648208c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aa24e548-f45e-4780-9cbc-2aac9648208c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aa24e548-f45e-4780-9cbc-2aac9648208c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aa24e548-f45e-4780-9cbc-2aac9648208c_mobile_mid.m3u8"
+        },
+        "id": "59215001ef23a83055f064b4"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e8ad5fa2213f156cd61",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:16:36.802Z",
+      "updatedAt": "2017-12-23T02:31:56.312Z",
+      "parentId": "59360da6d5fa2213f156cd03",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "常见的真菌",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6b39d624-a632-440a-bf30-67a826b045bb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6b39d624-a632-440a-bf30-67a826b045bb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6b39d624-a632-440a-bf30-67a826b045bb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6b39d624-a632-440a-bf30-67a826b045bb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6b39d624-a632-440a-bf30-67a826b045bb_mobile_mid.m3u8"
+        },
+        "id": "59215025ef23a80d3835cc81"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361e94d5fa2213f156cd63",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:16:48.031Z",
+      "updatedAt": "2017-12-23T02:32:14.093Z",
+      "parentId": "59360da6d5fa2213f156cd03",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "真菌的结构与生殖",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1e44153e-cbd7-4d77-a847-2cd58fc18605_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1e44153e-cbd7-4d77-a847-2cd58fc18605_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1e44153e-cbd7-4d77-a847-2cd58fc18605_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1e44153e-cbd7-4d77-a847-2cd58fc18605_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1e44153e-cbd7-4d77-a847-2cd58fc18605_mobile_mid.m3u8"
+        },
+        "id": "5921503cef23a82ffaa0c4b1"
+      },
+      "order": 5,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361ea0d5fa2213f156cd65",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:16:57.116Z",
+      "updatedAt": "2017-12-23T02:32:32.422Z",
+      "parentId": "59360da6d5fa2213f156cd03",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "细菌和真菌在自然界中的作用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/31989544-30df-400c-b831-41389dece959_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/31989544-30df-400c-b831-41389dece959_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/31989544-30df-400c-b831-41389dece959_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/31989544-30df-400c-b831-41389dece959_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/31989544-30df-400c-b831-41389dece959_mobile_mid.m3u8"
+        },
+        "id": "5921505aef23a8305dbf4d7f"
+      },
+      "order": 6,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361ea9d5fa2213f156cd67",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:17:05.393Z",
+      "updatedAt": "2017-12-23T02:32:52.202Z",
+      "parentId": "59360da6d5fa2213f156cd03",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "人类对细菌和真菌的利用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b2ff9909-aeeb-46bd-b125-10e67e6eaba0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b2ff9909-aeeb-46bd-b125-10e67e6eaba0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b2ff9909-aeeb-46bd-b125-10e67e6eaba0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b2ff9909-aeeb-46bd-b125-10e67e6eaba0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b2ff9909-aeeb-46bd-b125-10e67e6eaba0_mobile_mid.m3u8"
+        },
+        "id": "592151a6d5ff752394a46fa4"
+      },
+      "order": 7,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361eb1d5fa2213f156cd69",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:04:31.576Z",
+    "updatedAt": "2017-12-23T02:33:08.675Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "病毒",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360dafd5fa2213f156cd05",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:21:17.816Z",
+      "updatedAt": "2017-12-23T02:33:38.493Z",
+      "parentId": "59360dafd5fa2213f156cd05",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "病毒的种类与结构",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a1d1546b-ed9b-4dbe-acdc-cb7e510339a0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a1d1546b-ed9b-4dbe-acdc-cb7e510339a0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a1d1546b-ed9b-4dbe-acdc-cb7e510339a0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a1d1546b-ed9b-4dbe-acdc-cb7e510339a0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a1d1546b-ed9b-4dbe-acdc-cb7e510339a0_mobile_mid.m3u8"
+        },
+        "id": "59215088ef23a82fe81869f2"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361fadd5fa2213f156cd6b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:21:26.902Z",
+      "updatedAt": "2017-12-23T02:34:09.915Z",
+      "parentId": "59360dafd5fa2213f156cd05",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "病毒的生活与繁殖",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9a36382c-aa2c-446b-9a22-0bbaabc1b983_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9a36382c-aa2c-446b-9a22-0bbaabc1b983_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9a36382c-aa2c-446b-9a22-0bbaabc1b983_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9a36382c-aa2c-446b-9a22-0bbaabc1b983_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9a36382c-aa2c-446b-9a22-0bbaabc1b983_mobile_mid.m3u8"
+        },
+        "id": "592150a5ef23a8300e2477bb"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361fb6d5fa2213f156cd6d",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:05:46.214Z",
+    "updatedAt": "2017-12-23T02:34:47.899Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "根据生物的特征进行分裂",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360dfad5fa2213f156cd09",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:21:41.563Z",
+      "updatedAt": "2017-12-23T02:35:17.730Z",
+      "parentId": "59360dfad5fa2213f156cd09",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "动植物分类的依据",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9f569ada-2d10-41b9-9de4-195ba48b2991_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9f569ada-2d10-41b9-9de4-195ba48b2991_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9f569ada-2d10-41b9-9de4-195ba48b2991_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9f569ada-2d10-41b9-9de4-195ba48b2991_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9f569ada-2d10-41b9-9de4-195ba48b2991_mobile_mid.m3u8"
+        },
+        "id": "5924f06aef23a82264c26f20"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361fc5d5fa2213f156cd6f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:22:30.694Z",
+      "updatedAt": "2017-12-23T02:35:38.138Z",
+      "parentId": "59360dfad5fa2213f156cd09",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "生物的分类与意义",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fc45aa4c-8f61-47db-9d5f-f6d1afd1f435_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fc45aa4c-8f61-47db-9d5f-f6d1afd1f435_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fc45aa4c-8f61-47db-9d5f-f6d1afd1f435_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fc45aa4c-8f61-47db-9d5f-f6d1afd1f435_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fc45aa4c-8f61-47db-9d5f-f6d1afd1f435_mobile_mid.m3u8"
+        },
+        "id": "5924f0a0ef23a8308c970ddc"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361ff6d5fa2213f156cd71",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:05:53.618Z",
+    "updatedAt": "2017-12-23T02:36:05.397Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "认识生物的多样性",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360e01d5fa2213f156cd0b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:22:39.669Z",
+      "updatedAt": "2017-12-23T02:36:31.313Z",
+      "parentId": "59360e01d5fa2213f156cd0b",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "生物多样性的内涵",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/98df06aa-525d-4854-bd7a-1c4d305d272b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/98df06aa-525d-4854-bd7a-1c4d305d272b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/98df06aa-525d-4854-bd7a-1c4d305d272b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/98df06aa-525d-4854-bd7a-1c4d305d272b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/98df06aa-525d-4854-bd7a-1c4d305d272b_mobile_mid.m3u8"
+        },
+        "id": "5924f0d1ef23a82080b5d210"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59361fffd5fa2213f156cd73",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:22:48.681Z",
+      "updatedAt": "2017-12-23T02:36:56.213Z",
+      "parentId": "59360e01d5fa2213f156cd0b",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "生物多样性三个层次之间的关系",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d1dc6134-2715-4b63-afff-4775d7bb0f02_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d1dc6134-2715-4b63-afff-4775d7bb0f02_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d1dc6134-2715-4b63-afff-4775d7bb0f02_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d1dc6134-2715-4b63-afff-4775d7bb0f02_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d1dc6134-2715-4b63-afff-4775d7bb0f02_mobile_mid.m3u8"
+        },
+        "id": "5924f11cef23a8306818d0e7"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59362008d5fa2213f156cd75",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T02:06:04.052Z",
+    "updatedAt": "2017-12-23T02:37:29.732Z",
+    "courseId": "592e32e4b45f51716ab6f481",
+    "name": "保护生物的多样性",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360e0cd5fa2213f156cd0d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:22:59.025Z",
+      "updatedAt": "2017-12-23T02:38:04.797Z",
+      "parentId": "59360e0cd5fa2213f156cd0d",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "生物多样性面临的威胁及其原因",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b5bdef09-d736-4b27-903e-17415e156709_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b5bdef09-d736-4b27-903e-17415e156709_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b5bdef09-d736-4b27-903e-17415e156709_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b5bdef09-d736-4b27-903e-17415e156709_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b5bdef09-d736-4b27-903e-17415e156709_mobile_mid.m3u8"
+        },
+        "id": "5924f18cef23a8052253c6f5"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59362013d5fa2213f156cd77",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:23:08.123Z",
+      "updatedAt": "2017-12-23T02:38:33.757Z",
+      "parentId": "59360e0cd5fa2213f156cd0d",
+      "courseId": "592e32e4b45f51716ab6f481",
+      "name": "保护生物多样性的主要措施及意义",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4408e0a9-7f68-4f8e-8f6b-d44044851591_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4408e0a9-7f68-4f8e-8f6b-d44044851591_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4408e0a9-7f68-4f8e-8f6b-d44044851591_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4408e0a9-7f68-4f8e-8f6b-d44044851591_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4408e0a9-7f68-4f8e-8f6b-d44044851591_mobile_mid.m3u8"
+        },
+        "id": "5924f1b8ef23a830026e6f73"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936201cd5fa2213f156cd79",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

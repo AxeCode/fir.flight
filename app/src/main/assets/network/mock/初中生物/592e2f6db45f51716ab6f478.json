@@ -1,0 +1,909 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T02:50:21.511Z",
+  "updatedAt": "2017-12-30T08:41:41.804Z",
+  "name": "初中生物七年级下",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/ee34426a3e2793916381e0924fa424e4.png",
+  "bigImage": "http://imgs.wanmen.org/ee34426a3e2793916381e0924fa424e4.png",
+  "smallImageUrl": "http://imgs.wanmen.org/b0e86d5a23f06b43f864491288ef618e.png",
+  "smallImage": "http://imgs.wanmen.org/b0e86d5a23f06b43f864491288ef618e.png",
+  "teacherName": "牛佳丽",
+  "teacherDescription": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "description": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 2,
+  "numOfClasses": 7,
+  "expiration": 12,
+  "tag": "牛佳丽 初中 七年级 下 生物",
+  "videoCount": 27,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 1,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 7,
+  "mobileCoverUrl": "http://imgs.wanmen.org/b0e86d5a23f06b43f864491288ef618e.png",
+  "coverUrl": "http://imgs.wanmen.org/ee34426a3e2793916381e0924fa424e4.png",
+  "id": "592e2f6db45f51716ab6f478",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:52:47.758Z",
+    "updatedAt": "2017-12-23T02:44:21.843Z",
+    "courseId": "592e2f6db45f51716ab6f478",
+    "name": "人的由来",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": true
+    },
+    "hide": false,
+    "id": "59360aefd5fa2213f156cc83",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:54:29.410Z",
+      "updatedAt": "2017-12-23T02:44:32.387Z",
+      "parentId": "59360aefd5fa2213f156cc83",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "人类的起源和发展",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_mobile_mid.m3u8"
+        },
+        "id": "5913d9acef23a83055f064a9"
+      },
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360b55d5fa2213f156cc91",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c9238e0e-cad3-4800-b8e7-6c46065a3109_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:54:37.563Z",
+      "updatedAt": "2017-12-23T02:44:45.558Z",
+      "parentId": "59360aefd5fa2213f156cc83",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "人类的发展",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_mobile_mid.m3u8"
+        },
+        "id": "5913d9c0ef23a8304704d775"
+      },
+      "order": 2,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360b5dd5fa2213f156cc93",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/67b6b6a0-634b-4f4c-9fbf-01a45ad8ad82_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:54:46.969Z",
+      "updatedAt": "2017-12-23T02:44:57.726Z",
+      "parentId": "59360aefd5fa2213f156cc83",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "人的生殖 上",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_mobile_mid.m3u8"
+        },
+        "id": "5913d9d1ef23a830026e6f50"
+      },
+      "order": 3,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360b66d5fa2213f156cc95",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/18c82546-0d7a-4ff2-ba3d-a9ed7dd0fb8f_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:54:54.332Z",
+      "updatedAt": "2017-12-23T02:45:12.159Z",
+      "parentId": "59360aefd5fa2213f156cc83",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "人的生殖 下",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_mobile_mid.m3u8"
+        },
+        "id": "5913dae5ef23a83089d83a74"
+      },
+      "order": 4,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360b6ed5fa2213f156cc97",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e7bfb4d8-e629-4413-827f-32b55a61f3f5_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:55:03.343Z",
+      "updatedAt": "2017-12-23T02:45:25.794Z",
+      "parentId": "59360aefd5fa2213f156cc83",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "青春期",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_mobile_mid.m3u8"
+        },
+        "id": "5913db02ef23a82ffaa0c49c"
+      },
+      "order": 5,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59360b77d5fa2213f156cc99",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c0b3b869-c8c6-47c8-82ad-6e886cebc673_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:52:55.979Z",
+    "updatedAt": "2017-12-23T02:45:44.169Z",
+    "courseId": "592e2f6db45f51716ab6f478",
+    "name": "人体的营养",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360af7d5fa2213f156cc85",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:55:18.246Z",
+      "updatedAt": "2017-12-23T02:46:04.557Z",
+      "parentId": "59360af7d5fa2213f156cc85",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "食物中的营养物质 上",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e3be8b5a-3693-4359-b263-cd90376fc506_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e3be8b5a-3693-4359-b263-cd90376fc506_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e3be8b5a-3693-4359-b263-cd90376fc506_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e3be8b5a-3693-4359-b263-cd90376fc506_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e3be8b5a-3693-4359-b263-cd90376fc506_mobile_mid.m3u8"
+        },
+        "id": "591420bbd5ff752353a29fe5"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360b86d5fa2213f156cc9b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:55:26.834Z",
+      "updatedAt": "2017-12-23T02:46:24.964Z",
+      "parentId": "59360af7d5fa2213f156cc85",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "食物中的营养物质 下",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5836b192-30f7-4477-8d72-88f06ee77ce7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5836b192-30f7-4477-8d72-88f06ee77ce7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5836b192-30f7-4477-8d72-88f06ee77ce7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5836b192-30f7-4477-8d72-88f06ee77ce7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5836b192-30f7-4477-8d72-88f06ee77ce7_mobile_mid.m3u8"
+        },
+        "id": "59141f9bef23a8308c970dc8"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360b8ed5fa2213f156cc9d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:55:33.989Z",
+      "updatedAt": "2017-12-23T02:46:44.035Z",
+      "parentId": "59360af7d5fa2213f156cc85",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "消化系统的结构和功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5ebe6541-9f66-4370-8948-1fe953939106_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5ebe6541-9f66-4370-8948-1fe953939106_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5ebe6541-9f66-4370-8948-1fe953939106_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5ebe6541-9f66-4370-8948-1fe953939106_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5ebe6541-9f66-4370-8948-1fe953939106_mobile_mid.m3u8"
+        },
+        "id": "591420e1d5ff75236a538646"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360b95d5fa2213f156cc9f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:55:43.322Z",
+      "updatedAt": "2017-12-23T02:47:04.774Z",
+      "parentId": "59360af7d5fa2213f156cc85",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "食物的消化与营养物质的吸收",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/970bfb3f-6746-4e5f-93d7-ea484542e0e9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/970bfb3f-6746-4e5f-93d7-ea484542e0e9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/970bfb3f-6746-4e5f-93d7-ea484542e0e9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/970bfb3f-6746-4e5f-93d7-ea484542e0e9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/970bfb3f-6746-4e5f-93d7-ea484542e0e9_mobile_mid.m3u8"
+        },
+        "id": "59142129d5ff75236a538647"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360b9fd5fa2213f156cca1",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:53:06.230Z",
+    "updatedAt": "2017-12-23T02:47:33.980Z",
+    "courseId": "592e2f6db45f51716ab6f478",
+    "name": "人体的呼吸",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360b02d5fa2213f156cc87",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:55:51.887Z",
+      "updatedAt": "2017-12-23T02:47:55.386Z",
+      "parentId": "59360b02d5fa2213f156cc87",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "呼吸系统的结构和功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/96641567-fc8f-4cf1-8457-3a4e7d801a5c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/96641567-fc8f-4cf1-8457-3a4e7d801a5c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/96641567-fc8f-4cf1-8457-3a4e7d801a5c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/96641567-fc8f-4cf1-8457-3a4e7d801a5c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/96641567-fc8f-4cf1-8457-3a4e7d801a5c_mobile_mid.m3u8"
+        },
+        "id": "5914203cef23a8306818d0d3"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360ba7d5fa2213f156cca3",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:55:59.865Z",
+      "updatedAt": "2017-12-23T02:48:16.535Z",
+      "parentId": "59360b02d5fa2213f156cc87",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "呼吸运动与气体交换",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c0fb4b09-1dcd-4bed-b079-28d43a220ded_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c0fb4b09-1dcd-4bed-b079-28d43a220ded_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c0fb4b09-1dcd-4bed-b079-28d43a220ded_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c0fb4b09-1dcd-4bed-b079-28d43a220ded_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c0fb4b09-1dcd-4bed-b079-28d43a220ded_mobile_mid.m3u8"
+        },
+        "id": "59142079ef23a8302f307403"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360bafd5fa2213f156cca5",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:53:14.434Z",
+    "updatedAt": "2017-12-23T02:48:47.874Z",
+    "courseId": "592e2f6db45f51716ab6f478",
+    "name": "人体内物质的运输",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360b0ad5fa2213f156cc89",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:56:08.061Z",
+      "updatedAt": "2017-12-23T02:48:59.984Z",
+      "parentId": "59360b0ad5fa2213f156cc89",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "血液的成分及功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3585b600-7770-4942-8c91-6beecf7857c4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3585b600-7770-4942-8c91-6beecf7857c4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3585b600-7770-4942-8c91-6beecf7857c4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3585b600-7770-4942-8c91-6beecf7857c4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3585b600-7770-4942-8c91-6beecf7857c4_mobile_mid.m3u8"
+        },
+        "id": "5915582eef23a83038f67c00"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360bb8d5fa2213f156cca7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:56:15.570Z",
+      "updatedAt": "2017-12-23T02:49:18.873Z",
+      "parentId": "59360b0ad5fa2213f156cc89",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "血管的组成及功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/51ca3b22-00db-4536-b7f8-cf1caffd15a0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/51ca3b22-00db-4536-b7f8-cf1caffd15a0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/51ca3b22-00db-4536-b7f8-cf1caffd15a0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/51ca3b22-00db-4536-b7f8-cf1caffd15a0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/51ca3b22-00db-4536-b7f8-cf1caffd15a0_mobile_mid.m3u8"
+        },
+        "id": "59155842ef23a82fe81869da"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360bbfd5fa2213f156cca9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:56:24.905Z",
+      "updatedAt": "2017-12-23T02:50:10.359Z",
+      "parentId": "59360b0ad5fa2213f156cc89",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "心脏的结构和功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9defb953-71f2-450f-89cd-43c13676dbf5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9defb953-71f2-450f-89cd-43c13676dbf5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9defb953-71f2-450f-89cd-43c13676dbf5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9defb953-71f2-450f-89cd-43c13676dbf5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9defb953-71f2-450f-89cd-43c13676dbf5_mobile_mid.m3u8"
+        },
+        "id": "59155866ef23a8302b0c356c"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360bc8d5fa2213f156ccab",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:56:34.478Z",
+      "updatedAt": "2017-12-23T02:50:47.378Z",
+      "parentId": "59360b0ad5fa2213f156cc89",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "血液循环的途径",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04c76117-be6e-41e4-9f00-67fe952e86d8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04c76117-be6e-41e4-9f00-67fe952e86d8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04c76117-be6e-41e4-9f00-67fe952e86d8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04c76117-be6e-41e4-9f00-67fe952e86d8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04c76117-be6e-41e4-9f00-67fe952e86d8_mobile_mid.m3u8"
+        },
+        "id": "591559b0d5ff7523a033127c"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360bd2d5fa2213f156ccb3",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:56:41.969Z",
+      "updatedAt": "2017-12-23T02:50:58.844Z",
+      "parentId": "59360b0ad5fa2213f156cc89",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "输血与血型",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fc7ab52e-e7d5-48bd-8cfc-ec6c4bc7ed16_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fc7ab52e-e7d5-48bd-8cfc-ec6c4bc7ed16_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fc7ab52e-e7d5-48bd-8cfc-ec6c4bc7ed16_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fc7ab52e-e7d5-48bd-8cfc-ec6c4bc7ed16_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fc7ab52e-e7d5-48bd-8cfc-ec6c4bc7ed16_mobile_mid.m3u8"
+        },
+        "id": "591559dcd5ff75237598a876"
+      },
+      "order": 5,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360bd9d5fa2213f156ccb5",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:53:21.894Z",
+    "updatedAt": "2017-12-23T02:51:18.530Z",
+    "courseId": "592e2f6db45f51716ab6f478",
+    "name": "人体内废物的排出",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360b11d5fa2213f156cc8b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:56:53.515Z",
+      "updatedAt": "2017-12-23T02:51:56.437Z",
+      "parentId": "59360b11d5fa2213f156cc8b",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "泌尿系统的结构和功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fbd7ef31-953d-4b8c-ab72-8d9183a133c5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fbd7ef31-953d-4b8c-ab72-8d9183a133c5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fbd7ef31-953d-4b8c-ab72-8d9183a133c5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fbd7ef31-953d-4b8c-ab72-8d9183a133c5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fbd7ef31-953d-4b8c-ab72-8d9183a133c5_mobile_mid.m3u8"
+        },
+        "id": "591558c3ef23a83062694866"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360be5d5fa2213f156ccb7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:57:03.319Z",
+      "updatedAt": "2017-12-23T02:52:08.810Z",
+      "parentId": "59360b11d5fa2213f156cc8b",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "尿的形成与排出",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6c384396-2a2c-4097-933f-23dda542b342_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6c384396-2a2c-4097-933f-23dda542b342_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6c384396-2a2c-4097-933f-23dda542b342_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6c384396-2a2c-4097-933f-23dda542b342_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6c384396-2a2c-4097-933f-23dda542b342_mobile_mid.m3u8"
+        },
+        "id": "59155a16d5ff75239a7bad52"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360befd5fa2213f156ccb9",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:53:29.871Z",
+    "updatedAt": "2017-12-23T02:52:37.823Z",
+    "courseId": "592e2f6db45f51716ab6f478",
+    "name": "人体生命活动的调节",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360b19d5fa2213f156cc8d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:57:11.994Z",
+      "updatedAt": "2017-12-23T02:53:00.828Z",
+      "parentId": "59360b19d5fa2213f156cc8d",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "眼的结构与视觉的形成",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/43fe190f-ec45-42cc-b794-ead98719abf3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/43fe190f-ec45-42cc-b794-ead98719abf3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/43fe190f-ec45-42cc-b794-ead98719abf3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/43fe190f-ec45-42cc-b794-ead98719abf3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/43fe190f-ec45-42cc-b794-ead98719abf3_mobile_mid.m3u8"
+        },
+        "id": "59155a3bd5ff75239a7bad53"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360bf7d5fa2213f156ccbb",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:57:20.770Z",
+      "updatedAt": "2017-12-23T02:53:34.862Z",
+      "parentId": "59360b19d5fa2213f156cc8d",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "耳的结构与听觉的形成",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/28a808c3-472d-4cc6-8f57-e6b88eb0f3b6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/28a808c3-472d-4cc6-8f57-e6b88eb0f3b6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/28a808c3-472d-4cc6-8f57-e6b88eb0f3b6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/28a808c3-472d-4cc6-8f57-e6b88eb0f3b6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/28a808c3-472d-4cc6-8f57-e6b88eb0f3b6_mobile_mid.m3u8"
+        },
+        "id": "59155a55d5ff75236a538649"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c00d5fa2213f156ccbd",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:57:29.093Z",
+      "updatedAt": "2017-12-23T02:54:03.677Z",
+      "parentId": "59360b19d5fa2213f156cc8d",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "神经系统的组成及功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ad375b7b-c761-483d-bb80-5292d5d4a77d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ad375b7b-c761-483d-bb80-5292d5d4a77d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ad375b7b-c761-483d-bb80-5292d5d4a77d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ad375b7b-c761-483d-bb80-5292d5d4a77d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ad375b7b-c761-483d-bb80-5292d5d4a77d_mobile_mid.m3u8"
+        },
+        "id": "59155a71d5ff7523521d0460"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c09d5fa2213f156ccbf",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:57:39.167Z",
+      "updatedAt": "2017-12-23T02:54:24.095Z",
+      "parentId": "59360b19d5fa2213f156cc8d",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "神经元与反射",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fbde977c-6529-4455-930d-3891f8d99fe9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fbde977c-6529-4455-930d-3891f8d99fe9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fbde977c-6529-4455-930d-3891f8d99fe9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fbde977c-6529-4455-930d-3891f8d99fe9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fbde977c-6529-4455-930d-3891f8d99fe9_mobile_mid.m3u8"
+        },
+        "id": "59155a9bd5ff752346c78a14"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c13d5fa2213f156ccc8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:57:48.369Z",
+      "updatedAt": "2017-12-23T02:54:55.952Z",
+      "parentId": "59360b19d5fa2213f156cc8d",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "简单反射与复杂反射",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/289b0fbf-8749-41ea-9017-00e3bb6f4d25_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/289b0fbf-8749-41ea-9017-00e3bb6f4d25_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/289b0fbf-8749-41ea-9017-00e3bb6f4d25_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/289b0fbf-8749-41ea-9017-00e3bb6f4d25_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/289b0fbf-8749-41ea-9017-00e3bb6f4d25_mobile_mid.m3u8"
+        },
+        "id": "59155984ef23a82fd5fce950"
+      },
+      "order": 5,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c1cd5fa2213f156ccca",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:57:58.503Z",
+      "updatedAt": "2017-12-23T02:55:18.921Z",
+      "parentId": "59360b19d5fa2213f156cc8d",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "人体内分泌系统的结构和功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f88336c8-84c5-49e8-ab93-b6944d75d5de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f88336c8-84c5-49e8-ab93-b6944d75d5de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f88336c8-84c5-49e8-ab93-b6944d75d5de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f88336c8-84c5-49e8-ab93-b6944d75d5de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f88336c8-84c5-49e8-ab93-b6944d75d5de_mobile_mid.m3u8"
+        },
+        "id": "5915599aef23a82fd4f5dbae"
+      },
+      "order": 6,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c26d5fa2213f156cccc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:58:06.863Z",
+      "updatedAt": "2017-12-23T02:56:14.006Z",
+      "parentId": "59360b19d5fa2213f156cc8d",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "激素调节与神经调节的区别和联系",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6a7a333a-ae35-45e6-b490-7edcbe01c6ac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6a7a333a-ae35-45e6-b490-7edcbe01c6ac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6a7a333a-ae35-45e6-b490-7edcbe01c6ac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6a7a333a-ae35-45e6-b490-7edcbe01c6ac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6a7a333a-ae35-45e6-b490-7edcbe01c6ac_mobile_mid.m3u8"
+        },
+        "id": "591559c1ef23a83037f2db02"
+      },
+      "order": 7,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c2ed5fa2213f156ccce",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:53:38.856Z",
+    "updatedAt": "2017-12-23T02:56:37.756Z",
+    "courseId": "592e2f6db45f51716ab6f478",
+    "name": "人类活动对生物圈的影响",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360b22d5fa2213f156cc8f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:58:16.796Z",
+      "updatedAt": "2017-12-23T02:57:08.896Z",
+      "parentId": "59360b22d5fa2213f156cc8f",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "人类活动对生态环境的影响",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0556e346-36ac-4518-9067-a2a18a01eaa0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0556e346-36ac-4518-9067-a2a18a01eaa0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0556e346-36ac-4518-9067-a2a18a01eaa0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0556e346-36ac-4518-9067-a2a18a01eaa0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0556e346-36ac-4518-9067-a2a18a01eaa0_mobile_mid.m3u8"
+        },
+        "id": "591559fdef23a83018b34d20"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c38d5fa2213f156ccd0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:58:26.158Z",
+      "updatedAt": "2017-12-23T02:57:30.041Z",
+      "parentId": "59360b22d5fa2213f156cc8f",
+      "courseId": "592e2f6db45f51716ab6f478",
+      "name": "环境污染对生态环境的影响",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9383dc25-4b79-4f6a-86fc-45b146e14ea0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9383dc25-4b79-4f6a-86fc-45b146e14ea0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9383dc25-4b79-4f6a-86fc-45b146e14ea0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9383dc25-4b79-4f6a-86fc-45b146e14ea0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9383dc25-4b79-4f6a-86fc-45b146e14ea0_mobile_mid.m3u8"
+        },
+        "id": "59155a63ef23a83026369c5b"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360c42d5fa2213f156ccd2",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

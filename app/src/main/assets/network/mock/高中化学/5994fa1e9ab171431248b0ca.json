@@ -1,0 +1,719 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-08-17T02:06:22.552Z",
+  "updatedAt": "2017-12-06T04:27:58.024Z",
+  "name": "高中化学选修3串讲",
+  "numOfClasses": 3,
+  "description": "课程介绍： 世界由物质组成，化学是在分子、原子层次上研究物质的组成、性质、结构与变化规律的学科。本门课程将系统详细的讲解物质的组成与结构是如何影响其性质与变化的，探究二者之间的规律。同时激发学习兴趣，指引大家走入化学学科的大门。",
+  "price": 158,
+  "teacher": {
+    "name": "黄健",
+    "description": "清华大学化学系硕士生。2012年由化学竞赛保送清华大学化学系基础科学班（化学与生物学方向）。本科期间，学分绩点专业第一，曾多次获得国家奖学金、清华大学学业优秀奖学金等。大学期间，一直参与家教、讲师授课等，长期与高中母校保持联系，兼职竞赛指导，指导过的学生有超10人次进入清华、北大。",
+    "avatar": "http://imgs.wanmen.org/cbfd4f536e1bdaa7415be284f26fc18a.png",
+    "id": "5994f6cee2af5a546d1d36d1"
+  },
+  "hide": false,
+  "major": "586d234f5f07127674152c44",
+  "expiration": 12,
+  "bigImage": "http://imgs.wanmen.org/de65dde7570bead25d7b398016b76921.png",
+  "smallImage": "http://imgs.wanmen.org/7c61e7a4476be0ec8531caf86c234d31.png",
+  "order": 7,
+  "tag": "黄健 高中 化学 选修 3 串讲 ",
+  "videoCount": 22,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 1,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 3,
+  "teacherDescription": "清华大学化学系硕士生。2012年由化学竞赛保送清华大学化学系基础科学班（化学与生物学方向）。本科期间，学分绩点专业第一，曾多次获得国家奖学金、清华大学学业优秀奖学金等。大学期间，一直参与家教、讲师授课等，长期与高中母校保持联系，兼职竞赛指导，指导过的学生有超10人次进入清华、北大。",
+  "teacherAvatar": "http://imgs.wanmen.org/cbfd4f536e1bdaa7415be284f26fc18a.png",
+  "teacherName": "黄健",
+  "mobileCoverUrl": "http://imgs.wanmen.org/7c61e7a4476be0ec8531caf86c234d31.png",
+  "coverUrl": "http://imgs.wanmen.org/de65dde7570bead25d7b398016b76921.png",
+  "smallImageUrl": "http://imgs.wanmen.org/7c61e7a4476be0ec8531caf86c234d31.png",
+  "bigImageUrl": "http://imgs.wanmen.org/de65dde7570bead25d7b398016b76921.png",
+  "id": "5994fa1e9ab171431248b0ca",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-08T02:25:54.160Z",
+    "updatedAt": "2017-09-08T02:28:01.441Z",
+    "courseId": "5994fa1e9ab171431248b0ca",
+    "name": "原子结构与性质",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59b1ffb2e5ec8a67b3756e27",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:26:03.524Z",
+      "updatedAt": "2017-12-20T07:35:48.234Z",
+      "parentId": "59b1ffb2e5ec8a67b3756e27",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "原子结构（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_mobile_mid.m3u8"
+        },
+        "id": "59ae7d2051f0744b290f95a2"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59b1ffbbea338f67cacbd34c",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/f292013a-2746-445f-a3af-f8e6cd3d5e34_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:26:12.907Z",
+      "updatedAt": "2017-12-20T07:35:51.228Z",
+      "parentId": "59b1ffb2e5ec8a67b3756e27",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "原子结构（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_mobile_mid.m3u8"
+        },
+        "id": "59af5d5ed5ff751382935b94"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59b1ffc4a1b2a0681fafb892",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/93692f75-e430-424f-9435-a0e422270b4e_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:26:21.517Z",
+      "updatedAt": "2017-12-20T07:35:55.342Z",
+      "parentId": "59b1ffb2e5ec8a67b3756e27",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "原子结构（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_mobile_mid.m3u8"
+        },
+        "id": "59ae8b9551f0744b127f8685"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59b1ffcde5ec8a67b3756e29",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/78f6fb66-b5e6-4983-bf97-e17abfb81b6c_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:26:29.570Z",
+      "updatedAt": "2017-12-20T07:35:58.951Z",
+      "parentId": "59b1ffb2e5ec8a67b3756e27",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "原子结构（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_mobile_mid.m3u8"
+        },
+        "id": "59af6435ef23a8305dbf4def"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59b1ffd5ea338f67cacbd34e",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/60ddf114-876f-45a9-bc39-bb7973b22f9e_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:26:38.836Z",
+      "updatedAt": "2017-12-20T07:36:03.090Z",
+      "parentId": "59b1ffb2e5ec8a67b3756e27",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "原子结构与元素的性质（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_mobile_mid.m3u8"
+        },
+        "id": "59af66e451f0744b3d5146c5"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59b1ffde652b0667aee94dfd",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7d841f41-fd67-4e94-b8d9-ba97cd055453_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:26:48.015Z",
+      "updatedAt": "2017-12-20T07:36:07.494Z",
+      "parentId": "59b1ffb2e5ec8a67b3756e27",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "原子结构与元素的性质（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_mobile_mid.m3u8"
+        },
+        "id": "59af6978ef23a83038f67c88"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59b1ffe86d9a8c67c5c254f9",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/fc9e612a-d60e-4c16-b136-1ee5e545e3bb_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-08T02:28:10.547Z",
+    "updatedAt": "2017-09-08T02:28:18.458Z",
+    "courseId": "5994fa1e9ab171431248b0ca",
+    "name": "分子结构与性质",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59b2003aea338f67cacbd350",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:28:24.763Z",
+      "updatedAt": "2017-12-20T07:36:12.970Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "共价键（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aded3cc3-f990-430d-a561-84f352c57486_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aded3cc3-f990-430d-a561-84f352c57486_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aded3cc3-f990-430d-a561-84f352c57486_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aded3cc3-f990-430d-a561-84f352c57486_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aded3cc3-f990-430d-a561-84f352c57486_mobile_mid.m3u8"
+        },
+        "id": "59af6a9c51f0744b2a99bea0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20048e5ec8a67b3756e2b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:28:33.419Z",
+      "updatedAt": "2017-12-20T07:36:17.743Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "共价键（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d31a40b2-25a3-427f-9350-57dff0c8faeb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d31a40b2-25a3-427f-9350-57dff0c8faeb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d31a40b2-25a3-427f-9350-57dff0c8faeb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d31a40b2-25a3-427f-9350-57dff0c8faeb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d31a40b2-25a3-427f-9350-57dff0c8faeb_mobile_mid.m3u8"
+        },
+        "id": "59af6c2951f0744b3d5146c6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20051ea338f67cacbd352",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:28:42.335Z",
+      "updatedAt": "2017-12-20T07:36:22.207Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "分子的立体结构（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/205656c4-6134-44ec-8f56-2e4deacffe4d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/205656c4-6134-44ec-8f56-2e4deacffe4d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/205656c4-6134-44ec-8f56-2e4deacffe4d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/205656c4-6134-44ec-8f56-2e4deacffe4d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/205656c4-6134-44ec-8f56-2e4deacffe4d_mobile_mid.m3u8"
+        },
+        "id": "59af7541ef23a830626948f4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b2005aa1b2a0681fafb894",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:28:51.158Z",
+      "updatedAt": "2017-12-20T07:36:25.540Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "分子的立体结构（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c60ec236-fffa-469c-bc15-ac64ca8a3048_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c60ec236-fffa-469c-bc15-ac64ca8a3048_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c60ec236-fffa-469c-bc15-ac64ca8a3048_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c60ec236-fffa-469c-bc15-ac64ca8a3048_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c60ec236-fffa-469c-bc15-ac64ca8a3048_mobile_mid.m3u8"
+        },
+        "id": "59af7667ef23a84321c2792c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20063e5ec8a67b3756e2d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:28:59.776Z",
+      "updatedAt": "2017-12-20T07:36:28.759Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "分子的立体结构（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c383968e-cd7c-4d4c-b40e-50911d3cbaee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c383968e-cd7c-4d4c-b40e-50911d3cbaee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c383968e-cd7c-4d4c-b40e-50911d3cbaee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c383968e-cd7c-4d4c-b40e-50911d3cbaee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c383968e-cd7c-4d4c-b40e-50911d3cbaee_mobile_mid.m3u8"
+        },
+        "id": "59af77dd51f0744b7dbf1cc4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b2006bea338f67cacbd354",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:29:10.467Z",
+      "updatedAt": "2017-12-20T07:36:32.466Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "分子的立体结构（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4987dbd2-94a5-4759-9b1f-9468db678017_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4987dbd2-94a5-4759-9b1f-9468db678017_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4987dbd2-94a5-4759-9b1f-9468db678017_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4987dbd2-94a5-4759-9b1f-9468db678017_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4987dbd2-94a5-4759-9b1f-9468db678017_mobile_mid.m3u8"
+        },
+        "id": "59af91fbef23a82ffaa0c535"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20076a1b2a0681fafb896",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:29:20.812Z",
+      "updatedAt": "2017-12-20T07:36:36.232Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "分子的立体结构（五）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/66321468-df45-4aa1-a0f6-db32c0772738_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/66321468-df45-4aa1-a0f6-db32c0772738_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/66321468-df45-4aa1-a0f6-db32c0772738_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/66321468-df45-4aa1-a0f6-db32c0772738_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/66321468-df45-4aa1-a0f6-db32c0772738_mobile_mid.m3u8"
+        },
+        "id": "59af932cef23a84321c2792d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20080e5ec8a67b3756e2f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:29:30.559Z",
+      "updatedAt": "2017-12-20T07:36:40.885Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "分子的性质（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4847cef0-d089-42fc-a59a-7dd4a0923092_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4847cef0-d089-42fc-a59a-7dd4a0923092_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4847cef0-d089-42fc-a59a-7dd4a0923092_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4847cef0-d089-42fc-a59a-7dd4a0923092_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4847cef0-d089-42fc-a59a-7dd4a0923092_mobile_mid.m3u8"
+        },
+        "id": "59af9a3751f0744b7dbf1cc5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b2008aea338f67cacbd356",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:29:39.657Z",
+      "updatedAt": "2017-12-20T07:36:44.790Z",
+      "parentId": "59b2003aea338f67cacbd350",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "分子的性质（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f54ad6e8-abc8-40f3-9740-c6ecacadc4be_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f54ad6e8-abc8-40f3-9740-c6ecacadc4be_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f54ad6e8-abc8-40f3-9740-c6ecacadc4be_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f54ad6e8-abc8-40f3-9740-c6ecacadc4be_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f54ad6e8-abc8-40f3-9740-c6ecacadc4be_mobile_mid.m3u8"
+        },
+        "id": "59afa27b51f0744b07dbd517"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20093a1b2a0681fafb898",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-08T02:32:05.561Z",
+    "updatedAt": "2017-09-08T02:32:09.578Z",
+    "courseId": "5994fa1e9ab171431248b0ca",
+    "name": "晶体结构与性质",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59b20125b591f0680550e024",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:32:19.744Z",
+      "updatedAt": "2017-12-20T07:37:15.732Z",
+      "parentId": "59b20125b591f0680550e024",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "晶体的常识与分子晶体",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0032add-cd0e-4f33-b87a-6476359d594d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0032add-cd0e-4f33-b87a-6476359d594d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0032add-cd0e-4f33-b87a-6476359d594d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0032add-cd0e-4f33-b87a-6476359d594d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0032add-cd0e-4f33-b87a-6476359d594d_mobile_mid.m3u8"
+        },
+        "id": "59afb2a4ef23a8300e247844"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20133b591f0680550e026",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:32:38.700Z",
+      "updatedAt": "2017-12-20T07:37:10.779Z",
+      "parentId": "59b20125b591f0680550e024",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "原子晶体",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2aeff627-4421-4eb9-b51a-91fa8314e31c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2aeff627-4421-4eb9-b51a-91fa8314e31c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2aeff627-4421-4eb9-b51a-91fa8314e31c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2aeff627-4421-4eb9-b51a-91fa8314e31c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2aeff627-4421-4eb9-b51a-91fa8314e31c_mobile_mid.m3u8"
+        },
+        "id": "59afb3acef23a8306926cc19"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20146652b0667aee94dff",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:32:47.654Z",
+      "updatedAt": "2017-12-20T07:37:06.520Z",
+      "parentId": "59b20125b591f0680550e024",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "金属晶体",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7a2fcd6f-aece-4a2a-b7dc-de8b8f005dc4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7a2fcd6f-aece-4a2a-b7dc-de8b8f005dc4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7a2fcd6f-aece-4a2a-b7dc-de8b8f005dc4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7a2fcd6f-aece-4a2a-b7dc-de8b8f005dc4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7a2fcd6f-aece-4a2a-b7dc-de8b8f005dc4_mobile_mid.m3u8"
+        },
+        "id": "59afb45cef23a830626948f5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b2014fb591f0680550e028",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:32:57.052Z",
+      "updatedAt": "2017-12-20T07:37:02.755Z",
+      "parentId": "59b20125b591f0680550e024",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "金属晶体的堆积方式和对应的晶胞（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dda1b554-245d-491e-95d4-19d073f1f930_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dda1b554-245d-491e-95d4-19d073f1f930_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dda1b554-245d-491e-95d4-19d073f1f930_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dda1b554-245d-491e-95d4-19d073f1f930_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dda1b554-245d-491e-95d4-19d073f1f930_mobile_mid.m3u8"
+        },
+        "id": "59afc3f2ef23a8306926cc1a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20159ea338f67cacbd358",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:33:06.654Z",
+      "updatedAt": "2017-12-20T07:36:58.948Z",
+      "parentId": "59b20125b591f0680550e024",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "金属晶体的堆积方式和对应的晶胞（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/15219f25-37da-48a6-bd5d-e3a2484f57b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/15219f25-37da-48a6-bd5d-e3a2484f57b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/15219f25-37da-48a6-bd5d-e3a2484f57b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/15219f25-37da-48a6-bd5d-e3a2484f57b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/15219f25-37da-48a6-bd5d-e3a2484f57b1_mobile_mid.m3u8"
+        },
+        "id": "59afc525ef23a82080b5d273"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20162652b0667aee94e01",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:33:16.918Z",
+      "updatedAt": "2017-12-20T07:36:55.092Z",
+      "parentId": "59b20125b591f0680550e024",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "金属晶体的堆积方式和对应的晶胞（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/939ba9d4-a40a-4239-a5b1-4d9ea885dabf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/939ba9d4-a40a-4239-a5b1-4d9ea885dabf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/939ba9d4-a40a-4239-a5b1-4d9ea885dabf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/939ba9d4-a40a-4239-a5b1-4d9ea885dabf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/939ba9d4-a40a-4239-a5b1-4d9ea885dabf_mobile_mid.m3u8"
+        },
+        "id": "59afc5d1ef23a8300e247845"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b2016cb591f0680550e02a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-08T02:33:27.289Z",
+      "updatedAt": "2017-12-20T07:36:51.359Z",
+      "parentId": "59b20125b591f0680550e024",
+      "courseId": "5994fa1e9ab171431248b0ca",
+      "name": "金属晶体的堆积方式和对应的晶胞（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/feb21e38-1bf6-4059-b4bb-1f5f206f33c6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/feb21e38-1bf6-4059-b4bb-1f5f206f33c6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/feb21e38-1bf6-4059-b4bb-1f5f206f33c6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/feb21e38-1bf6-4059-b4bb-1f5f206f33c6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/feb21e38-1bf6-4059-b4bb-1f5f206f33c6_mobile_mid.m3u8"
+        },
+        "id": "59afc69751f0744b35e96a7c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59b20177ea338f67cacbd35a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

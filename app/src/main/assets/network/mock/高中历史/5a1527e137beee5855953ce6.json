@@ -1,0 +1,629 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-11-22T07:31:45.936Z",
+  "updatedAt": "2018-01-11T06:19:02.309Z",
+  "name": "高中历史选修6",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "description": "本课程是对世界文化遗产进行的探究。包括自然遗产、文化遗产和非物质文化遗产在内的世界文化遗产，是大自然造化和人类文明创造中的精华，是全人类共同的财富。它们体现了自然和人类的最高价值，对促进人类文明的进步和发展，起着不可估量的作用。通过本课程的学习，让同学们对世界文化遗产建立更直观清晰的了解，树立可持续发展的意识",
+  "price": 158,
+  "hide": false,
+  "major": "586d234f5f07127674152c50",
+  "bigImage": "http://imgs.wanmen.org/994aa787fe287c1339a08d8e551eeb86.png",
+  "smallImage": "http://imgs.wanmen.org/df534f1e54a155de5a5d3a85f5365d4f.png",
+  "numOfClasses": 8,
+  "expiration": 12,
+  "order": 9,
+  "tag": "丁子江 高中 历史 选修 6 ",
+  "videoCount": 17,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 1,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 8,
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherName": "丁子江",
+  "mobileCoverUrl": "http://imgs.wanmen.org/df534f1e54a155de5a5d3a85f5365d4f.png",
+  "coverUrl": "http://imgs.wanmen.org/994aa787fe287c1339a08d8e551eeb86.png",
+  "smallImageUrl": "http://imgs.wanmen.org/df534f1e54a155de5a5d3a85f5365d4f.png",
+  "bigImageUrl": "http://imgs.wanmen.org/994aa787fe287c1339a08d8e551eeb86.png",
+  "id": "5a1527e137beee5855953ce6",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:09:54.791Z",
+    "updatedAt": "2017-12-20T03:52:33.088Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "世界文化遗产的价值",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179b929f2dff58500f5936",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:26:30.340Z",
+      "updatedAt": "2017-12-20T03:56:36.835Z",
+      "parentId": "5a179b929f2dff58500f5936",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "世界文化遗产的保护",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_mobile_mid.m3u8"
+        },
+        "id": "5a13880f51f074018221691e"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a179f769f2dff58500f5946",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/6e4c70fa-8eae-49d1-8df5-2612882c0005_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:10:06.209Z",
+    "updatedAt": "2017-12-20T03:52:39.215Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "古埃及文化遗产",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179b9e9f2dff58500f5938",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:26:39.119Z",
+      "updatedAt": "2017-12-20T03:56:16.359Z",
+      "parentId": "5a179b9e9f2dff58500f5938",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "金字塔",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dada6a68-1502-4b87-aacf-be8601b6a0e8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dada6a68-1502-4b87-aacf-be8601b6a0e8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dada6a68-1502-4b87-aacf-be8601b6a0e8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dada6a68-1502-4b87-aacf-be8601b6a0e8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dada6a68-1502-4b87-aacf-be8601b6a0e8_mobile_mid.m3u8"
+        },
+        "id": "5a138848ef23a80272537026"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a179f7f9f2dff58500f5948",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:26:47.652Z",
+      "updatedAt": "2017-12-20T03:56:26.849Z",
+      "parentId": "5a179b9e9f2dff58500f5938",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "阿布辛拜勒神庙",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9a995ef0-7c0d-4f3e-9c6d-b61b0b1c7b86_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9a995ef0-7c0d-4f3e-9c6d-b61b0b1c7b86_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9a995ef0-7c0d-4f3e-9c6d-b61b0b1c7b86_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9a995ef0-7c0d-4f3e-9c6d-b61b0b1c7b86_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9a995ef0-7c0d-4f3e-9c6d-b61b0b1c7b86_mobile_mid.m3u8"
+        },
+        "id": "5a13888951f0740193764821"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a179f879f2dff58500f594a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:10:16.015Z",
+    "updatedAt": "2017-12-20T03:52:44.278Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "古代希腊罗马历史遗迹",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179ba89f2dff58500f593a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:26:57.111Z",
+      "updatedAt": "2017-12-20T03:55:40.086Z",
+      "parentId": "5a179ba89f2dff58500f593a",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "雅典卫城与奥林匹亚",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f24fb4f8-8a00-40be-b292-d01d52dfaf59_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f24fb4f8-8a00-40be-b292-d01d52dfaf59_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f24fb4f8-8a00-40be-b292-d01d52dfaf59_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f24fb4f8-8a00-40be-b292-d01d52dfaf59_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f24fb4f8-8a00-40be-b292-d01d52dfaf59_mobile_mid.m3u8"
+        },
+        "id": "5a138a4ad5ff755a1a4e10b3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a179f919f2dff58500f594c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:27:05.405Z",
+      "updatedAt": "2017-12-20T03:55:48.088Z",
+      "parentId": "5a179ba89f2dff58500f593a",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "古罗马建筑艺术",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5b1f35ac-d329-417b-8057-899ec25c7bb2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5b1f35ac-d329-417b-8057-899ec25c7bb2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5b1f35ac-d329-417b-8057-899ec25c7bb2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5b1f35ac-d329-417b-8057-899ec25c7bb2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5b1f35ac-d329-417b-8057-899ec25c7bb2_mobile_mid.m3u8"
+        },
+        "id": "5a1388e751f07401b30866a6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a179f9937beee5855953df7",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:10:25.185Z",
+    "updatedAt": "2017-12-20T03:52:49.095Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "文艺复兴时期的文化遗产",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179bb19f2dff58500f593c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:27:17.424Z",
+      "updatedAt": "2017-12-20T03:55:18.219Z",
+      "parentId": "5a179bb19f2dff58500f593c",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "佛罗伦萨的文化遗产",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2a7e3e23-6e52-4e6c-94cd-85ced0645cf5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2a7e3e23-6e52-4e6c-94cd-85ced0645cf5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2a7e3e23-6e52-4e6c-94cd-85ced0645cf5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2a7e3e23-6e52-4e6c-94cd-85ced0645cf5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2a7e3e23-6e52-4e6c-94cd-85ced0645cf5_mobile_mid.m3u8"
+        },
+        "id": "5a138918ef23a802193f5947"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a179fa537beee5855953df9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:27:25.019Z",
+      "updatedAt": "2017-12-20T03:55:25.845Z",
+      "parentId": "5a179bb19f2dff58500f593c",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "罗马文艺复兴的文化遗产",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ab691e8f-2d70-4f5b-90b0-51187cabd519_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ab691e8f-2d70-4f5b-90b0-51187cabd519_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ab691e8f-2d70-4f5b-90b0-51187cabd519_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ab691e8f-2d70-4f5b-90b0-51187cabd519_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ab691e8f-2d70-4f5b-90b0-51187cabd519_mobile_mid.m3u8"
+        },
+        "id": "5a138931ef23a8026ee8f038"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a179fad37beee5855953dfb",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:10:33.574Z",
+    "updatedAt": "2017-12-20T03:52:54.129Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "中国著名的历史遗产",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179bb99f2dff58500f593e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:51:26.554Z",
+      "updatedAt": "2017-12-20T03:54:46.080Z",
+      "parentId": "5a179bb99f2dff58500f593e",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "万里长城",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/baf26d76-6708-41db-b4fc-7ef12450f407_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/baf26d76-6708-41db-b4fc-7ef12450f407_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/baf26d76-6708-41db-b4fc-7ef12450f407_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/baf26d76-6708-41db-b4fc-7ef12450f407_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/baf26d76-6708-41db-b4fc-7ef12450f407_mobile_mid.m3u8"
+        },
+        "id": "5a13895fef23a802e30a237f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a54e37beee5855953dfd",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:51:37.279Z",
+      "updatedAt": "2017-12-20T03:55:07.285Z",
+      "parentId": "5a179bb99f2dff58500f593e",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "秦兵马俑",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9e2ad013-0a50-4d46-b2e9-f4013335c357_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9e2ad013-0a50-4d46-b2e9-f4013335c357_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9e2ad013-0a50-4d46-b2e9-f4013335c357_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9e2ad013-0a50-4d46-b2e9-f4013335c357_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9e2ad013-0a50-4d46-b2e9-f4013335c357_mobile_mid.m3u8"
+        },
+        "id": "5a1389bb51f0747fef6c939b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a55937beee5855953dff",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:51:46.186Z",
+      "updatedAt": "2017-12-20T03:54:59.063Z",
+      "parentId": "5a179bb99f2dff58500f593e",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "布达拉宫",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c3b1d704-c28f-4426-a96a-9bcfde599c1c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c3b1d704-c28f-4426-a96a-9bcfde599c1c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c3b1d704-c28f-4426-a96a-9bcfde599c1c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c3b1d704-c28f-4426-a96a-9bcfde599c1c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c3b1d704-c28f-4426-a96a-9bcfde599c1c_mobile_mid.m3u8"
+        },
+        "id": "5a1389ddef23a802c32cd7ca"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a5629f2dff58500f594e",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:12:48.149Z",
+    "updatedAt": "2017-12-20T03:53:00.129Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "明清宫殿陵园",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179c409f2dff58500f5940",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:52:31.240Z",
+      "updatedAt": "2017-12-20T03:54:02.089Z",
+      "parentId": "5a179c409f2dff58500f5940",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "北京故宫",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7fc87b20-3661-4085-9b6a-23c04d0429a4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7fc87b20-3661-4085-9b6a-23c04d0429a4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7fc87b20-3661-4085-9b6a-23c04d0429a4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7fc87b20-3661-4085-9b6a-23c04d0429a4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7fc87b20-3661-4085-9b6a-23c04d0429a4_mobile_mid.m3u8"
+        },
+        "id": "5a138a01ef23a802c32cd7cb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a58f9f2dff58500f5950",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:52:39.410Z",
+      "updatedAt": "2017-12-20T03:54:11.737Z",
+      "parentId": "5a179c409f2dff58500f5940",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "颐和园",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5c2ce9b0-cf4e-4f4d-9ce9-a1de1a4d57ec_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5c2ce9b0-cf4e-4f4d-9ce9-a1de1a4d57ec_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5c2ce9b0-cf4e-4f4d-9ce9-a1de1a4d57ec_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5c2ce9b0-cf4e-4f4d-9ce9-a1de1a4d57ec_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5c2ce9b0-cf4e-4f4d-9ce9-a1de1a4d57ec_mobile_mid.m3u8"
+        },
+        "id": "5a138a1aef23a8023e608793"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a5979f2dff58500f5952",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:52:49.404Z",
+      "updatedAt": "2017-12-20T03:54:21.212Z",
+      "parentId": "5a179c409f2dff58500f5940",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "明孝陵",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b064d49d-9117-44d9-a6c8-d9babdc2bf95_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b064d49d-9117-44d9-a6c8-d9babdc2bf95_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b064d49d-9117-44d9-a6c8-d9babdc2bf95_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b064d49d-9117-44d9-a6c8-d9babdc2bf95_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b064d49d-9117-44d9-a6c8-d9babdc2bf95_mobile_mid.m3u8"
+        },
+        "id": "5a138a4c51f074017d8ad279"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a5a19f2dff58500f5954",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:52:56.739Z",
+      "updatedAt": "2017-12-20T03:54:32.442Z",
+      "parentId": "5a179c409f2dff58500f5940",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "明十三陵",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5f4b3cbf-b090-44b8-899f-95103d08910f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5f4b3cbf-b090-44b8-899f-95103d08910f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5f4b3cbf-b090-44b8-899f-95103d08910f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5f4b3cbf-b090-44b8-899f-95103d08910f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5f4b3cbf-b090-44b8-899f-95103d08910f_mobile_mid.m3u8"
+        },
+        "id": "5a138a60ef23a802a31942e7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a5a89f2dff58500f5956",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:12:56.485Z",
+    "updatedAt": "2017-12-20T03:53:09.221Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "古雅的昆曲",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179c489f2dff58500f5942",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:53:07.826Z",
+      "updatedAt": "2017-12-20T03:53:50.176Z",
+      "parentId": "5a179c489f2dff58500f5942",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "中国昆曲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d688a49d-d569-456a-a4e7-4cf47eb1c8e4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d688a49d-d569-456a-a4e7-4cf47eb1c8e4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d688a49d-d569-456a-a4e7-4cf47eb1c8e4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d688a49d-d569-456a-a4e7-4cf47eb1c8e4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d688a49d-d569-456a-a4e7-4cf47eb1c8e4_mobile_mid.m3u8"
+        },
+        "id": "5a138a8951f07401c8bab69c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a5b39f2dff58500f5958",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T04:13:03.960Z",
+    "updatedAt": "2017-12-20T03:53:13.871Z",
+    "courseId": "5a1527e137beee5855953ce6",
+    "name": "历史的见证",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a179c4f9f2dff58500f5944",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:53:15.546Z",
+      "updatedAt": "2017-12-20T03:53:29.327Z",
+      "parentId": "5a179c4f9f2dff58500f5944",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "戈雷岛",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0dac1808-feef-4d50-8559-a708aa5158ec_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0dac1808-feef-4d50-8559-a708aa5158ec_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0dac1808-feef-4d50-8559-a708aa5158ec_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0dac1808-feef-4d50-8559-a708aa5158ec_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0dac1808-feef-4d50-8559-a708aa5158ec_mobile_mid.m3u8"
+        },
+        "id": "5a138aa2ef23a802e4e21496"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a5bb9f2dff58500f595a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T04:53:22.783Z",
+      "updatedAt": "2017-12-20T03:53:22.570Z",
+      "parentId": "5a179c4f9f2dff58500f5944",
+      "courseId": "5a1527e137beee5855953ce6",
+      "name": "奥斯维辛集中营",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3015352e-ceaa-4630-a428-35749193b622_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3015352e-ceaa-4630-a428-35749193b622_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3015352e-ceaa-4630-a428-35749193b622_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3015352e-ceaa-4630-a428-35749193b622_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3015352e-ceaa-4630-a428-35749193b622_mobile_mid.m3u8"
+        },
+        "id": "5a138aed51f07401c8bab69d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17a5c29f2dff58500f595c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

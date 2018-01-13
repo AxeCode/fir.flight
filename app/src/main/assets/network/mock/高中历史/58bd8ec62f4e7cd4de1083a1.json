@@ -1,0 +1,656 @@
+{
+  "id": "58bd8ec62f4e7cd4de1083a1",
+  "createdAt": "2017-03-06T16:31:02.731Z",
+  "price": 158,
+  "description": "本课程评说中外具有高度代表性的历史人物。既有中央集权制度的创建者秦始皇，杀兄篡位的贤君明主李世民，多元帝国的捍卫者康熙这些古代政治家，也有礼法信徒孔子、古希腊先哲苏格拉底、柏拉图、亚里士多德这些思想巨匠，更有资产阶级革命的英雄人物、亚洲觉醒的先驱和无产阶级革命家等。人物评说不是为了给人物盖棺定论，更不是非黑即白的贴标签，而是希望同学们通过人物窥见那个时代，通过评说知道人性的复杂与多变，养成思维的敏感与开拓。",
+  "name": "高中历史选修4（人教版）",
+  "updatedAt": "2018-01-09T04:13:01.521Z",
+  "major": "586d234f5f07127674152c50",
+  "homeSmallImage": "http://img.wanmen.org/images/8c649061-35cd-4bad-b412-38e813f65253.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/7de40bb0-a0b2-4f26-ad57-5164a042c80c.png",
+  "bigImage": "http://imgs.wanmen.org/bc18d33891c8e65d4959b050ed78b525.png",
+  "smallImage": "http://imgs.wanmen.org/518d84e6cfa26a837cb259e14f8a94fa.png",
+  "shortDescription": "本课程评说中外具有高度代表性的历史人物，希望同学们通过人物窥见那个时代，通过评说知道人性的复杂与多变，养成思维的敏感与开拓。",
+  "logo": "http://img.wanmen.org/images/2b58bc27-2574-4ec8-850b-e85b4345aa8e.png",
+  "order": 7,
+  "hide": false,
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/518d84e6cfa26a837cb259e14f8a94fa.png",
+  "bigImageUrl": "http://imgs.wanmen.org/bc18d33891c8e65d4959b050ed78b525.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/c8e992d49742ee0f882d9a3a915eb5a6.png",
+  "teacherName": "丁子江",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "expiration": 12,
+  "videoCount": 20,
+  "tag": "丁子江 高中 历史 选修 人教版 4",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 10,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "mobileCoverUrl": "http://imgs.wanmen.org/518d84e6cfa26a837cb259e14f8a94fa.png",
+  "coverUrl": "http://imgs.wanmen.org/bc18d33891c8e65d4959b050ed78b525.png",
+  "lectures": [{
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "秦始皇-嬴政",
+    "createdAt": "2017-03-09T07:32:37.786Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-12-21T04:22:30.172Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105152f4e7cd4de109557",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "秦始皇的早期人生",
+      "parentId": "58c105152f4e7cd4de109557",
+      "createdAt": "2017-03-09T07:32:37.960Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:22:35.005Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_mobile_mid.m3u8"
+        },
+        "id": "595b4789ef23a82fd351fcdf"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/87dd1255-bb37-47cc-97dd-e038584c472b_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105162f4e7cd4de109558",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "统一六国",
+      "parentId": "58c105152f4e7cd4de109557",
+      "createdAt": "2017-03-09T07:32:38.074Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:22:38.354Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_mobile_mid.m3u8"
+        },
+        "id": "595b48e6ef23a83d10140238"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/5940ab6d-6128-47b1-9672-a7df94f8e17e_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105162f4e7cd4de109559",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "千秋功过秦始皇",
+      "parentId": "58c105152f4e7cd4de109557",
+      "createdAt": "2017-03-09T07:32:38.137Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:22:42.213Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/4a80674df108aa58a6bac20067ad4c7f_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/4a80674df108aa58a6bac20067ad4c7f_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/4a80674df108aa58a6bac20067ad4c7f_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/4a80674df108aa58a6bac20067ad4c7f_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/4a80674df108aa58a6bac20067ad4c7f_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "58c105162f4e7cd4de10955a",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "唐太宗-李世民",
+    "createdAt": "2017-03-09T07:32:38.213Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-12-21T04:22:50.466Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105162f4e7cd4de10955b",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "夺权之路",
+      "parentId": "58c105162f4e7cd4de10955b",
+      "createdAt": "2017-03-09T07:32:38.390Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:22:55.329Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/de136777-f427-40ae-a193-f27a93e634ec_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/de136777-f427-40ae-a193-f27a93e634ec_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/de136777-f427-40ae-a193-f27a93e634ec_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/de136777-f427-40ae-a193-f27a93e634ec_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/de136777-f427-40ae-a193-f27a93e634ec_mobile_mid.m3u8"
+        },
+        "id": "595b4ebad5ff7513783b2c78"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105162f4e7cd4de10955c",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "贞观之治",
+      "parentId": "58c105162f4e7cd4de10955b",
+      "createdAt": "2017-03-09T07:32:38.539Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:22:59.862Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ddb1cb0c-ad70-431b-8be4-9d2575fa9b73_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ddb1cb0c-ad70-431b-8be4-9d2575fa9b73_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ddb1cb0c-ad70-431b-8be4-9d2575fa9b73_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ddb1cb0c-ad70-431b-8be4-9d2575fa9b73_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ddb1cb0c-ad70-431b-8be4-9d2575fa9b73_mobile_mid.m3u8"
+        },
+        "id": "595b50ccd5ff7513b4cec821"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105162f4e7cd4de10955d",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "统一多民族国家捍卫者-康熙",
+    "createdAt": "2017-03-09T07:32:38.598Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-12-21T04:23:04.732Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105162f4e7cd4de10955e",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "康熙帝的对内统治",
+      "parentId": "58c105162f4e7cd4de10955e",
+      "createdAt": "2017-03-09T07:32:38.788Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:23:10.582Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9b3f0ba4-81ab-434a-9a3f-2ad8e44d570a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9b3f0ba4-81ab-434a-9a3f-2ad8e44d570a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9b3f0ba4-81ab-434a-9a3f-2ad8e44d570a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9b3f0ba4-81ab-434a-9a3f-2ad8e44d570a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9b3f0ba4-81ab-434a-9a3f-2ad8e44d570a_mobile_mid.m3u8"
+        },
+        "id": "595b50b351f0744b3b409df0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105162f4e7cd4de10955f",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "千古一帝",
+      "parentId": "58c105162f4e7cd4de10955e",
+      "createdAt": "2017-03-09T07:32:38.940Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:23:14.282Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105162f4e7cd4de109560",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "东西方的先哲",
+    "createdAt": "2017-03-09T07:32:38.995Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-12-21T04:23:20.299Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105172f4e7cd4de109561",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "孔子",
+      "parentId": "58c105172f4e7cd4de109561",
+      "createdAt": "2017-03-09T07:32:39.094Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:23:25.531Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79bc4158-3e08-4e23-aa20-d23855208e0c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79bc4158-3e08-4e23-aa20-d23855208e0c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79bc4158-3e08-4e23-aa20-d23855208e0c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79bc4158-3e08-4e23-aa20-d23855208e0c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79bc4158-3e08-4e23-aa20-d23855208e0c_mobile_mid.m3u8"
+        },
+        "id": "595b521351f0744b290f9589"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105172f4e7cd4de109562",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "古希腊三贤",
+      "parentId": "58c105172f4e7cd4de109561",
+      "createdAt": "2017-03-09T07:32:39.200Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:23:29.225Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/701a8af6-85d2-48bf-8f4f-662d0249e918_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/701a8af6-85d2-48bf-8f4f-662d0249e918_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/701a8af6-85d2-48bf-8f4f-662d0249e918_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/701a8af6-85d2-48bf-8f4f-662d0249e918_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/701a8af6-85d2-48bf-8f4f-662d0249e918_mobile_mid.m3u8"
+        },
+        "id": "595b538351f0744b5fdc6b31"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105172f4e7cd4de109563",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "欧美资产阶级革命人物",
+    "createdAt": "2017-03-09T07:32:39.294Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-12-21T04:23:35.971Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105172f4e7cd4de109564",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "克伦威尔",
+      "parentId": "58c105172f4e7cd4de109564",
+      "createdAt": "2017-03-09T07:32:39.384Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:23:41.900Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16e50bd4-f4af-463c-bbca-77e95f3abad5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16e50bd4-f4af-463c-bbca-77e95f3abad5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16e50bd4-f4af-463c-bbca-77e95f3abad5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16e50bd4-f4af-463c-bbca-77e95f3abad5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16e50bd4-f4af-463c-bbca-77e95f3abad5_mobile_mid.m3u8"
+        },
+        "id": "595b5448ef23a82fd4f5dc26"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105172f4e7cd4de109565",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "华盛顿",
+      "parentId": "58c105172f4e7cd4de109564",
+      "createdAt": "2017-03-09T07:32:39.495Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:23:45.593Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fc390d25-2dae-46d4-9f19-72791df63d0d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fc390d25-2dae-46d4-9f19-72791df63d0d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fc390d25-2dae-46d4-9f19-72791df63d0d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fc390d25-2dae-46d4-9f19-72791df63d0d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fc390d25-2dae-46d4-9f19-72791df63d0d_mobile_mid.m3u8"
+        },
+        "id": "595b558f51f0744b3b409df1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105172f4e7cd4de109566",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "拿破仑",
+      "parentId": "58c105172f4e7cd4de109564",
+      "createdAt": "2017-03-09T07:32:39.545Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:23:49.351Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/43ea30a4-d67c-4cd3-9d80-f51b26f9cbe5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/43ea30a4-d67c-4cd3-9d80-f51b26f9cbe5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/43ea30a4-d67c-4cd3-9d80-f51b26f9cbe5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/43ea30a4-d67c-4cd3-9d80-f51b26f9cbe5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/43ea30a4-d67c-4cd3-9d80-f51b26f9cbe5_mobile_mid.m3u8"
+        },
+        "id": "595b55dbef23a83055f064fb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105172f4e7cd4de109567",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "亚洲觉醒的先驱",
+    "createdAt": "2017-03-09T07:32:39.690Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-12-21T04:23:58.508Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105172f4e7cd4de109568",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "孙中山",
+      "parentId": "58c105172f4e7cd4de109568",
+      "createdAt": "2017-03-09T07:32:39.761Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:24:04.527Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4011299d-595f-4bdd-9435-90af09941b9f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4011299d-595f-4bdd-9435-90af09941b9f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4011299d-595f-4bdd-9435-90af09941b9f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4011299d-595f-4bdd-9435-90af09941b9f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4011299d-595f-4bdd-9435-90af09941b9f_mobile_mid.m3u8"
+        },
+        "id": "595b6580ef23a82fd351fce1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105172f4e7cd4de109569",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "甘地",
+      "parentId": "58c105172f4e7cd4de109568",
+      "createdAt": "2017-03-09T07:32:39.825Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:24:08.297Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3c734b92-cbe5-4647-b1d9-60fa521bcee2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3c734b92-cbe5-4647-b1d9-60fa521bcee2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3c734b92-cbe5-4647-b1d9-60fa521bcee2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3c734b92-cbe5-4647-b1d9-60fa521bcee2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3c734b92-cbe5-4647-b1d9-60fa521bcee2_mobile_mid.m3u8"
+        },
+        "id": "595b670b51f0744b08e8413c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105172f4e7cd4de10956a",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "凯末尔",
+      "parentId": "58c105172f4e7cd4de109568",
+      "createdAt": "2017-03-09T07:32:39.973Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:24:11.937Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d373f8ae-194e-409b-9a07-40f4e3035214_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d373f8ae-194e-409b-9a07-40f4e3035214_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d373f8ae-194e-409b-9a07-40f4e3035214_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d373f8ae-194e-409b-9a07-40f4e3035214_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d373f8ae-194e-409b-9a07-40f4e3035214_mobile_mid.m3u8"
+        },
+        "id": "595b676cef23a8300e247811"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105182f4e7cd4de10956b",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "无产阶级革命家",
+    "createdAt": "2017-03-09T07:32:40.041Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-12-21T04:24:26.754Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105182f4e7cd4de10956c",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "列宁",
+      "parentId": "58c105182f4e7cd4de10956c",
+      "createdAt": "2017-03-09T07:32:40.137Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:24:34.304Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e7279633-ad5c-49ea-a330-813e717075bb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e7279633-ad5c-49ea-a330-813e717075bb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e7279633-ad5c-49ea-a330-813e717075bb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e7279633-ad5c-49ea-a330-813e717075bb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e7279633-ad5c-49ea-a330-813e717075bb_mobile_mid.m3u8"
+        },
+        "id": "595b6994ef23a83038f67c6c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105182f4e7cd4de10956d",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "毛泽东",
+      "parentId": "58c105182f4e7cd4de10956c",
+      "createdAt": "2017-03-09T07:32:40.220Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:26:36.045Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dedaba28-71d1-4977-87ed-b820e955b25f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dedaba28-71d1-4977-87ed-b820e955b25f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dedaba28-71d1-4977-87ed-b820e955b25f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dedaba28-71d1-4977-87ed-b820e955b25f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dedaba28-71d1-4977-87ed-b820e955b25f_mobile_mid.m3u8"
+        },
+        "id": "595b6b2fef23a82fd4f5dc27"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105182f4e7cd4de10956e",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "邓小平",
+      "parentId": "58c105182f4e7cd4de10956c",
+      "createdAt": "2017-03-09T07:32:40.333Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:26:42.200Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d8d28422-fddc-41c9-a49c-5250d39fd395_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d8d28422-fddc-41c9-a49c-5250d39fd395_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d8d28422-fddc-41c9-a49c-5250d39fd395_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d8d28422-fddc-41c9-a49c-5250d39fd395_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d8d28422-fddc-41c9-a49c-5250d39fd395_mobile_mid.m3u8"
+        },
+        "id": "595b6ca7ef23a80d3835ccce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105182f4e7cd4de10956f",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd8ec62f4e7cd4de1083a1",
+    "name": "杰出的科学家",
+    "createdAt": "2017-03-09T07:32:40.695Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2017-12-21T04:26:48.930Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105182f4e7cd4de109570",
+    "children": [{
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "李时珍与詹天佑",
+      "parentId": "58c105182f4e7cd4de109570",
+      "createdAt": "2017-03-09T07:32:40.845Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:27:03.810Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/740b394a-c056-4291-ba8f-67bb8680e9fc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/740b394a-c056-4291-ba8f-67bb8680e9fc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/740b394a-c056-4291-ba8f-67bb8680e9fc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/740b394a-c056-4291-ba8f-67bb8680e9fc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/740b394a-c056-4291-ba8f-67bb8680e9fc_mobile_mid.m3u8"
+        },
+        "id": "595b6dee51f0744b7dbf1c95"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105182f4e7cd4de109571",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd8ec62f4e7cd4de1083a1",
+      "name": "李四光、牛顿、爱因斯坦",
+      "parentId": "58c105182f4e7cd4de109570",
+      "createdAt": "2017-03-09T07:32:40.985Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:27:06.748Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4394559c-b26d-474c-925d-6508e12383c3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4394559c-b26d-474c-925d-6508e12383c3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4394559c-b26d-474c-925d-6508e12383c3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4394559c-b26d-474c-925d-6508e12383c3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4394559c-b26d-474c-925d-6508e12383c3_mobile_mid.m3u8"
+        },
+        "id": "595b6ffbd5ff75139038455f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105192f4e7cd4de109572",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

@@ -1,0 +1,51 @@
+[{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2018-01-05T04:24:19.928Z",
+  "updatedAt": "2018-01-12T10:11:46.045Z",
+  "name": "Python编程入门",
+  "major": "5a4efb20853b5279d9e907c8",
+  "numOfClasses": 5,
+  "price": 598,
+  "teacher": {
+    "name": "王玉杰",
+    "avatar": "http://imgs.wanmen.org/f3248b65dc63fb6139a90a0b4b3d450d.png",
+    "id": "599e4d282478ef1f3fdac64c"
+  },
+  "hide": false,
+  "expiration": 12,
+  "description": "零基础入门Python，基础理论+项目实战，动手实践课程设计的技术项目。一线Python名师授课，全面入门编程领域。\n",
+  "tag": "王玉杰 高中 Python 编程 入门 ",
+  "videoCount": 63,
+  "bigImage": "http://imgs.wanmen.org/8299bc19de6a8a18376e42a4147affd0.png",
+  "smallImage": "http://imgs.wanmen.org/6c0d3da7c87d74d41d6ffc9a68f1141d.png",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [{
+    "_id": "5a549fb3b6da6f44ebe6ba17"
+  }, {
+    "_id": "5a549fb3b6da6f44ebe6ba16"
+  }, {
+    "_id": "5a549fb3b6da6f44ebe6ba15"
+  }, {
+    "_id": "5a549fb3b6da6f44ebe6ba14"
+  }, {
+    "_id": "5a549fb3b6da6f44ebe6ba13"
+  }, {
+    "_id": "5a549fb3b6da6f44ebe6ba12"
+  }],
+  "schedule": [],
+  "type": "record",
+  "likes": 1,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 5,
+  "teacherAvatar": "http://imgs.wanmen.org/f3248b65dc63fb6139a90a0b4b3d450d.png",
+  "teacherName": "王玉杰",
+  "mobileCoverUrl": "http://imgs.wanmen.org/6c0d3da7c87d74d41d6ffc9a68f1141d.png",
+  "coverUrl": "http://imgs.wanmen.org/8299bc19de6a8a18376e42a4147affd0.png",
+  "smallImageUrl": "http://imgs.wanmen.org/6c0d3da7c87d74d41d6ffc9a68f1141d.png",
+  "bigImageUrl": "http://imgs.wanmen.org/8299bc19de6a8a18376e42a4147affd0.png",
+  "id": "5a4efdf3e1028579d40fa32e"
+}]

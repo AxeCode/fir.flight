@@ -1,0 +1,705 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T03:06:59.099Z",
+  "updatedAt": "2017-12-30T08:40:03.077Z",
+  "name": "初中生物八年级下",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/3a208dd8e0d02577b89942a5daf865ec.png",
+  "bigImage": "http://imgs.wanmen.org/3a208dd8e0d02577b89942a5daf865ec.png",
+  "smallImageUrl": "http://imgs.wanmen.org/dd074d5cc95f4e1cf7133bad3520b755.png",
+  "smallImage": "http://imgs.wanmen.org/dd074d5cc95f4e1cf7133bad3520b755.png",
+  "teacherName": "牛佳丽",
+  "teacherDescription": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "description": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 4,
+  "numOfClasses": 6,
+  "expiration": 12,
+  "tag": "牛佳丽 初中 八年级 下 生物",
+  "videoCount": 20,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 2,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 6,
+  "mobileCoverUrl": "http://imgs.wanmen.org/dd074d5cc95f4e1cf7133bad3520b755.png",
+  "coverUrl": "http://imgs.wanmen.org/3a208dd8e0d02577b89942a5daf865ec.png",
+  "id": "592e3353b45f51716ab6f483",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T03:53:37.061Z",
+    "updatedAt": "2017-12-23T02:08:21.465Z",
+    "courseId": "592e3353b45f51716ab6f483",
+    "name": "生物的生殖和发育",
+    "order": 1,
+    "actions": {
+      "download": true,
+      "watch": true
+    },
+    "hide": false,
+    "id": "59362741d5fa2213f156cd7d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:55:00.536Z",
+      "updatedAt": "2017-12-23T02:08:31.779Z",
+      "parentId": "59362741d5fa2213f156cd7d",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "植物的生殖",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_mobile_mid.m3u8"
+        },
+        "id": "5929143dd5ff752379dbcfcf"
+      },
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59362794d5fa2213f156cd89",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/8eb0d017-7f8c-4167-9b4a-f8e646af29b9_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:55:09.149Z",
+      "updatedAt": "2017-12-23T02:08:45.755Z",
+      "parentId": "59362741d5fa2213f156cd7d",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "昆虫的生殖和发育",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_mobile_mid.m3u8"
+        },
+        "id": "5929132fef23a82ffd235447"
+      },
+      "order": 2,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5936279dd5fa2213f156cd8b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/13539d3a-7501-4161-9ece-d649391ce54e_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:55:16.532Z",
+      "updatedAt": "2017-12-23T02:08:55.994Z",
+      "parentId": "59362741d5fa2213f156cd7d",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "两栖动物的生殖和发育",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_mobile_mid.m3u8"
+        },
+        "id": "59291355ef23a8302b0c3589"
+      },
+      "order": 3,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593627a4d5fa2213f156cd8d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/f3a1e51b-8177-464e-835d-f264da774ec2_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:55:24.717Z",
+      "updatedAt": "2017-12-23T02:09:09.008Z",
+      "parentId": "59362741d5fa2213f156cd7d",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "鸡卵的结构",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_mobile_mid.m3u8"
+        },
+        "id": "592914b4d5ff75239a7bad6a"
+      },
+      "order": 4,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593627acd5fa2213f156cd8f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/eaaf9cd1-85b2-4866-80f7-dcd1b217d441_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:55:31.849Z",
+      "updatedAt": "2017-12-23T02:09:18.305Z",
+      "parentId": "59362741d5fa2213f156cd7d",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "鸟的生殖和发育",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_mobile_mid.m3u8"
+        },
+        "id": "59291395ef23a83089d83a98"
+      },
+      "order": 5,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593627b3d5fa2213f156cd91",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a4ac6438-1080-4446-bc87-c3f70db85377_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T03:53:44.560Z",
+    "updatedAt": "2017-12-23T02:09:33.696Z",
+    "courseId": "592e3353b45f51716ab6f483",
+    "name": "生物的遗传与变异",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59362748d5fa2213f156cd7f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:55:47.158Z",
+      "updatedAt": "2017-12-23T02:09:48.288Z",
+      "parentId": "59362748d5fa2213f156cd7f",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "基因控制生物的形状",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a5a6f6c1-0454-4ef4-9410-3140b5b91c0a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a5a6f6c1-0454-4ef4-9410-3140b5b91c0a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a5a6f6c1-0454-4ef4-9410-3140b5b91c0a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a5a6f6c1-0454-4ef4-9410-3140b5b91c0a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a5a6f6c1-0454-4ef4-9410-3140b5b91c0a_mobile_mid.m3u8"
+        },
+        "id": "592913c1ef23a8052253c703"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593627c3d5fa2213f156cd93",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:55:55.014Z",
+      "updatedAt": "2017-12-23T02:10:07.464Z",
+      "parentId": "59362748d5fa2213f156cd7f",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "基因在亲子代间的传递",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4f701374-3cb1-464c-9521-046fd335613b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4f701374-3cb1-464c-9521-046fd335613b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4f701374-3cb1-464c-9521-046fd335613b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4f701374-3cb1-464c-9521-046fd335613b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4f701374-3cb1-464c-9521-046fd335613b_mobile_mid.m3u8"
+        },
+        "id": "5929152ad5ff7523521d0475"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593627cbd5fa2213f156cd95",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:56:04.625Z",
+      "updatedAt": "2017-12-23T02:10:56.303Z",
+      "parentId": "59362748d5fa2213f156cd7f",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "基因的显性和隐性",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/529b1ebe-b856-4405-b8ed-0583351bc326_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/529b1ebe-b856-4405-b8ed-0583351bc326_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/529b1ebe-b856-4405-b8ed-0583351bc326_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/529b1ebe-b856-4405-b8ed-0583351bc326_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/529b1ebe-b856-4405-b8ed-0583351bc326_mobile_mid.m3u8"
+        },
+        "id": "59291433ef23a85887e05789"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593627d4d5fa2213f156cd97",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:56:13.838Z",
+      "updatedAt": "2017-12-23T02:11:13.551Z",
+      "parentId": "59362748d5fa2213f156cd7f",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "人的性别遗传",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3bacb932-807c-4228-b640-b6b2f325c1d0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3bacb932-807c-4228-b640-b6b2f325c1d0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3bacb932-807c-4228-b640-b6b2f325c1d0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3bacb932-807c-4228-b640-b6b2f325c1d0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3bacb932-807c-4228-b640-b6b2f325c1d0_mobile_mid.m3u8"
+        },
+        "id": "59291458ef23a830822d9c3b"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593627ddd5fa2213f156cd99",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:56:24.532Z",
+      "updatedAt": "2017-12-23T02:11:32.434Z",
+      "parentId": "59362748d5fa2213f156cd7f",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "生物的变异",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0fd8f40a-a6f5-4102-9621-7186b057d8c7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0fd8f40a-a6f5-4102-9621-7186b057d8c7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0fd8f40a-a6f5-4102-9621-7186b057d8c7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0fd8f40a-a6f5-4102-9621-7186b057d8c7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0fd8f40a-a6f5-4102-9621-7186b057d8c7_mobile_mid.m3u8"
+        },
+        "id": "59291497ef23a830026e6f81"
+      },
+      "order": 5,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593627e8d5fa2213f156cd9b",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T03:53:55.084Z",
+    "updatedAt": "2017-12-23T02:11:54.190Z",
+    "courseId": "592e3353b45f51716ab6f483",
+    "name": "生命起源和生物进化",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59362753d5fa2213f156cd81",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:56:35.931Z",
+      "updatedAt": "2017-12-23T02:12:17.902Z",
+      "parentId": "59362753d5fa2213f156cd81",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "地球上生命的起源",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/61f3b980-f8d6-4faa-8ad9-54d76287c891_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/61f3b980-f8d6-4faa-8ad9-54d76287c891_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/61f3b980-f8d6-4faa-8ad9-54d76287c891_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/61f3b980-f8d6-4faa-8ad9-54d76287c891_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/61f3b980-f8d6-4faa-8ad9-54d76287c891_mobile_mid.m3u8"
+        },
+        "id": "592914c1ef23a85f5249dc74"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593627f3d5fa2213f156cd9d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:56:44.668Z",
+      "updatedAt": "2017-12-23T02:12:43.702Z",
+      "parentId": "59362753d5fa2213f156cd81",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "生物进化的历程",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7ce58f4f-70c3-4ad5-bfe4-61f2d52c723e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7ce58f4f-70c3-4ad5-bfe4-61f2d52c723e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7ce58f4f-70c3-4ad5-bfe4-61f2d52c723e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7ce58f4f-70c3-4ad5-bfe4-61f2d52c723e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7ce58f4f-70c3-4ad5-bfe4-61f2d52c723e_mobile_mid.m3u8"
+        },
+        "id": "592914f1ef23a8300e2477c9"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593627fcd5fa2213f156cd9f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:57:05.630Z",
+      "updatedAt": "2017-12-23T02:14:06.257Z",
+      "parentId": "59362753d5fa2213f156cd81",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "生物进化的原因——自然选择",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3ab5583d-b6d0-4d37-8261-1482314de66d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3ab5583d-b6d0-4d37-8261-1482314de66d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3ab5583d-b6d0-4d37-8261-1482314de66d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3ab5583d-b6d0-4d37-8261-1482314de66d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3ab5583d-b6d0-4d37-8261-1482314de66d_mobile_mid.m3u8"
+        },
+        "id": "59291523ef23a830822d9c3c"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59362811d5fa2213f156cda1",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T03:54:04.547Z",
+    "updatedAt": "2017-12-23T02:14:52.424Z",
+    "courseId": "592e3353b45f51716ab6f483",
+    "name": "传染病和免疫",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5936275cd5fa2213f156cd83",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:57:13.800Z",
+      "updatedAt": "2017-12-23T02:15:07.051Z",
+      "parentId": "5936275cd5fa2213f156cd83",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "传染病及其预防",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/db64c1ac-7d71-4ed3-b358-bae14104f16a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/db64c1ac-7d71-4ed3-b358-bae14104f16a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/db64c1ac-7d71-4ed3-b358-bae14104f16a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/db64c1ac-7d71-4ed3-b358-bae14104f16a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/db64c1ac-7d71-4ed3-b358-bae14104f16a_mobile_mid.m3u8"
+        },
+        "id": "59291544ef23a82fe208eb18"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59362819d5fa2213f156cda3",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:57:21.958Z",
+      "updatedAt": "2017-12-23T02:15:18.931Z",
+      "parentId": "5936275cd5fa2213f156cd83",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "人体免疫的三道防线",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8e7182c4-80fb-49ff-8ca1-51dba40f77ac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8e7182c4-80fb-49ff-8ca1-51dba40f77ac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8e7182c4-80fb-49ff-8ca1-51dba40f77ac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8e7182c4-80fb-49ff-8ca1-51dba40f77ac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8e7182c4-80fb-49ff-8ca1-51dba40f77ac_mobile_mid.m3u8"
+        },
+        "id": "59291563ef23a85f5249dc75"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59362821d5fa2213f156cda5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:57:30.171Z",
+      "updatedAt": "2017-12-23T02:15:32.484Z",
+      "parentId": "5936275cd5fa2213f156cd83",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "免疫的功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/42b77e86-7fe8-4a13-8b45-a0e88c43522d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/42b77e86-7fe8-4a13-8b45-a0e88c43522d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/42b77e86-7fe8-4a13-8b45-a0e88c43522d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/42b77e86-7fe8-4a13-8b45-a0e88c43522d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/42b77e86-7fe8-4a13-8b45-a0e88c43522d_mobile_mid.m3u8"
+        },
+        "id": "59291582ef23a8303956a209"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936282ad5fa2213f156cda7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:57:41.640Z",
+      "updatedAt": "2017-12-23T02:15:45.764Z",
+      "parentId": "5936275cd5fa2213f156cd83",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "计划免疫与艾滋病",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c203adb1-3513-4f8b-9057-b20675a53963_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c203adb1-3513-4f8b-9057-b20675a53963_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c203adb1-3513-4f8b-9057-b20675a53963_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c203adb1-3513-4f8b-9057-b20675a53963_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c203adb1-3513-4f8b-9057-b20675a53963_mobile_mid.m3u8"
+        },
+        "id": "592915a4ef23a8305dbf4d8c"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59362835d5fa2213f156cda9",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T03:54:13.988Z",
+    "updatedAt": "2017-12-23T02:15:57.903Z",
+    "courseId": "592e3353b45f51716ab6f483",
+    "name": "用药与急救",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59362765d5fa2213f156cd85",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:57:49.510Z",
+      "updatedAt": "2017-12-23T02:16:12.638Z",
+      "parentId": "59362765d5fa2213f156cd85",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "安全用药",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fc9bd76f-a23e-48ec-8edd-d1a02ad74558_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fc9bd76f-a23e-48ec-8edd-d1a02ad74558_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fc9bd76f-a23e-48ec-8edd-d1a02ad74558_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fc9bd76f-a23e-48ec-8edd-d1a02ad74558_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fc9bd76f-a23e-48ec-8edd-d1a02ad74558_mobile_mid.m3u8"
+        },
+        "id": "59291754d5ff75236719eef9"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936283dd5fa2213f156cdab",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:57:57.252Z",
+      "updatedAt": "2017-12-23T02:16:25.949Z",
+      "parentId": "59362765d5fa2213f156cd85",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "急救措施",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/210355ff-4383-4639-a6d4-03d851163805_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/210355ff-4383-4639-a6d4-03d851163805_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/210355ff-4383-4639-a6d4-03d851163805_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/210355ff-4383-4639-a6d4-03d851163805_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/210355ff-4383-4639-a6d4-03d851163805_mobile_mid.m3u8"
+        },
+        "id": "5929177fd5ff75236719eefa"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59362845d5fa2213f156cdad",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T03:54:22.359Z",
+    "updatedAt": "2017-12-23T02:16:43.975Z",
+    "courseId": "592e3353b45f51716ab6f483",
+    "name": "了解自己，增进健康",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5936276ed5fa2213f156cd87",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T03:58:06.017Z",
+      "updatedAt": "2017-12-23T02:16:57.732Z",
+      "parentId": "5936276ed5fa2213f156cd87",
+      "courseId": "592e3353b45f51716ab6f483",
+      "name": "健康的概念与增进健康的方式",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/861d8bf2-56c4-4121-b2a8-6d9c826ad982_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/861d8bf2-56c4-4121-b2a8-6d9c826ad982_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/861d8bf2-56c4-4121-b2a8-6d9c826ad982_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/861d8bf2-56c4-4121-b2a8-6d9c826ad982_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/861d8bf2-56c4-4121-b2a8-6d9c826ad982_mobile_mid.m3u8"
+        },
+        "id": "59291663ef23a830822d9c3d"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936284ed5fa2213f156cdaf",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

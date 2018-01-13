@@ -1,0 +1,650 @@
+{
+  "id": "58d333dd2f8052899cb7403e",
+  "createdAt": "2017-03-23T02:33:01.302Z",
+  "teacherAvatar": "http://imgs.wanmen.org/c05246a443152fddd78cc08b9181bb5a.png",
+  "teacherDescription": "周家伟，清华大学临床医学专业，曾获得”清华之友—张荣华“学业优秀奖学金。高考成绩优秀，具有丰富的数学辅导经验。讲课风格生动鲜明，能够把知识点融入习题中，以帮助大家理解。除讲述高中数学基础知识之外，还经常以习题为媒介，让学生体会到数学学习的思想方法，不仅仅授鱼，更要授人以渔。",
+  "teacherName": "周家伟",
+  "major": "586d234f5f07127674152c49",
+  "homeSmallImage": "http://img.wanmen.org/images/00926a96-1e5c-41ab-9999-c95d245f6bca.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/5965eec6-20a1-4af1-9fb5-01a5ef0f962a.png",
+  "bigImage": "http://imgs.wanmen.org/8554a1cd8594eac3221ee7b9dde7d333.png",
+  "smallImage": "http://imgs.wanmen.org/a184f63bffae7244f5b5a48375599aa4.png",
+  "shortDescription": "包括算法初步，统计和概率三章内容",
+  "logo": "http://img.wanmen.org/images/659c4ef0-fe53-4642-b198-e2f57a16570a.png",
+  "order": 4,
+  "hide": false,
+  "price": 158,
+  "description": "本书是高中数学必修课程5个模块中的一个，包括算法初步，统计和概率三章内容",
+  "name": "高中数学必修3",
+  "updatedAt": "2018-01-09T04:13:33.453Z",
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/a184f63bffae7244f5b5a48375599aa4.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/736f01200d92d3bc775581a33b7afe02.png",
+  "bigImageUrl": "http://imgs.wanmen.org/8554a1cd8594eac3221ee7b9dde7d333.png",
+  "teacher": {
+    "name": "周家伟",
+    "description": "周家伟，清华大学临床医学专业，曾获得”清华之友—张荣华“学业优秀奖学金。高考成绩优秀，具有丰富的数学辅导经验。讲课风格生动鲜明，能够把知识点融入习题中，以帮助大家理解。除讲述高中数学基础知识之外，还经常以习题为媒介，让学生体会到数学学习的思想方法，不仅仅授鱼，更要授人以渔。",
+    "avatar": "http://imgs.wanmen.org/c05246a443152fddd78cc08b9181bb5a.png",
+    "id": "5923f3bc29a8354075e09af9"
+  },
+  "expiration": 12,
+  "tag": "周家伟 高中 数学 必修 3 ",
+  "videoCount": 24,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 62,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "mobileCoverUrl": "http://imgs.wanmen.org/a184f63bffae7244f5b5a48375599aa4.png",
+  "coverUrl": "http://imgs.wanmen.org/8554a1cd8594eac3221ee7b9dde7d333.png",
+  "lectures": [{
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "算法及程序框图的概念",
+    "createdAt": "2017-04-09T12:28:01.340Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-12-21T03:50:29.693Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb86424",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "算法及程序框图的概念",
+      "parentId": "58ea28d32f8052899cb86424",
+      "createdAt": "2017-04-09T12:28:01.386Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T03:50:35.637Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_mobile_mid.m3u8"
+        },
+        "id": "595afbf7d5ff7513ad660914"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/5749a462-3b1e-4e9c-a0da-8f2d69b7696d_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58ea28d32f8052899cb86425",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "算法的三种基本逻辑结构及框图表示",
+      "parentId": "58ea28d32f8052899cb86424",
+      "createdAt": "2017-04-09T12:28:01.403Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T03:51:08.806Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ac5d783827e453b1a9ee78b31475da12_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/ac5d783827e453b1a9ee78b31475da12_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/ac5d783827e453b1a9ee78b31475da12_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/ac5d783827e453b1a9ee78b31475da12_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/ac5d783827e453b1a9ee78b31475da12_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "58ea28d32f8052899cb86426",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "算法的设计及绘制程序框图的方法",
+      "parentId": "58ea28d32f8052899cb86424",
+      "createdAt": "2017-04-09T12:28:01.415Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T03:51:13.881Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/54334efa006d7871f4ffa8c4ab06f903_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/54334efa006d7871f4ffa8c4ab06f903_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/54334efa006d7871f4ffa8c4ab06f903_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/54334efa006d7871f4ffa8c4ab06f903_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/54334efa006d7871f4ffa8c4ab06f903_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "58ea28d32f8052899cb86427",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "算法与程序框图习题课",
+    "createdAt": "2017-04-09T12:28:01.440Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-12-21T03:51:24.479Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb86428",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "算法与程序框图习题课",
+      "parentId": "58ea28d32f8052899cb86428",
+      "createdAt": "2017-04-09T12:28:01.473Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T03:51:35.831Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/85b2b79b-c4de-4af2-b5ef-adbff4ddb67d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/85b2b79b-c4de-4af2-b5ef-adbff4ddb67d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/85b2b79b-c4de-4af2-b5ef-adbff4ddb67d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/85b2b79b-c4de-4af2-b5ef-adbff4ddb67d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/85b2b79b-c4de-4af2-b5ef-adbff4ddb67d_mobile_mid.m3u8"
+        },
+        "id": "595affa4ef23a830626948ca"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb86429",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "基本算法语句（一）",
+      "parentId": "58ea28d32f8052899cb86428",
+      "createdAt": "2017-04-09T12:28:01.489Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T03:51:46.801Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8642a",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "基本算法语句（二）",
+      "parentId": "58ea28d32f8052899cb86428",
+      "createdAt": "2017-04-09T12:28:01.507Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T03:52:51.503Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8642b",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "程序设计",
+    "createdAt": "2017-04-09T12:28:01.520Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-12-21T03:53:14.894Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb8642c",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "程序设计",
+      "parentId": "58ea28d32f8052899cb8642c",
+      "createdAt": "2017-04-09T12:28:01.562Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T03:53:23.444Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/436eb54c-c616-4110-b064-2fb56f29031a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/436eb54c-c616-4110-b064-2fb56f29031a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/436eb54c-c616-4110-b064-2fb56f29031a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/436eb54c-c616-4110-b064-2fb56f29031a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/436eb54c-c616-4110-b064-2fb56f29031a_mobile_mid.m3u8"
+        },
+        "id": "595b01af51f0744b5fdc6b2c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8642d",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "算法案例（一）",
+      "parentId": "58ea28d32f8052899cb8642c",
+      "createdAt": "2017-04-09T12:28:01.578Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T03:55:00.283Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8642e",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "算法案例（二）",
+      "parentId": "58ea28d32f8052899cb8642c",
+      "createdAt": "2017-04-09T12:28:01.597Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T03:55:12.411Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0b12b060-19d8-4a93-834e-3db083c2faca_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0b12b060-19d8-4a93-834e-3db083c2faca_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0b12b060-19d8-4a93-834e-3db083c2faca_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0b12b060-19d8-4a93-834e-3db083c2faca_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0b12b060-19d8-4a93-834e-3db083c2faca_mobile_mid.m3u8"
+        },
+        "id": "5979b65fef23a87f216eeb2d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8642f",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "随机抽样",
+    "createdAt": "2017-04-09T12:28:01.613Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-12-21T03:55:29.195Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb86430",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "简单随机抽样",
+      "parentId": "58ea28d32f8052899cb86430",
+      "createdAt": "2017-04-09T12:28:01.645Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T03:55:34.167Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/afa5785375ffec31caf3863cbd0465d7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/afa5785375ffec31caf3863cbd0465d7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/afa5785375ffec31caf3863cbd0465d7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/afa5785375ffec31caf3863cbd0465d7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/afa5785375ffec31caf3863cbd0465d7_mobile_mid.m3u8"
+        },
+        "id": "58e07ef2ef23a818713e1ec9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb86431",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "系统抽样&分层抽样",
+      "parentId": "58ea28d32f8052899cb86430",
+      "createdAt": "2017-04-09T12:28:01.661Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T03:55:38.131Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb86432",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "用样本估计总量",
+    "createdAt": "2017-04-09T12:28:01.672Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-12-21T03:55:48.085Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb86433",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "用样本估计总体 （1）",
+      "parentId": "58ea28d32f8052899cb86433",
+      "createdAt": "2017-04-09T12:28:01.712Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T10:01:40.254Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb86434",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "用样本估计总体 （2）",
+      "parentId": "58ea28d32f8052899cb86433",
+      "createdAt": "2017-04-09T12:28:01.733Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T10:01:47.002Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/542f1ebf-6958-45c4-a06a-dda818952a31_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/542f1ebf-6958-45c4-a06a-dda818952a31_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/542f1ebf-6958-45c4-a06a-dda818952a31_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/542f1ebf-6958-45c4-a06a-dda818952a31_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/542f1ebf-6958-45c4-a06a-dda818952a31_mobile_mid.m3u8"
+        },
+        "id": "595b0892ef23a83055f064fa"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb86435",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "用样本估计总体习题课",
+      "parentId": "58ea28d32f8052899cb86433",
+      "createdAt": "2017-04-09T12:28:01.752Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T10:01:52.956Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb86436",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "变量间的相关关系",
+    "createdAt": "2017-04-09T12:28:01.768Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-12-21T03:59:12.503Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb86437",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "变量间的相关关系",
+      "parentId": "58ea28d32f8052899cb86437",
+      "createdAt": "2017-04-09T12:28:01.799Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T03:59:26.480Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/608e7d47-233e-45fd-a5db-7441994dca18_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/608e7d47-233e-45fd-a5db-7441994dca18_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/608e7d47-233e-45fd-a5db-7441994dca18_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/608e7d47-233e-45fd-a5db-7441994dca18_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/608e7d47-233e-45fd-a5db-7441994dca18_mobile_mid.m3u8"
+        },
+        "id": "59cc9779ef23a82fd4f5dc77"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb86438",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "随机事件的概率",
+    "createdAt": "2017-04-09T12:28:01.817Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-12-21T03:59:18.499Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb86439",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "随机事件的概率（一）",
+      "parentId": "58ea28d32f8052899cb86439",
+      "createdAt": "2017-04-09T12:28:01.845Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T03:59:38.203Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/75d7f1a6-3d22-4243-a5aa-ac2f5223436d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/75d7f1a6-3d22-4243-a5aa-ac2f5223436d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/75d7f1a6-3d22-4243-a5aa-ac2f5223436d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/75d7f1a6-3d22-4243-a5aa-ac2f5223436d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/75d7f1a6-3d22-4243-a5aa-ac2f5223436d_mobile_mid.m3u8"
+        },
+        "id": "595b2c74ef23a8300dc58f72"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8643a",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "随机事件的概率（二）",
+      "parentId": "58ea28d32f8052899cb86439",
+      "createdAt": "2017-04-09T12:28:01.862Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T03:59:47.124Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8643b",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "随机事件的概率（三）",
+      "parentId": "58ea28d32f8052899cb86439",
+      "createdAt": "2017-04-09T12:28:01.879Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T03:59:57.974Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8643c",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "古典概型",
+    "createdAt": "2017-04-09T12:28:01.896Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2017-12-21T04:03:09.765Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d32f8052899cb8643d",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "古典概型（一）",
+      "parentId": "58ea28d32f8052899cb8643d",
+      "createdAt": "2017-04-09T12:28:01.924Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:03:24.417Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/76ae3c6b-30b1-4b09-9445-dbd596b62a9d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/76ae3c6b-30b1-4b09-9445-dbd596b62a9d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/76ae3c6b-30b1-4b09-9445-dbd596b62a9d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/76ae3c6b-30b1-4b09-9445-dbd596b62a9d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/76ae3c6b-30b1-4b09-9445-dbd596b62a9d_mobile_mid.m3u8"
+        },
+        "id": "595b2c97ef23a8308c970e3c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8643e",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "古典概型（二）",
+      "parentId": "58ea28d32f8052899cb8643d",
+      "createdAt": "2017-04-09T12:28:01.945Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:03:33.116Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d32f8052899cb8643f",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "古典概型（三）",
+      "parentId": "58ea28d32f8052899cb8643d",
+      "createdAt": "2017-04-09T12:28:01.958Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:03:40.602Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8349d4e3-66e2-400e-92bb-70795bbc6d82_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8349d4e3-66e2-400e-92bb-70795bbc6d82_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8349d4e3-66e2-400e-92bb-70795bbc6d82_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8349d4e3-66e2-400e-92bb-70795bbc6d82_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8349d4e3-66e2-400e-92bb-70795bbc6d82_mobile_mid.m3u8"
+        },
+        "id": "595b2cdb51f0744b852de0b0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d42f8052899cb86440",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d333dd2f8052899cb7403e",
+    "name": "几何概型",
+    "createdAt": "2017-04-09T12:28:01.976Z",
+    "order": 9,
+    "description": null,
+    "updatedAt": "2017-12-21T04:03:48.918Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea28d42f8052899cb86441",
+    "children": [{
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "几何概型（一）",
+      "parentId": "58ea28d42f8052899cb86441",
+      "createdAt": "2017-04-09T12:28:02.021Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:04:04.085Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d42f8052899cb86442",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "几何概型（二）",
+      "parentId": "58ea28d42f8052899cb86441",
+      "createdAt": "2017-04-09T12:28:02.043Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:04:22.412Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d42f8052899cb86443",
+      "hasTopic": false
+    }, {
+      "courseId": "58d333dd2f8052899cb7403e",
+      "name": "几何概型（三）",
+      "parentId": "58ea28d42f8052899cb86441",
+      "createdAt": "2017-04-09T12:28:02.060Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:04:30.887Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea28d42f8052899cb86444",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

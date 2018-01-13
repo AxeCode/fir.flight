@@ -1,0 +1,2602 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2018-01-05T05:33:40.771Z",
+  "updatedAt": "2018-01-10T03:20:54.277Z",
+  "name": "基础初中历史七年级下",
+  "major": "592fd9bbd5fa2213f156c628",
+  "numOfClasses": 21,
+  "description": "本课程讲述了从隋朝再度完成统一到清朝君主专制达到顶峰的中国历史，是中国古代史的后半部分。在七下的课程中，学生们不仅可以了解到隋、唐、宋、元、明、清等中国历史上各具特色的统一王朝，还可以了解到辽、金、西夏等别有风韵的对峙政权，这里有唐的天下无双，有宋的温文尔雅，有元的恢宏开阔，有清的多元帝国，学生可以从中了解到中华文明的包容性和文明交流的重要性，从而树立全球化时代开放的心胸。",
+  "price": 78,
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "hide": false,
+  "bigImage": "http://imgs.wanmen.org/8bea454785a953797a0014c9b2e1a44d.png",
+  "smallImage": "http://imgs.wanmen.org/092e86ef0b3347bcc924955692d06f26.png",
+  "expiration": 12,
+  "tag": "丁子江 初中 基础 七年级下 历史",
+  "videoCount": 82,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 0,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 21,
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherName": "丁子江",
+  "mobileCoverUrl": "http://imgs.wanmen.org/092e86ef0b3347bcc924955692d06f26.png",
+  "coverUrl": "http://imgs.wanmen.org/8bea454785a953797a0014c9b2e1a44d.png",
+  "smallImageUrl": "http://imgs.wanmen.org/092e86ef0b3347bcc924955692d06f26.png",
+  "bigImageUrl": "http://imgs.wanmen.org/8bea454785a953797a0014c9b2e1a44d.png",
+  "id": "5a4f0e34853b5279d9e907ee",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T06:05:01.560Z",
+    "updatedAt": "2018-01-05T06:05:27.606Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "隋朝的统一与灭亡",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f158de1028579d40fa34e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:05:21.042Z",
+      "updatedAt": "2018-01-09T06:12:29.663Z",
+      "parentId": "5a4f158de1028579d40fa34e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "隋的统一",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_mobile_mid.m3u8"
+        },
+        "id": "5a3c8b89ef23a865d38ed843"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f15a1e1028579d40fa350",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/1976573f-9804-4693-a0b1-3fda37283034_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:05:37.591Z",
+      "updatedAt": "2018-01-09T06:12:39.885Z",
+      "parentId": "5a4f158de1028579d40fa34e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "大运河的开凿",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_mobile_mid.m3u8"
+        },
+        "id": "5a3c8bb1d5ff75135315fd2f"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f15b1e1028579d40fa352",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/00ece876-7120-4f3c-97fd-2a73facbb61a_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:05:47.589Z",
+      "updatedAt": "2018-01-09T06:12:50.325Z",
+      "parentId": "5a4f158de1028579d40fa34e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "科举制的发明",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_mobile_mid.m3u8"
+        },
+        "id": "5a3c8bdad5ff75136391ffc9"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f15bbe1028579d40fa354",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/81c39a1e-e333-4b0a-995e-32280c919e95_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:05:58.662Z",
+      "updatedAt": "2018-01-09T06:13:10.446Z",
+      "parentId": "5a4f158de1028579d40fa34e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "隋的灭亡",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_mobile_mid.m3u8"
+        },
+        "id": "5a3c8c04ef23a8659827d93a"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f15c6e1028579d40fa356",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/def5ecbc-0660-499b-acff-810a433b1398_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:06:09.125Z",
+      "updatedAt": "2018-01-09T06:13:17.985Z",
+      "parentId": "5a4f158de1028579d40fa34e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "隋的统治习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_mobile_mid.m3u8"
+        },
+        "id": "5a3c8c1cd5ff75136391ffca"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f15d1e1028579d40fa358",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/55362d4a-cb46-4dc4-be2b-c1891dbdd4c4_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:05:45.806Z",
+    "updatedAt": "2018-01-05T07:05:51.982Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "从“贞观之治”到“开元盛世”",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f23c9e1028579d40fa406",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:06:05.045Z",
+      "updatedAt": "2018-01-09T06:13:38.060Z",
+      "parentId": "5a4f23c9e1028579d40fa406",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "唐朝的建立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0749ebac-684c-4d21-b2a2-0a6ac381ec13_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0749ebac-684c-4d21-b2a2-0a6ac381ec13_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0749ebac-684c-4d21-b2a2-0a6ac381ec13_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0749ebac-684c-4d21-b2a2-0a6ac381ec13_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0749ebac-684c-4d21-b2a2-0a6ac381ec13_mobile_mid.m3u8"
+        },
+        "id": "5a3c8c4ad5ff7512fd5943f8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f23dde1028579d40fa408",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:06:17.315Z",
+      "updatedAt": "2018-01-09T06:13:46.326Z",
+      "parentId": "5a4f23c9e1028579d40fa406",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "贞观之治",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d4d2d108-dc7b-47c3-9afd-d6a4c49a9946_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d4d2d108-dc7b-47c3-9afd-d6a4c49a9946_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d4d2d108-dc7b-47c3-9afd-d6a4c49a9946_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d4d2d108-dc7b-47c3-9afd-d6a4c49a9946_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d4d2d108-dc7b-47c3-9afd-d6a4c49a9946_mobile_mid.m3u8"
+        },
+        "id": "5a3c8c8451f0741131709233"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f23e9e1028579d40fa40a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:06:27.729Z",
+      "updatedAt": "2018-01-09T06:13:54.985Z",
+      "parentId": "5a4f23c9e1028579d40fa406",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "女皇武则天",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/faaf758e-978e-423d-8dc9-c9e66385b77d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/faaf758e-978e-423d-8dc9-c9e66385b77d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/faaf758e-978e-423d-8dc9-c9e66385b77d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/faaf758e-978e-423d-8dc9-c9e66385b77d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/faaf758e-978e-423d-8dc9-c9e66385b77d_mobile_mid.m3u8"
+        },
+        "id": "5a3c8cae51f074110d1b4bfa"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f23f3e1028579d40fa40c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:06:38.418Z",
+      "updatedAt": "2018-01-09T06:14:02.726Z",
+      "parentId": "5a4f23c9e1028579d40fa406",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "开元盛世",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4d06abd7-b482-4bc4-b464-76269431b751_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4d06abd7-b482-4bc4-b464-76269431b751_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4d06abd7-b482-4bc4-b464-76269431b751_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4d06abd7-b482-4bc4-b464-76269431b751_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4d06abd7-b482-4bc4-b464-76269431b751_mobile_mid.m3u8"
+        },
+        "id": "5a3c8cd4ef23a865ac2d0137"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f23fee1028579d40fa40e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:06:52.318Z",
+      "updatedAt": "2018-01-09T06:14:09.359Z",
+      "parentId": "5a4f23c9e1028579d40fa406",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3415d83c-8291-4e1d-8f87-9b4dd87ee805_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3415d83c-8291-4e1d-8f87-9b4dd87ee805_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3415d83c-8291-4e1d-8f87-9b4dd87ee805_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3415d83c-8291-4e1d-8f87-9b4dd87ee805_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3415d83c-8291-4e1d-8f87-9b4dd87ee805_mobile_mid.m3u8"
+        },
+        "id": "5a3c8cf651f0741126c85e01"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f240ce1028579d40fa410",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:13:30.932Z",
+    "updatedAt": "2018-01-05T07:13:35.367Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "盛唐气象",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f259a853b5279d9e90892",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:13:46.415Z",
+      "updatedAt": "2018-01-09T06:14:28.975Z",
+      "parentId": "5a4f259a853b5279d9e90892",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "经济的发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f4cc7408-f729-458c-a755-3bccdbbcbbd0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f4cc7408-f729-458c-a755-3bccdbbcbbd0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f4cc7408-f729-458c-a755-3bccdbbcbbd0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f4cc7408-f729-458c-a755-3bccdbbcbbd0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f4cc7408-f729-458c-a755-3bccdbbcbbd0_mobile_mid.m3u8"
+        },
+        "id": "5a3c8d18d5ff75130e9ad049"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f25aae1028579d40fa412",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:13:55.594Z",
+      "updatedAt": "2018-01-09T06:14:39.275Z",
+      "parentId": "5a4f259a853b5279d9e90892",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "开明的民族交往",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5ac9fd8c-43ce-46e7-8e2b-2096b20eeb38_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5ac9fd8c-43ce-46e7-8e2b-2096b20eeb38_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5ac9fd8c-43ce-46e7-8e2b-2096b20eeb38_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5ac9fd8c-43ce-46e7-8e2b-2096b20eeb38_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5ac9fd8c-43ce-46e7-8e2b-2096b20eeb38_mobile_mid.m3u8"
+        },
+        "id": "5a3c8d4051f07410bab95c85"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f25b3e1028579d40fa414",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:14:05.297Z",
+      "updatedAt": "2018-01-09T06:14:47.365Z",
+      "parentId": "5a4f259a853b5279d9e90892",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "开放的社会风气",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/09326d45-50ed-4d7f-b254-6b0f75f9f3e1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/09326d45-50ed-4d7f-b254-6b0f75f9f3e1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/09326d45-50ed-4d7f-b254-6b0f75f9f3e1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/09326d45-50ed-4d7f-b254-6b0f75f9f3e1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/09326d45-50ed-4d7f-b254-6b0f75f9f3e1_mobile_mid.m3u8"
+        },
+        "id": "5a3c8d7951f074113571f299"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f25bde1028579d40fa416",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:14:15.811Z",
+      "updatedAt": "2018-01-09T06:14:55.566Z",
+      "parentId": "5a4f259a853b5279d9e90892",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "多彩的文学艺术",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5f451a5d-21c7-4a75-a0c4-8de521b2ef0c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5f451a5d-21c7-4a75-a0c4-8de521b2ef0c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5f451a5d-21c7-4a75-a0c4-8de521b2ef0c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5f451a5d-21c7-4a75-a0c4-8de521b2ef0c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5f451a5d-21c7-4a75-a0c4-8de521b2ef0c_mobile_mid.m3u8"
+        },
+        "id": "5a3c8dabd5ff75132cfb90b3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f25c7e1028579d40fa418",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:14:28.469Z",
+      "updatedAt": "2018-01-09T06:15:37.933Z",
+      "parentId": "5a4f259a853b5279d9e90892",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "盛唐气象习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e930e8e1-792c-4526-a2c1-5805232f6fce_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e930e8e1-792c-4526-a2c1-5805232f6fce_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e930e8e1-792c-4526-a2c1-5805232f6fce_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e930e8e1-792c-4526-a2c1-5805232f6fce_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e930e8e1-792c-4526-a2c1-5805232f6fce_mobile_mid.m3u8"
+        },
+        "id": "5a3c8dc8ef23a865fa9b2a4b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f25d4e1028579d40fa41a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:35:26.182Z",
+    "updatedAt": "2018-01-05T07:35:30.232Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "唐朝的中外文化交流",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2abe853b5279d9e90894",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:41:30.331Z",
+      "updatedAt": "2018-01-09T06:17:35.239Z",
+      "parentId": "5a4f2abe853b5279d9e90894",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "遣唐使与鉴真东渡",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dd4a9a94-b8e4-42a8-ae26-3013ffda261c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dd4a9a94-b8e4-42a8-ae26-3013ffda261c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dd4a9a94-b8e4-42a8-ae26-3013ffda261c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dd4a9a94-b8e4-42a8-ae26-3013ffda261c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dd4a9a94-b8e4-42a8-ae26-3013ffda261c_mobile_mid.m3u8"
+        },
+        "id": "5a3c8dfc51f074110381cb24"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c2ae1028579d40fa46c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:41:39.954Z",
+      "updatedAt": "2018-01-09T06:17:42.968Z",
+      "parentId": "5a4f2abe853b5279d9e90894",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "玄奘西行",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b54c88e0-4b05-4beb-9923-98a8f765f712_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b54c88e0-4b05-4beb-9923-98a8f765f712_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b54c88e0-4b05-4beb-9923-98a8f765f712_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b54c88e0-4b05-4beb-9923-98a8f765f712_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b54c88e0-4b05-4beb-9923-98a8f765f712_mobile_mid.m3u8"
+        },
+        "id": "5a3c8e22d5ff75136391ffcb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c33e1028579d40fa46e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:41:49.571Z",
+      "updatedAt": "2018-01-09T06:17:51.475Z",
+      "parentId": "5a4f2abe853b5279d9e90894",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "唐代中外交往习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6e282c7c-d30e-4fe8-8623-f983dc19fc11_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6e282c7c-d30e-4fe8-8623-f983dc19fc11_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6e282c7c-d30e-4fe8-8623-f983dc19fc11_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6e282c7c-d30e-4fe8-8623-f983dc19fc11_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6e282c7c-d30e-4fe8-8623-f983dc19fc11_mobile_mid.m3u8"
+        },
+        "id": "5a3c8e40ef23a8659262506d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c3de1028579d40fa470",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:35:39.780Z",
+    "updatedAt": "2018-01-05T07:35:44.436Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "安史之乱与唐朝的衰亡",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2acb853b5279d9e90896",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:42:01.487Z",
+      "updatedAt": "2018-01-09T06:18:14.913Z",
+      "parentId": "5a4f2acb853b5279d9e90896",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "安史之乱",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/24604099-c366-4e8e-a9ab-1166d96eead8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/24604099-c366-4e8e-a9ab-1166d96eead8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/24604099-c366-4e8e-a9ab-1166d96eead8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/24604099-c366-4e8e-a9ab-1166d96eead8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/24604099-c366-4e8e-a9ab-1166d96eead8_mobile_mid.m3u8"
+        },
+        "id": "5a4adc6e51f07410ec8715e8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c49e1028579d40fa472",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:42:10.220Z",
+      "updatedAt": "2018-01-09T06:18:22.550Z",
+      "parentId": "5a4f2acb853b5279d9e90896",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "中晚唐政治 ",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/62e17880-2197-4e71-9d5b-b5abcae9baf8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/62e17880-2197-4e71-9d5b-b5abcae9baf8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/62e17880-2197-4e71-9d5b-b5abcae9baf8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/62e17880-2197-4e71-9d5b-b5abcae9baf8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/62e17880-2197-4e71-9d5b-b5abcae9baf8_mobile_mid.m3u8"
+        },
+        "id": "5a4adc8651f0741120ec327a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c52e1028579d40fa474",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:42:18.334Z",
+      "updatedAt": "2018-01-09T06:18:28.938Z",
+      "parentId": "5a4f2acb853b5279d9e90896",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "黄巢起义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8090ecaf-8c95-4236-8b22-02205af54dc9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8090ecaf-8c95-4236-8b22-02205af54dc9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8090ecaf-8c95-4236-8b22-02205af54dc9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8090ecaf-8c95-4236-8b22-02205af54dc9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8090ecaf-8c95-4236-8b22-02205af54dc9_mobile_mid.m3u8"
+        },
+        "id": "5a4adc9f51f074110d1b4bfe"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c5ae1028579d40fa476",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:42:26.187Z",
+      "updatedAt": "2018-01-09T06:18:35.924Z",
+      "parentId": "5a4f2acb853b5279d9e90896",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "唐朝的灭亡",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/367227e3-7443-406c-8079-a3e5233e4572_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/367227e3-7443-406c-8079-a3e5233e4572_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/367227e3-7443-406c-8079-a3e5233e4572_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/367227e3-7443-406c-8079-a3e5233e4572_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/367227e3-7443-406c-8079-a3e5233e4572_mobile_mid.m3u8"
+        },
+        "id": "5a4adcbb51f074113571f29c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c62e1028579d40fa478",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:42:34.636Z",
+      "updatedAt": "2018-01-09T06:18:42.164Z",
+      "parentId": "5a4f2acb853b5279d9e90896",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "五代十国的更迭",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/482c253c-8f45-4184-b8b5-4971c90d0507_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/482c253c-8f45-4184-b8b5-4971c90d0507_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/482c253c-8f45-4184-b8b5-4971c90d0507_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/482c253c-8f45-4184-b8b5-4971c90d0507_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/482c253c-8f45-4184-b8b5-4971c90d0507_mobile_mid.m3u8"
+        },
+        "id": "5a4adcdb51f07410da3d8aa5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c6ae1028579d40fa47a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:42:47.835Z",
+      "updatedAt": "2018-01-09T06:18:48.715Z",
+      "parentId": "5a4f2acb853b5279d9e90896",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "唐代衰亡习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d11f101d-8e5f-4845-bbbb-82daeb14864b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d11f101d-8e5f-4845-bbbb-82daeb14864b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d11f101d-8e5f-4845-bbbb-82daeb14864b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d11f101d-8e5f-4845-bbbb-82daeb14864b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d11f101d-8e5f-4845-bbbb-82daeb14864b_mobile_mid.m3u8"
+        },
+        "id": "5a4adcec51f07410da3d8aa6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2c77e1028579d40fa47c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:35:55.045Z",
+    "updatedAt": "2018-01-05T07:36:00.147Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "北宋的政治",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2adb853b5279d9e90898",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:45:01.401Z",
+      "updatedAt": "2018-01-10T03:15:44.224Z",
+      "parentId": "5a4f2adb853b5279d9e90898",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "北宋的建立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bb9165d7-074f-4f3a-8fbc-9e7461d56a99_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bb9165d7-074f-4f3a-8fbc-9e7461d56a99_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bb9165d7-074f-4f3a-8fbc-9e7461d56a99_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bb9165d7-074f-4f3a-8fbc-9e7461d56a99_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bb9165d7-074f-4f3a-8fbc-9e7461d56a99_mobile_mid.m3u8"
+        },
+        "id": "5a4addf551f07410a4d1e0de"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2cfd853b5279d9e9089a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:45:13.642Z",
+      "updatedAt": "2018-01-09T06:21:56.143Z",
+      "parentId": "5a4f2adb853b5279d9e90898",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "宋太祖强化中央集权",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/948a1247-c1a0-48da-86a3-9eb167ca7dde_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/948a1247-c1a0-48da-86a3-9eb167ca7dde_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/948a1247-c1a0-48da-86a3-9eb167ca7dde_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/948a1247-c1a0-48da-86a3-9eb167ca7dde_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/948a1247-c1a0-48da-86a3-9eb167ca7dde_mobile_mid.m3u8"
+        },
+        "id": "5a4ade11d5ff751320877656"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d09853b5279d9e9089c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:45:47.068Z",
+      "updatedAt": "2018-01-09T06:22:08.677Z",
+      "parentId": "5a4f2adb853b5279d9e90898",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "重文轻武",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2849a442-0054-445a-bc5a-1cdc2855dff8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2849a442-0054-445a-bc5a-1cdc2855dff8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2849a442-0054-445a-bc5a-1cdc2855dff8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2849a442-0054-445a-bc5a-1cdc2855dff8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2849a442-0054-445a-bc5a-1cdc2855dff8_mobile_mid.m3u8"
+        },
+        "id": "5a4ade3bef23a865381898d1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d2b853b5279d9e9089e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:45:58.347Z",
+      "updatedAt": "2018-01-09T06:22:25.239Z",
+      "parentId": "5a4f2adb853b5279d9e90898",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "北宋政治习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/052003cc-fba7-42c2-93aa-3345c61cbd63_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/052003cc-fba7-42c2-93aa-3345c61cbd63_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/052003cc-fba7-42c2-93aa-3345c61cbd63_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/052003cc-fba7-42c2-93aa-3345c61cbd63_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/052003cc-fba7-42c2-93aa-3345c61cbd63_mobile_mid.m3u8"
+        },
+        "id": "5a4ade52ef23a865e8076804"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d36853b5279d9e908a0",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:36:10.219Z",
+    "updatedAt": "2018-01-05T07:36:14.366Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "辽、西夏与北宋的并立",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2aeae1028579d40fa44e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:46:18.230Z",
+      "updatedAt": "2018-01-09T06:23:24.584Z",
+      "parentId": "5a4f2aeae1028579d40fa44e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "契丹族与党项族",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eb0311c8-1306-4e7d-bf1b-4f41ac87cec0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eb0311c8-1306-4e7d-bf1b-4f41ac87cec0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eb0311c8-1306-4e7d-bf1b-4f41ac87cec0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eb0311c8-1306-4e7d-bf1b-4f41ac87cec0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eb0311c8-1306-4e7d-bf1b-4f41ac87cec0_mobile_mid.m3u8"
+        },
+        "id": "5a4ade76ef23a865d38ed846"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d4a853b5279d9e908a2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:46:32.007Z",
+      "updatedAt": "2018-01-09T06:23:35.057Z",
+      "parentId": "5a4f2aeae1028579d40fa44e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "辽、西夏与北宋的和战",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3adb5065-4edd-493b-8b71-93d96e2df343_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3adb5065-4edd-493b-8b71-93d96e2df343_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3adb5065-4edd-493b-8b71-93d96e2df343_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3adb5065-4edd-493b-8b71-93d96e2df343_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3adb5065-4edd-493b-8b71-93d96e2df343_mobile_mid.m3u8"
+        },
+        "id": "5a4adea551f07410d06be0d9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d58853b5279d9e908a4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:46:44.910Z",
+      "updatedAt": "2018-01-10T03:16:13.725Z",
+      "parentId": "5a4f2aeae1028579d40fa44e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "民族政权并立习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/63a99824-e2ec-40f8-aa05-b57ed91d3eb3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/63a99824-e2ec-40f8-aa05-b57ed91d3eb3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/63a99824-e2ec-40f8-aa05-b57ed91d3eb3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/63a99824-e2ec-40f8-aa05-b57ed91d3eb3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/63a99824-e2ec-40f8-aa05-b57ed91d3eb3_mobile_mid.m3u8"
+        },
+        "id": "5a4adec1d5ff75134f18563a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d64853b5279d9e908a6",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:36:25.917Z",
+    "updatedAt": "2018-01-05T07:36:30.833Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "金与南宋的对峙",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2af9e1028579d40fa450",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:47:04.467Z",
+      "updatedAt": "2018-01-10T03:16:33.148Z",
+      "parentId": "5a4f2af9e1028579d40fa450",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "女真族的崛起",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e3f6e8d0-dfb1-4bb4-b6a6-0c2c68aa21db_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e3f6e8d0-dfb1-4bb4-b6a6-0c2c68aa21db_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e3f6e8d0-dfb1-4bb4-b6a6-0c2c68aa21db_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e3f6e8d0-dfb1-4bb4-b6a6-0c2c68aa21db_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e3f6e8d0-dfb1-4bb4-b6a6-0c2c68aa21db_mobile_mid.m3u8"
+        },
+        "id": "5a4aded9d5ff7512f88013c5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d78853b5279d9e908a8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:47:16.035Z",
+      "updatedAt": "2018-01-09T06:25:50.695Z",
+      "parentId": "5a4f2af9e1028579d40fa450",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "金灭辽及北宋",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b950e9af-2666-43be-9a13-8918994095d0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b950e9af-2666-43be-9a13-8918994095d0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b950e9af-2666-43be-9a13-8918994095d0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b950e9af-2666-43be-9a13-8918994095d0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b950e9af-2666-43be-9a13-8918994095d0_mobile_mid.m3u8"
+        },
+        "id": "5a4adefcef23a865b39dbca7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d84853b5279d9e908aa",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:47:28.179Z",
+      "updatedAt": "2018-01-09T06:26:34.939Z",
+      "parentId": "5a4f2af9e1028579d40fa450",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "南宋的偏安",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/986f0b90-0e68-48a7-9d4e-aef219cef671_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/986f0b90-0e68-48a7-9d4e-aef219cef671_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/986f0b90-0e68-48a7-9d4e-aef219cef671_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/986f0b90-0e68-48a7-9d4e-aef219cef671_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/986f0b90-0e68-48a7-9d4e-aef219cef671_mobile_mid.m3u8"
+        },
+        "id": "5a4adf30ef23a86570854a62"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d90853b5279d9e908ac",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:47:38.019Z",
+      "updatedAt": "2018-01-09T06:26:42.044Z",
+      "parentId": "5a4f2af9e1028579d40fa450",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "金宋对峙习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0e155831-ba4a-430a-a3d8-1df55e6bdd6f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0e155831-ba4a-430a-a3d8-1df55e6bdd6f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0e155831-ba4a-430a-a3d8-1df55e6bdd6f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0e155831-ba4a-430a-a3d8-1df55e6bdd6f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0e155831-ba4a-430a-a3d8-1df55e6bdd6f_mobile_mid.m3u8"
+        },
+        "id": "5a4adf4051f074109e100add"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2d9a853b5279d9e908ae",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:36:41.428Z",
+    "updatedAt": "2018-01-05T07:36:46.690Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "宋代经济的发展",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2b09e1028579d40fa452",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:48:03.463Z",
+      "updatedAt": "2018-01-09T06:27:36.782Z",
+      "parentId": "5a4f2b09e1028579d40fa452",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "农业和手工业的发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f402c352-01d1-4e49-907e-9404b10fcb16_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f402c352-01d1-4e49-907e-9404b10fcb16_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f402c352-01d1-4e49-907e-9404b10fcb16_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f402c352-01d1-4e49-907e-9404b10fcb16_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f402c352-01d1-4e49-907e-9404b10fcb16_mobile_mid.m3u8"
+        },
+        "id": "5a4adf5ed5ff75134f18563b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2db3853b5279d9e908b0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:48:13.789Z",
+      "updatedAt": "2018-01-09T06:27:45.229Z",
+      "parentId": "5a4f2b09e1028579d40fa452",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "商业贸易的繁荣",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bd29f615-11c7-4a49-b6d0-495461a6fba5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bd29f615-11c7-4a49-b6d0-495461a6fba5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bd29f615-11c7-4a49-b6d0-495461a6fba5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bd29f615-11c7-4a49-b6d0-495461a6fba5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bd29f615-11c7-4a49-b6d0-495461a6fba5_mobile_mid.m3u8"
+        },
+        "id": "5a4adf7eef23a86531cafd4f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2dbd853b5279d9e908b2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T07:48:23.309Z",
+      "updatedAt": "2018-01-09T06:27:50.683Z",
+      "parentId": "5a4f2b09e1028579d40fa452",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "宋代经济发展习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a347a425-2eda-471d-ae07-82e53f049fac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a347a425-2eda-471d-ae07-82e53f049fac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a347a425-2eda-471d-ae07-82e53f049fac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a347a425-2eda-471d-ae07-82e53f049fac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a347a425-2eda-471d-ae07-82e53f049fac_mobile_mid.m3u8"
+        },
+        "id": "5a4adf90d5ff75136391ffce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f2dc7853b5279d9e908b4",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:36:58.751Z",
+    "updatedAt": "2018-01-05T07:37:53.592Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "蒙古族的兴起与元朝的建立",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2b1ae1028579d40fa454",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:09:56.275Z",
+      "updatedAt": "2018-01-09T06:28:03.527Z",
+      "parentId": "5a4f2b1ae1028579d40fa454",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "成吉思汗统一蒙古",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4cddd2e7-f2ef-4ea1-bfea-91923d960a57_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4cddd2e7-f2ef-4ea1-bfea-91923d960a57_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4cddd2e7-f2ef-4ea1-bfea-91923d960a57_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4cddd2e7-f2ef-4ea1-bfea-91923d960a57_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4cddd2e7-f2ef-4ea1-bfea-91923d960a57_mobile_mid.m3u8"
+        },
+        "id": "5a4ae191ef23a86570854a63"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f32d4e1028579d40fa47e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:10:06.140Z",
+      "updatedAt": "2018-01-10T03:16:52.563Z",
+      "parentId": "5a4f2b1ae1028579d40fa454",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "元朝的建立与统一",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5520ebc4-bb72-41b5-a3e6-44b2d7962a3e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5520ebc4-bb72-41b5-a3e6-44b2d7962a3e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5520ebc4-bb72-41b5-a3e6-44b2d7962a3e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5520ebc4-bb72-41b5-a3e6-44b2d7962a3e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5520ebc4-bb72-41b5-a3e6-44b2d7962a3e_mobile_mid.m3u8"
+        },
+        "id": "5a556891ef23a87165d555ea"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f32dee1028579d40fa480",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:10:16.354Z",
+      "updatedAt": "2018-01-09T06:28:14.229Z",
+      "parentId": "5a4f2b1ae1028579d40fa454",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "元朝建立习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d99b1609-4c11-44b7-ba11-c421b3414d5f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d99b1609-4c11-44b7-ba11-c421b3414d5f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d99b1609-4c11-44b7-ba11-c421b3414d5f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d99b1609-4c11-44b7-ba11-c421b3414d5f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d99b1609-4c11-44b7-ba11-c421b3414d5f_mobile_mid.m3u8"
+        },
+        "id": "5a4ae1c0ef23a865e7d94865"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f32e8e1028579d40fa482",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:37:11.673Z",
+    "updatedAt": "2018-01-05T07:37:56.768Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "元朝的统治",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2b27e1028579d40fa456",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:10:29.441Z",
+      "updatedAt": "2018-01-09T06:28:31.860Z",
+      "parentId": "5a4f2b27e1028579d40fa456",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "元的中央集权",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/389abb96-cca9-43b5-9b4d-28373e52a613_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/389abb96-cca9-43b5-9b4d-28373e52a613_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/389abb96-cca9-43b5-9b4d-28373e52a613_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/389abb96-cca9-43b5-9b4d-28373e52a613_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/389abb96-cca9-43b5-9b4d-28373e52a613_mobile_mid.m3u8"
+        },
+        "id": "5a4ae1dcd5ff7512fd5943fa"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f32f5e1028579d40fa484",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:11:14.322Z",
+      "updatedAt": "2018-01-09T06:28:37.363Z",
+      "parentId": "5a4f2b27e1028579d40fa456",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "元代统治的异质性",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04810925-0c78-41e6-84d6-db58029f7cd8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04810925-0c78-41e6-84d6-db58029f7cd8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04810925-0c78-41e6-84d6-db58029f7cd8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04810925-0c78-41e6-84d6-db58029f7cd8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04810925-0c78-41e6-84d6-db58029f7cd8_mobile_mid.m3u8"
+        },
+        "id": "5a4ae20e51f074109b50d28e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3322e1028579d40fa486",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:11:24.708Z",
+      "updatedAt": "2018-01-09T06:28:43.827Z",
+      "parentId": "5a4f2b27e1028579d40fa456",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "元代统治习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4644220f-688b-444b-aa32-72523d59b6bd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4644220f-688b-444b-aa32-72523d59b6bd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4644220f-688b-444b-aa32-72523d59b6bd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4644220f-688b-444b-aa32-72523d59b6bd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4644220f-688b-444b-aa32-72523d59b6bd_mobile_mid.m3u8"
+        },
+        "id": "5a4ae22051f074109b50d28f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f332ce1028579d40fa488",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:38:09.767Z",
+    "updatedAt": "2018-01-05T07:38:13.497Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "宋元时期的都市和文化",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2b61e1028579d40fa458",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:11:35.383Z",
+      "updatedAt": "2018-01-09T06:28:57.321Z",
+      "parentId": "5a4f2b61e1028579d40fa458",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "宋代的市民社会",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c9ec58fb-cc50-4ad3-81b2-061734662e57_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c9ec58fb-cc50-4ad3-81b2-061734662e57_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c9ec58fb-cc50-4ad3-81b2-061734662e57_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c9ec58fb-cc50-4ad3-81b2-061734662e57_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c9ec58fb-cc50-4ad3-81b2-061734662e57_mobile_mid.m3u8"
+        },
+        "id": "5a4ae24651f07410ec8715e9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3337e1028579d40fa48a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:11:46.924Z",
+      "updatedAt": "2018-01-09T06:29:02.289Z",
+      "parentId": "5a4f2b61e1028579d40fa458",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "宋词与元曲",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fdf04731-279d-4282-ae89-e7bd87dd3408_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fdf04731-279d-4282-ae89-e7bd87dd3408_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fdf04731-279d-4282-ae89-e7bd87dd3408_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fdf04731-279d-4282-ae89-e7bd87dd3408_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fdf04731-279d-4282-ae89-e7bd87dd3408_mobile_mid.m3u8"
+        },
+        "id": "5a4ae26a51f07410ec8715ea"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3342e1028579d40fa48c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:11:58.106Z",
+      "updatedAt": "2018-01-10T03:17:29.144Z",
+      "parentId": "5a4f2b61e1028579d40fa458",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "宋元文化习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/da735d6e-7d18-48bd-8558-0cb1f8e065c5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/da735d6e-7d18-48bd-8558-0cb1f8e065c5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/da735d6e-7d18-48bd-8558-0cb1f8e065c5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/da735d6e-7d18-48bd-8558-0cb1f8e065c5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/da735d6e-7d18-48bd-8558-0cb1f8e065c5_mobile_mid.m3u8"
+        },
+        "id": "5a4ae282ef23a86590dca410"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f334ee1028579d40fa48e",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:38:26.557Z",
+    "updatedAt": "2018-01-05T07:38:36.087Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "宋元时期的科技与中外交通",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2b72e1028579d40fa45a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:12:12.857Z",
+      "updatedAt": "2018-01-09T06:31:15.249Z",
+      "parentId": "5a4f2b72e1028579d40fa45a",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "活字印刷术",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c8dc1919-8972-4543-a0da-1831f64910ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c8dc1919-8972-4543-a0da-1831f64910ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c8dc1919-8972-4543-a0da-1831f64910ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c8dc1919-8972-4543-a0da-1831f64910ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c8dc1919-8972-4543-a0da-1831f64910ad_mobile_mid.m3u8"
+        },
+        "id": "5a4ae29eef23a865e7d94866"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f335ce1028579d40fa490",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:12:30.773Z",
+      "updatedAt": "2018-01-09T06:31:21.100Z",
+      "parentId": "5a4f2b72e1028579d40fa45a",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "指南针与火药的应用",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/89fc4367-2723-4f11-9024-ce3b72db3fab_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/89fc4367-2723-4f11-9024-ce3b72db3fab_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/89fc4367-2723-4f11-9024-ce3b72db3fab_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/89fc4367-2723-4f11-9024-ce3b72db3fab_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/89fc4367-2723-4f11-9024-ce3b72db3fab_mobile_mid.m3u8"
+        },
+        "id": "5a4ae2bcef23a865d38ed848"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f336ee1028579d40fa492",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:12:41.628Z",
+      "updatedAt": "2018-01-10T03:17:45.395Z",
+      "parentId": "5a4f2b72e1028579d40fa45a",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "指南针与火药的应用",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0953c8c-d158-41e6-9922-bfc42216a12b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0953c8c-d158-41e6-9922-bfc42216a12b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0953c8c-d158-41e6-9922-bfc42216a12b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0953c8c-d158-41e6-9922-bfc42216a12b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0953c8c-d158-41e6-9922-bfc42216a12b_mobile_mid.m3u8"
+        },
+        "id": "5a4ae2d5d5ff75132cfb90b4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3379e1028579d40fa494",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:12:52.977Z",
+      "updatedAt": "2018-01-09T06:31:29.132Z",
+      "parentId": "5a4f2b72e1028579d40fa45a",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "宋元科技与对外贸易习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6db8ea9b-557d-40e4-97d2-19bb22b60108_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6db8ea9b-557d-40e4-97d2-19bb22b60108_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6db8ea9b-557d-40e4-97d2-19bb22b60108_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6db8ea9b-557d-40e4-97d2-19bb22b60108_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6db8ea9b-557d-40e4-97d2-19bb22b60108_mobile_mid.m3u8"
+        },
+        "id": "5a4ae2f1ef23a865c3f81185"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3384853b5279d9e908b6",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:38:47.040Z",
+    "updatedAt": "2018-01-05T07:38:57.317Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "明朝的统治",
+    "order": 14,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2b87e1028579d40fa45c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:13:55.014Z",
+      "updatedAt": "2018-01-10T03:18:02.177Z",
+      "parentId": "5a4f2b87e1028579d40fa45c",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明朝的建立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/55baf017-daae-4f1b-a415-4a7cd30f7888_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/55baf017-daae-4f1b-a415-4a7cd30f7888_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/55baf017-daae-4f1b-a415-4a7cd30f7888_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/55baf017-daae-4f1b-a415-4a7cd30f7888_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/55baf017-daae-4f1b-a415-4a7cd30f7888_mobile_mid.m3u8"
+        },
+        "id": "5a4ae33051f07410d06be0da"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f33c3853b5279d9e908b8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:14:04.518Z",
+      "updatedAt": "2018-01-09T06:31:51.896Z",
+      "parentId": "5a4f2b87e1028579d40fa45c",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "朱元璋强化皇权",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fe7c592c-400b-467b-a3c6-6e1907a60718_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fe7c592c-400b-467b-a3c6-6e1907a60718_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fe7c592c-400b-467b-a3c6-6e1907a60718_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fe7c592c-400b-467b-a3c6-6e1907a60718_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fe7c592c-400b-467b-a3c6-6e1907a60718_mobile_mid.m3u8"
+        },
+        "id": "5a4ae35ad5ff751347e4e3fc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f33cc853b5279d9e908ba",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:14:43.392Z",
+      "updatedAt": "2018-01-09T06:32:04.639Z",
+      "parentId": "5a4f2b87e1028579d40fa45c",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "八股取士",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cb5568c5-4722-4bbd-bf2f-7388fdf344b3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cb5568c5-4722-4bbd-bf2f-7388fdf344b3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cb5568c5-4722-4bbd-bf2f-7388fdf344b3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cb5568c5-4722-4bbd-bf2f-7388fdf344b3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cb5568c5-4722-4bbd-bf2f-7388fdf344b3_mobile_mid.m3u8"
+        },
+        "id": "5a4ae39c51f0741120ec327b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f33f3e1028579d40fa496",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:14:53.540Z",
+      "updatedAt": "2018-01-09T06:32:00.045Z",
+      "parentId": "5a4f2b87e1028579d40fa45c",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明代商品经济的发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/88d4ca49-9bec-43c1-8c53-2cf3e0e663e5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/88d4ca49-9bec-43c1-8c53-2cf3e0e663e5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/88d4ca49-9bec-43c1-8c53-2cf3e0e663e5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/88d4ca49-9bec-43c1-8c53-2cf3e0e663e5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/88d4ca49-9bec-43c1-8c53-2cf3e0e663e5_mobile_mid.m3u8"
+        },
+        "id": "5a4ae3bfef23a865f77398d2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f33fde1028579d40fa498",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:15:03.312Z",
+      "updatedAt": "2018-01-09T06:32:17.578Z",
+      "parentId": "5a4f2b87e1028579d40fa45c",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明朝统治习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d7e62ca5-e6bc-48ef-a73d-89e7d20dfa22_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d7e62ca5-e6bc-48ef-a73d-89e7d20dfa22_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d7e62ca5-e6bc-48ef-a73d-89e7d20dfa22_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d7e62ca5-e6bc-48ef-a73d-89e7d20dfa22_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d7e62ca5-e6bc-48ef-a73d-89e7d20dfa22_mobile_mid.m3u8"
+        },
+        "id": "5a4ae3e351f07410da3d8aa8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3407e1028579d40fa49a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:39:09.225Z",
+    "updatedAt": "2018-01-05T07:39:14.242Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "明朝的对外关系",
+    "order": 15,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2b9de1028579d40fa45e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:15:14.798Z",
+      "updatedAt": "2018-01-09T06:32:35.431Z",
+      "parentId": "5a4f2b9de1028579d40fa45e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "郑和下西洋",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4a1ebdfa-efb9-4ac7-a46d-b54ede63a9b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4a1ebdfa-efb9-4ac7-a46d-b54ede63a9b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4a1ebdfa-efb9-4ac7-a46d-b54ede63a9b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4a1ebdfa-efb9-4ac7-a46d-b54ede63a9b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4a1ebdfa-efb9-4ac7-a46d-b54ede63a9b1_mobile_mid.m3u8"
+        },
+        "id": "5a4ae43d51f0741131709236"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3412e1028579d40fa49c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:15:24.942Z",
+      "updatedAt": "2018-01-09T06:32:40.766Z",
+      "parentId": "5a4f2b9de1028579d40fa45e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "戚继光抗倭",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9cbd25aa-dcb9-4f80-a734-41b77f9fdfd2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9cbd25aa-dcb9-4f80-a734-41b77f9fdfd2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9cbd25aa-dcb9-4f80-a734-41b77f9fdfd2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9cbd25aa-dcb9-4f80-a734-41b77f9fdfd2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9cbd25aa-dcb9-4f80-a734-41b77f9fdfd2_mobile_mid.m3u8"
+        },
+        "id": "5a4ae466ef23a865cda0eebd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f341ce1028579d40fa49e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:15:35.865Z",
+      "updatedAt": "2018-01-09T06:32:45.157Z",
+      "parentId": "5a4f2b9de1028579d40fa45e",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明代对外关系习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d5b7c8f4-7122-4962-b2cc-bdd19b5d7436_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d5b7c8f4-7122-4962-b2cc-bdd19b5d7436_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d5b7c8f4-7122-4962-b2cc-bdd19b5d7436_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d5b7c8f4-7122-4962-b2cc-bdd19b5d7436_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d5b7c8f4-7122-4962-b2cc-bdd19b5d7436_mobile_mid.m3u8"
+        },
+        "id": "5a4ae49751f074112c043110"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3427e1028579d40fa4a0",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:39:26.163Z",
+    "updatedAt": "2018-01-05T07:39:31.980Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "明朝的科技建筑与文化",
+    "order": 16,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2baee1028579d40fa460",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:15:50.545Z",
+      "updatedAt": "2018-01-09T06:33:21.586Z",
+      "parentId": "5a4f2baee1028579d40fa460",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明代科技与建筑",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/70f92057-8058-47dc-9941-47b1250c5951_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/70f92057-8058-47dc-9941-47b1250c5951_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/70f92057-8058-47dc-9941-47b1250c5951_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/70f92057-8058-47dc-9941-47b1250c5951_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/70f92057-8058-47dc-9941-47b1250c5951_mobile_mid.m3u8"
+        },
+        "id": "5a4ae4beef23a8659827d93b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3436e1028579d40fa4a2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:15:59.720Z",
+      "updatedAt": "2018-01-09T06:33:26.751Z",
+      "parentId": "5a4f2baee1028579d40fa460",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明代小说和戏剧",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3267dec3-ae76-45ed-aa3f-20588826e426_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3267dec3-ae76-45ed-aa3f-20588826e426_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3267dec3-ae76-45ed-aa3f-20588826e426_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3267dec3-ae76-45ed-aa3f-20588826e426_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3267dec3-ae76-45ed-aa3f-20588826e426_mobile_mid.m3u8"
+        },
+        "id": "5a4ae4e7ef23a865c0fc9bb4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f343fe1028579d40fa4a4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:16:11.384Z",
+      "updatedAt": "2018-01-10T03:18:26.486Z",
+      "parentId": "5a4f2baee1028579d40fa460",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明朝科技文化习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5be9fa8b-ca47-4cbd-80ed-abcbb55680a4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5be9fa8b-ca47-4cbd-80ed-abcbb55680a4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5be9fa8b-ca47-4cbd-80ed-abcbb55680a4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5be9fa8b-ca47-4cbd-80ed-abcbb55680a4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5be9fa8b-ca47-4cbd-80ed-abcbb55680a4_mobile_mid.m3u8"
+        },
+        "id": "5a4ae4fb51f07410a36ec551"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f344be1028579d40fa4a6",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:39:44.295Z",
+    "updatedAt": "2018-01-05T07:39:59.720Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "明朝的灭亡",
+    "order": 17,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2bc0e1028579d40fa462",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:16:31.001Z",
+      "updatedAt": "2018-01-09T06:33:47.307Z",
+      "parentId": "5a4f2bc0e1028579d40fa462",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明末的政治形势",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ac3edc5e-7746-4b54-b7ba-0f1554a88bf9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ac3edc5e-7746-4b54-b7ba-0f1554a88bf9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ac3edc5e-7746-4b54-b7ba-0f1554a88bf9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ac3edc5e-7746-4b54-b7ba-0f1554a88bf9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ac3edc5e-7746-4b54-b7ba-0f1554a88bf9_mobile_mid.m3u8"
+        },
+        "id": "5a4ae56751f07410f6977771"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f345fe1028579d40fa4a8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:16:40.867Z",
+      "updatedAt": "2018-01-10T03:18:40.968Z",
+      "parentId": "5a4f2bc0e1028579d40fa462",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "李自成起义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/367b0655-2f47-4978-864c-19e5a04ad7bb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/367b0655-2f47-4978-864c-19e5a04ad7bb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/367b0655-2f47-4978-864c-19e5a04ad7bb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/367b0655-2f47-4978-864c-19e5a04ad7bb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/367b0655-2f47-4978-864c-19e5a04ad7bb_mobile_mid.m3u8"
+        },
+        "id": "5a4ae58bd5ff75130e9ad04a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3468e1028579d40fa4aa",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:16:53.072Z",
+      "updatedAt": "2018-01-09T06:33:52.989Z",
+      "parentId": "5a4f2bc0e1028579d40fa462",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "满洲的兴起",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f0f2e8f1-2bb7-4c96-8fb1-be7cc8a10234_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f0f2e8f1-2bb7-4c96-8fb1-be7cc8a10234_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f0f2e8f1-2bb7-4c96-8fb1-be7cc8a10234_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f0f2e8f1-2bb7-4c96-8fb1-be7cc8a10234_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f0f2e8f1-2bb7-4c96-8fb1-be7cc8a10234_mobile_mid.m3u8"
+        },
+        "id": "5a4ae6a051f07410beb3b43e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3475e1028579d40fa4ac",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:17:04.070Z",
+      "updatedAt": "2018-01-09T06:33:59.284Z",
+      "parentId": "5a4f2bc0e1028579d40fa462",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "清兵入关",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b06ff40b-0aa2-4451-8cb9-e5d26f3fea59_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b06ff40b-0aa2-4451-8cb9-e5d26f3fea59_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b06ff40b-0aa2-4451-8cb9-e5d26f3fea59_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b06ff40b-0aa2-4451-8cb9-e5d26f3fea59_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b06ff40b-0aa2-4451-8cb9-e5d26f3fea59_mobile_mid.m3u8"
+        },
+        "id": "5a4b449051f0740c98d3ae76"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3480e1028579d40fa4ae",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:17:14.031Z",
+      "updatedAt": "2018-01-09T06:34:05.581Z",
+      "parentId": "5a4f2bc0e1028579d40fa462",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "明亡清兴习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7185c4c4-0b4e-4e41-929a-ed9c690c69c7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7185c4c4-0b4e-4e41-929a-ed9c690c69c7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7185c4c4-0b4e-4e41-929a-ed9c690c69c7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7185c4c4-0b4e-4e41-929a-ed9c690c69c7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7185c4c4-0b4e-4e41-929a-ed9c690c69c7_mobile_mid.m3u8"
+        },
+        "id": "5a4b44a851f0740ca3006a03"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f348ae1028579d40fa4b0",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:40:10.704Z",
+    "updatedAt": "2018-01-05T07:40:16.240Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "统一多民族国家的巩固和发展",
+    "order": 18,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2bdae1028579d40fa464",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:18:35.664Z",
+      "updatedAt": "2018-01-09T06:34:21.658Z",
+      "parentId": "5a4f2bdae1028579d40fa464",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "清朝全国统治的建立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0a686d3-cfc8-4a3c-acc8-37f78fac5ede_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0a686d3-cfc8-4a3c-acc8-37f78fac5ede_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0a686d3-cfc8-4a3c-acc8-37f78fac5ede_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0a686d3-cfc8-4a3c-acc8-37f78fac5ede_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0a686d3-cfc8-4a3c-acc8-37f78fac5ede_mobile_mid.m3u8"
+        },
+        "id": "5a4b44d951f0740cbaba06ec"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f34dbe1028579d40fa4b2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:18:46.461Z",
+      "updatedAt": "2018-01-09T06:34:26.182Z",
+      "parentId": "5a4f2bdae1028579d40fa464",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "郑成功收复台湾",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ef41afc1-b0fe-4f58-9de9-80012b96d303_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ef41afc1-b0fe-4f58-9de9-80012b96d303_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ef41afc1-b0fe-4f58-9de9-80012b96d303_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ef41afc1-b0fe-4f58-9de9-80012b96d303_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ef41afc1-b0fe-4f58-9de9-80012b96d303_mobile_mid.m3u8"
+        },
+        "id": "5a4b451451f0740c7f6f8806"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f34e6e1028579d40fa4b4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:18:55.221Z",
+      "updatedAt": "2018-01-09T06:34:33.705Z",
+      "parentId": "5a4f2bdae1028579d40fa464",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "清廷对西藏的有效管辖",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b69ba5dc-bb55-4593-90cb-0506c3455a6c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b69ba5dc-bb55-4593-90cb-0506c3455a6c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b69ba5dc-bb55-4593-90cb-0506c3455a6c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b69ba5dc-bb55-4593-90cb-0506c3455a6c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b69ba5dc-bb55-4593-90cb-0506c3455a6c_mobile_mid.m3u8"
+        },
+        "id": "5a4b454951f0740c98d3ae77"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f34efe1028579d40fa4b6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:19:09.714Z",
+      "updatedAt": "2018-01-10T03:19:01.472Z",
+      "parentId": "5a4f2bdae1028579d40fa464",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "清廷对西北边疆的巩固",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d6813eba-78fc-43fc-935c-d9bb9058d00f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d6813eba-78fc-43fc-935c-d9bb9058d00f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d6813eba-78fc-43fc-935c-d9bb9058d00f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d6813eba-78fc-43fc-935c-d9bb9058d00f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d6813eba-78fc-43fc-935c-d9bb9058d00f_mobile_mid.m3u8"
+        },
+        "id": "5a4b457951f0740c53103e4a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f34fde1028579d40fa4b8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:19:20.679Z",
+      "updatedAt": "2018-01-09T06:34:49.314Z",
+      "parentId": "5a4f2bdae1028579d40fa464",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "统一多民族国家的巩固和发展习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/af26ebe1-7d04-419f-b1d9-03736a5a11ac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/af26ebe1-7d04-419f-b1d9-03736a5a11ac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/af26ebe1-7d04-419f-b1d9-03736a5a11ac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/af26ebe1-7d04-419f-b1d9-03736a5a11ac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/af26ebe1-7d04-419f-b1d9-03736a5a11ac_mobile_mid.m3u8"
+        },
+        "id": "5a4b4595ef23a83104381dc4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3508e1028579d40fa4ba",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:40:26.300Z",
+    "updatedAt": "2018-01-05T07:40:31.606Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "清朝前期社会经济的发展",
+    "order": 19,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2beae1028579d40fa466",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:19:31.666Z",
+      "updatedAt": "2018-01-09T06:35:02.558Z",
+      "parentId": "5a4f2beae1028579d40fa466",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "农业生产的恢复和发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a652c2ac-f37b-4e18-b7b6-c01e9ec046f2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a652c2ac-f37b-4e18-b7b6-c01e9ec046f2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a652c2ac-f37b-4e18-b7b6-c01e9ec046f2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a652c2ac-f37b-4e18-b7b6-c01e9ec046f2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a652c2ac-f37b-4e18-b7b6-c01e9ec046f2_mobile_mid.m3u8"
+        },
+        "id": "5a4b45baef23a830a66f34c0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3513e1028579d40fa4bc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:19:42.415Z",
+      "updatedAt": "2018-01-09T06:35:06.874Z",
+      "parentId": "5a4f2beae1028579d40fa466",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "手工业和商业的发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16e4dff6-5dbd-4dac-b791-e3d4fedd45fa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16e4dff6-5dbd-4dac-b791-e3d4fedd45fa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16e4dff6-5dbd-4dac-b791-e3d4fedd45fa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16e4dff6-5dbd-4dac-b791-e3d4fedd45fa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16e4dff6-5dbd-4dac-b791-e3d4fedd45fa_mobile_mid.m3u8"
+        },
+        "id": "5a4b45e451f0740c7f6f8807"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f351ee1028579d40fa4be",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:19:53.190Z",
+      "updatedAt": "2018-01-09T06:35:12.381Z",
+      "parentId": "5a4f2beae1028579d40fa466",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "清前期社会经济发展习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d793d44d-6b14-4b98-b47d-8e291d5bb52d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d793d44d-6b14-4b98-b47d-8e291d5bb52d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d793d44d-6b14-4b98-b47d-8e291d5bb52d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d793d44d-6b14-4b98-b47d-8e291d5bb52d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d793d44d-6b14-4b98-b47d-8e291d5bb52d_mobile_mid.m3u8"
+        },
+        "id": "5a4b45f851f0740c497a84a8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3529e1028579d40fa4c0",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:40:42.238Z",
+    "updatedAt": "2018-01-05T07:40:47.067Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "清朝君主专制的强化",
+    "order": 20,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2bfae1028579d40fa468",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:20:04.675Z",
+      "updatedAt": "2018-01-09T06:38:03.881Z",
+      "parentId": "5a4f2bfae1028579d40fa468",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "军机处的设立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/98089d41-d969-41f0-8bfd-2342195f4698_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/98089d41-d969-41f0-8bfd-2342195f4698_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/98089d41-d969-41f0-8bfd-2342195f4698_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/98089d41-d969-41f0-8bfd-2342195f4698_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/98089d41-d969-41f0-8bfd-2342195f4698_mobile_mid.m3u8"
+        },
+        "id": "5a4b4615d5ff750d78bbe6b0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3534e1028579d40fa4c2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:20:15.555Z",
+      "updatedAt": "2018-01-09T06:38:09.211Z",
+      "parentId": "5a4f2bfae1028579d40fa468",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "文字狱与文化专制政策",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d1b02819-0ec2-4989-8550-28240534d304_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d1b02819-0ec2-4989-8550-28240534d304_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d1b02819-0ec2-4989-8550-28240534d304_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d1b02819-0ec2-4989-8550-28240534d304_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d1b02819-0ec2-4989-8550-28240534d304_mobile_mid.m3u8"
+        },
+        "id": "5a4b464651f0740c56bd7a96"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f353fe1028579d40fa4c4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:20:28.454Z",
+      "updatedAt": "2018-01-09T06:38:14.168Z",
+      "parentId": "5a4f2bfae1028579d40fa468",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "不断加剧的社会矛盾",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a4053b24-8969-4941-8fbd-6f6a59a73d81_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a4053b24-8969-4941-8fbd-6f6a59a73d81_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a4053b24-8969-4941-8fbd-6f6a59a73d81_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a4053b24-8969-4941-8fbd-6f6a59a73d81_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a4053b24-8969-4941-8fbd-6f6a59a73d81_mobile_mid.m3u8"
+        },
+        "id": "5a4b466e51f0740c5c6f84dd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f354ce1028579d40fa4c6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:20:39.084Z",
+      "updatedAt": "2018-01-09T06:38:21.124Z",
+      "parentId": "5a4f2bfae1028579d40fa468",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "闭关锁国政策",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2a4b6e63-af56-4215-875f-f0ae35a356df_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2a4b6e63-af56-4215-875f-f0ae35a356df_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2a4b6e63-af56-4215-875f-f0ae35a356df_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2a4b6e63-af56-4215-875f-f0ae35a356df_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2a4b6e63-af56-4215-875f-f0ae35a356df_mobile_mid.m3u8"
+        },
+        "id": "5a4b469f51f0740c7f6f8808"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3557e1028579d40fa4c8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:20:51.364Z",
+      "updatedAt": "2018-01-09T06:38:28.639Z",
+      "parentId": "5a4f2bfae1028579d40fa468",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "清代君主专制强化习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5372a8ad-9ed5-46cd-89e8-81015e648b13_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5372a8ad-9ed5-46cd-89e8-81015e648b13_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5372a8ad-9ed5-46cd-89e8-81015e648b13_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5372a8ad-9ed5-46cd-89e8-81015e648b13_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5372a8ad-9ed5-46cd-89e8-81015e648b13_mobile_mid.m3u8"
+        },
+        "id": "5a4b46b251f0740c730f4f01"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3563e1028579d40fa4ca",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T07:40:57.850Z",
+    "updatedAt": "2018-01-05T07:41:01.667Z",
+    "courseId": "5a4f0e34853b5279d9e907ee",
+    "name": "清朝前期的文学艺术",
+    "order": 21,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f2c09e1028579d40fa46a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:21:02.196Z",
+      "updatedAt": "2018-01-09T06:38:51.132Z",
+      "parentId": "5a4f2c09e1028579d40fa46a",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "《红楼梦》、昆曲与京剧",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a33fd79c-23f5-4822-a78f-5a2ac8b0e533_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a33fd79c-23f5-4822-a78f-5a2ac8b0e533_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a33fd79c-23f5-4822-a78f-5a2ac8b0e533_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a33fd79c-23f5-4822-a78f-5a2ac8b0e533_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a33fd79c-23f5-4822-a78f-5a2ac8b0e533_mobile_mid.m3u8"
+        },
+        "id": "5a4b46ced5ff750d689e7dde"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f356ee1028579d40fa4cc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:21:13.045Z",
+      "updatedAt": "2018-01-09T06:38:55.778Z",
+      "parentId": "5a4f2c09e1028579d40fa46a",
+      "courseId": "5a4f0e34853b5279d9e907ee",
+      "name": "清代文学艺术习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5a47e12-1b8c-4372-9c79-517ddb9d007e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5a47e12-1b8c-4372-9c79-517ddb9d007e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5a47e12-1b8c-4372-9c79-517ddb9d007e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5a47e12-1b8c-4372-9c79-517ddb9d007e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5a47e12-1b8c-4372-9c79-517ddb9d007e_mobile_mid.m3u8"
+        },
+        "id": "5a4b46de51f0740c5b880914"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3579e1028579d40fa4ce",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

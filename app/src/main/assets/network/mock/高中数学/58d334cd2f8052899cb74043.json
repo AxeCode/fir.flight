@@ -1,0 +1,444 @@
+{
+  "id": "58d334cd2f8052899cb74043",
+  "createdAt": "2017-03-23T02:37:01.275Z",
+  "teacherAvatar": "http://imgs.wanmen.org/7592e80bea6f15f4694f72d9ce41b783.png",
+  "teacherDescription": "清华大学经济管理学院与哥伦比亚大学商务分析双硕士在读，爱好探索未知世界，希望用双腿走遍地球的每一寸土地并把自己的学习方法和观点分享与每一位同学。",
+  "teacherName": "孙遮缘",
+  "major": "586d234f5f07127674152c49",
+  "homeSmallImage": "http://img.wanmen.org/images/8f828804-bdc9-4c51-9b0f-bc88fc68d0b5.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/2b4296d4-2d21-4866-b2c8-ec8b6c1e6345.png",
+  "bigImage": "http://imgs.wanmen.org/5086d67e3e9b3cb512c22a4cc102d375.png",
+  "smallImage": "http://imgs.wanmen.org/7400a55e3a92440f7dc9f0a0f910e6a2.png",
+  "shortDescription": "几何证明是培养学生逻辑推理能力的最好载体",
+  "logo": "http://img.wanmen.org/images/88a5bd2a-eefe-4500-9caf-ff4ba8ae9033.png",
+  "order": 14,
+  "hide": false,
+  "price": 158,
+  "description": "复习相似三角形的定义与性质，了解平行截割定理，证明直角三角形射影定理。 证明圆周角定理、圆的切线的判定定理及性质定理。 证明相交弦定理、圆内接四边形的性质定理与判定定理、切割线定理。 了解平行投影的含义，通过圆柱与平面的位置关系，体会平行投影；证明平面与圆柱面的截线是椭圆（特殊情形是圆）。",
+  "name": "高中数学选修4-1",
+  "updatedAt": "2018-01-09T04:14:43.776Z",
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/7400a55e3a92440f7dc9f0a0f910e6a2.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/38e36d97d2e0d3403b5ddc8ac6a8eefa.png",
+  "bigImageUrl": "http://imgs.wanmen.org/5086d67e3e9b3cb512c22a4cc102d375.png",
+  "teacher": {
+    "name": "孙遮缘",
+    "description": "清华大学经济管理学院与哥伦比亚大学商务分析双硕士在读，爱好探索未知世界，希望用双腿走遍地球的每一寸土地并把自己的学习方法和观点分享与每一位同学。",
+    "avatar": "http://imgs.wanmen.org/7592e80bea6f15f4694f72d9ce41b783.png",
+    "id": "587a6c76df6ce74ffe55d3e1"
+  },
+  "numOfClasses": 10,
+  "expiration": 12,
+  "tag": "孙遮缘 高中 数学 选修 4-1 ",
+  "videoCount": 10,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 19,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 10,
+  "mobileCoverUrl": "http://imgs.wanmen.org/7400a55e3a92440f7dc9f0a0f910e6a2.png",
+  "coverUrl": "http://imgs.wanmen.org/5086d67e3e9b3cb512c22a4cc102d375.png",
+  "lectures": [{
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "考纲要求",
+    "createdAt": "2017-03-26T12:15:01.489Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:10.014Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c52f8052899cb763dd",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "考纲要求",
+      "parentId": "58d7b0c52f8052899cb763dd",
+      "createdAt": "2017-03-26T12:15:01.547Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T09:33:30.195Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b606"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/4f03aa77b595ccce8a2bc76587e358cb_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58d7b0c52f8052899cb763de",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "平行线分线段成比例定理",
+    "createdAt": "2017-03-26T12:15:01.604Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:16.868Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c52f8052899cb763df",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "平行线分线段成比例定理",
+      "parentId": "58d7b0c52f8052899cb763df",
+      "createdAt": "2017-03-26T12:15:01.654Z",
+      "order": 1,
+      "updatedAt": "2017-04-18T08:06:05.909Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0b27f1ce-df42-425d-ba66-a4fb2e6989b4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0b27f1ce-df42-425d-ba66-a4fb2e6989b4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0b27f1ce-df42-425d-ba66-a4fb2e6989b4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0b27f1ce-df42-425d-ba66-a4fb2e6989b4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0b27f1ce-df42-425d-ba66-a4fb2e6989b4_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b80e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c52f8052899cb763e0",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "相似三角形的判定和性质",
+    "createdAt": "2017-03-26T12:15:01.688Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:21.564Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c52f8052899cb763e1",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "相似三角形的判定和性质",
+      "parentId": "58d7b0c52f8052899cb763e1",
+      "createdAt": "2017-03-26T12:15:01.763Z",
+      "order": 1,
+      "updatedAt": "2017-04-19T04:00:54.217Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5992dae-440e-401c-8fa9-258305764237_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5992dae-440e-401c-8fa9-258305764237_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5992dae-440e-401c-8fa9-258305764237_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5992dae-440e-401c-8fa9-258305764237_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5992dae-440e-401c-8fa9-258305764237_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b80f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c52f8052899cb763e2",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "直角三角形的射影定理",
+    "createdAt": "2017-03-26T12:15:01.821Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:28.987Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c52f8052899cb763e3",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "直角三角形的射影定理",
+      "parentId": "58d7b0c52f8052899cb763e3",
+      "createdAt": "2017-03-26T12:15:01.856Z",
+      "order": 1,
+      "updatedAt": "2017-04-19T04:01:54.479Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/03566d3f-2d47-40b8-a163-ba17301d24a3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/03566d3f-2d47-40b8-a163-ba17301d24a3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/03566d3f-2d47-40b8-a163-ba17301d24a3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/03566d3f-2d47-40b8-a163-ba17301d24a3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/03566d3f-2d47-40b8-a163-ba17301d24a3_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b810"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c52f8052899cb763e4",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "圆周角定理与圆心角定理",
+    "createdAt": "2017-03-26T12:15:01.877Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:37.247Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c52f8052899cb763e5",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "圆周角定理与圆心角定理",
+      "parentId": "58d7b0c52f8052899cb763e5",
+      "createdAt": "2017-03-26T12:15:01.909Z",
+      "order": 1,
+      "updatedAt": "2017-04-19T04:02:20.962Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3911ef05-e35e-460e-ab35-305e6a39e6fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3911ef05-e35e-460e-ab35-305e6a39e6fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3911ef05-e35e-460e-ab35-305e6a39e6fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3911ef05-e35e-460e-ab35-305e6a39e6fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3911ef05-e35e-460e-ab35-305e6a39e6fb_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b812"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c52f8052899cb763e6",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "圆内接四边形的性质与判定定理",
+    "createdAt": "2017-03-26T12:15:01.924Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:42.743Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c52f8052899cb763e7",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "圆内接四边形的性质与判定定理",
+      "parentId": "58d7b0c52f8052899cb763e7",
+      "createdAt": "2017-03-26T12:15:01.955Z",
+      "order": 1,
+      "updatedAt": "2017-04-19T04:04:18.896Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fcbe7d15-d2af-459a-9ad3-cbc9ca0ffa7c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fcbe7d15-d2af-459a-9ad3-cbc9ca0ffa7c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fcbe7d15-d2af-459a-9ad3-cbc9ca0ffa7c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fcbe7d15-d2af-459a-9ad3-cbc9ca0ffa7c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fcbe7d15-d2af-459a-9ad3-cbc9ca0ffa7c_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b813"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c52f8052899cb763e8",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "圆的切线的性质与判定定理",
+    "createdAt": "2017-03-26T12:15:01.968Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:47.852Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c52f8052899cb763e9",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "圆的切线的性质与判定定理",
+      "parentId": "58d7b0c52f8052899cb763e9",
+      "createdAt": "2017-03-26T12:15:01.998Z",
+      "order": 1,
+      "updatedAt": "2017-04-18T01:57:33.965Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/779a3ffb-adfc-4b74-9386-d7c23d07f1ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/779a3ffb-adfc-4b74-9386-d7c23d07f1ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/779a3ffb-adfc-4b74-9386-d7c23d07f1ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/779a3ffb-adfc-4b74-9386-d7c23d07f1ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/779a3ffb-adfc-4b74-9386-d7c23d07f1ad_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b814"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c62f8052899cb763ea",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "弦切角的性质",
+    "createdAt": "2017-03-26T12:15:02.014Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:52.981Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c62f8052899cb763eb",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "弦切角的性质",
+      "parentId": "58d7b0c62f8052899cb763eb",
+      "createdAt": "2017-03-26T12:15:02.045Z",
+      "order": 1,
+      "updatedAt": "2017-04-18T01:58:29.780Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/64b4925a-1fee-4a71-a0ef-722e53367355_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/64b4925a-1fee-4a71-a0ef-722e53367355_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/64b4925a-1fee-4a71-a0ef-722e53367355_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/64b4925a-1fee-4a71-a0ef-722e53367355_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/64b4925a-1fee-4a71-a0ef-722e53367355_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b815"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c62f8052899cb763ec",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "与圆有关的比例线段",
+    "createdAt": "2017-03-26T12:15:02.060Z",
+    "order": 9,
+    "description": null,
+    "updatedAt": "2017-12-21T03:43:58.357Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c62f8052899cb763ed",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "与圆有关的比例线段",
+      "parentId": "58d7b0c62f8052899cb763ed",
+      "createdAt": "2017-03-26T12:15:02.093Z",
+      "order": 1,
+      "updatedAt": "2017-04-18T01:59:18.056Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6c77eae8-d71e-41ff-9e6a-21b628348880_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6c77eae8-d71e-41ff-9e6a-21b628348880_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6c77eae8-d71e-41ff-9e6a-21b628348880_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6c77eae8-d71e-41ff-9e6a-21b628348880_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6c77eae8-d71e-41ff-9e6a-21b628348880_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b816"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c62f8052899cb763ee",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d334cd2f8052899cb74043",
+    "name": "习题课",
+    "createdAt": "2017-03-26T12:15:02.108Z",
+    "order": 10,
+    "description": null,
+    "updatedAt": "2017-12-21T03:44:07.384Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58d7b0c62f8052899cb763ef",
+    "children": [{
+      "courseId": "58d334cd2f8052899cb74043",
+      "name": "习题课",
+      "parentId": "58d7b0c62f8052899cb763ef",
+      "createdAt": "2017-03-26T12:15:02.139Z",
+      "order": 1,
+      "updatedAt": "2017-04-18T02:04:54.010Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5821e98b-d0b1-46ba-8d0f-af8477ede40a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5821e98b-d0b1-46ba-8d0f-af8477ede40a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5821e98b-d0b1-46ba-8d0f-af8477ede40a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5821e98b-d0b1-46ba-8d0f-af8477ede40a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5821e98b-d0b1-46ba-8d0f-af8477ede40a_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b819"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58d7b0c62f8052899cb763f0",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

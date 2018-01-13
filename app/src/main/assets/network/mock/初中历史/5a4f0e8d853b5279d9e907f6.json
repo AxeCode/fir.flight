@@ -1,0 +1,2893 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2018-01-05T05:35:09.732Z",
+  "updatedAt": "2018-01-11T01:11:19.329Z",
+  "name": "基础初中历史八年级上",
+  "major": "592fd9bbd5fa2213f156c628",
+  "numOfClasses": 26,
+  "description": "本课程讲述了从鸦片战争到中华人民共和国建立前的中国近代历史，是一部关于中国近代化的可歌可泣的文明史。在八上的课程中，学生们不仅可以了解到中国近代遭受的屈辱历史，比如鸦片战争、甲午中日战争、八国联军侵华等，还可以详尽的了解先进的中国人近代化探索的道路，从自强的洋务运动到变法的百日维新，从资产阶级民主革命到新民主主义革命，从而知道中国近代文明发展的坎坷路程，增进对这片多灾多难土地的感情。\n",
+  "price": 78,
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "hide": false,
+  "bigImage": "http://imgs.wanmen.org/d78f8ca7896fb9fe876789dc38e9f301.png",
+  "smallImage": "http://imgs.wanmen.org/cb4b86e096982cd97243ac1270562e12.png",
+  "expiration": 12,
+  "videoCount": 90,
+  "tag": "丁子江 初中 基础 八年级上  历史",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 0,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 26,
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherName": "丁子江",
+  "mobileCoverUrl": "http://imgs.wanmen.org/cb4b86e096982cd97243ac1270562e12.png",
+  "coverUrl": "http://imgs.wanmen.org/d78f8ca7896fb9fe876789dc38e9f301.png",
+  "smallImageUrl": "http://imgs.wanmen.org/cb4b86e096982cd97243ac1270562e12.png",
+  "bigImageUrl": "http://imgs.wanmen.org/d78f8ca7896fb9fe876789dc38e9f301.png",
+  "id": "5a4f0e8d853b5279d9e907f6",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:22:03.962Z",
+    "updatedAt": "2018-01-05T08:26:32.738Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "鸦片战争",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35abe1028579d40fa4d0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:28:40.397Z",
+      "updatedAt": "2018-01-10T03:22:54.598Z",
+      "parentId": "5a4f35abe1028579d40fa4d0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "林则徐禁烟（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_mobile_mid.m3u8"
+        },
+        "id": "5a4ae7c651f07410a36ec552"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f3738853b5279d9e908bc",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/426fea50-5d5c-43ff-9875-29fad8879f16_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:28:49.740Z",
+      "updatedAt": "2018-01-10T03:23:03.867Z",
+      "parentId": "5a4f35abe1028579d40fa4d0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "林则徐禁烟（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_mobile_mid.m3u8"
+        },
+        "id": "5a4ae82351f07410b15ab2b5"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f3741853b5279d9e908be",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/4a8959b2-978b-4f6e-88a9-c1b1e1a2faee_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:29:01.154Z",
+      "updatedAt": "2018-01-10T03:23:15.863Z",
+      "parentId": "5a4f35abe1028579d40fa4d0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "鸦片战争的过程",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_mobile_mid.m3u8"
+        },
+        "id": "5a4ae853ef23a865cda0eebe"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f374d853b5279d9e908c0",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/786df328-db81-4fed-acc7-66c5a844a874_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:29:16.616Z",
+      "updatedAt": "2018-01-10T03:23:24.022Z",
+      "parentId": "5a4f35abe1028579d40fa4d0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "《南京条约》",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_mobile_mid.m3u8"
+        },
+        "id": "5a4ae87bef23a8659262506f"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f375c853b5279d9e908c2",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/545edcb7-efbb-4b74-9506-8e1eafad5c98_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:29:26.157Z",
+      "updatedAt": "2018-01-10T03:23:31.694Z",
+      "parentId": "5a4f35abe1028579d40fa4d0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "鸦片战争习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_mobile_mid.m3u8"
+        },
+        "id": "5a4ae891ef23a86531cafd50"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4f3766853b5279d9e908c4",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/9b377477-a780-44d7-8107-1de1d3f4382f_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:22:14.684Z",
+    "updatedAt": "2018-01-05T08:26:35.966Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "第二次鸦片战争",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35b6e1028579d40fa4d2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:30:13.195Z",
+      "updatedAt": "2018-01-10T03:23:47.823Z",
+      "parentId": "5a4f35b6e1028579d40fa4d2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "英法联军",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a9dc432b-aab0-441f-a532-83b90b24c067_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a9dc432b-aab0-441f-a532-83b90b24c067_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a9dc432b-aab0-441f-a532-83b90b24c067_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a9dc432b-aab0-441f-a532-83b90b24c067_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a9dc432b-aab0-441f-a532-83b90b24c067_mobile_mid.m3u8"
+        },
+        "id": "5a4ae8b7ef23a865ac2d0139"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3795853b5279d9e908c6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:30:22.397Z",
+      "updatedAt": "2018-01-10T03:23:54.849Z",
+      "parentId": "5a4f35b6e1028579d40fa4d2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "火烧圆明园",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/35e6d1f3-ff79-418b-965e-493f861c9eac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/35e6d1f3-ff79-418b-965e-493f861c9eac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/35e6d1f3-ff79-418b-965e-493f861c9eac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/35e6d1f3-ff79-418b-965e-493f861c9eac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/35e6d1f3-ff79-418b-965e-493f861c9eac_mobile_mid.m3u8"
+        },
+        "id": "5a4ae8e8d5ff75130570061c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f379e853b5279d9e908c8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:30:33.547Z",
+      "updatedAt": "2018-01-10T03:24:04.151Z",
+      "parentId": "5a4f35b6e1028579d40fa4d2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "《北京条约》的签订",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4fc93fee-8d9b-4d47-ada4-9c4021045a4e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4fc93fee-8d9b-4d47-ada4-9c4021045a4e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4fc93fee-8d9b-4d47-ada4-9c4021045a4e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4fc93fee-8d9b-4d47-ada4-9c4021045a4e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4fc93fee-8d9b-4d47-ada4-9c4021045a4e_mobile_mid.m3u8"
+        },
+        "id": "5a4ae93751f0741126c85e03"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f37a9853b5279d9e908ca",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:30:43.434Z",
+      "updatedAt": "2018-01-10T03:24:15.711Z",
+      "parentId": "5a4f35b6e1028579d40fa4d2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "第二次鸦片战争习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/06819577-9f09-4ac9-bc07-f8c616fc8d63_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/06819577-9f09-4ac9-bc07-f8c616fc8d63_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/06819577-9f09-4ac9-bc07-f8c616fc8d63_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/06819577-9f09-4ac9-bc07-f8c616fc8d63_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/06819577-9f09-4ac9-bc07-f8c616fc8d63_mobile_mid.m3u8"
+        },
+        "id": "5a4ae949d5ff75134bb4400f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f37b3853b5279d9e908cc",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:22:24.177Z",
+    "updatedAt": "2018-01-05T08:26:39.223Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "太平天国运动",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35c0e1028579d40fa4d4",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:30:57.259Z",
+      "updatedAt": "2018-01-10T03:25:30.829Z",
+      "parentId": "5a4f35c0e1028579d40fa4d4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "金田起义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9a6edd58-8a78-4870-8022-0860079d6b5b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9a6edd58-8a78-4870-8022-0860079d6b5b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9a6edd58-8a78-4870-8022-0860079d6b5b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9a6edd58-8a78-4870-8022-0860079d6b5b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9a6edd58-8a78-4870-8022-0860079d6b5b_mobile_mid.m3u8"
+        },
+        "id": "5a4ae9aa51f074112c043111"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f37c1853b5279d9e908ce",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:50:59.391Z",
+      "updatedAt": "2018-01-10T03:25:41.172Z",
+      "parentId": "5a4f35c0e1028579d40fa4d4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "定都天京 ",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e7670d92-8fb2-4041-97df-340acae1b151_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e7670d92-8fb2-4041-97df-340acae1b151_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e7670d92-8fb2-4041-97df-340acae1b151_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e7670d92-8fb2-4041-97df-340acae1b151_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e7670d92-8fb2-4041-97df-340acae1b151_mobile_mid.m3u8"
+        },
+        "id": "5a4ae9c9ef23a865b39dbca8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3c73853b5279d9e908d0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:51:27.639Z",
+      "updatedAt": "2018-01-10T03:25:50.062Z",
+      "parentId": "5a4f35c0e1028579d40fa4d4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "天国衰落",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5c16cfc4-5edd-4728-88d2-798c755ed8dd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5c16cfc4-5edd-4728-88d2-798c755ed8dd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5c16cfc4-5edd-4728-88d2-798c755ed8dd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5c16cfc4-5edd-4728-88d2-798c755ed8dd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5c16cfc4-5edd-4728-88d2-798c755ed8dd_mobile_mid.m3u8"
+        },
+        "id": "5a4ae9e5d5ff75135315fd33"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3c8fe1028579d40fa504",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:51:37.829Z",
+      "updatedAt": "2018-01-10T03:25:56.266Z",
+      "parentId": "5a4f35c0e1028579d40fa4d4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "太平天国运动习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8f52ff15-c077-4a13-84ec-0801dbf7b517_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8f52ff15-c077-4a13-84ec-0801dbf7b517_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8f52ff15-c077-4a13-84ec-0801dbf7b517_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8f52ff15-c077-4a13-84ec-0801dbf7b517_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8f52ff15-c077-4a13-84ec-0801dbf7b517_mobile_mid.m3u8"
+        },
+        "id": "5a4ae9f7ef23a865cda0eebf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3c99e1028579d40fa506",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:22:33.448Z",
+    "updatedAt": "2018-01-05T08:26:42.195Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "洋务运动",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35c9e1028579d40fa4d6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:51:48.401Z",
+      "updatedAt": "2018-01-10T03:26:12.381Z",
+      "parentId": "5a4f35c9e1028579d40fa4d6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "洋务运动的兴起",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ce05f929-90a4-4864-a723-456108366e74_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ce05f929-90a4-4864-a723-456108366e74_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ce05f929-90a4-4864-a723-456108366e74_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ce05f929-90a4-4864-a723-456108366e74_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ce05f929-90a4-4864-a723-456108366e74_mobile_mid.m3u8"
+        },
+        "id": "5a4aea22ef23a86590dca411"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3ca4e1028579d40fa508",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:51:59.671Z",
+      "updatedAt": "2018-01-10T03:26:21.920Z",
+      "parentId": "5a4f35c9e1028579d40fa4d6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "洋务运动的内容（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0db8e0a0-d439-41b1-8313-391e790218e7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0db8e0a0-d439-41b1-8313-391e790218e7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0db8e0a0-d439-41b1-8313-391e790218e7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0db8e0a0-d439-41b1-8313-391e790218e7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0db8e0a0-d439-41b1-8313-391e790218e7_mobile_mid.m3u8"
+        },
+        "id": "5a4aea4aef23a8656ba59998"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3cafe1028579d40fa50a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:52:10.165Z",
+      "updatedAt": "2018-01-10T03:26:30.104Z",
+      "parentId": "5a4f35c9e1028579d40fa4d6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "洋务运动的内容（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3573a11d-3f69-4f06-8c85-8f185174e4de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3573a11d-3f69-4f06-8c85-8f185174e4de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3573a11d-3f69-4f06-8c85-8f185174e4de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3573a11d-3f69-4f06-8c85-8f185174e4de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3573a11d-3f69-4f06-8c85-8f185174e4de_mobile_mid.m3u8"
+        },
+        "id": "5a4aea6fd5ff75130e9ad04b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3cbae1028579d40fa50c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:52:28.237Z",
+      "updatedAt": "2018-01-10T03:26:38.269Z",
+      "parentId": "5a4f35c9e1028579d40fa4d6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "洋务运动习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0a06fc19-a580-45d8-9d70-e44d7d9081f4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0a06fc19-a580-45d8-9d70-e44d7d9081f4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0a06fc19-a580-45d8-9d70-e44d7d9081f4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0a06fc19-a580-45d8-9d70-e44d7d9081f4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0a06fc19-a580-45d8-9d70-e44d7d9081f4_mobile_mid.m3u8"
+        },
+        "id": "5a4aea80ef23a8654ae8eb85"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3ccce1028579d40fa50e",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:22:42.681Z",
+    "updatedAt": "2018-01-05T08:26:45.171Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "甲午中日战争",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35d2e1028579d40fa4d8",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:52:50.813Z",
+      "updatedAt": "2018-01-10T03:26:56.414Z",
+      "parentId": "5a4f35d2e1028579d40fa4d8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "甲午战争的背景",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5b125c9e-5181-417d-8813-f1108e93b1a5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5b125c9e-5181-417d-8813-f1108e93b1a5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5b125c9e-5181-417d-8813-f1108e93b1a5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5b125c9e-5181-417d-8813-f1108e93b1a5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5b125c9e-5181-417d-8813-f1108e93b1a5_mobile_mid.m3u8"
+        },
+        "id": "5a4aeab0ef23a8656f2b59ee"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3ce2e1028579d40fa510",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:53:00.873Z",
+      "updatedAt": "2018-01-10T03:27:04.649Z",
+      "parentId": "5a4f35d2e1028579d40fa4d8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "甲午战争的过程",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7097983e-ac66-4c3e-9c81-516760fafb96_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7097983e-ac66-4c3e-9c81-516760fafb96_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7097983e-ac66-4c3e-9c81-516760fafb96_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7097983e-ac66-4c3e-9c81-516760fafb96_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7097983e-ac66-4c3e-9c81-516760fafb96_mobile_mid.m3u8"
+        },
+        "id": "5a4aeb2751f074112c043112"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3cece1028579d40fa512",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:53:20.833Z",
+      "updatedAt": "2018-01-10T03:27:13.314Z",
+      "parentId": "5a4f35d2e1028579d40fa4d8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "《马关条约》的签订 ",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/90039c0b-cf02-4a8b-8a53-67ce304e7045_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/90039c0b-cf02-4a8b-8a53-67ce304e7045_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/90039c0b-cf02-4a8b-8a53-67ce304e7045_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/90039c0b-cf02-4a8b-8a53-67ce304e7045_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/90039c0b-cf02-4a8b-8a53-67ce304e7045_mobile_mid.m3u8"
+        },
+        "id": "5a4aeb8e51f074112c043113"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3d00e1028579d40fa514",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:53:30.513Z",
+      "updatedAt": "2018-01-10T03:27:25.011Z",
+      "parentId": "5a4f35d2e1028579d40fa4d8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "瓜分中国的狂潮",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4b4d6961-d2bc-4457-af40-6115c8e638df_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4b4d6961-d2bc-4457-af40-6115c8e638df_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4b4d6961-d2bc-4457-af40-6115c8e638df_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4b4d6961-d2bc-4457-af40-6115c8e638df_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4b4d6961-d2bc-4457-af40-6115c8e638df_mobile_mid.m3u8"
+        },
+        "id": "5a4aebe051f07410ec8715eb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3d0ae1028579d40fa516",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T08:53:41.216Z",
+      "updatedAt": "2018-01-10T03:27:33.555Z",
+      "parentId": "5a4f35d2e1028579d40fa4d8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "甲午中日战争习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/042a6ef8-bf29-4f97-91fa-9c1c9019d296_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/042a6ef8-bf29-4f97-91fa-9c1c9019d296_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/042a6ef8-bf29-4f97-91fa-9c1c9019d296_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/042a6ef8-bf29-4f97-91fa-9c1c9019d296_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/042a6ef8-bf29-4f97-91fa-9c1c9019d296_mobile_mid.m3u8"
+        },
+        "id": "5a4aec1651f0741120ec327c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f3d15e1028579d40fa518",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:22:55.881Z",
+    "updatedAt": "2018-01-05T08:26:48.201Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "戊戌变法",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35dfe1028579d40fa4da",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:14:35.121Z",
+      "updatedAt": "2018-01-10T03:27:48.114Z",
+      "parentId": "5a4f35dfe1028579d40fa4da",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "康有为与梁启超",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2823d632-265c-4753-af99-f56d7cd7bf8f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2823d632-265c-4753-af99-f56d7cd7bf8f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2823d632-265c-4753-af99-f56d7cd7bf8f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2823d632-265c-4753-af99-f56d7cd7bf8f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2823d632-265c-4753-af99-f56d7cd7bf8f_mobile_mid.m3u8"
+        },
+        "id": "5a4aec8851f074113571f29d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f41fbe1028579d40fa51c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:14:45.123Z",
+      "updatedAt": "2018-01-10T03:28:01.357Z",
+      "parentId": "5a4f35dfe1028579d40fa4da",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "百日维新",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8c0ab555-ce91-4c3c-894d-57263e0bc0d1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8c0ab555-ce91-4c3c-894d-57263e0bc0d1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8c0ab555-ce91-4c3c-894d-57263e0bc0d1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8c0ab555-ce91-4c3c-894d-57263e0bc0d1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8c0ab555-ce91-4c3c-894d-57263e0bc0d1_mobile_mid.m3u8"
+        },
+        "id": "5a4aeca9ef23a865f26ec790"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4205e1028579d40fa51e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:14:55.083Z",
+      "updatedAt": "2018-01-10T03:28:09.478Z",
+      "parentId": "5a4f35dfe1028579d40fa4da",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "戊戌政变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/db357864-9236-4b3f-9579-c7138ef3ca40_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/db357864-9236-4b3f-9579-c7138ef3ca40_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/db357864-9236-4b3f-9579-c7138ef3ca40_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/db357864-9236-4b3f-9579-c7138ef3ca40_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/db357864-9236-4b3f-9579-c7138ef3ca40_mobile_mid.m3u8"
+        },
+        "id": "5a4aeccfd5ff7512f88013c6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f420fe1028579d40fa520",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:15:06.560Z",
+      "updatedAt": "2018-01-10T03:28:16.415Z",
+      "parentId": "5a4f35dfe1028579d40fa4da",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "戊戌变法习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6a5aa0dd-62e1-40fe-81ae-9255a3076770_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6a5aa0dd-62e1-40fe-81ae-9255a3076770_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6a5aa0dd-62e1-40fe-81ae-9255a3076770_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6a5aa0dd-62e1-40fe-81ae-9255a3076770_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6a5aa0dd-62e1-40fe-81ae-9255a3076770_mobile_mid.m3u8"
+        },
+        "id": "5a4aed0651f07410a4d1e0df"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f421ae1028579d40fa522",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:23:05.510Z",
+    "updatedAt": "2018-01-05T08:26:51.157Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "八国联军侵华",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35e9e1028579d40fa4dc",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:17:14.885Z",
+      "updatedAt": "2018-01-10T03:28:30.470Z",
+      "parentId": "5a4f35e9e1028579d40fa4dc",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "义和团运动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f4ea9719-a21c-4241-a2ab-044cc3a90741_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f4ea9719-a21c-4241-a2ab-044cc3a90741_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f4ea9719-a21c-4241-a2ab-044cc3a90741_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f4ea9719-a21c-4241-a2ab-044cc3a90741_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f4ea9719-a21c-4241-a2ab-044cc3a90741_mobile_mid.m3u8"
+        },
+        "id": "5a4aed2fef23a8656ba59999"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f429a853b5279d9e908d2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:17:26.901Z",
+      "updatedAt": "2018-01-10T03:28:37.956Z",
+      "parentId": "5a4f35e9e1028579d40fa4dc",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "抗击八国联军",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/def34c9c-c6ea-4150-8eb9-bb8fdc73d3a5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/def34c9c-c6ea-4150-8eb9-bb8fdc73d3a5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/def34c9c-c6ea-4150-8eb9-bb8fdc73d3a5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/def34c9c-c6ea-4150-8eb9-bb8fdc73d3a5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/def34c9c-c6ea-4150-8eb9-bb8fdc73d3a5_mobile_mid.m3u8"
+        },
+        "id": "5a4aed54ef23a865f26ec791"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42a6853b5279d9e908d4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:17:39.037Z",
+      "updatedAt": "2018-01-10T03:28:44.763Z",
+      "parentId": "5a4f35e9e1028579d40fa4dc",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "《辛丑条约》的签订 ",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dbe7f88b-7e3d-4e9c-8d1c-f306d53c29bf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dbe7f88b-7e3d-4e9c-8d1c-f306d53c29bf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dbe7f88b-7e3d-4e9c-8d1c-f306d53c29bf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dbe7f88b-7e3d-4e9c-8d1c-f306d53c29bf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dbe7f88b-7e3d-4e9c-8d1c-f306d53c29bf_mobile_mid.m3u8"
+        },
+        "id": "5a4aed86ef23a865cda0eec0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42b3853b5279d9e908d6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:17:53.363Z",
+      "updatedAt": "2018-01-10T03:28:51.962Z",
+      "parentId": "5a4f35e9e1028579d40fa4dc",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "八国联军侵华习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9a98dcf1-caec-49a6-8cd7-a66c61a950d8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9a98dcf1-caec-49a6-8cd7-a66c61a950d8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9a98dcf1-caec-49a6-8cd7-a66c61a950d8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9a98dcf1-caec-49a6-8cd7-a66c61a950d8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9a98dcf1-caec-49a6-8cd7-a66c61a950d8_mobile_mid.m3u8"
+        },
+        "id": "5a4aed93ef23a86592625070"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42c1e1028579d40fa524",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:23:16.021Z",
+    "updatedAt": "2018-01-05T08:26:53.679Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "革命先行者孙中山",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35f4e1028579d40fa4de",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:18:02.372Z",
+      "updatedAt": "2018-01-10T03:29:05.622Z",
+      "parentId": "5a4f35f4e1028579d40fa4de",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "孙中山的革命活动 ",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c6da4bad-da89-4767-91fc-cd818928a9f1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c6da4bad-da89-4767-91fc-cd818928a9f1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c6da4bad-da89-4767-91fc-cd818928a9f1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c6da4bad-da89-4767-91fc-cd818928a9f1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c6da4bad-da89-4767-91fc-cd818928a9f1_mobile_mid.m3u8"
+        },
+        "id": "5a4aedd451f074109e100ade"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42cae1028579d40fa526",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:18:13.188Z",
+      "updatedAt": "2018-01-10T03:29:13.622Z",
+      "parentId": "5a4f35f4e1028579d40fa4de",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "“三民主义”习题精选 ",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6132bf76-fc44-4192-a3c1-718af0e25766_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6132bf76-fc44-4192-a3c1-718af0e25766_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6132bf76-fc44-4192-a3c1-718af0e25766_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6132bf76-fc44-4192-a3c1-718af0e25766_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6132bf76-fc44-4192-a3c1-718af0e25766_mobile_mid.m3u8"
+        },
+        "id": "5a4aedfa51f0741126c85e04"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42d5853b5279d9e908d8",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:23:26.597Z",
+    "updatedAt": "2018-01-05T08:26:56.683Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "辛亥革命",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f35fee1028579d40fa4e0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:18:26.936Z",
+      "updatedAt": "2018-01-10T03:29:26.576Z",
+      "parentId": "5a4f35fee1028579d40fa4e0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "革命志士的奋斗",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79336d31-7d05-4510-a710-a13eaced3104_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79336d31-7d05-4510-a710-a13eaced3104_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79336d31-7d05-4510-a710-a13eaced3104_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79336d31-7d05-4510-a710-a13eaced3104_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79336d31-7d05-4510-a710-a13eaced3104_mobile_mid.m3u8"
+        },
+        "id": "5a4aee6151f074110d1b4bff"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42e2e1028579d40fa528",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:18:37.128Z",
+      "updatedAt": "2018-01-10T03:29:34.433Z",
+      "parentId": "5a4f35fee1028579d40fa4e0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "武昌起义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5ad27441-a1f9-4fdb-bb65-bbf039c487f1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5ad27441-a1f9-4fdb-bb65-bbf039c487f1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5ad27441-a1f9-4fdb-bb65-bbf039c487f1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5ad27441-a1f9-4fdb-bb65-bbf039c487f1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5ad27441-a1f9-4fdb-bb65-bbf039c487f1_mobile_mid.m3u8"
+        },
+        "id": "5a4aeed651f07410933c7b78"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42ede1028579d40fa52a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:18:47.449Z",
+      "updatedAt": "2018-01-10T03:29:43.384Z",
+      "parentId": "5a4f35fee1028579d40fa4e0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "辛亥革命习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/716d0381-62d1-4eff-afbb-cf42cca52af0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/716d0381-62d1-4eff-afbb-cf42cca52af0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/716d0381-62d1-4eff-afbb-cf42cca52af0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/716d0381-62d1-4eff-afbb-cf42cca52af0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/716d0381-62d1-4eff-afbb-cf42cca52af0_mobile_mid.m3u8"
+        },
+        "id": "5a4aeee6ef23a865e13d4533"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f42f7e1028579d40fa52c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:23:35.603Z",
+    "updatedAt": "2018-01-05T08:26:59.950Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "中华民国的创建",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3607e1028579d40fa4e2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:19:20.548Z",
+      "updatedAt": "2018-01-10T03:29:59.767Z",
+      "parentId": "5a4f3607e1028579d40fa4e2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "中华民国的建立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ac01a056-9dfe-49d3-9dfc-3c6d5f801990_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ac01a056-9dfe-49d3-9dfc-3c6d5f801990_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ac01a056-9dfe-49d3-9dfc-3c6d5f801990_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ac01a056-9dfe-49d3-9dfc-3c6d5f801990_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ac01a056-9dfe-49d3-9dfc-3c6d5f801990_mobile_mid.m3u8"
+        },
+        "id": "5a4aef19ef23a8652c89d898"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4318e1028579d40fa52e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:19:30.426Z",
+      "updatedAt": "2018-01-10T03:30:04.881Z",
+      "parentId": "5a4f3607e1028579d40fa4e2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "袁世凯窃取革命果实",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9268ddfd-c0d6-41d8-bc73-f8b7251d02f6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9268ddfd-c0d6-41d8-bc73-f8b7251d02f6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9268ddfd-c0d6-41d8-bc73-f8b7251d02f6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9268ddfd-c0d6-41d8-bc73-f8b7251d02f6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9268ddfd-c0d6-41d8-bc73-f8b7251d02f6_mobile_mid.m3u8"
+        },
+        "id": "5a4aef52ef23a86570854a64"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4322e1028579d40fa530",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:19:40.956Z",
+      "updatedAt": "2018-01-10T03:30:10.381Z",
+      "parentId": "5a4f3607e1028579d40fa4e2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "《中华民国临时约法》",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/12dbf4e0-70bf-4ae9-b9b8-2d9879dd3b60_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/12dbf4e0-70bf-4ae9-b9b8-2d9879dd3b60_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/12dbf4e0-70bf-4ae9-b9b8-2d9879dd3b60_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/12dbf4e0-70bf-4ae9-b9b8-2d9879dd3b60_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/12dbf4e0-70bf-4ae9-b9b8-2d9879dd3b60_mobile_mid.m3u8"
+        },
+        "id": "5a4aef67d5ff75134543d1b8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f432ce1028579d40fa532",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:19:50.863Z",
+      "updatedAt": "2018-01-10T03:30:17.137Z",
+      "parentId": "5a4f3607e1028579d40fa4e2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "《中华民国临时约法》习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/75ac677f-4355-4a7e-b846-71ea3cb0cf6a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/75ac677f-4355-4a7e-b846-71ea3cb0cf6a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/75ac677f-4355-4a7e-b846-71ea3cb0cf6a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/75ac677f-4355-4a7e-b846-71ea3cb0cf6a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/75ac677f-4355-4a7e-b846-71ea3cb0cf6a_mobile_mid.m3u8"
+        },
+        "id": "5a4aef9e51f0741102df66db"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4336e1028579d40fa534",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:23:45.232Z",
+    "updatedAt": "2018-01-05T08:27:02.910Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "北洋政府的黑暗统治",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3611e1028579d40fa4e4",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:22:02.793Z",
+      "updatedAt": "2018-01-10T03:30:31.700Z",
+      "parentId": "5a4f3611e1028579d40fa4e4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "二次革命",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ea53ecfc-b6e7-4286-88ac-61f2ffa85e52_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ea53ecfc-b6e7-4286-88ac-61f2ffa85e52_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ea53ecfc-b6e7-4286-88ac-61f2ffa85e52_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ea53ecfc-b6e7-4286-88ac-61f2ffa85e52_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ea53ecfc-b6e7-4286-88ac-61f2ffa85e52_mobile_mid.m3u8"
+        },
+        "id": "5a4aefc7d5ff75132cfb90b5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43ba853b5279d9e908da",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:22:12.477Z",
+      "updatedAt": "2018-01-10T03:30:36.051Z",
+      "parentId": "5a4f3611e1028579d40fa4e4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "袁世凯复辟帝制",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/84a14f9a-665d-40bc-a311-adb127462677_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/84a14f9a-665d-40bc-a311-adb127462677_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/84a14f9a-665d-40bc-a311-adb127462677_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/84a14f9a-665d-40bc-a311-adb127462677_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/84a14f9a-665d-40bc-a311-adb127462677_mobile_mid.m3u8"
+        },
+        "id": "5a4af02a51f07410ec8715ec"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43c4853b5279d9e908dc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:22:21.897Z",
+      "updatedAt": "2018-01-10T03:30:40.992Z",
+      "parentId": "5a4f3611e1028579d40fa4e4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "护国战争",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/918df255-4508-4463-b089-67d933288685_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/918df255-4508-4463-b089-67d933288685_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/918df255-4508-4463-b089-67d933288685_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/918df255-4508-4463-b089-67d933288685_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/918df255-4508-4463-b089-67d933288685_mobile_mid.m3u8"
+        },
+        "id": "5a4af078ef23a865e8076805"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43cd853b5279d9e908de",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:22:31.157Z",
+      "updatedAt": "2018-01-10T03:30:49.337Z",
+      "parentId": "5a4f3611e1028579d40fa4e4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "军阀割据",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ef8b3fbe-2aa6-4845-83f2-c5f684db399c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ef8b3fbe-2aa6-4845-83f2-c5f684db399c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ef8b3fbe-2aa6-4845-83f2-c5f684db399c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ef8b3fbe-2aa6-4845-83f2-c5f684db399c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ef8b3fbe-2aa6-4845-83f2-c5f684db399c_mobile_mid.m3u8"
+        },
+        "id": "5a4af0adef23a8656ba5999a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43d7853b5279d9e908e0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:22:40.866Z",
+      "updatedAt": "2018-01-10T04:02:52.152Z",
+      "parentId": "5a4f3611e1028579d40fa4e4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "北洋政府的统治习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/68e9a242-a6a6-4c4f-86d0-989b08dd6e27_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/68e9a242-a6a6-4c4f-86d0-989b08dd6e27_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/68e9a242-a6a6-4c4f-86d0-989b08dd6e27_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/68e9a242-a6a6-4c4f-86d0-989b08dd6e27_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/68e9a242-a6a6-4c4f-86d0-989b08dd6e27_mobile_mid.m3u8"
+        },
+        "id": "5a4af0ce51f0741120ec327d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43e0853b5279d9e908e2",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:23:54.415Z",
+    "updatedAt": "2018-01-05T08:27:06.330Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "新文化运动",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f361ae1028579d40fa4e6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:22:51.310Z",
+      "updatedAt": "2018-01-10T03:33:31.436Z",
+      "parentId": "5a4f361ae1028579d40fa4e6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "新文化运动的兴起",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_mobile_mid.m3u8"
+        },
+        "id": "5a4af0edef23a8656f2b59ef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43ebe1028579d40fa536",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:23:00.077Z",
+      "updatedAt": "2018-01-10T03:33:37.716Z",
+      "parentId": "5a4f361ae1028579d40fa4e6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "新文化运动的内容",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b9e20b2b-b710-4900-b237-cafedcdd5f9a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b9e20b2b-b710-4900-b237-cafedcdd5f9a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b9e20b2b-b710-4900-b237-cafedcdd5f9a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b9e20b2b-b710-4900-b237-cafedcdd5f9a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b9e20b2b-b710-4900-b237-cafedcdd5f9a_mobile_mid.m3u8"
+        },
+        "id": "5a4af10ed5ff75134bb44010"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43f4e1028579d40fa538",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:23:10.087Z",
+      "updatedAt": "2018-01-10T03:33:44.009Z",
+      "parentId": "5a4f361ae1028579d40fa4e6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "新文化运动习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fbfc46b7-16a4-433b-88d3-7c401ad78996_mobile_mid.m3u8"
+        },
+        "id": "5a4af0edef23a8656f2b59ef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f43fee1028579d40fa53a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:24:13.201Z",
+    "updatedAt": "2018-01-05T08:27:09.506Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "五四运动",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f362de1028579d40fa4e8",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:23:24.997Z",
+      "updatedAt": "2018-01-10T03:33:54.975Z",
+      "parentId": "5a4f362de1028579d40fa4e8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "五四运动的爆发",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9627bbb0-73c9-4035-8bc5-436bea872c0a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9627bbb0-73c9-4035-8bc5-436bea872c0a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9627bbb0-73c9-4035-8bc5-436bea872c0a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9627bbb0-73c9-4035-8bc5-436bea872c0a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9627bbb0-73c9-4035-8bc5-436bea872c0a_mobile_mid.m3u8"
+        },
+        "id": "5a4af168d5ff75134bb44011"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f440c853b5279d9e908e4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:23:36.223Z",
+      "updatedAt": "2018-01-10T03:33:59.515Z",
+      "parentId": "5a4f362de1028579d40fa4e8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "五四运动习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fb0aefe5-426a-4a9f-92be-ed32fe3f71a4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fb0aefe5-426a-4a9f-92be-ed32fe3f71a4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fb0aefe5-426a-4a9f-92be-ed32fe3f71a4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fb0aefe5-426a-4a9f-92be-ed32fe3f71a4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fb0aefe5-426a-4a9f-92be-ed32fe3f71a4_mobile_mid.m3u8"
+        },
+        "id": "5a4af184ef23a865ac2d013a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4418853b5279d9e908e6",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:24:22.404Z",
+    "updatedAt": "2018-01-05T08:27:12.353Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "中国共产党诞生",
+    "order": 14,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3636e1028579d40fa4ea",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:23:46.248Z",
+      "updatedAt": "2018-01-10T03:34:10.961Z",
+      "parentId": "5a4f3636e1028579d40fa4ea",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "马克思主义的传播",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c566b70c-8212-441d-9c15-198b396bcc65_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c566b70c-8212-441d-9c15-198b396bcc65_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c566b70c-8212-441d-9c15-198b396bcc65_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c566b70c-8212-441d-9c15-198b396bcc65_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c566b70c-8212-441d-9c15-198b396bcc65_mobile_mid.m3u8"
+        },
+        "id": "5a4af19fef23a86570854a65"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4422853b5279d9e908e8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:23:55.974Z",
+      "updatedAt": "2018-01-10T03:34:15.942Z",
+      "parentId": "5a4f3636e1028579d40fa4ea",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "中共的诞生",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/624ce870-0a22-443c-82ad-ea52353a5b70_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/624ce870-0a22-443c-82ad-ea52353a5b70_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/624ce870-0a22-443c-82ad-ea52353a5b70_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/624ce870-0a22-443c-82ad-ea52353a5b70_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/624ce870-0a22-443c-82ad-ea52353a5b70_mobile_mid.m3u8"
+        },
+        "id": "5a4af1c1ef23a865a2a7d278"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f442b853b5279d9e908ea",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:24:06.706Z",
+      "updatedAt": "2018-01-10T03:34:20.822Z",
+      "parentId": "5a4f3636e1028579d40fa4ea",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "中共诞生习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/08b22e76-a5c5-429f-afae-eb9d27071566_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/08b22e76-a5c5-429f-afae-eb9d27071566_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/08b22e76-a5c5-429f-afae-eb9d27071566_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/08b22e76-a5c5-429f-afae-eb9d27071566_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/08b22e76-a5c5-429f-afae-eb9d27071566_mobile_mid.m3u8"
+        },
+        "id": "5a4af1e151f07411136dddb9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4436e1028579d40fa53c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:24:31.984Z",
+    "updatedAt": "2018-01-05T08:27:15.351Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "北伐战争",
+    "order": 15,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f363fe1028579d40fa4ec",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:24:19.046Z",
+      "updatedAt": "2018-01-10T03:34:35.251Z",
+      "parentId": "5a4f363fe1028579d40fa4ec",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "国共合作的实现",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a5ede63a-d22a-46df-96db-7e7015d2153a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a5ede63a-d22a-46df-96db-7e7015d2153a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a5ede63a-d22a-46df-96db-7e7015d2153a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a5ede63a-d22a-46df-96db-7e7015d2153a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a5ede63a-d22a-46df-96db-7e7015d2153a_mobile_mid.m3u8"
+        },
+        "id": "5a4af24251f074109e100adf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4443e1028579d40fa53e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:24:29.449Z",
+      "updatedAt": "2018-01-10T03:34:40.596Z",
+      "parentId": "5a4f363fe1028579d40fa4ec",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "北伐胜利进军",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ecc3b308-4930-461e-ba52-41616e87c1c2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ecc3b308-4930-461e-ba52-41616e87c1c2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ecc3b308-4930-461e-ba52-41616e87c1c2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ecc3b308-4930-461e-ba52-41616e87c1c2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ecc3b308-4930-461e-ba52-41616e87c1c2_mobile_mid.m3u8"
+        },
+        "id": "5a4af29151f07410a4d1e0e0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f444de1028579d40fa540",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:24:41.529Z",
+      "updatedAt": "2018-01-10T03:34:45.233Z",
+      "parentId": "5a4f363fe1028579d40fa4ec",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "南京政府的建立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2d024082-7fb9-4795-9514-126fa88a8a9a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2d024082-7fb9-4795-9514-126fa88a8a9a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2d024082-7fb9-4795-9514-126fa88a8a9a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2d024082-7fb9-4795-9514-126fa88a8a9a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2d024082-7fb9-4795-9514-126fa88a8a9a_mobile_mid.m3u8"
+        },
+        "id": "5a4af2b4ef23a8654ae8eb86"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4459e1028579d40fa542",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:24:52.752Z",
+      "updatedAt": "2018-01-10T03:34:50.087Z",
+      "parentId": "5a4f363fe1028579d40fa4ec",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "北伐战争习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f96c609c-8fdf-4ccd-b769-dcfa6d8ff682_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f96c609c-8fdf-4ccd-b769-dcfa6d8ff682_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f96c609c-8fdf-4ccd-b769-dcfa6d8ff682_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f96c609c-8fdf-4ccd-b769-dcfa6d8ff682_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f96c609c-8fdf-4ccd-b769-dcfa6d8ff682_mobile_mid.m3u8"
+        },
+        "id": "5a4af2bad5ff75136391ffcf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4464e1028579d40fa544",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:24:44.466Z",
+    "updatedAt": "2018-01-05T08:27:18.412Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "毛泽东开辟井冈山道路",
+    "order": 16,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f364ce1028579d40fa4ee",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:25:07.505Z",
+      "updatedAt": "2018-01-10T03:35:01.743Z",
+      "parentId": "5a4f364ce1028579d40fa4ee",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "南昌起义和秋收起义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/356e40c3-9603-4e3a-81a2-a864f8a92e72_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/356e40c3-9603-4e3a-81a2-a864f8a92e72_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/356e40c3-9603-4e3a-81a2-a864f8a92e72_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/356e40c3-9603-4e3a-81a2-a864f8a92e72_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/356e40c3-9603-4e3a-81a2-a864f8a92e72_mobile_mid.m3u8"
+        },
+        "id": "5a4af2e4ef23a866107ce9f6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4473e1028579d40fa546",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:25:18.315Z",
+      "updatedAt": "2018-01-10T03:35:05.887Z",
+      "parentId": "5a4f364ce1028579d40fa4ee",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "井冈山会师",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cafee8f7-8b41-405e-9af5-e2ca8a8ee2ec_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cafee8f7-8b41-405e-9af5-e2ca8a8ee2ec_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cafee8f7-8b41-405e-9af5-e2ca8a8ee2ec_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cafee8f7-8b41-405e-9af5-e2ca8a8ee2ec_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cafee8f7-8b41-405e-9af5-e2ca8a8ee2ec_mobile_mid.m3u8"
+        },
+        "id": "5a4af30def23a865381898d3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f447ee1028579d40fa548",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:24:53.611Z",
+    "updatedAt": "2018-01-05T08:27:21.605Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "中国工农红军长征",
+    "order": 17,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3655e1028579d40fa4f0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:25:27.738Z",
+      "updatedAt": "2018-01-10T03:35:18.331Z",
+      "parentId": "5a4f3655e1028579d40fa4f0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "战略转移",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9a4739da-77b9-447d-a5b8-71244ec9817f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9a4739da-77b9-447d-a5b8-71244ec9817f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9a4739da-77b9-447d-a5b8-71244ec9817f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9a4739da-77b9-447d-a5b8-71244ec9817f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9a4739da-77b9-447d-a5b8-71244ec9817f_mobile_mid.m3u8"
+        },
+        "id": "5a4af341ef23a865b8f02b30"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4487e1028579d40fa54a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:25:37.305Z",
+      "updatedAt": "2018-01-10T03:35:23.808Z",
+      "parentId": "5a4f3655e1028579d40fa4f0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "红军胜利会师",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e1416dbc-c39a-4bb3-acd6-f67a76102175_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e1416dbc-c39a-4bb3-acd6-f67a76102175_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e1416dbc-c39a-4bb3-acd6-f67a76102175_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e1416dbc-c39a-4bb3-acd6-f67a76102175_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e1416dbc-c39a-4bb3-acd6-f67a76102175_mobile_mid.m3u8"
+        },
+        "id": "5a4af375ef23a865b8f02b31"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4491e1028579d40fa54c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:25:47.126Z",
+      "updatedAt": "2018-01-10T03:35:51.303Z",
+      "parentId": "5a4f3655e1028579d40fa4f0",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "长征习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c51779fa-f85a-4b8e-8cc0-051cd80281aa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c51779fa-f85a-4b8e-8cc0-051cd80281aa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c51779fa-f85a-4b8e-8cc0-051cd80281aa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c51779fa-f85a-4b8e-8cc0-051cd80281aa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c51779fa-f85a-4b8e-8cc0-051cd80281aa_mobile_mid.m3u8"
+        },
+        "id": "5a4af382ef23a865b8f02b32"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f449be1028579d40fa54e",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:25:05.269Z",
+    "updatedAt": "2018-01-05T08:27:25.153Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "九一八事变与西安事变",
+    "order": 18,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3661e1028579d40fa4f2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:26:02.323Z",
+      "updatedAt": "2018-01-10T03:36:18.276Z",
+      "parentId": "5a4f3661e1028579d40fa4f2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "九一八事变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/36a0a0ce-3ed4-47ad-8615-4a4343822ab5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/36a0a0ce-3ed4-47ad-8615-4a4343822ab5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/36a0a0ce-3ed4-47ad-8615-4a4343822ab5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/36a0a0ce-3ed4-47ad-8615-4a4343822ab5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/36a0a0ce-3ed4-47ad-8615-4a4343822ab5_mobile_mid.m3u8"
+        },
+        "id": "5a4af43e51f074110381cb27"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44aae1028579d40fa550",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:26:11.655Z",
+      "updatedAt": "2018-01-10T03:36:24.730Z",
+      "parentId": "5a4f3661e1028579d40fa4f2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "华北危机与一二九运动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a52b1a1e-baf9-4be9-ac22-67db53622733_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a52b1a1e-baf9-4be9-ac22-67db53622733_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a52b1a1e-baf9-4be9-ac22-67db53622733_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a52b1a1e-baf9-4be9-ac22-67db53622733_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a52b1a1e-baf9-4be9-ac22-67db53622733_mobile_mid.m3u8"
+        },
+        "id": "5a4af478ef23a86590dca412"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44b3e1028579d40fa552",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:26:23.861Z",
+      "updatedAt": "2018-01-10T03:36:29.801Z",
+      "parentId": "5a4f3661e1028579d40fa4f2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "西安事变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b6c7f097-8612-4d5a-9e3b-38a78d75216c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b6c7f097-8612-4d5a-9e3b-38a78d75216c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b6c7f097-8612-4d5a-9e3b-38a78d75216c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b6c7f097-8612-4d5a-9e3b-38a78d75216c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b6c7f097-8612-4d5a-9e3b-38a78d75216c_mobile_mid.m3u8"
+        },
+        "id": "5a4af50651f0741094324121"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44bfe1028579d40fa554",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:26:34.828Z",
+      "updatedAt": "2018-01-10T03:36:34.958Z",
+      "parentId": "5a4f3661e1028579d40fa4f2",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/553c48a6-085d-44a2-b8fe-3fd017d89f87_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/553c48a6-085d-44a2-b8fe-3fd017d89f87_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/553c48a6-085d-44a2-b8fe-3fd017d89f87_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/553c48a6-085d-44a2-b8fe-3fd017d89f87_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/553c48a6-085d-44a2-b8fe-3fd017d89f87_mobile_mid.m3u8"
+        },
+        "id": "5a4af54551f07410a4d1e0e1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44cae1028579d40fa556",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:25:14.050Z",
+    "updatedAt": "2018-01-05T08:27:29.119Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "七七事变与全民族抗战",
+    "order": 19,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f366ae1028579d40fa4f4",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:26:49.977Z",
+      "updatedAt": "2018-01-10T03:38:06.551Z",
+      "parentId": "5a4f366ae1028579d40fa4f4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "七七事变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0b1e7705-46dd-499c-855e-6d6c6b930dba_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0b1e7705-46dd-499c-855e-6d6c6b930dba_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0b1e7705-46dd-499c-855e-6d6c6b930dba_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0b1e7705-46dd-499c-855e-6d6c6b930dba_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0b1e7705-46dd-499c-855e-6d6c6b930dba_mobile_mid.m3u8"
+        },
+        "id": "5a4af5b651f07410b15ab2b6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44d9853b5279d9e908ec",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:26:59.550Z",
+      "updatedAt": "2018-01-10T03:38:12.050Z",
+      "parentId": "5a4f366ae1028579d40fa4f4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "第二次国共合作",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/279288c1-9eeb-48ce-a627-9c2e966d4ae8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/279288c1-9eeb-48ce-a627-9c2e966d4ae8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/279288c1-9eeb-48ce-a627-9c2e966d4ae8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/279288c1-9eeb-48ce-a627-9c2e966d4ae8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/279288c1-9eeb-48ce-a627-9c2e966d4ae8_mobile_mid.m3u8"
+        },
+        "id": "5a4af5d8ef23a866107ce9f7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44e3e1028579d40fa558",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:27:09.156Z",
+      "updatedAt": "2018-01-10T03:38:17.959Z",
+      "parentId": "5a4f366ae1028579d40fa4f4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "淞沪会战",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fccf6358-7f4f-484b-85dc-da9738aabd9d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fccf6358-7f4f-484b-85dc-da9738aabd9d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fccf6358-7f4f-484b-85dc-da9738aabd9d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fccf6358-7f4f-484b-85dc-da9738aabd9d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fccf6358-7f4f-484b-85dc-da9738aabd9d_mobile_mid.m3u8"
+        },
+        "id": "5a4af60cef23a86584db29dc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44ede1028579d40fa55a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:27:18.122Z",
+      "updatedAt": "2018-01-10T03:38:23.466Z",
+      "parentId": "5a4f366ae1028579d40fa4f4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "南京大屠杀",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/98e69097-8f7e-4304-86e3-3bd7cc9f0e96_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/98e69097-8f7e-4304-86e3-3bd7cc9f0e96_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/98e69097-8f7e-4304-86e3-3bd7cc9f0e96_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/98e69097-8f7e-4304-86e3-3bd7cc9f0e96_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/98e69097-8f7e-4304-86e3-3bd7cc9f0e96_mobile_mid.m3u8"
+        },
+        "id": "5a4af645ef23a865b39dbca9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f44f6e1028579d40fa55c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:27:32.664Z",
+      "updatedAt": "2018-01-10T03:38:30.490Z",
+      "parentId": "5a4f366ae1028579d40fa4f4",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "全民族抗战习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16a8101f-14f4-434a-b2ad-f08619e9fae9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16a8101f-14f4-434a-b2ad-f08619e9fae9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16a8101f-14f4-434a-b2ad-f08619e9fae9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16a8101f-14f4-434a-b2ad-f08619e9fae9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16a8101f-14f4-434a-b2ad-f08619e9fae9_mobile_mid.m3u8"
+        },
+        "id": "5a4af658ef23a865e8076806"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4504e1028579d40fa55e",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:25:24.828Z",
+    "updatedAt": "2018-01-05T08:27:52.646Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "正面战场的抗战",
+    "order": 20,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3674e1028579d40fa4f6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:27:41.782Z",
+      "updatedAt": "2018-01-10T03:39:24.217Z",
+      "parentId": "5a4f3674e1028579d40fa4f6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "国军的抵抗",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/32406c45-6a99-4b64-984a-82faef73bf4e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/32406c45-6a99-4b64-984a-82faef73bf4e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/32406c45-6a99-4b64-984a-82faef73bf4e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/32406c45-6a99-4b64-984a-82faef73bf4e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/32406c45-6a99-4b64-984a-82faef73bf4e_mobile_mid.m3u8"
+        },
+        "id": "5a4af6d351f07410d06be0db"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f450d853b5279d9e908ee",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:27:54.307Z",
+      "updatedAt": "2018-01-10T03:39:28.388Z",
+      "parentId": "5a4f3674e1028579d40fa4f6",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "正面战场习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e7545025-d312-48fe-b578-1f31bcdbd61f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e7545025-d312-48fe-b578-1f31bcdbd61f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e7545025-d312-48fe-b578-1f31bcdbd61f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e7545025-d312-48fe-b578-1f31bcdbd61f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e7545025-d312-48fe-b578-1f31bcdbd61f_mobile_mid.m3u8"
+        },
+        "id": "5a4af6e9ef23a865f77398d3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f451a853b5279d9e908f0",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:25:37.331Z",
+    "updatedAt": "2018-01-05T08:28:01.319Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "敌后战场的抗战",
+    "order": 21,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3681e1028579d40fa4f8",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:28:06.632Z",
+      "updatedAt": "2018-01-10T03:39:39.108Z",
+      "parentId": "5a4f3681e1028579d40fa4f8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "中共的抵抗",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d13a300d-af35-4b2a-bbee-5a73d5d41b63_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d13a300d-af35-4b2a-bbee-5a73d5d41b63_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d13a300d-af35-4b2a-bbee-5a73d5d41b63_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d13a300d-af35-4b2a-bbee-5a73d5d41b63_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d13a300d-af35-4b2a-bbee-5a73d5d41b63_mobile_mid.m3u8"
+        },
+        "id": "5a4af700d5ff7512fd5943fb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4526853b5279d9e908f2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:28:17.183Z",
+      "updatedAt": "2018-01-10T03:39:43.034Z",
+      "parentId": "5a4f3681e1028579d40fa4f8",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "敌后战场习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6a57b22d-5f0a-4aa6-bde7-e73b5eca6763_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6a57b22d-5f0a-4aa6-bde7-e73b5eca6763_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6a57b22d-5f0a-4aa6-bde7-e73b5eca6763_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6a57b22d-5f0a-4aa6-bde7-e73b5eca6763_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6a57b22d-5f0a-4aa6-bde7-e73b5eca6763_mobile_mid.m3u8"
+        },
+        "id": "5a4af713ef23a865c0fc9bb5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4531e1028579d40fa560",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:25:46.862Z",
+    "updatedAt": "2018-01-05T08:28:08.455Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "抗日战争的胜利",
+    "order": 22,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f368ae1028579d40fa4fa",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:28:27.687Z",
+      "updatedAt": "2018-01-10T03:39:55.800Z",
+      "parentId": "5a4f368ae1028579d40fa4fa",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "全民抗战",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3f6f71cb-67e2-4204-8d7a-1286fb91064e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3f6f71cb-67e2-4204-8d7a-1286fb91064e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3f6f71cb-67e2-4204-8d7a-1286fb91064e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3f6f71cb-67e2-4204-8d7a-1286fb91064e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3f6f71cb-67e2-4204-8d7a-1286fb91064e_mobile_mid.m3u8"
+        },
+        "id": "5a4af73def23a866107ce9f8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f453be1028579d40fa562",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:28:40.999Z",
+      "updatedAt": "2018-01-10T03:40:00.609Z",
+      "parentId": "5a4f368ae1028579d40fa4fa",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "中共七大",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/759255ec-5f3d-416a-9b57-21b2b57919db_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/759255ec-5f3d-416a-9b57-21b2b57919db_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/759255ec-5f3d-416a-9b57-21b2b57919db_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/759255ec-5f3d-416a-9b57-21b2b57919db_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/759255ec-5f3d-416a-9b57-21b2b57919db_mobile_mid.m3u8"
+        },
+        "id": "5a4af78051f07410beb3b43f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4548e1028579d40fa564",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:28:53.225Z",
+      "updatedAt": "2018-01-10T03:40:06.204Z",
+      "parentId": "5a4f368ae1028579d40fa4fa",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "抗战胜利的原因与意义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9d4f5897-7103-46c0-be04-80f336795958_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9d4f5897-7103-46c0-be04-80f336795958_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9d4f5897-7103-46c0-be04-80f336795958_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9d4f5897-7103-46c0-be04-80f336795958_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9d4f5897-7103-46c0-be04-80f336795958_mobile_mid.m3u8"
+        },
+        "id": "5a4af796d5ff75136391ffd0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4555e1028579d40fa566",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:29:04.169Z",
+      "updatedAt": "2018-01-10T03:40:11.048Z",
+      "parentId": "5a4f368ae1028579d40fa4fa",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "抗战胜利习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e44e5cd6-b46e-40c8-8e38-30b53fc2ab95_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e44e5cd6-b46e-40c8-8e38-30b53fc2ab95_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e44e5cd6-b46e-40c8-8e38-30b53fc2ab95_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e44e5cd6-b46e-40c8-8e38-30b53fc2ab95_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e44e5cd6-b46e-40c8-8e38-30b53fc2ab95_mobile_mid.m3u8"
+        },
+        "id": "5a4af7a1d5ff7512fd5943fc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4560853b5279d9e908f4",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:25:55.805Z",
+    "updatedAt": "2018-01-05T08:28:12.241Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "内战爆发",
+    "order": 23,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f3693e1028579d40fa4fc",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:29:16.034Z",
+      "updatedAt": "2018-01-10T03:40:25.331Z",
+      "parentId": "5a4f3693e1028579d40fa4fc",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "重庆谈判",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cb039336-4723-4185-8e5d-ba1bbaa7dc86_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cb039336-4723-4185-8e5d-ba1bbaa7dc86_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cb039336-4723-4185-8e5d-ba1bbaa7dc86_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cb039336-4723-4185-8e5d-ba1bbaa7dc86_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cb039336-4723-4185-8e5d-ba1bbaa7dc86_mobile_mid.m3u8"
+        },
+        "id": "5a4af7d5ef23a8660453469a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f456ce1028579d40fa568",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:29:26.671Z",
+      "updatedAt": "2018-01-10T03:40:29.556Z",
+      "parentId": "5a4f3693e1028579d40fa4fc",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "国民党发动内战",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e733f7a4-a799-4f25-b8f3-57a90ce49ece_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e733f7a4-a799-4f25-b8f3-57a90ce49ece_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e733f7a4-a799-4f25-b8f3-57a90ce49ece_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e733f7a4-a799-4f25-b8f3-57a90ce49ece_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e733f7a4-a799-4f25-b8f3-57a90ce49ece_mobile_mid.m3u8"
+        },
+        "id": "5a4af7f1ef23a865e13d4534"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4576853b5279d9e908f6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:29:36.338Z",
+      "updatedAt": "2018-01-10T03:40:34.375Z",
+      "parentId": "5a4f3693e1028579d40fa4fc",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "全面内战习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/370d3cc0-9a48-4633-b390-1f7940177ab4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/370d3cc0-9a48-4633-b390-1f7940177ab4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/370d3cc0-9a48-4633-b390-1f7940177ab4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/370d3cc0-9a48-4633-b390-1f7940177ab4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/370d3cc0-9a48-4633-b390-1f7940177ab4_mobile_mid.m3u8"
+        },
+        "id": "5a4af814ef23a865fa9b2a4d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4580853b5279d9e908f8",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:26:06.334Z",
+    "updatedAt": "2018-01-05T08:28:15.277Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "人民解放战争的胜利",
+    "order": 24,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f369ee1028579d40fa4fe",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:29:47.830Z",
+      "updatedAt": "2018-01-10T03:40:46.283Z",
+      "parentId": "5a4f369ee1028579d40fa4fe",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "解放区的土地改革",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eaa3caad-c9de-455f-afac-e8dcc596bcf3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eaa3caad-c9de-455f-afac-e8dcc596bcf3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eaa3caad-c9de-455f-afac-e8dcc596bcf3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eaa3caad-c9de-455f-afac-e8dcc596bcf3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eaa3caad-c9de-455f-afac-e8dcc596bcf3_mobile_mid.m3u8"
+        },
+        "id": "5a4af86a51f07411136dddba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f458b853b5279d9e908fa",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:29:58.528Z",
+      "updatedAt": "2018-01-10T03:40:51.333Z",
+      "parentId": "5a4f369ee1028579d40fa4fe",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "三大战役（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3be5821b-42ce-4ff5-8a52-f2c919c93626_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3be5821b-42ce-4ff5-8a52-f2c919c93626_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3be5821b-42ce-4ff5-8a52-f2c919c93626_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3be5821b-42ce-4ff5-8a52-f2c919c93626_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3be5821b-42ce-4ff5-8a52-f2c919c93626_mobile_mid.m3u8"
+        },
+        "id": "5a4af8c4ef23a8660453469b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f4596853b5279d9e908fc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:30:07.882Z",
+      "updatedAt": "2018-01-10T03:40:55.799Z",
+      "parentId": "5a4f369ee1028579d40fa4fe",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "三大战役（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5c414290-dc5d-4726-8ad8-489c4ec4774d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5c414290-dc5d-4726-8ad8-489c4ec4774d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5c414290-dc5d-4726-8ad8-489c4ec4774d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5c414290-dc5d-4726-8ad8-489c4ec4774d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5c414290-dc5d-4726-8ad8-489c4ec4774d_mobile_mid.m3u8"
+        },
+        "id": "5a4af90f51f0741126c85e05"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f459f853b5279d9e908fe",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:30:19.779Z",
+      "updatedAt": "2018-01-10T03:41:02.532Z",
+      "parentId": "5a4f369ee1028579d40fa4fe",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "解放战争习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2b44e678-f070-4c1c-be96-f6b078829a12_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2b44e678-f070-4c1c-be96-f6b078829a12_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2b44e678-f070-4c1c-be96-f6b078829a12_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2b44e678-f070-4c1c-be96-f6b078829a12_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2b44e678-f070-4c1c-be96-f6b078829a12_mobile_mid.m3u8"
+        },
+        "id": "5a4af92e51f07410b29b52ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f45ab853b5279d9e90900",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:26:17.076Z",
+    "updatedAt": "2018-01-05T08:28:17.993Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "经济和社会生活的变化",
+    "order": 25,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f36a9e1028579d40fa500",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:30:31.210Z",
+      "updatedAt": "2018-01-10T03:41:18.433Z",
+      "parentId": "5a4f36a9e1028579d40fa500",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "民族资本主义的发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c3852226-7d9c-4003-b0a8-10edc345f886_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c3852226-7d9c-4003-b0a8-10edc345f886_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c3852226-7d9c-4003-b0a8-10edc345f886_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c3852226-7d9c-4003-b0a8-10edc345f886_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c3852226-7d9c-4003-b0a8-10edc345f886_mobile_mid.m3u8"
+        },
+        "id": "5a4af957ef23a865fa9b2a4e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f45b7e1028579d40fa56a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:30:39.500Z",
+      "updatedAt": "2018-01-10T03:41:23.054Z",
+      "parentId": "5a4f36a9e1028579d40fa500",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "社会生活的变化",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ce0fa1db-7c81-4bf6-8e17-f394a772ca5b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ce0fa1db-7c81-4bf6-8e17-f394a772ca5b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ce0fa1db-7c81-4bf6-8e17-f394a772ca5b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ce0fa1db-7c81-4bf6-8e17-f394a772ca5b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ce0fa1db-7c81-4bf6-8e17-f394a772ca5b_mobile_mid.m3u8"
+        },
+        "id": "5a4af994ef23a86539c3f8a2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f45bf853b5279d9e90902",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T08:26:26.931Z",
+    "updatedAt": "2018-01-05T08:28:22.745Z",
+    "courseId": "5a4f0e8d853b5279d9e907f6",
+    "name": "教育文化事业的发展",
+    "order": 26,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f36b2e1028579d40fa502",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:30:49.265Z",
+      "updatedAt": "2018-01-10T03:41:35.519Z",
+      "parentId": "5a4f36b2e1028579d40fa502",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "教育、新闻出版业的发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aedde2f4-a190-441b-9f85-f369cd476a12_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aedde2f4-a190-441b-9f85-f369cd476a12_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aedde2f4-a190-441b-9f85-f369cd476a12_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aedde2f4-a190-441b-9f85-f369cd476a12_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aedde2f4-a190-441b-9f85-f369cd476a12_mobile_mid.m3u8"
+        },
+        "id": "5a4af9ee51f0741131709237"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f45c9853b5279d9e90904",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:30:58.783Z",
+      "updatedAt": "2018-01-10T03:41:41.129Z",
+      "parentId": "5a4f36b2e1028579d40fa502",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "文学艺术的成就",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f4988937-1d00-4a7d-8efe-ed425bc06ff2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f4988937-1d00-4a7d-8efe-ed425bc06ff2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f4988937-1d00-4a7d-8efe-ed425bc06ff2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f4988937-1d00-4a7d-8efe-ed425bc06ff2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f4988937-1d00-4a7d-8efe-ed425bc06ff2_mobile_mid.m3u8"
+        },
+        "id": "5a4afa5bef23a865482a7d1d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f45d2853b5279d9e90906",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T09:31:10.596Z",
+      "updatedAt": "2018-01-10T03:41:49.837Z",
+      "parentId": "5a4f36b2e1028579d40fa502",
+      "courseId": "5a4f0e8d853b5279d9e907f6",
+      "name": "教育文化事业习题精选",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/610e3369-7ca2-419a-a3e8-81c64d7ba2ed_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/610e3369-7ca2-419a-a3e8-81c64d7ba2ed_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/610e3369-7ca2-419a-a3e8-81c64d7ba2ed_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/610e3369-7ca2-419a-a3e8-81c64d7ba2ed_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/610e3369-7ca2-419a-a3e8-81c64d7ba2ed_mobile_mid.m3u8"
+        },
+        "id": "5a4afa7cef23a865fa9b2a4f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f45de853b5279d9e90908",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

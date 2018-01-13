@@ -1,0 +1,2013 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-11-22T07:44:00.471Z",
+  "updatedAt": "2018-01-06T04:56:02.985Z",
+  "name": "高考历史一轮复习",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "price": 158,
+  "hide": false,
+  "major": "586d234f5f07127674152c50",
+  "expiration": 12,
+  "numOfClasses": 21,
+  "bigImage": "http://imgs.wanmen.org/b13e154f4d8ba336e61ca179a485b387.png",
+  "smallImage": "http://imgs.wanmen.org/93af7284d0ef3f10d06cb46c3077cf78.png",
+  "description": "本课程是高考历史一轮复习，即对高中历史政治制度史、经济生活史和思想文化史知识点的完整盘点。高中历史是对人类文明演进史的概要总览，尤其是对中国历史的浓缩介绍，本课程覆盖了古代中华文明的形成和发展、中国近代文明的起步与发展、中国现代文明与社会主义建设、西方文明的起源与发展、世界现代化模式的探索与拓展等相关内容，是回顾知识考点、形成知识体系、打下应试基础的首选。",
+  "order": 10,
+  "tag": "丁子江 高中 历史 一轮复习 ",
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/04467d85-66a8-45a1-ac37-7a82964d8085_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/04467d85-66a8-45a1-ac37-7a82964d8085_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/04467d85-66a8-45a1-ac37-7a82964d8085_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/04467d85-66a8-45a1-ac37-7a82964d8085_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/04467d85-66a8-45a1-ac37-7a82964d8085_mobile_mid.m3u8"
+    },
+    "id": "5a1b6cb651f0746386faef01"
+  },
+  "videoCount": 60,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 3,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 21,
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherName": "丁子江",
+  "mobileCoverUrl": "http://imgs.wanmen.org/93af7284d0ef3f10d06cb46c3077cf78.png",
+  "coverUrl": "http://imgs.wanmen.org/b13e154f4d8ba336e61ca179a485b387.png",
+  "smallImageUrl": "http://imgs.wanmen.org/93af7284d0ef3f10d06cb46c3077cf78.png",
+  "bigImageUrl": "http://imgs.wanmen.org/b13e154f4d8ba336e61ca179a485b387.png",
+  "id": "5a152ac09f2dff58500f57ba",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:02:34.453Z",
+    "updatedAt": "2017-12-20T03:16:46.925Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "中国古代政治制度",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c40a9f2dff58500f5960",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:14:31.328Z",
+      "updatedAt": "2017-12-20T03:16:58.517Z",
+      "parentId": "5a17c40a9f2dff58500f5960",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "商周时期的政治制度",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_mobile_mid.m3u8"
+        },
+        "id": "5a16c3b451f074637db8f2a3"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a17c6d737beee5855953e1d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/60f736b6-0902-485b-b62f-276f85b58871_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:29:01.535Z",
+      "updatedAt": "2017-12-20T03:17:15.378Z",
+      "parentId": "5a17c40a9f2dff58500f5960",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "秦中央集权制度的形成",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_mobile_mid.m3u8"
+        },
+        "id": "5a16c3d7ef23a8127162f06b"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a17ca3d37beee5855953e1f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/02053dfc-1255-4495-ba2b-0aa73dcd934e_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:30:17.563Z",
+      "updatedAt": "2017-12-20T03:17:33.074Z",
+      "parentId": "5a17c40a9f2dff58500f5960",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "汉到元政治制度的演变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_mobile_mid.m3u8"
+        },
+        "id": "5a16c40251f07463d79b1e02"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a17ca8937beee5855953e21",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/8c700a03-8887-45eb-a712-69ceda1766b9_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:44:02.670Z",
+      "updatedAt": "2017-12-20T03:17:55.706Z",
+      "parentId": "5a17c40a9f2dff58500f5960",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "明清君主专制的加强",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_mobile_mid.m3u8"
+        },
+        "id": "5a16c43351f074637db8f2a4"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a17cdc237beee5855953e24",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/f27d6db5-134b-414c-9549-c8173f318922_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:02:44.201Z",
+    "updatedAt": "2017-12-20T03:18:44.014Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "古代希腊罗马政治制度",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c4149f2dff58500f5962",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:44:13.378Z",
+      "updatedAt": "2017-12-20T03:18:13.958Z",
+      "parentId": "5a17c4149f2dff58500f5962",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "雅典民主政治",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dd0306c6-aa28-43ec-9206-dd3171094d04_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dd0306c6-aa28-43ec-9206-dd3171094d04_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dd0306c6-aa28-43ec-9206-dd3171094d04_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dd0306c6-aa28-43ec-9206-dd3171094d04_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dd0306c6-aa28-43ec-9206-dd3171094d04_mobile_mid.m3u8"
+        },
+        "id": "5a16c45d51f07463bcd25ca6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17cdcd37beee5855953e26",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:44:21.419Z",
+      "updatedAt": "2017-12-20T03:18:29.951Z",
+      "parentId": "5a17c4149f2dff58500f5962",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "罗马法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6e8460b9-c989-4c94-a938-4d684d393478_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6e8460b9-c989-4c94-a938-4d684d393478_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6e8460b9-c989-4c94-a938-4d684d393478_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6e8460b9-c989-4c94-a938-4d684d393478_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6e8460b9-c989-4c94-a938-4d684d393478_mobile_mid.m3u8"
+        },
+        "id": "5a16c48b51f07463521527c3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17cdd537beee5855953e28",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:02:52.518Z",
+    "updatedAt": "2017-11-30T08:12:54.859Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "第三讲：近代西方资本主义政治制度的确立与发展",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c41c9f2dff58500f5964",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:54:40.983Z",
+      "updatedAt": "2017-12-20T03:19:06.030Z",
+      "parentId": "5a17c41c9f2dff58500f5964",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "英国君主立宪制的确立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9d998990-e3f8-4355-84d0-9536058770f8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9d998990-e3f8-4355-84d0-9536058770f8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9d998990-e3f8-4355-84d0-9536058770f8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9d998990-e3f8-4355-84d0-9536058770f8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9d998990-e3f8-4355-84d0-9536058770f8_mobile_mid.m3u8"
+        },
+        "id": "5a16c4b8d5ff752cc116150a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d04037beee5855953e2a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:54:47.468Z",
+      "updatedAt": "2017-12-20T03:19:53.793Z",
+      "parentId": "5a17c41c9f2dff58500f5964",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "美国共和制的确立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/233cef15-03c2-4097-8b44-79b15adf8e41_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/233cef15-03c2-4097-8b44-79b15adf8e41_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/233cef15-03c2-4097-8b44-79b15adf8e41_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/233cef15-03c2-4097-8b44-79b15adf8e41_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/233cef15-03c2-4097-8b44-79b15adf8e41_mobile_mid.m3u8"
+        },
+        "id": "5a16c4ead5ff752d15794f5b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d04737beee5855953e2c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:54:55.257Z",
+      "updatedAt": "2017-12-20T03:20:23.996Z",
+      "parentId": "5a17c41c9f2dff58500f5964",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "法国共和制的确立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dfa8b946-906f-4870-99ad-85a1647de041_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dfa8b946-906f-4870-99ad-85a1647de041_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dfa8b946-906f-4870-99ad-85a1647de041_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dfa8b946-906f-4870-99ad-85a1647de041_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dfa8b946-906f-4870-99ad-85a1647de041_mobile_mid.m3u8"
+        },
+        "id": "5a16c510ef23a8127162f06c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d04f37beee5855953e2e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:55:08.996Z",
+      "updatedAt": "2017-12-20T03:20:49.009Z",
+      "parentId": "5a17c41c9f2dff58500f5964",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "德意志帝国君主立宪制的确立",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5edfdf15-0489-4d4a-8b74-86e9eeecdc93_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5edfdf15-0489-4d4a-8b74-86e9eeecdc93_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5edfdf15-0489-4d4a-8b74-86e9eeecdc93_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5edfdf15-0489-4d4a-8b74-86e9eeecdc93_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5edfdf15-0489-4d4a-8b74-86e9eeecdc93_mobile_mid.m3u8"
+        },
+        "id": "5a16c534ef23a8126cbd855a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d05c37beee5855953e30",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:03:03.016Z",
+    "updatedAt": "2017-12-20T03:22:44.375Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "近代中国反侵略求民主的潮流",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c4279f2dff58500f5966",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:55:21.815Z",
+      "updatedAt": "2017-12-20T03:21:25.611Z",
+      "parentId": "5a17c4279f2dff58500f5966",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "鸦片战争",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bdcac8a6-c130-4c5e-a75a-261517b872fd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bdcac8a6-c130-4c5e-a75a-261517b872fd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bdcac8a6-c130-4c5e-a75a-261517b872fd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bdcac8a6-c130-4c5e-a75a-261517b872fd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bdcac8a6-c130-4c5e-a75a-261517b872fd_mobile_mid.m3u8"
+        },
+        "id": "5a16c564d5ff752cd9c77c4d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0699f2dff58500f5977",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:55:29.172Z",
+      "updatedAt": "2017-12-20T03:21:33.911Z",
+      "parentId": "5a17c4279f2dff58500f5966",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "第二次鸦片战争",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/baa975df-43be-4684-95a6-0eb749da3744_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/baa975df-43be-4684-95a6-0eb749da3744_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/baa975df-43be-4684-95a6-0eb749da3744_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/baa975df-43be-4684-95a6-0eb749da3744_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/baa975df-43be-4684-95a6-0eb749da3744_mobile_mid.m3u8"
+        },
+        "id": "5a16c58aef23a812124cc571"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0719f2dff58500f5979",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:55:40.096Z",
+      "updatedAt": "2017-12-20T03:21:41.886Z",
+      "parentId": "5a17c4279f2dff58500f5966",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "太平天国运动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8c323d07-aa48-422d-99fa-2958df4c95f5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8c323d07-aa48-422d-99fa-2958df4c95f5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8c323d07-aa48-422d-99fa-2958df4c95f5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8c323d07-aa48-422d-99fa-2958df4c95f5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8c323d07-aa48-422d-99fa-2958df4c95f5_mobile_mid.m3u8"
+        },
+        "id": "5a16c5b3ef23a812b90a07dd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d07c9f2dff58500f597b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:55:47.383Z",
+      "updatedAt": "2017-12-20T03:21:53.065Z",
+      "parentId": "5a17c4279f2dff58500f5966",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "甲午战争",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/80a8eb06-baca-4945-ac84-567180eae9d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/80a8eb06-baca-4945-ac84-567180eae9d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/80a8eb06-baca-4945-ac84-567180eae9d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/80a8eb06-baca-4945-ac84-567180eae9d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/80a8eb06-baca-4945-ac84-567180eae9d2_mobile_mid.m3u8"
+        },
+        "id": "5a16c5e451f07463bbe8f0cd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d08337beee5855953e32",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:55:55.632Z",
+      "updatedAt": "2017-12-20T03:22:06.064Z",
+      "parentId": "5a17c4279f2dff58500f5966",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "八国联军侵华",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6a82a8ed-5e17-4287-9585-40790d5d5756_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6a82a8ed-5e17-4287-9585-40790d5d5756_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6a82a8ed-5e17-4287-9585-40790d5d5756_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6a82a8ed-5e17-4287-9585-40790d5d5756_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6a82a8ed-5e17-4287-9585-40790d5d5756_mobile_mid.m3u8"
+        },
+        "id": "5a16c61351f07463bbe8f0ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d08b37beee5855953e34",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:56:11.531Z",
+      "updatedAt": "2017-12-20T03:22:12.007Z",
+      "parentId": "5a17c4279f2dff58500f5966",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "义和团运动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/559b0ee8-11ab-4b7c-94ae-5782d403032d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/559b0ee8-11ab-4b7c-94ae-5782d403032d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/559b0ee8-11ab-4b7c-94ae-5782d403032d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/559b0ee8-11ab-4b7c-94ae-5782d403032d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/559b0ee8-11ab-4b7c-94ae-5782d403032d_mobile_mid.m3u8"
+        },
+        "id": "5a16c638ef23a812124cc572"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d09b9f2dff58500f597d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:56:18.903Z",
+      "updatedAt": "2017-12-20T03:22:30.236Z",
+      "parentId": "5a17c4279f2dff58500f5966",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "辛亥革命",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7c0e1e66-af5b-4fe0-a048-2964441ab2a0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7c0e1e66-af5b-4fe0-a048-2964441ab2a0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7c0e1e66-af5b-4fe0-a048-2964441ab2a0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7c0e1e66-af5b-4fe0-a048-2964441ab2a0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7c0e1e66-af5b-4fe0-a048-2964441ab2a0_mobile_mid.m3u8"
+        },
+        "id": "5a16c66dd5ff752cf74bdcb7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0a29f2dff58500f597f",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:03:14.177Z",
+    "updatedAt": "2017-12-20T03:25:51.860Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "新民主主义革命",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c4329f2dff58500f5968",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:56:33.676Z",
+      "updatedAt": "2017-12-20T03:22:56.689Z",
+      "parentId": "5a17c4329f2dff58500f5968",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "五四运动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6dfd6770-cfa6-4bb9-b4d2-89b796766928_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6dfd6770-cfa6-4bb9-b4d2-89b796766928_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6dfd6770-cfa6-4bb9-b4d2-89b796766928_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6dfd6770-cfa6-4bb9-b4d2-89b796766928_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6dfd6770-cfa6-4bb9-b4d2-89b796766928_mobile_mid.m3u8"
+        },
+        "id": "5a16c69b51f074634d5ce567"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0b19f2dff58500f5981",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:56:41.062Z",
+      "updatedAt": "2017-12-20T03:23:17.557Z",
+      "parentId": "5a17c4329f2dff58500f5968",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "中共诞生与国共合作",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1c850d50-9e44-4ee2-bc8f-7f708f67bca9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1c850d50-9e44-4ee2-bc8f-7f708f67bca9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1c850d50-9e44-4ee2-bc8f-7f708f67bca9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1c850d50-9e44-4ee2-bc8f-7f708f67bca9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1c850d50-9e44-4ee2-bc8f-7f708f67bca9_mobile_mid.m3u8"
+        },
+        "id": "5a16c6bf51f07463d79b1e03"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0b99f2dff58500f5983",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:56:49.051Z",
+      "updatedAt": "2017-12-20T03:23:34.582Z",
+      "parentId": "5a17c4329f2dff58500f5968",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "土地革命",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e439c703-c038-401e-87d9-e209f857b10b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e439c703-c038-401e-87d9-e209f857b10b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e439c703-c038-401e-87d9-e209f857b10b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e439c703-c038-401e-87d9-e209f857b10b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e439c703-c038-401e-87d9-e209f857b10b_mobile_mid.m3u8"
+        },
+        "id": "5a16c6d8ef23a812c5d2ffc4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0c19f2dff58500f5985",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:57:02.704Z",
+      "updatedAt": "2017-12-20T03:24:03.676Z",
+      "parentId": "5a17c4329f2dff58500f5968",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "日军侵华与国人的反抗",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/83829f72-8e7b-4dd7-ab8b-eb9a6943e237_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/83829f72-8e7b-4dd7-ab8b-eb9a6943e237_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/83829f72-8e7b-4dd7-ab8b-eb9a6943e237_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/83829f72-8e7b-4dd7-ab8b-eb9a6943e237_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/83829f72-8e7b-4dd7-ab8b-eb9a6943e237_mobile_mid.m3u8"
+        },
+        "id": "5a16c70cd5ff752ce5eaa75d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0ce37beee5855953e36",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:57:09.910Z",
+      "updatedAt": "2017-12-20T03:24:30.645Z",
+      "parentId": "5a17c4329f2dff58500f5968",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "解放战争",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/90fbaed3-fb64-43fd-a6ea-88b124384575_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/90fbaed3-fb64-43fd-a6ea-88b124384575_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/90fbaed3-fb64-43fd-a6ea-88b124384575_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/90fbaed3-fb64-43fd-a6ea-88b124384575_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/90fbaed3-fb64-43fd-a6ea-88b124384575_mobile_mid.m3u8"
+        },
+        "id": "5a16c72d51f074637789e2a3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0d537beee5855953e38",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:03:24.487Z",
+    "updatedAt": "2017-12-20T03:26:55.166Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "科学社会主义：从理论到制度",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c43c9f2dff58500f596a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:57:20.426Z",
+      "updatedAt": "2017-12-20T03:26:25.627Z",
+      "parentId": "5a17c43c9f2dff58500f596a",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "马克思主义的诞生",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d465e403-f3a3-49db-a2d4-7310509d0b35_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d465e403-f3a3-49db-a2d4-7310509d0b35_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d465e403-f3a3-49db-a2d4-7310509d0b35_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d465e403-f3a3-49db-a2d4-7310509d0b35_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d465e403-f3a3-49db-a2d4-7310509d0b35_mobile_mid.m3u8"
+        },
+        "id": "5a16c745ef23a8127162f06d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0e037beee5855953e3a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:57:27.501Z",
+      "updatedAt": "2017-12-20T03:26:38.838Z",
+      "parentId": "5a17c43c9f2dff58500f596a",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "十月革命",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/839173f1-8274-41a9-a95a-e76035e73d99_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/839173f1-8274-41a9-a95a-e76035e73d99_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/839173f1-8274-41a9-a95a-e76035e73d99_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/839173f1-8274-41a9-a95a-e76035e73d99_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/839173f1-8274-41a9-a95a-e76035e73d99_mobile_mid.m3u8"
+        },
+        "id": "5a16c76151f07463bbe8f0cf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d0e737beee5855953e3c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:08:13.383Z",
+    "updatedAt": "2017-12-20T03:33:03.780Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "现代中国政治建设",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c55d37beee5855953e01",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:58:04.417Z",
+      "updatedAt": "2017-12-20T03:28:12.409Z",
+      "parentId": "5a17c55d37beee5855953e01",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "中国的民主政治建设",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4640e2fd-f67a-4566-948c-28ef1c8e0cb8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4640e2fd-f67a-4566-948c-28ef1c8e0cb8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4640e2fd-f67a-4566-948c-28ef1c8e0cb8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4640e2fd-f67a-4566-948c-28ef1c8e0cb8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4640e2fd-f67a-4566-948c-28ef1c8e0cb8_mobile_mid.m3u8"
+        },
+        "id": "5a16c77551f07463a7d81fc0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d10c37beee5855953e3e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:58:12.019Z",
+      "updatedAt": "2017-12-20T03:32:20.235Z",
+      "parentId": "5a17c55d37beee5855953e01",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "民主政治建设的曲折发展",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/afb957af-b760-423e-97c3-5c5a6cd1c300_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/afb957af-b760-423e-97c3-5c5a6cd1c300_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/afb957af-b760-423e-97c3-5c5a6cd1c300_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/afb957af-b760-423e-97c3-5c5a6cd1c300_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/afb957af-b760-423e-97c3-5c5a6cd1c300_mobile_mid.m3u8"
+        },
+        "id": "5a16c78651f07463d22f73d2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d11437beee5855953e40",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:58:20.272Z",
+      "updatedAt": "2017-12-20T03:32:40.097Z",
+      "parentId": "5a17c55d37beee5855953e01",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "祖国统一与外交活动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/62fe9aee-6125-4312-9bf8-8fcd0ed25c76_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/62fe9aee-6125-4312-9bf8-8fcd0ed25c76_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/62fe9aee-6125-4312-9bf8-8fcd0ed25c76_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/62fe9aee-6125-4312-9bf8-8fcd0ed25c76_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/62fe9aee-6125-4312-9bf8-8fcd0ed25c76_mobile_mid.m3u8"
+        },
+        "id": "5a16c7a751f074635ebdfc5a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d11c37beee5855953e42",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:08:24.192Z",
+    "updatedAt": "2017-12-20T03:33:51.805Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "二战后世界政治格局的演变",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c5689f2dff58500f596c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:58:30.090Z",
+      "updatedAt": "2017-12-20T03:33:20.468Z",
+      "parentId": "5a17c5689f2dff58500f596c",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "两极格局",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d3b3a782-233d-4faa-912d-651c85288874_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d3b3a782-233d-4faa-912d-651c85288874_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d3b3a782-233d-4faa-912d-651c85288874_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d3b3a782-233d-4faa-912d-651c85288874_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d3b3a782-233d-4faa-912d-651c85288874_mobile_mid.m3u8"
+        },
+        "id": "5a16c7bfef23a81265868483"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d12637beee5855953e44",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:58:44.086Z",
+      "updatedAt": "2017-12-20T03:33:33.690Z",
+      "parentId": "5a17c5689f2dff58500f596c",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "世界多极化趋势",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d056f762-4343-4f67-aa2d-61cc0062949f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d056f762-4343-4f67-aa2d-61cc0062949f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d056f762-4343-4f67-aa2d-61cc0062949f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d056f762-4343-4f67-aa2d-61cc0062949f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d056f762-4343-4f67-aa2d-61cc0062949f_mobile_mid.m3u8"
+        },
+        "id": "5a16c7d751f07463b4adf502"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d13437beee5855953e46",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:08:33.691Z",
+    "updatedAt": "2017-12-20T03:34:50.253Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "古代中国的经济",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c5719f2dff58500f596e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:59:05.641Z",
+      "updatedAt": "2017-12-20T03:34:11.082Z",
+      "parentId": "5a17c5719f2dff58500f596e",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "三种行业",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a5be58ec-ad00-42fe-b46d-a0cf3df5f6cb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a5be58ec-ad00-42fe-b46d-a0cf3df5f6cb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a5be58ec-ad00-42fe-b46d-a0cf3df5f6cb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a5be58ec-ad00-42fe-b46d-a0cf3df5f6cb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a5be58ec-ad00-42fe-b46d-a0cf3df5f6cb_mobile_mid.m3u8"
+        },
+        "id": "5a16c81951f07463fc99b7b3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d14937beee5855953e48",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:59:14.122Z",
+      "updatedAt": "2017-12-20T03:34:26.107Z",
+      "parentId": "5a17c5719f2dff58500f596e",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "经济政策与资本主义萌芽",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ce5663e2-dd1d-4e8d-bd93-a796b91dc63e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ce5663e2-dd1d-4e8d-bd93-a796b91dc63e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ce5663e2-dd1d-4e8d-bd93-a796b91dc63e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ce5663e2-dd1d-4e8d-bd93-a796b91dc63e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ce5663e2-dd1d-4e8d-bd93-a796b91dc63e_mobile_mid.m3u8"
+        },
+        "id": "5a16c834ef23a8126cbd855b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d15237beee5855953e4a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:11:26.298Z",
+    "updatedAt": "2017-12-20T03:35:53.822Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "资本主义世界市场的形成和发展",
+    "order": 10,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c61e37beee5855953e05",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:59:24.826Z",
+      "updatedAt": "2017-12-20T03:35:06.422Z",
+      "parentId": "5a17c61e37beee5855953e05",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "新航路的开辟",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9d6da63f-b398-4fef-b8bb-c5bbf245d95f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9d6da63f-b398-4fef-b8bb-c5bbf245d95f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9d6da63f-b398-4fef-b8bb-c5bbf245d95f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9d6da63f-b398-4fef-b8bb-c5bbf245d95f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9d6da63f-b398-4fef-b8bb-c5bbf245d95f_mobile_mid.m3u8"
+        },
+        "id": "5a16c85551f07463f0b9a4e1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d15c37beee5855953e4c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:59:32.600Z",
+      "updatedAt": "2017-12-20T03:35:25.270Z",
+      "parentId": "5a17c61e37beee5855953e05",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "殖民扩张",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8fadef74-9114-4960-9195-7d990fe90c6d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8fadef74-9114-4960-9195-7d990fe90c6d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8fadef74-9114-4960-9195-7d990fe90c6d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8fadef74-9114-4960-9195-7d990fe90c6d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8fadef74-9114-4960-9195-7d990fe90c6d_mobile_mid.m3u8"
+        },
+        "id": "5a16c86bef23a812855a3a96"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d1649f2dff58500f5987",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:59:41.998Z",
+      "updatedAt": "2017-12-20T03:35:40.029Z",
+      "parentId": "5a17c61e37beee5855953e05",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "工业革命",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2f234e11-4d76-446f-84a7-c8c75cd8b8b5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2f234e11-4d76-446f-84a7-c8c75cd8b8b5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2f234e11-4d76-446f-84a7-c8c75cd8b8b5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2f234e11-4d76-446f-84a7-c8c75cd8b8b5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2f234e11-4d76-446f-84a7-c8c75cd8b8b5_mobile_mid.m3u8"
+        },
+        "id": "5a16c89851f074637db8f2a5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d16d9f2dff58500f5989",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:11:36.052Z",
+    "updatedAt": "2017-12-20T03:36:40.469Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "近代中国经济结构的变动",
+    "order": 11,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c62837beee5855953e07",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T07:59:56.078Z",
+      "updatedAt": "2017-12-20T03:36:10.425Z",
+      "parentId": "5a17c62837beee5855953e07",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "洋务企业",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f4679964-c421-4cf2-811c-17983688b7dd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f4679964-c421-4cf2-811c-17983688b7dd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f4679964-c421-4cf2-811c-17983688b7dd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f4679964-c421-4cf2-811c-17983688b7dd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f4679964-c421-4cf2-811c-17983688b7dd_mobile_mid.m3u8"
+        },
+        "id": "5a16c8aeef23a8125ea9e5e3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d17c9f2dff58500f598b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:00:03.676Z",
+      "updatedAt": "2017-12-20T03:36:26.095Z",
+      "parentId": "5a17c62837beee5855953e07",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "民族工业",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a21514a4-35b0-4ba7-9ff2-e698b35ce041_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a21514a4-35b0-4ba7-9ff2-e698b35ce041_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a21514a4-35b0-4ba7-9ff2-e698b35ce041_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a21514a4-35b0-4ba7-9ff2-e698b35ce041_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a21514a4-35b0-4ba7-9ff2-e698b35ce041_mobile_mid.m3u8"
+        },
+        "id": "5a16c8ca51f07463521527c4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d1839f2dff58500f598d",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:11:44.499Z",
+    "updatedAt": "2017-12-20T03:37:11.950Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "苏联社会主义建设",
+    "order": 12,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c63037beee5855953e09",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:00:13.553Z",
+      "updatedAt": "2017-12-20T03:36:54.754Z",
+      "parentId": "5a17c63037beee5855953e09",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "战时共产主义与新经济政策",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/96c992d4-395c-463a-aebb-7f0f95b5900a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/96c992d4-395c-463a-aebb-7f0f95b5900a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/96c992d4-395c-463a-aebb-7f0f95b5900a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/96c992d4-395c-463a-aebb-7f0f95b5900a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/96c992d4-395c-463a-aebb-7f0f95b5900a_mobile_mid.m3u8"
+        },
+        "id": "5a16c8ecd5ff752cb1b7f080"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d18d9f2dff58500f598f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:00:20.666Z",
+      "updatedAt": "2017-12-20T03:37:35.770Z",
+      "parentId": "5a17c63037beee5855953e09",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "斯大林模式与改革",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1630390f-ea6f-4a5c-812c-823a1fc8916e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1630390f-ea6f-4a5c-812c-823a1fc8916e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1630390f-ea6f-4a5c-812c-823a1fc8916e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1630390f-ea6f-4a5c-812c-823a1fc8916e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1630390f-ea6f-4a5c-812c-823a1fc8916e_mobile_mid.m3u8"
+        },
+        "id": "5a16c92751f074637789e2a4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d1949f2dff58500f5991",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:11:53.298Z",
+    "updatedAt": "2017-12-20T03:39:35.062Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "资本主义的调整与新变化",
+    "order": 13,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c63937beee5855953e0b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:03:26.442Z",
+      "updatedAt": "2017-12-20T03:38:15.354Z",
+      "parentId": "5a17c63937beee5855953e0b",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "罗斯福新政",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04390767-6a0c-4d0b-b65e-27e9d69d415d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04390767-6a0c-4d0b-b65e-27e9d69d415d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04390767-6a0c-4d0b-b65e-27e9d69d415d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04390767-6a0c-4d0b-b65e-27e9d69d415d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04390767-6a0c-4d0b-b65e-27e9d69d415d_mobile_mid.m3u8"
+        },
+        "id": "5a16c94cd5ff752ccab5c77a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d24e37beee5855953e4e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:03:33.530Z",
+      "updatedAt": "2017-12-20T03:38:40.298Z",
+      "parentId": "5a17c63937beee5855953e0b",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "二战后资本主义的调整",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e713d5bd-bfb4-4ea1-8249-f2cd068f33e8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e713d5bd-bfb4-4ea1-8249-f2cd068f33e8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e713d5bd-bfb4-4ea1-8249-f2cd068f33e8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e713d5bd-bfb4-4ea1-8249-f2cd068f33e8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e713d5bd-bfb4-4ea1-8249-f2cd068f33e8_mobile_mid.m3u8"
+        },
+        "id": "5a16c96f51f074635ebdfc5b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d25537beee5855953e50",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:03:41.005Z",
+      "updatedAt": "2017-12-20T03:38:57.692Z",
+      "parentId": "5a17c63937beee5855953e0b",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "战后资本主义世界经济体系",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7a10fb8b-78f0-4892-80d9-cd762be966fc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7a10fb8b-78f0-4892-80d9-cd762be966fc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7a10fb8b-78f0-4892-80d9-cd762be966fc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7a10fb8b-78f0-4892-80d9-cd762be966fc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7a10fb8b-78f0-4892-80d9-cd762be966fc_mobile_mid.m3u8"
+        },
+        "id": "5a16c9a0d5ff752cb1b7f081"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d25d37beee5855953e52",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:12:01.554Z",
+    "updatedAt": "2017-12-20T03:39:52.856Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "中国特色社会主义建设的道路",
+    "order": 14,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c64137beee5855953e0d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:03:55.662Z",
+      "updatedAt": "2017-12-20T03:40:04.390Z",
+      "parentId": "5a17c64137beee5855953e0d",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "探索社会主义建设道路",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/737c1ee6-f731-4358-8f89-17125f6e73ec_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/737c1ee6-f731-4358-8f89-17125f6e73ec_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/737c1ee6-f731-4358-8f89-17125f6e73ec_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/737c1ee6-f731-4358-8f89-17125f6e73ec_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/737c1ee6-f731-4358-8f89-17125f6e73ec_mobile_mid.m3u8"
+        },
+        "id": "5a16c9d1ef23a8127c8349c1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d26b37beee5855953e54",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:04:03.845Z",
+      "updatedAt": "2017-12-20T03:40:18.693Z",
+      "parentId": "5a17c64137beee5855953e0d",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "改革开放",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5332c316-d41d-4e0c-84c1-554bcd9b628a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5332c316-d41d-4e0c-84c1-554bcd9b628a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5332c316-d41d-4e0c-84c1-554bcd9b628a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5332c316-d41d-4e0c-84c1-554bcd9b628a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5332c316-d41d-4e0c-84c1-554bcd9b628a_mobile_mid.m3u8"
+        },
+        "id": "5a16c9ef51f07463b4adf503"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d27337beee5855953e56",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:12:13.139Z",
+    "updatedAt": "2017-12-20T03:41:20.196Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "中国近现代社会生活的变迁",
+    "order": 15,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c64d37beee5855953e0f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:04:11.121Z",
+      "updatedAt": "2017-12-20T03:41:34.360Z",
+      "parentId": "5a17c64d37beee5855953e0f",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "物质生活",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/68cde9f1-e7ab-4847-81fd-9021f596b549_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/68cde9f1-e7ab-4847-81fd-9021f596b549_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/68cde9f1-e7ab-4847-81fd-9021f596b549_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/68cde9f1-e7ab-4847-81fd-9021f596b549_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/68cde9f1-e7ab-4847-81fd-9021f596b549_mobile_mid.m3u8"
+        },
+        "id": "5a16ca11d5ff752d15794f5c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d27b37beee5855953e58",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:04:22.139Z",
+      "updatedAt": "2017-12-20T03:42:43.248Z",
+      "parentId": "5a17c64d37beee5855953e0f",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "科教文卫",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6f2c9c7f-6d4e-4b43-9d7a-805b89b6dc7a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6f2c9c7f-6d4e-4b43-9d7a-805b89b6dc7a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6f2c9c7f-6d4e-4b43-9d7a-805b89b6dc7a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6f2c9c7f-6d4e-4b43-9d7a-805b89b6dc7a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6f2c9c7f-6d4e-4b43-9d7a-805b89b6dc7a_mobile_mid.m3u8"
+        },
+        "id": "5a16ca2aef23a812d87d59ba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d28637beee5855953e5a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:12:22.763Z",
+    "updatedAt": "2017-12-20T03:44:15.961Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "古代中国的思想、科技与文化",
+    "order": 16,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c65637beee5855953e11",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:04:36.826Z",
+      "updatedAt": "2017-12-20T03:43:19.447Z",
+      "parentId": "5a17c65637beee5855953e11",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "春秋战国时期的儒家思想",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/54935774-2df5-42cd-b631-f792fd8e416c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/54935774-2df5-42cd-b631-f792fd8e416c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/54935774-2df5-42cd-b631-f792fd8e416c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/54935774-2df5-42cd-b631-f792fd8e416c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/54935774-2df5-42cd-b631-f792fd8e416c_mobile_mid.m3u8"
+        },
+        "id": "5a16ca5cd5ff752cc116150b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d29437beee5855953e5c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:04:44.374Z",
+      "updatedAt": "2017-12-20T03:44:38.533Z",
+      "parentId": "5a17c65637beee5855953e11",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "百家争鸣",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a1fc3133-d976-43a1-8e16-494edbd41af7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a1fc3133-d976-43a1-8e16-494edbd41af7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a1fc3133-d976-43a1-8e16-494edbd41af7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a1fc3133-d976-43a1-8e16-494edbd41af7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a1fc3133-d976-43a1-8e16-494edbd41af7_mobile_mid.m3u8"
+        },
+        "id": "5a16ca8cef23a8121ce19a6f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d29c37beee5855953e5e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:04:54.528Z",
+      "updatedAt": "2017-12-20T03:45:02.549Z",
+      "parentId": "5a17c65637beee5855953e11",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "汉以后儒家的演变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3d5326d0-d510-4680-a762-c2058d1a8493_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3d5326d0-d510-4680-a762-c2058d1a8493_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3d5326d0-d510-4680-a762-c2058d1a8493_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3d5326d0-d510-4680-a762-c2058d1a8493_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3d5326d0-d510-4680-a762-c2058d1a8493_mobile_mid.m3u8"
+        },
+        "id": "5a16cac551f0746358e94509"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2a637beee5855953e60",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:02.195Z",
+      "updatedAt": "2017-12-20T03:45:19.545Z",
+      "parentId": "5a17c65637beee5855953e11",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "古代中国科技成就",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d72ce3c3-5fcd-4824-b90d-3357d4f1b308_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d72ce3c3-5fcd-4824-b90d-3357d4f1b308_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d72ce3c3-5fcd-4824-b90d-3357d4f1b308_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d72ce3c3-5fcd-4824-b90d-3357d4f1b308_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d72ce3c3-5fcd-4824-b90d-3357d4f1b308_mobile_mid.m3u8"
+        },
+        "id": "5a16caf251f07463ca176560"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2ae37beee5855953e62",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:09.864Z",
+      "updatedAt": "2017-12-20T03:45:34.801Z",
+      "parentId": "5a17c65637beee5855953e11",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "古代中国文化成就",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/43728fa4-1f12-4f37-a69e-a79c303fcb5a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/43728fa4-1f12-4f37-a69e-a79c303fcb5a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/43728fa4-1f12-4f37-a69e-a79c303fcb5a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/43728fa4-1f12-4f37-a69e-a79c303fcb5a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/43728fa4-1f12-4f37-a69e-a79c303fcb5a_mobile_mid.m3u8"
+        },
+        "id": "5a16cb1aef23a812d77d80d6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2b537beee5855953e64",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:13:11.366Z",
+    "updatedAt": "2017-12-20T03:45:51.647Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "西方人文精神的起源",
+    "order": 17,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c68737beee5855953e13",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:18.300Z",
+      "updatedAt": "2017-12-20T03:46:08.398Z",
+      "parentId": "5a17c68737beee5855953e13",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "智者学派到亚里士多德",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/15cf12a5-13ba-4e2c-bbd3-07ac001a65eb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/15cf12a5-13ba-4e2c-bbd3-07ac001a65eb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/15cf12a5-13ba-4e2c-bbd3-07ac001a65eb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/15cf12a5-13ba-4e2c-bbd3-07ac001a65eb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/15cf12a5-13ba-4e2c-bbd3-07ac001a65eb_mobile_mid.m3u8"
+        },
+        "id": "5a16cb2ed5ff752cd2470ced"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2be37beee5855953e66",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:13:20.454Z",
+    "updatedAt": "2017-12-20T03:46:19.988Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "近代人文主义的发展",
+    "order": 18,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c69037beee5855953e15",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:28.058Z",
+      "updatedAt": "2017-12-20T03:46:36.463Z",
+      "parentId": "5a17c69037beee5855953e15",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "从文艺复兴到宗教改革",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3ea5393c-19e7-4b10-9db9-3c4a606d19be_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3ea5393c-19e7-4b10-9db9-3c4a606d19be_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3ea5393c-19e7-4b10-9db9-3c4a606d19be_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3ea5393c-19e7-4b10-9db9-3c4a606d19be_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3ea5393c-19e7-4b10-9db9-3c4a606d19be_mobile_mid.m3u8"
+        },
+        "id": "5a16cb5451f07463eab43c6d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2c837beee5855953e68",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:35.473Z",
+      "updatedAt": "2017-12-20T03:47:02.514Z",
+      "parentId": "5a17c69037beee5855953e15",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "启蒙运动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ad817568-7c2d-4924-aa49-2925032eee5e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ad817568-7c2d-4924-aa49-2925032eee5e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ad817568-7c2d-4924-aa49-2925032eee5e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ad817568-7c2d-4924-aa49-2925032eee5e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ad817568-7c2d-4924-aa49-2925032eee5e_mobile_mid.m3u8"
+        },
+        "id": "5a16cb6551f074637db8f2a6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2cf9f2dff58500f5993",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:13:28.645Z",
+    "updatedAt": "2017-12-20T03:48:09.986Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "中国思想解放的潮流",
+    "order": 19,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c69837beee5855953e17",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:43.267Z",
+      "updatedAt": "2017-12-20T03:47:21.895Z",
+      "parentId": "5a17c69837beee5855953e17",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "开眼看世界到洋务派",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3c0f584c-aedc-4c2b-a175-c28073702f68_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3c0f584c-aedc-4c2b-a175-c28073702f68_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3c0f584c-aedc-4c2b-a175-c28073702f68_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3c0f584c-aedc-4c2b-a175-c28073702f68_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3c0f584c-aedc-4c2b-a175-c28073702f68_mobile_mid.m3u8"
+        },
+        "id": "5a16cb8551f074637db8f2a7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2d79f2dff58500f5995",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:50.939Z",
+      "updatedAt": "2017-12-20T03:48:45.209Z",
+      "parentId": "5a17c69837beee5855953e17",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "维新思潮",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4c093124-4fec-4ea1-a427-0c9a595995d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4c093124-4fec-4ea1-a427-0c9a595995d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4c093124-4fec-4ea1-a427-0c9a595995d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4c093124-4fec-4ea1-a427-0c9a595995d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4c093124-4fec-4ea1-a427-0c9a595995d2_mobile_mid.m3u8"
+        },
+        "id": "5a16cb9851f074637db8f2a8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2de9f2dff58500f5997",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:05:58.669Z",
+      "updatedAt": "2017-12-20T03:49:15.548Z",
+      "parentId": "5a17c69837beee5855953e17",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "三民主义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/668ee767-2b26-4f8f-9db9-15ab39195967_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/668ee767-2b26-4f8f-9db9-15ab39195967_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/668ee767-2b26-4f8f-9db9-15ab39195967_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/668ee767-2b26-4f8f-9db9-15ab39195967_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/668ee767-2b26-4f8f-9db9-15ab39195967_mobile_mid.m3u8"
+        },
+        "id": "5a16cbabd5ff752ce5eaa75e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2e69f2dff58500f5999",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:06:06.294Z",
+      "updatedAt": "2017-12-20T03:49:31.413Z",
+      "parentId": "5a17c69837beee5855953e17",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "新文化运动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e67452fd-fc3d-4f3a-9a22-d2f427e3f799_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e67452fd-fc3d-4f3a-9a22-d2f427e3f799_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e67452fd-fc3d-4f3a-9a22-d2f427e3f799_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e67452fd-fc3d-4f3a-9a22-d2f427e3f799_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e67452fd-fc3d-4f3a-9a22-d2f427e3f799_mobile_mid.m3u8"
+        },
+        "id": "5a16cbbf51f074637db8f2a9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2ee37beee5855953e84",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:13:37.271Z",
+    "updatedAt": "2017-12-20T03:49:55.289Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "近代以来的科技和19世纪以来的文艺",
+    "order": 20,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c6a137beee5855953e19",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:06:13.465Z",
+      "updatedAt": "2017-12-20T03:50:06.680Z",
+      "parentId": "5a17c6a137beee5855953e19",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "科技进步",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7018fd8f-5259-4e09-be67-b536b510958e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7018fd8f-5259-4e09-be67-b536b510958e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7018fd8f-5259-4e09-be67-b536b510958e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7018fd8f-5259-4e09-be67-b536b510958e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7018fd8f-5259-4e09-be67-b536b510958e_mobile_mid.m3u8"
+        },
+        "id": "5a16cbd9ef23a812eda5fbb6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2f537beee5855953e86",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:06:23.935Z",
+      "updatedAt": "2017-12-20T03:50:19.123Z",
+      "parentId": "5a17c6a137beee5855953e19",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "文艺流变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/463c37d4-e1f4-4969-b05f-219a329eb1dd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/463c37d4-e1f4-4969-b05f-219a329eb1dd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/463c37d4-e1f4-4969-b05f-219a329eb1dd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/463c37d4-e1f4-4969-b05f-219a329eb1dd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/463c37d4-e1f4-4969-b05f-219a329eb1dd_mobile_mid.m3u8"
+        },
+        "id": "5a16cbfe51f07463bbe8f0d0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d2ff9f2dff58500f599b",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-24T07:13:44.671Z",
+    "updatedAt": "2017-12-20T03:50:33.586Z",
+    "courseId": "5a152ac09f2dff58500f57ba",
+    "name": "新中国的重大思想理论成果",
+    "order": 21,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a17c6a837beee5855953e1b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-24T08:06:31.444Z",
+      "updatedAt": "2017-12-20T03:50:48.341Z",
+      "parentId": "5a17c6a837beee5855953e1b",
+      "courseId": "5a152ac09f2dff58500f57ba",
+      "name": "毛泽东思想与邓小平理论",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f34ca220-ea5c-454d-820b-acb130eba807_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f34ca220-ea5c-454d-820b-acb130eba807_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f34ca220-ea5c-454d-820b-acb130eba807_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f34ca220-ea5c-454d-820b-acb130eba807_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f34ca220-ea5c-454d-820b-acb130eba807_mobile_mid.m3u8"
+        },
+        "id": "5a16cc1551f07463d87da969"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a17d3079f2dff58500f599d",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

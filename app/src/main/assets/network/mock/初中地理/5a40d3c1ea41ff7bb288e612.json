@@ -1,0 +1,413 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-12-25T10:32:33.872Z",
+  "updatedAt": "2018-01-03T09:15:58.800Z",
+  "name": "基础初中地理七年级下",
+  "numOfClasses": 13,
+  "price": 78,
+  "teacher": {
+    "name": "张海嵩",
+    "description": "北方网特邀文综专家，前新东方优秀教师，现任天津优冠育才学校文综学科主管。对初高中知识的衔接性有深入的了解，对于不同程度的学生能够循序渐进的讲解，弄清知识点含混不清的根源，用通俗易懂的例子把知识点形象化。注重基础知识的巩固，使学生能在基础题上拿满分。授课时长超过2000小时，曾带领学生用两小时时间攻破地理大题，使班内40多分的学生在期末考试时取得80+的好成绩。",
+    "avatar": "http://imgs.wanmen.org/c47f18cb15caaa677c06902d83c21407.png",
+    "id": "5a191f0f9f2dff58500f59cd"
+  },
+  "major": "592293778bf62912ff716eed",
+  "expiration": 12,
+  "hide": false,
+  "tag": "张海嵩 初中 基础 七年级 下 ",
+  "smallImage": "http://imgs.wanmen.org/3606464588de7b330f9ccce55991c387.png",
+  "videoCount": 11,
+  "searchCount": null,
+  "description": "本课程详细解读了世界上的重要国家和地区，使学生能够掌握分析世界上任何一个地区的技巧。从自然环境和人文经济两方面入手，对自然与人文之间的关系进行循序渐进的讲解，让学生明白自然环境是一个地区发展的基础，衣食住行等人类生活离不开气候、地形等这些自然因素，同时也激发了学生对世界各地风土人情进行深入探索的兴趣。",
+  "bigImage": "http://imgs.wanmen.org/2ffaa005f043e48ed09ce0bc63fe1822.png",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 0,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 13,
+  "teacherDescription": "北方网特邀文综专家，前新东方优秀教师，现任天津优冠育才学校文综学科主管。对初高中知识的衔接性有深入的了解，对于不同程度的学生能够循序渐进的讲解，弄清知识点含混不清的根源，用通俗易懂的例子把知识点形象化。注重基础知识的巩固，使学生能在基础题上拿满分。授课时长超过2000小时，曾带领学生用两小时时间攻破地理大题，使班内40多分的学生在期末考试时取得80+的好成绩。",
+  "teacherAvatar": "http://imgs.wanmen.org/c47f18cb15caaa677c06902d83c21407.png",
+  "teacherName": "张海嵩",
+  "mobileCoverUrl": "http://imgs.wanmen.org/3606464588de7b330f9ccce55991c387.png",
+  "coverUrl": "http://imgs.wanmen.org/2ffaa005f043e48ed09ce0bc63fe1822.png",
+  "smallImageUrl": "http://imgs.wanmen.org/3606464588de7b330f9ccce55991c387.png",
+  "bigImageUrl": "http://imgs.wanmen.org/2ffaa005f043e48ed09ce0bc63fe1822.png",
+  "id": "5a40d3c1ea41ff7bb288e612",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-02T10:22:35.962Z",
+    "updatedAt": "2018-01-02T10:22:35.962Z",
+    "courseId": "5a40d3c1ea41ff7bb288e612",
+    "name": "亚洲的位置和范围",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4b5d6b6584c340677be3f9",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:22:52.621Z",
+      "updatedAt": "2018-01-03T09:17:17.946Z",
+      "parentId": "5a4b5d6b6584c340677be3f9",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "亚洲位置概述",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_mobile_mid.m3u8"
+        },
+        "id": "5a3b8c6751f07410ec8715e1"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4b5d7c6584c340677be3fb",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a1a3deb3-99fc-40b6-92f3-5c3eb6d0c689_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-02T10:23:31.815Z",
+    "updatedAt": "2018-01-02T10:23:42.212Z",
+    "courseId": "5a40d3c1ea41ff7bb288e612",
+    "name": "亚洲的自然环境",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4b5da36584c340677be3fd",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:24:13.027Z",
+      "updatedAt": "2018-01-03T09:17:24.849Z",
+      "parentId": "5a4b5da36584c340677be3fd",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "地形与河流",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_mobile_mid.m3u8"
+        },
+        "id": "5a3b8cbb51f074112c043109"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4b5dcdd3e36d732696ba81",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/82d764d7-6191-4b31-af8f-b2ce751b82ae_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:24:43.967Z",
+      "updatedAt": "2018-01-03T09:17:29.864Z",
+      "parentId": "5a4b5da36584c340677be3fd",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "复杂的气候",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fda8b35f-d642-4000-ad85-5ecccc305648_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fda8b35f-d642-4000-ad85-5ecccc305648_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fda8b35f-d642-4000-ad85-5ecccc305648_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fda8b35f-d642-4000-ad85-5ecccc305648_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fda8b35f-d642-4000-ad85-5ecccc305648_mobile_mid.m3u8"
+        },
+        "id": "5a3b8cfdd5ff75134bb44009"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5debd3e36d732696ba83",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:24:59.801Z",
+      "updatedAt": "2018-01-02T10:25:51.455Z",
+      "parentId": "5a4b5da36584c340677be3fd",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "知识精练",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f0502905-8b73-4b45-9e03-379606a27b41_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f0502905-8b73-4b45-9e03-379606a27b41_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f0502905-8b73-4b45-9e03-379606a27b41_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f0502905-8b73-4b45-9e03-379606a27b41_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f0502905-8b73-4b45-9e03-379606a27b41_mobile_mid.m3u8"
+        },
+        "id": "5a3b8d4a51f0741120ec3276"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5dfbd3e36d732696ba85",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-02T10:26:12.740Z",
+    "updatedAt": "2018-01-02T10:26:12.740Z",
+    "courseId": "5a40d3c1ea41ff7bb288e612",
+    "name": "日本",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4b5e44d3e36d732696ba87",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:26:28.554Z",
+      "updatedAt": "2018-01-02T10:27:15.365Z",
+      "parentId": "5a4b5e44d3e36d732696ba87",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "多火山地震",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b32f60cc-f59b-447e-bd62-9cb5eab109e3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b32f60cc-f59b-447e-bd62-9cb5eab109e3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b32f60cc-f59b-447e-bd62-9cb5eab109e3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b32f60cc-f59b-447e-bd62-9cb5eab109e3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b32f60cc-f59b-447e-bd62-9cb5eab109e3_mobile_mid.m3u8"
+        },
+        "id": "5a3b8d7bd5ff751337ba27cd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5e54d3e36d732696ba89",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:26:44.327Z",
+      "updatedAt": "2018-01-02T10:27:29.796Z",
+      "parentId": "5a4b5e44d3e36d732696ba87",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "工业与文化",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5445c4ff-0ed4-415a-aa46-16bc66cb6b79_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5445c4ff-0ed4-415a-aa46-16bc66cb6b79_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5445c4ff-0ed4-415a-aa46-16bc66cb6b79_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5445c4ff-0ed4-415a-aa46-16bc66cb6b79_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5445c4ff-0ed4-415a-aa46-16bc66cb6b79_mobile_mid.m3u8"
+        },
+        "id": "5a3b8dda51f074113571f295"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5e64d3e36d732696ba8b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:27:02.889Z",
+      "updatedAt": "2018-01-02T10:27:39.035Z",
+      "parentId": "5a4b5e44d3e36d732696ba87",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "知识精练",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2f943166-5577-4b1d-b45f-0c9fb38becf6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2f943166-5577-4b1d-b45f-0c9fb38becf6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2f943166-5577-4b1d-b45f-0c9fb38becf6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2f943166-5577-4b1d-b45f-0c9fb38becf6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2f943166-5577-4b1d-b45f-0c9fb38becf6_mobile_mid.m3u8"
+        },
+        "id": "5a3b8e0951f0741120ec3277"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5e76d3e36d732696ba8d",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-02T10:27:59.421Z",
+    "updatedAt": "2018-01-11T06:51:14.864Z",
+    "courseId": "5a40d3c1ea41ff7bb288e612",
+    "name": "东南亚",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4b5eaf6584c340677be3ff",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:28:14.433Z",
+      "updatedAt": "2018-01-11T06:50:07.071Z",
+      "parentId": "5a4b5eaf6584c340677be3ff",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "地理位置",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e2d03710-018c-45f7-b8b6-d5fda7ef1f10_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e2d03710-018c-45f7-b8b6-d5fda7ef1f10_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e2d03710-018c-45f7-b8b6-d5fda7ef1f10_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e2d03710-018c-45f7-b8b6-d5fda7ef1f10_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e2d03710-018c-45f7-b8b6-d5fda7ef1f10_mobile_mid.m3u8"
+        },
+        "id": "5a3b8e5151f0741126c85dfc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5ebe6584c340677be401",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:28:32.630Z",
+      "updatedAt": "2018-01-11T06:50:37.373Z",
+      "parentId": "5a4b5eaf6584c340677be3ff",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "气候与农业生产",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ac33c352-9c68-4f9e-9858-2647b2caab2f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ac33c352-9c68-4f9e-9858-2647b2caab2f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ac33c352-9c68-4f9e-9858-2647b2caab2f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ac33c352-9c68-4f9e-9858-2647b2caab2f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ac33c352-9c68-4f9e-9858-2647b2caab2f_mobile_mid.m3u8"
+        },
+        "id": "5a3b8e8ad5ff75136391ffc8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5ed06584c340677be403",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:28:49.419Z",
+      "updatedAt": "2018-01-11T06:50:53.480Z",
+      "parentId": "5a4b5eaf6584c340677be3ff",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "城市与旅游",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1b487d1c-8b2e-489c-a640-3d1c9ac049fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1b487d1c-8b2e-489c-a640-3d1c9ac049fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1b487d1c-8b2e-489c-a640-3d1c9ac049fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1b487d1c-8b2e-489c-a640-3d1c9ac049fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1b487d1c-8b2e-489c-a640-3d1c9ac049fb_mobile_mid.m3u8"
+        },
+        "id": "5a3b8eca51f0741119bd276e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5ee16584c340677be405",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-02T10:29:03.502Z",
+      "updatedAt": "2018-01-11T06:51:11.660Z",
+      "parentId": "5a4b5eaf6584c340677be3ff",
+      "courseId": "5a40d3c1ea41ff7bb288e612",
+      "name": "知识精练",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e4fef175-9a01-401d-9b7f-f63196908237_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e4fef175-9a01-401d-9b7f-f63196908237_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e4fef175-9a01-401d-9b7f-f63196908237_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e4fef175-9a01-401d-9b7f-f63196908237_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e4fef175-9a01-401d-9b7f-f63196908237_mobile_mid.m3u8"
+        },
+        "id": "5a3b8eee51f07410933c7b75"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4b5eef6584c340677be407",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

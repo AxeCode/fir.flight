@@ -1,0 +1,1831 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-04-24T06:29:34.958Z",
+  "updatedAt": "2018-01-09T04:10:44.657Z",
+  "name": "高考历史二轮复习",
+  "description": "本课程是高考历史的二轮复习。致力于通过考点脉络的梳理为同学们构建知识体系，理清古代中国、古代希腊罗马、近代中国、近代世界、现代中国和现代世界等六大专题的内容，做到心中有“知识树”，答题有“理解力”，学会分析阐释，提高应试能力。",
+  "shortDescription": "本课程是高考历史的二轮复习。致力于通过考点脉络的梳理为同学们构建知识体系，学会分析阐释，提高应试能力。",
+  "price": 158,
+  "hide": false,
+  "major": "586d234f5f07127674152c50",
+  "smallImage": "http://imgs.wanmen.org/8fabe39b9156410d257d1e890c518e6b.png",
+  "bigImage": "http://imgs.wanmen.org/1c20ab1fc3a10c39def20c83a8fbda28.png",
+  "teacherName": "丁子江",
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/8fabe39b9156410d257d1e890c518e6b.png",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "numOfClasses": 7,
+  "expiration": 12,
+  "order": 11,
+  "tag": "丁子江 高中 历史 二轮 复习 ",
+  "videoCount": 62,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 32,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 7,
+  "mobileCoverUrl": "http://imgs.wanmen.org/8fabe39b9156410d257d1e890c518e6b.png",
+  "coverUrl": "http://imgs.wanmen.org/1c20ab1fc3a10c39def20c83a8fbda28.png",
+  "bigImageUrl": "http://imgs.wanmen.org/1c20ab1fc3a10c39def20c83a8fbda28.png",
+  "id": "58fd9b4e0458b1511a909b77",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-04-24T06:30:28.933Z",
+    "updatedAt": "2017-12-21T03:28:47.099Z",
+    "courseId": "58fd9b4e0458b1511a909b77",
+    "name": "高考历史二轮复习指导",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58fd9b840458b1511a909b79",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:30:51.501Z",
+      "updatedAt": "2017-12-21T03:29:50.995Z",
+      "parentId": "58fd9b840458b1511a909b79",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "高考历史二轮复习指导",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_mobile_mid.m3u8"
+        },
+        "id": "59031d25ef23a87fa6346128"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "58fd9b9b0458b1511a909b7b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/fa65491e-09d2-471d-82d1-2e23ad5a3bda_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-04-24T06:31:02.198Z",
+    "updatedAt": "2017-12-21T03:29:55.929Z",
+    "courseId": "58fd9b4e0458b1511a909b77",
+    "name": "古代中国：中华文明的形成和发展历程",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58fd9ba60458b1511a909b7d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:32:25.963Z",
+      "updatedAt": "2017-12-21T03:30:06.932Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "古代中国：中华文明史复习指导",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/46cb6511-01b2-4115-9cc6-5b898c8746e5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/46cb6511-01b2-4115-9cc6-5b898c8746e5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/46cb6511-01b2-4115-9cc6-5b898c8746e5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/46cb6511-01b2-4115-9cc6-5b898c8746e5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/46cb6511-01b2-4115-9cc6-5b898c8746e5_mobile_mid.m3u8"
+        },
+        "id": "59031d8151f0744708f7418c"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9bf90458b1511a909b89",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:32:33.955Z",
+      "updatedAt": "2017-12-21T03:32:51.605Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "先秦时期的政治",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/573269be-edc2-4af7-8308-d6c74b9fdf6e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/573269be-edc2-4af7-8308-d6c74b9fdf6e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/573269be-edc2-4af7-8308-d6c74b9fdf6e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/573269be-edc2-4af7-8308-d6c74b9fdf6e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/573269be-edc2-4af7-8308-d6c74b9fdf6e_mobile_mid.m3u8"
+        },
+        "id": "59031ef4d5ff75263ec168c2"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c010458b1511a909b8b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:32:41.272Z",
+      "updatedAt": "2017-12-21T03:32:55.428Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "先秦时期的思想、文化",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8c947f75-124e-4cab-8c18-1547b63e74ca_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8c947f75-124e-4cab-8c18-1547b63e74ca_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8c947f75-124e-4cab-8c18-1547b63e74ca_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8c947f75-124e-4cab-8c18-1547b63e74ca_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8c947f75-124e-4cab-8c18-1547b63e74ca_mobile_mid.m3u8"
+        },
+        "id": "59031e46ef23a87f17c744f0"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c090458b1511a909b8d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:32:49.419Z",
+      "updatedAt": "2017-12-21T03:32:59.485Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "先秦文明练习题（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8aec9663-e245-4f70-a611-e44a5f1ba077_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8aec9663-e245-4f70-a611-e44a5f1ba077_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8aec9663-e245-4f70-a611-e44a5f1ba077_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8aec9663-e245-4f70-a611-e44a5f1ba077_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8aec9663-e245-4f70-a611-e44a5f1ba077_mobile_mid.m3u8"
+        },
+        "id": "59031eafef23a87f8d3b075f"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c110458b1511a909b8f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:32:57.631Z",
+      "updatedAt": "2017-12-21T03:33:08.049Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "先秦文明练习题（二)",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7a086b03-df40-4b66-be67-5de0f1a7caf3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7a086b03-df40-4b66-be67-5de0f1a7caf3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7a086b03-df40-4b66-be67-5de0f1a7caf3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7a086b03-df40-4b66-be67-5de0f1a7caf3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7a086b03-df40-4b66-be67-5de0f1a7caf3_mobile_mid.m3u8"
+        },
+        "id": "59031eebef23a87f93104086"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c190458b1511a909b91",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:33:05.355Z",
+      "updatedAt": "2017-12-21T03:33:13.299Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "秦汉时期的政治、经济",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8a64cbea-e1b9-4433-8aba-77d0b980680c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8a64cbea-e1b9-4433-8aba-77d0b980680c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8a64cbea-e1b9-4433-8aba-77d0b980680c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8a64cbea-e1b9-4433-8aba-77d0b980680c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8a64cbea-e1b9-4433-8aba-77d0b980680c_mobile_mid.m3u8"
+        },
+        "id": "59031f49ef23a87f316c16bd"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c210458b1511a909b93",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:33:12.214Z",
+      "updatedAt": "2017-12-21T03:33:17.697Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "秦汉时期的思想文化",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ced0ac41-6521-49d7-9d85-b3a9a3f4554a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ced0ac41-6521-49d7-9d85-b3a9a3f4554a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ced0ac41-6521-49d7-9d85-b3a9a3f4554a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ced0ac41-6521-49d7-9d85-b3a9a3f4554a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ced0ac41-6521-49d7-9d85-b3a9a3f4554a_mobile_mid.m3u8"
+        },
+        "id": "59031fb7ef23a87f20c46d55"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c280458b1511a909b95",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:33:19.417Z",
+      "updatedAt": "2017-12-21T03:33:22.088Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "秦汉文明练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/46f2a767-4201-449c-ba59-f7ed1f19d850_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/46f2a767-4201-449c-ba59-f7ed1f19d850_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/46f2a767-4201-449c-ba59-f7ed1f19d850_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/46f2a767-4201-449c-ba59-f7ed1f19d850_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/46f2a767-4201-449c-ba59-f7ed1f19d850_mobile_mid.m3u8"
+        },
+        "id": "5903204aef23a87f32c6d195"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c2f0458b1511a909b97",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:33:27.319Z",
+      "updatedAt": "2017-12-21T03:33:26.260Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "魏晋南北朝文明",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e4482dc7-ac71-45a4-8f5b-c8fcd5ad8c57_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e4482dc7-ac71-45a4-8f5b-c8fcd5ad8c57_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e4482dc7-ac71-45a4-8f5b-c8fcd5ad8c57_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e4482dc7-ac71-45a4-8f5b-c8fcd5ad8c57_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e4482dc7-ac71-45a4-8f5b-c8fcd5ad8c57_mobile_mid.m3u8"
+        },
+        "id": "5903204751f074468538147a"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c370458b1511a909b99",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:33:36.315Z",
+      "updatedAt": "2017-12-21T03:33:32.771Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "隋唐文明",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6ca994dc-eff1-4297-b999-d105d077bf88_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6ca994dc-eff1-4297-b999-d105d077bf88_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6ca994dc-eff1-4297-b999-d105d077bf88_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6ca994dc-eff1-4297-b999-d105d077bf88_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6ca994dc-eff1-4297-b999-d105d077bf88_mobile_mid.m3u8"
+        },
+        "id": "5903208def23a87f993866c1"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c400458b1511a909b9b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:33:48.135Z",
+      "updatedAt": "2017-12-21T03:33:37.548Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "从魏晋到隋唐练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e7d04d9d-c767-4004-a3f5-a6b743069c26_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e7d04d9d-c767-4004-a3f5-a6b743069c26_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e7d04d9d-c767-4004-a3f5-a6b743069c26_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e7d04d9d-c767-4004-a3f5-a6b743069c26_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e7d04d9d-c767-4004-a3f5-a6b743069c26_mobile_mid.m3u8"
+        },
+        "id": "5903217151f07446b49a5919"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c4c0458b1511a909b9d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:33:55.621Z",
+      "updatedAt": "2017-12-21T03:33:41.718Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "宋元时期的政治",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2ab438b2-7387-418b-b2e6-14c725c18e82_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2ab438b2-7387-418b-b2e6-14c725c18e82_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2ab438b2-7387-418b-b2e6-14c725c18e82_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2ab438b2-7387-418b-b2e6-14c725c18e82_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2ab438b2-7387-418b-b2e6-14c725c18e82_mobile_mid.m3u8"
+        },
+        "id": "590321b751f07446dc150f72"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c530458b1511a909b9f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:34:02.466Z",
+      "updatedAt": "2017-12-21T03:33:45.700Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "宋元时期的经济、思想",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/23d70e82-3151-46de-80c7-691d0b3c4291_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/23d70e82-3151-46de-80c7-691d0b3c4291_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/23d70e82-3151-46de-80c7-691d0b3c4291_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/23d70e82-3151-46de-80c7-691d0b3c4291_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/23d70e82-3151-46de-80c7-691d0b3c4291_mobile_mid.m3u8"
+        },
+        "id": "590321e651f074468ac68f75"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c5a0458b1511a909ba1",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:34:09.443Z",
+      "updatedAt": "2017-12-21T03:33:49.981Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "宋元文明练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c6b2ea78-c950-455c-9e7c-59e55e694b1a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c6b2ea78-c950-455c-9e7c-59e55e694b1a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c6b2ea78-c950-455c-9e7c-59e55e694b1a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c6b2ea78-c950-455c-9e7c-59e55e694b1a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c6b2ea78-c950-455c-9e7c-59e55e694b1a_mobile_mid.m3u8"
+        },
+        "id": "5903235dd5ff7525f5c8470b"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c610458b1511a909ba3",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:34:16.728Z",
+      "updatedAt": "2017-12-21T03:33:54.165Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "明清时期的政治",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b1d635ab-288b-42ab-8c6c-4f1f638debdd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b1d635ab-288b-42ab-8c6c-4f1f638debdd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b1d635ab-288b-42ab-8c6c-4f1f638debdd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b1d635ab-288b-42ab-8c6c-4f1f638debdd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b1d635ab-288b-42ab-8c6c-4f1f638debdd_mobile_mid.m3u8"
+        },
+        "id": "5903226def23a87f486d8029"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c680458b1511a909ba5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:34:25.154Z",
+      "updatedAt": "2017-12-21T03:33:58.544Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "明清时期的经济、思想",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a4c056fa-c515-4de5-9023-9d36bf3f395c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a4c056fa-c515-4de5-9023-9d36bf3f395c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a4c056fa-c515-4de5-9023-9d36bf3f395c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a4c056fa-c515-4de5-9023-9d36bf3f395c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a4c056fa-c515-4de5-9023-9d36bf3f395c_mobile_mid.m3u8"
+        },
+        "id": "590322c6ef23a87f636c5bbb"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c710458b1511a909ba7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:34:32.253Z",
+      "updatedAt": "2017-12-21T03:34:03.450Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "明清文明练习题（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/31170293-6668-4325-990e-94bb857c48c9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/31170293-6668-4325-990e-94bb857c48c9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/31170293-6668-4325-990e-94bb857c48c9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/31170293-6668-4325-990e-94bb857c48c9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/31170293-6668-4325-990e-94bb857c48c9_mobile_mid.m3u8"
+        },
+        "id": "5903230a51f0744708f7418d"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c780458b1511a909ba9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T06:34:41.037Z",
+      "updatedAt": "2017-12-21T03:34:10.876Z",
+      "parentId": "58fd9ba60458b1511a909b7d",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "明清文明练习题（二）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8d356693-c3ce-4323-be1e-6b211f26b672_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8d356693-c3ce-4323-be1e-6b211f26b672_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8d356693-c3ce-4323-be1e-6b211f26b672_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8d356693-c3ce-4323-be1e-6b211f26b672_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8d356693-c3ce-4323-be1e-6b211f26b672_mobile_mid.m3u8"
+        },
+        "id": "590324add5ff75261b49ac21"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fd9c810458b1511a909bab",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-04-24T06:31:11.468Z",
+    "updatedAt": "2017-12-21T03:34:26.748Z",
+    "courseId": "58fd9b4e0458b1511a909b77",
+    "name": "古代希腊罗马及与中华文明对比",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58fd9baf0458b1511a909b7f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:06:18.192Z",
+      "updatedAt": "2017-12-21T03:34:34.108Z",
+      "parentId": "58fd9baf0458b1511a909b7f",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "古希腊罗马的政治",
+      "order": null,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/45ba42c2-dc4f-4183-84ae-b482f52a438d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/45ba42c2-dc4f-4183-84ae-b482f52a438d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/45ba42c2-dc4f-4183-84ae-b482f52a438d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/45ba42c2-dc4f-4183-84ae-b482f52a438d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/45ba42c2-dc4f-4183-84ae-b482f52a438d_mobile_mid.m3u8"
+        },
+        "id": "5903241e51f074468fd66ace"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb1fa0458b1511a909bad",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:06:27.006Z",
+      "updatedAt": "2017-12-21T03:34:39.570Z",
+      "parentId": "58fd9baf0458b1511a909b7f",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "古希腊罗马的经济、思想",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1c857371-3e65-4dec-85c8-018c63c35279_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1c857371-3e65-4dec-85c8-018c63c35279_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1c857371-3e65-4dec-85c8-018c63c35279_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1c857371-3e65-4dec-85c8-018c63c35279_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1c857371-3e65-4dec-85c8-018c63c35279_mobile_mid.m3u8"
+        },
+        "id": "5903249751f07446e9791b7d"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2030458b1511a909baf",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:06:36.510Z",
+      "updatedAt": "2017-12-21T03:34:44.174Z",
+      "parentId": "58fd9baf0458b1511a909b7f",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "古希腊罗马练习题（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8c742af3-85eb-48d3-9fd4-2b4eb63c7822_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8c742af3-85eb-48d3-9fd4-2b4eb63c7822_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8c742af3-85eb-48d3-9fd4-2b4eb63c7822_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8c742af3-85eb-48d3-9fd4-2b4eb63c7822_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8c742af3-85eb-48d3-9fd4-2b4eb63c7822_mobile_mid.m3u8"
+        },
+        "id": "590324dcef23a87f54055b94"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb20c0458b1511a909bb1",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:06:47.173Z",
+      "updatedAt": "2017-12-21T03:34:50.782Z",
+      "parentId": "58fd9baf0458b1511a909b7f",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "古希腊罗马练习题（二）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a8f00fb0-2a24-45e5-be30-e1f139d671a4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a8f00fb0-2a24-45e5-be30-e1f139d671a4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a8f00fb0-2a24-45e5-be30-e1f139d671a4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a8f00fb0-2a24-45e5-be30-e1f139d671a4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a8f00fb0-2a24-45e5-be30-e1f139d671a4_mobile_mid.m3u8"
+        },
+        "id": "59032532ef23a87f54055b95"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2170458b1511a909bb3",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-04-24T06:31:19.395Z",
+    "updatedAt": "2017-12-21T03:34:57.781Z",
+    "courseId": "58fd9b4e0458b1511a909b77",
+    "name": "近代中国：近代化历程(1840-1949)",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58fd9bb70458b1511a909b81",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:07:11.877Z",
+      "updatedAt": "2017-12-21T03:35:02.264Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "近代中国复习指导",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/03d5718a-5301-4143-8dce-dbf3c2d4de92_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/03d5718a-5301-4143-8dce-dbf3c2d4de92_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/03d5718a-5301-4143-8dce-dbf3c2d4de92_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/03d5718a-5301-4143-8dce-dbf3c2d4de92_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/03d5718a-5301-4143-8dce-dbf3c2d4de92_mobile_mid.m3u8"
+        },
+        "id": "59032561ef23a87f51715e51"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb22f0458b1511a909bb5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:07:20.453Z",
+      "updatedAt": "2017-12-21T03:35:09.722Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化孕育：政治",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d69a6f74-2227-4f10-9b09-daa97864c739_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d69a6f74-2227-4f10-9b09-daa97864c739_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d69a6f74-2227-4f10-9b09-daa97864c739_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d69a6f74-2227-4f10-9b09-daa97864c739_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d69a6f74-2227-4f10-9b09-daa97864c739_mobile_mid.m3u8"
+        },
+        "id": "590326e0d5ff7525f5c8470c"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2380458b1511a909bb7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:07:28.990Z",
+      "updatedAt": "2017-12-21T03:35:13.735Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化孕育：经济、思想",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7b12e334-b123-44be-afb3-5923cc62c1ec_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7b12e334-b123-44be-afb3-5923cc62c1ec_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7b12e334-b123-44be-afb3-5923cc62c1ec_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7b12e334-b123-44be-afb3-5923cc62c1ec_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7b12e334-b123-44be-afb3-5923cc62c1ec_mobile_mid.m3u8"
+        },
+        "id": "59032704d5ff75261b49ac22"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2400458b1511a909bb9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:07:37.859Z",
+      "updatedAt": "2017-12-21T03:35:20.548Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化孕育练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3a98f6ff-785d-4a3c-90c6-9ae8d72a820a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3a98f6ff-785d-4a3c-90c6-9ae8d72a820a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3a98f6ff-785d-4a3c-90c6-9ae8d72a820a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3a98f6ff-785d-4a3c-90c6-9ae8d72a820a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3a98f6ff-785d-4a3c-90c6-9ae8d72a820a_mobile_mid.m3u8"
+        },
+        "id": "590325eeef23a87fc9e2310c"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2490458b1511a909bbb",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:08:21.804Z",
+      "updatedAt": "2017-12-21T03:35:25.315Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化的启动",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c8a75d5e-02df-41c8-abf5-060d322a671a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c8a75d5e-02df-41c8-abf5-060d322a671a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c8a75d5e-02df-41c8-abf5-060d322a671a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c8a75d5e-02df-41c8-abf5-060d322a671a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c8a75d5e-02df-41c8-abf5-060d322a671a_mobile_mid.m3u8"
+        },
+        "id": "5903261cef23a87fc9e2310d"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2750458b1511a909bbd",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:08:30.406Z",
+      "updatedAt": "2017-12-21T03:35:29.436Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化启动练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d28e030f-e5ad-4354-a54e-8d77917cb5f3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d28e030f-e5ad-4354-a54e-8d77917cb5f3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d28e030f-e5ad-4354-a54e-8d77917cb5f3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d28e030f-e5ad-4354-a54e-8d77917cb5f3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d28e030f-e5ad-4354-a54e-8d77917cb5f3_mobile_mid.m3u8"
+        },
+        "id": "59032657ef23a87f486d802a"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb27e0458b1511a909bbf",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:08:39.678Z",
+      "updatedAt": "2017-12-21T03:35:33.158Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化的整体发展：政治",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1e112eb0-3ea4-4580-b480-79025e1c1102_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1e112eb0-3ea4-4580-b480-79025e1c1102_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1e112eb0-3ea4-4580-b480-79025e1c1102_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1e112eb0-3ea4-4580-b480-79025e1c1102_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1e112eb0-3ea4-4580-b480-79025e1c1102_mobile_mid.m3u8"
+        },
+        "id": "590327add5ff7525efb43e40"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2870458b1511a909bc1",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:08:48.442Z",
+      "updatedAt": "2017-12-21T03:35:36.855Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化的整体发展：经济、思想",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8309d3bb-104c-48aa-981d-c28debb86a98_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8309d3bb-104c-48aa-981d-c28debb86a98_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8309d3bb-104c-48aa-981d-c28debb86a98_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8309d3bb-104c-48aa-981d-c28debb86a98_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8309d3bb-104c-48aa-981d-c28debb86a98_mobile_mid.m3u8"
+        },
+        "id": "5903269eef23a87f77482b30"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2900458b1511a909bc3",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:08:56.301Z",
+      "updatedAt": "2017-12-21T03:35:40.933Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化的整体发展练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b50fe7af-2d55-420a-9f70-b46ce7254f5b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b50fe7af-2d55-420a-9f70-b46ce7254f5b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b50fe7af-2d55-420a-9f70-b46ce7254f5b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b50fe7af-2d55-420a-9f70-b46ce7254f5b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b50fe7af-2d55-420a-9f70-b46ce7254f5b_mobile_mid.m3u8"
+        },
+        "id": "590326f1ef23a87f53827052"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2980458b1511a909bc5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:09:04.977Z",
+      "updatedAt": "2017-12-21T03:35:45.038Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化的曲折前进",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c82e4da2-a33a-4d92-921f-d760761cb88c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c82e4da2-a33a-4d92-921f-d760761cb88c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c82e4da2-a33a-4d92-921f-d760761cb88c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c82e4da2-a33a-4d92-921f-d760761cb88c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c82e4da2-a33a-4d92-921f-d760761cb88c_mobile_mid.m3u8"
+        },
+        "id": "59032719ef23a87f332054f3"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2a00458b1511a909bc7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:09:12.765Z",
+      "updatedAt": "2017-12-21T03:35:49.369Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化的曲折前进练习题（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3c8d7105-38d5-4512-ab58-0403d374470c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3c8d7105-38d5-4512-ab58-0403d374470c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3c8d7105-38d5-4512-ab58-0403d374470c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3c8d7105-38d5-4512-ab58-0403d374470c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3c8d7105-38d5-4512-ab58-0403d374470c_mobile_mid.m3u8"
+        },
+        "id": "5903275f51f074468538147b"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2a80458b1511a909bc9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:09:20.794Z",
+      "updatedAt": "2017-12-21T03:35:53.939Z",
+      "parentId": "58fd9bb70458b1511a909b81",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "中国近代化的曲折前进练习题（二）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/05b4a57c-5bbb-4ffa-bc99-bd2a4e7149a8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/05b4a57c-5bbb-4ffa-bc99-bd2a4e7149a8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/05b4a57c-5bbb-4ffa-bc99-bd2a4e7149a8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/05b4a57c-5bbb-4ffa-bc99-bd2a4e7149a8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/05b4a57c-5bbb-4ffa-bc99-bd2a4e7149a8_mobile_mid.m3u8"
+        },
+        "id": "590327b751f074468538147c"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2b00458b1511a909bcb",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-04-24T06:31:27.568Z",
+    "updatedAt": "2017-12-21T03:36:03.549Z",
+    "courseId": "58fd9b4e0458b1511a909b77",
+    "name": "近代世界：工业文明的发展历程",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58fd9bbf0458b1511a909b83",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:09:38.519Z",
+      "updatedAt": "2017-12-21T03:36:09.874Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "近代世界：工业文明复习指导",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ca90bc66-d113-4ecd-b03a-945af5a4483f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ca90bc66-d113-4ecd-b03a-945af5a4483f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ca90bc66-d113-4ecd-b03a-945af5a4483f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ca90bc66-d113-4ecd-b03a-945af5a4483f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ca90bc66-d113-4ecd-b03a-945af5a4483f_mobile_mid.m3u8"
+        },
+        "id": "59032b58d5ff7526327ffdfb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2c20458b1511a909bcd",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:09:47.387Z",
+      "updatedAt": "2017-12-21T03:36:13.927Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "向工业文明迈进（一）",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d3b5c7fa-36f2-457c-8bb4-c14a156472e7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d3b5c7fa-36f2-457c-8bb4-c14a156472e7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d3b5c7fa-36f2-457c-8bb4-c14a156472e7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d3b5c7fa-36f2-457c-8bb4-c14a156472e7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d3b5c7fa-36f2-457c-8bb4-c14a156472e7_mobile_mid.m3u8"
+        },
+        "id": "59032a58ef23a87f7635463c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2cb0458b1511a909bcf",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:09:55.762Z",
+      "updatedAt": "2017-12-21T03:36:17.796Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "向工业文明迈进（二）",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fb4f1e38-42cc-44eb-a8a9-c088d03630b8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fb4f1e38-42cc-44eb-a8a9-c088d03630b8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fb4f1e38-42cc-44eb-a8a9-c088d03630b8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fb4f1e38-42cc-44eb-a8a9-c088d03630b8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fb4f1e38-42cc-44eb-a8a9-c088d03630b8_mobile_mid.m3u8"
+        },
+        "id": "59032acb51f074468ac68f76"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2d30458b1511a909bd1",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:10:04.680Z",
+      "updatedAt": "2017-12-21T03:36:22.254Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "向工业文明迈进练习题",
+      "order": 4,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ae09a3f1-867b-4388-aa1f-8791727e4cc7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ae09a3f1-867b-4388-aa1f-8791727e4cc7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ae09a3f1-867b-4388-aa1f-8791727e4cc7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ae09a3f1-867b-4388-aa1f-8791727e4cc7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ae09a3f1-867b-4388-aa1f-8791727e4cc7_mobile_mid.m3u8"
+        },
+        "id": "59032b0351f074468ac68f77"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2dc0458b1511a909bd3",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:10:12.639Z",
+      "updatedAt": "2017-12-21T03:36:26.884Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "英国资产阶级革命",
+      "order": 5,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ed4fbe5c-82e7-4c70-b559-69c06c77afe3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ed4fbe5c-82e7-4c70-b559-69c06c77afe3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ed4fbe5c-82e7-4c70-b559-69c06c77afe3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ed4fbe5c-82e7-4c70-b559-69c06c77afe3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ed4fbe5c-82e7-4c70-b559-69c06c77afe3_mobile_mid.m3u8"
+        },
+        "id": "59032c6dd5ff752624217fb8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2e40458b1511a909bd5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:10:21.321Z",
+      "updatedAt": "2017-12-21T03:36:30.612Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "美国与法国资产阶级革命",
+      "order": 6,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c7b9969f-2c9c-4bb4-84b8-c7c8a23b4632_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c7b9969f-2c9c-4bb4-84b8-c7c8a23b4632_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c7b9969f-2c9c-4bb4-84b8-c7c8a23b4632_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c7b9969f-2c9c-4bb4-84b8-c7c8a23b4632_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c7b9969f-2c9c-4bb4-84b8-c7c8a23b4632_mobile_mid.m3u8"
+        },
+        "id": "59032b9d51f07446c129fdee"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2ed0458b1511a909bd7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:10:29.955Z",
+      "updatedAt": "2017-12-21T03:36:39.629Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "开启工业文明的政治制度练习题（一）",
+      "order": 7,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/36050b24-d67f-40ba-bd73-0133994063b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/36050b24-d67f-40ba-bd73-0133994063b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/36050b24-d67f-40ba-bd73-0133994063b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/36050b24-d67f-40ba-bd73-0133994063b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/36050b24-d67f-40ba-bd73-0133994063b1_mobile_mid.m3u8"
+        },
+        "id": "59032d2dd5ff7526327ffdfc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2f50458b1511a909bd9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:10:37.701Z",
+      "updatedAt": "2017-12-21T03:38:21.324Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "开启工业文明的政治制度练习题（二）",
+      "order": 8,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3e045150-c44f-4d34-ac06-99502cf56169_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3e045150-c44f-4d34-ac06-99502cf56169_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3e045150-c44f-4d34-ac06-99502cf56169_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3e045150-c44f-4d34-ac06-99502cf56169_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3e045150-c44f-4d34-ac06-99502cf56169_mobile_mid.m3u8"
+        },
+        "id": "59032c5f51f07446c0d211d0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb2fd0458b1511a909bdb",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:10:47.052Z",
+      "updatedAt": "2017-12-21T03:38:29.334Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "工业文明的确立和扩展（一）",
+      "order": 9,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1a9a4174-20e7-4c2b-9f04-d5bf8f935161_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1a9a4174-20e7-4c2b-9f04-d5bf8f935161_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1a9a4174-20e7-4c2b-9f04-d5bf8f935161_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1a9a4174-20e7-4c2b-9f04-d5bf8f935161_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1a9a4174-20e7-4c2b-9f04-d5bf8f935161_mobile_mid.m3u8"
+        },
+        "id": "59032ca651f07446c0d211d1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb3070458b1511a909bdd",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:13:31.619Z",
+      "updatedAt": "2017-12-21T03:38:38.804Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "工业文明的确立和扩展（二）",
+      "order": 10,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6223a113-45a0-4185-9a44-80cc9ab944c9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6223a113-45a0-4185-9a44-80cc9ab944c9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6223a113-45a0-4185-9a44-80cc9ab944c9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6223a113-45a0-4185-9a44-80cc9ab944c9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6223a113-45a0-4185-9a44-80cc9ab944c9_mobile_mid.m3u8"
+        },
+        "id": "59032cc1ef23a87f54055b96"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb3ab0458b1511a909be5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:11:26.936Z",
+      "updatedAt": "2017-12-21T03:38:43.089Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "工业文明的确立和扩展练习题",
+      "order": 11,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/10f944bf-416e-4de4-9a20-444db07a08cf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/10f944bf-416e-4de4-9a20-444db07a08cf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/10f944bf-416e-4de4-9a20-444db07a08cf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/10f944bf-416e-4de4-9a20-444db07a08cf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/10f944bf-416e-4de4-9a20-444db07a08cf_mobile_mid.m3u8"
+        },
+        "id": "59032cebef23a87f81c7a4ff"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb32e0458b1511a909bdf",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:11:34.886Z",
+      "updatedAt": "2017-12-21T03:38:50.283Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "工业文明的纵深发展",
+      "order": 12,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4a809247-764e-495b-99eb-5d65a4d5bb7e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4a809247-764e-495b-99eb-5d65a4d5bb7e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4a809247-764e-495b-99eb-5d65a4d5bb7e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4a809247-764e-495b-99eb-5d65a4d5bb7e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4a809247-764e-495b-99eb-5d65a4d5bb7e_mobile_mid.m3u8"
+        },
+        "id": "59032d5b51f07446c129fdef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb3360458b1511a909be1",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:11:46.826Z",
+      "updatedAt": "2017-12-21T03:38:55.016Z",
+      "parentId": "58fd9bbf0458b1511a909b83",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "工业文明的纵深发展练习题",
+      "order": 13,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/02a51097-62b8-4d4f-a065-8e16ba2e8f1c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/02a51097-62b8-4d4f-a065-8e16ba2e8f1c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/02a51097-62b8-4d4f-a065-8e16ba2e8f1c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/02a51097-62b8-4d4f-a065-8e16ba2e8f1c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/02a51097-62b8-4d4f-a065-8e16ba2e8f1c_mobile_mid.m3u8"
+        },
+        "id": "59032ee2d5ff75263ec168c6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb3420458b1511a909be3",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-04-24T06:31:37.086Z",
+    "updatedAt": "2017-12-21T03:39:03.760Z",
+    "courseId": "58fd9b4e0458b1511a909b77",
+    "name": "现代中国：社会主义现代化历程",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58fd9bc90458b1511a909b85",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:17:40.399Z",
+      "updatedAt": "2017-12-21T03:39:08.999Z",
+      "parentId": "58fd9bc90458b1511a909b85",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "现代中国复习指导",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/010ebbb4-8e09-49f0-a22a-6b8f9d2305cc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/010ebbb4-8e09-49f0-a22a-6b8f9d2305cc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/010ebbb4-8e09-49f0-a22a-6b8f9d2305cc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/010ebbb4-8e09-49f0-a22a-6b8f9d2305cc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/010ebbb4-8e09-49f0-a22a-6b8f9d2305cc_mobile_mid.m3u8"
+        },
+        "id": "59032de651f0744709163ea6"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb4a40458b1511a909be7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:17:48.493Z",
+      "updatedAt": "2017-12-21T03:39:14.061Z",
+      "parentId": "58fd9bc90458b1511a909b85",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "社会主义现代化的准备与启动",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6cfa29ec-9389-4cdb-a3d8-06eddde7003d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6cfa29ec-9389-4cdb-a3d8-06eddde7003d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6cfa29ec-9389-4cdb-a3d8-06eddde7003d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6cfa29ec-9389-4cdb-a3d8-06eddde7003d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6cfa29ec-9389-4cdb-a3d8-06eddde7003d_mobile_mid.m3u8"
+        },
+        "id": "59032f5fd5ff7525f5c8470d"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb4ac0458b1511a909be9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:17:58.588Z",
+      "updatedAt": "2017-12-21T03:39:19.373Z",
+      "parentId": "58fd9bc90458b1511a909b85",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "社会主义现代化的准备与启动练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a1b7f727-c5a4-4c28-bbf6-ea81ca56866f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a1b7f727-c5a4-4c28-bbf6-ea81ca56866f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a1b7f727-c5a4-4c28-bbf6-ea81ca56866f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a1b7f727-c5a4-4c28-bbf6-ea81ca56866f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a1b7f727-c5a4-4c28-bbf6-ea81ca56866f_mobile_mid.m3u8"
+        },
+        "id": "59032f89d5ff7525e9c13a3a"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb4b60458b1511a909beb",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:18:06.430Z",
+      "updatedAt": "2017-12-21T03:39:24.162Z",
+      "parentId": "58fd9bc90458b1511a909b85",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "社会主义现代化建设的曲折",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/373d5d10-8a58-4489-a65d-5a157c6d5f90_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/373d5d10-8a58-4489-a65d-5a157c6d5f90_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/373d5d10-8a58-4489-a65d-5a157c6d5f90_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/373d5d10-8a58-4489-a65d-5a157c6d5f90_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/373d5d10-8a58-4489-a65d-5a157c6d5f90_mobile_mid.m3u8"
+        },
+        "id": "59032fabd5ff7526026b73db"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb4be0458b1511a909bed",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:18:14.841Z",
+      "updatedAt": "2017-12-21T03:39:29.221Z",
+      "parentId": "58fd9bc90458b1511a909b85",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "社会主义现代化建设的曲折练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f8699c4b-3427-40a3-be2b-00b0a8ea2dc9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f8699c4b-3427-40a3-be2b-00b0a8ea2dc9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f8699c4b-3427-40a3-be2b-00b0a8ea2dc9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f8699c4b-3427-40a3-be2b-00b0a8ea2dc9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f8699c4b-3427-40a3-be2b-00b0a8ea2dc9_mobile_mid.m3u8"
+        },
+        "id": "59032e97ef23a87fbd9e416e"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb4c60458b1511a909bef",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:18:22.920Z",
+      "updatedAt": "2017-12-21T03:39:33.237Z",
+      "parentId": "58fd9bc90458b1511a909b85",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "社会主义现代化建设的重振",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b5fd8f73-9600-4804-b2ec-f48d17126e18_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b5fd8f73-9600-4804-b2ec-f48d17126e18_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b5fd8f73-9600-4804-b2ec-f48d17126e18_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b5fd8f73-9600-4804-b2ec-f48d17126e18_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b5fd8f73-9600-4804-b2ec-f48d17126e18_mobile_mid.m3u8"
+        },
+        "id": "59032ecc51f07446f5226973"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb4ce0458b1511a909bf1",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:18:31.154Z",
+      "updatedAt": "2017-12-21T03:39:37.467Z",
+      "parentId": "58fd9bc90458b1511a909b85",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "社会主义现代化建设的重振练习题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fd493b62-ffcc-40a5-9059-228d1bb38fdc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fd493b62-ffcc-40a5-9059-228d1bb38fdc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fd493b62-ffcc-40a5-9059-228d1bb38fdc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fd493b62-ffcc-40a5-9059-228d1bb38fdc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fd493b62-ffcc-40a5-9059-228d1bb38fdc_mobile_mid.m3u8"
+        },
+        "id": "59032f4751f07446aaefc342"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb4d70458b1511a909bf3",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-04-24T06:31:47.103Z",
+    "updatedAt": "2017-12-21T03:39:45.476Z",
+    "courseId": "58fd9b4e0458b1511a909b77",
+    "name": "现代世界：20世纪以来世界文明的演进",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58fd9bd30458b1511a909b87",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:22:31.556Z",
+      "updatedAt": "2017-12-21T03:39:54.678Z",
+      "parentId": "58fd9bd30458b1511a909b87",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "20世纪以来世界文明复习指导",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/505509db-8164-4ec5-81dd-694186eb8dac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/505509db-8164-4ec5-81dd-694186eb8dac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/505509db-8164-4ec5-81dd-694186eb8dac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/505509db-8164-4ec5-81dd-694186eb8dac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/505509db-8164-4ec5-81dd-694186eb8dac_mobile_mid.m3u8"
+        },
+        "id": "590330fcef23a87f3cb853a2"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb5c70458b1511a909bf5",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:22:39.265Z",
+      "updatedAt": "2017-12-21T03:39:58.818Z",
+      "parentId": "58fd9bd30458b1511a909b87",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "两种现代化模式的并进",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4ac7bbc5-a0be-447e-922e-9354f3bb38ba_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4ac7bbc5-a0be-447e-922e-9354f3bb38ba_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4ac7bbc5-a0be-447e-922e-9354f3bb38ba_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4ac7bbc5-a0be-447e-922e-9354f3bb38ba_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4ac7bbc5-a0be-447e-922e-9354f3bb38ba_mobile_mid.m3u8"
+        },
+        "id": "59032f9951f07446e9791b7e"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb5cf0458b1511a909bf7",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:22:46.873Z",
+      "updatedAt": "2017-12-21T03:40:03.134Z",
+      "parentId": "58fd9bd30458b1511a909b87",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "两种现代化模式的并进练习题（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c252126f-1a2d-4f42-9392-de6f28b27563_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c252126f-1a2d-4f42-9392-de6f28b27563_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c252126f-1a2d-4f42-9392-de6f28b27563_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c252126f-1a2d-4f42-9392-de6f28b27563_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c252126f-1a2d-4f42-9392-de6f28b27563_mobile_mid.m3u8"
+        },
+        "id": "59032ff2ef23a87fb6763fd9"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb5d60458b1511a909bf9",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:22:54.169Z",
+      "updatedAt": "2017-12-21T03:40:07.226Z",
+      "parentId": "58fd9bd30458b1511a909b87",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "两种现代化模式的并进练习题（二）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/777b5f09-eb6d-4bf1-8841-7c3529d67c4f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/777b5f09-eb6d-4bf1-8841-7c3529d67c4f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/777b5f09-eb6d-4bf1-8841-7c3529d67c4f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/777b5f09-eb6d-4bf1-8841-7c3529d67c4f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/777b5f09-eb6d-4bf1-8841-7c3529d67c4f_mobile_mid.m3u8"
+        },
+        "id": "59033020ef23a87f486d802b"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb5de0458b1511a909bfb",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:23:02.299Z",
+      "updatedAt": "2017-12-21T03:40:12.263Z",
+      "parentId": "58fd9bd30458b1511a909b87",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "整体世界的扩展",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/939574f8-df43-4b38-811f-adef6707c159_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/939574f8-df43-4b38-811f-adef6707c159_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/939574f8-df43-4b38-811f-adef6707c159_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/939574f8-df43-4b38-811f-adef6707c159_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/939574f8-df43-4b38-811f-adef6707c159_mobile_mid.m3u8"
+        },
+        "id": "5903319dd5ff752619494adc"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb5e60458b1511a909bfd",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:23:09.955Z",
+      "updatedAt": "2017-12-21T03:40:16.365Z",
+      "parentId": "58fd9bd30458b1511a909b87",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "整体世界的扩展练习题（一）",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3f1b793e-d145-4efe-8b2f-9ee56d7ec361_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3f1b793e-d145-4efe-8b2f-9ee56d7ec361_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3f1b793e-d145-4efe-8b2f-9ee56d7ec361_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3f1b793e-d145-4efe-8b2f-9ee56d7ec361_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3f1b793e-d145-4efe-8b2f-9ee56d7ec361_mobile_mid.m3u8"
+        },
+        "id": "5903309cef23a87fd5d6b103"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb5ed0458b1511a909bff",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-04-24T08:23:21.205Z",
+      "updatedAt": "2017-12-21T03:40:20.152Z",
+      "parentId": "58fd9bd30458b1511a909b87",
+      "courseId": "58fd9b4e0458b1511a909b77",
+      "name": "整体世界扩展练习题（二）及结束语",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0b704d4b-f4a0-4189-8f47-2a1267d4884a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0b704d4b-f4a0-4189-8f47-2a1267d4884a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0b704d4b-f4a0-4189-8f47-2a1267d4884a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0b704d4b-f4a0-4189-8f47-2a1267d4884a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0b704d4b-f4a0-4189-8f47-2a1267d4884a_mobile_mid.m3u8"
+        },
+        "id": "590330daef23a87f93104089"
+      },
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "58fdb5f90458b1511a909c01",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

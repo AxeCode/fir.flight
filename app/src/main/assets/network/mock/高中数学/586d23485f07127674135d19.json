@@ -1,0 +1,912 @@
+{
+  "id": "586d23485f07127674135d19",
+  "name": "数学必修1",
+  "logo": "http://img.wanmen.org/course/logo/d31e0b69-7839-4cf2-bd31-7b9cdf4c095b..jpg",
+  "order": 1,
+  "price": 158,
+  "promotion": null,
+  "description": "迅速梳理高中必修一数学的内容，让同学们在学校听课无障碍。视频中个别内容较难，希望同学们可以认真思考或与小伙伴讨论。本视频也适合于高一在读学生弥补必修一的漏洞；适用于国外的初高中学生，迅速掌握函数相关知识。",
+  "shortDescription": "名师刘畅悉心讲授，助你打好高中数学基础！",
+  "hide": false,
+  "major": "586d234f5f07127674152c49",
+  "teacherName": "刘畅",
+  "teacherAvatar": "http://imgs.wanmen.org/120610d4f9c1651d48e458b5f1aec53b.png",
+  "teacherDescription": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。刘畅老师微信号：liuchangshuxue",
+  "numOfClasses": 13,
+  "qqGroup": "万门高中数学官方QQ群：1号群：289033979（已满）；请加2号群：201594838",
+  "smallImageUrl": "http://imgs.wanmen.org/0a5cf57011bbd546fc5352804c047b1b.png",
+  "bigImageUrl": "http://imgs.wanmen.org/e419f57328f2e75b81308b66f48bf00a.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/8396196f-f730-4b5b-9b33-6ce7f2daaeec.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "刘畅 高中 数学 必修 ",
+  "isPresell": null,
+  "createdAt": "2014-12-19T00:04:57.000Z",
+  "updatedAt": "2018-01-12T13:33:19.948Z",
+  "homeSmallImage": "http://img.wanmen.org/images/5ea24ff8-6ff3-4c3d-a0d6-071c21531c6a.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/8396196f-f730-4b5b-9b33-6ce7f2daaeec.jpeg",
+  "bigImage": "http://imgs.wanmen.org/e419f57328f2e75b81308b66f48bf00a.png",
+  "smallImage": "http://imgs.wanmen.org/0a5cf57011bbd546fc5352804c047b1b.png",
+  "bookId": [],
+  "teacher": {
+    "name": "刘畅",
+    "description": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。刘畅老师微信号：liuchangshuxue",
+    "avatar": "http://imgs.wanmen.org/120610d4f9c1651d48e458b5f1aec53b.png",
+    "id": "586d235d5f0712767415bd86"
+  },
+  "expiration": 12,
+  "videoCount": 42,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 230,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 13,
+  "mobileCoverUrl": "http://imgs.wanmen.org/0a5cf57011bbd546fc5352804c047b1b.png",
+  "coverUrl": "http://imgs.wanmen.org/e419f57328f2e75b81308b66f48bf00a.png",
+  "lectures": [{
+    "createdAt": "2017-02-21T17:35:09.045Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 1,
+    "name": "集合的概念与运算",
+    "updatedAt": "2017-05-09T06:26:17.888Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae5d",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.053Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5d",
+      "order": 1,
+      "name": "集合的基本概念",
+      "updatedAt": "2017-06-27T06:44:21.799Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_mobile_mid.m3u8"
+        },
+        "id": "59473634ef23a82fd4f5dc06"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/aeb3d1fd-b78a-47b8-bf52-7adb4802c811_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158711",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.056Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5d",
+      "order": 2,
+      "name": "集合的表示方法",
+      "updatedAt": "2017-06-27T06:44:31.690Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_mobile_mid.m3u8"
+        },
+        "id": "59473664ef23a82fd4f5dc07"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e1b5ecf1-cd47-46a1-a0af-d40aff565938_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158712",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.061Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5d",
+      "order": 3,
+      "name": "习题课",
+      "updatedAt": "2017-05-31T07:45:58.293Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/82bab9f2-fa44-462a-9189-a9822fb59c4b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/82bab9f2-fa44-462a-9189-a9822fb59c4b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/82bab9f2-fa44-462a-9189-a9822fb59c4b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/82bab9f2-fa44-462a-9189-a9822fb59c4b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/82bab9f2-fa44-462a-9189-a9822fb59c4b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674158713",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.138Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 2,
+    "name": "子交并补的运算",
+    "updatedAt": "2017-05-09T06:26:17.927Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae5e",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.141Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5e",
+      "order": 1,
+      "name": " 子集与真子集",
+      "updatedAt": "2017-05-09T06:26:17.952Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158714",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.144Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5e",
+      "order": 2,
+      "name": "交集、并集、补集",
+      "updatedAt": "2017-05-16T08:23:55.411Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5654857a-a60e-475f-b820-2c862f952e38_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5654857a-a60e-475f-b820-2c862f952e38_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5654857a-a60e-475f-b820-2c862f952e38_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5654857a-a60e-475f-b820-2c862f952e38_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5654857a-a60e-475f-b820-2c862f952e38_mobile_mid.m3u8"
+        },
+        "id": "59119095ef23a8300dc58eeb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158715",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.147Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5e",
+      "order": 3,
+      "name": "card 德摩根公式补充",
+      "updatedAt": "2017-05-09T06:26:17.965Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158716",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.220Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 3,
+    "name": "二次不等式，绝对值不等式",
+    "updatedAt": "2017-05-09T06:26:17.968Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae5f",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.223Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5f",
+      "order": 1,
+      "name": " 二次不等式的解法",
+      "updatedAt": "2017-05-09T06:26:17.987Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158717",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.232Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5f",
+      "order": 2,
+      "name": "绝对值不等式的解法",
+      "updatedAt": "2017-05-09T06:26:17.992Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158718",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.235Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae5f",
+      "order": 3,
+      "name": "习题课",
+      "updatedAt": "2017-05-09T06:26:18.003Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158719",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.298Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 4,
+    "name": "函数的概念",
+    "updatedAt": "2017-05-09T06:26:18.009Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae68",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.300Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae68",
+      "order": 1,
+      "name": "函数的基本概念",
+      "updatedAt": "2017-05-09T06:26:18.032Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158730",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.303Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae68",
+      "order": 2,
+      "name": "定义域的求法",
+      "updatedAt": "2017-05-09T06:26:18.037Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158731",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.305Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae68",
+      "order": 3,
+      "name": "值域的求法",
+      "updatedAt": "2017-05-09T06:26:18.042Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158732",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.380Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 5,
+    "name": "函数的解析式",
+    "updatedAt": "2017-05-09T06:26:18.047Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae71",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.383Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae71",
+      "order": 1,
+      "name": "解析式的解法（1）",
+      "updatedAt": "2017-05-09T06:26:18.067Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158751",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.386Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae71",
+      "order": 2,
+      "name": "解析式的解法（2）",
+      "updatedAt": "2017-05-09T06:26:18.071Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158752",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.389Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae71",
+      "order": 3,
+      "name": "习题课",
+      "updatedAt": "2017-05-09T06:26:18.075Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158753",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.461Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 6,
+    "name": "函数的表示法",
+    "updatedAt": "2017-05-09T06:26:18.082Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae75",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.463Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae75",
+      "order": 1,
+      "name": "函数的表示法（1）",
+      "updatedAt": "2017-05-09T06:26:18.104Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415875f",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.466Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae75",
+      "order": 2,
+      "name": "函数的表示法（2）",
+      "updatedAt": "2017-05-09T06:26:18.109Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158760",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.468Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae75",
+      "order": 3,
+      "name": "一次函数与二次函数",
+      "updatedAt": "2017-05-09T06:26:18.113Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158761",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.529Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 7,
+    "name": "函数的单调性",
+    "updatedAt": "2017-05-09T06:26:18.120Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae7f",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.533Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae7f",
+      "order": 1,
+      "name": "单调性概念",
+      "updatedAt": "2017-05-09T06:26:18.140Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415877f",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.549Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae7f",
+      "order": 2,
+      "name": "单调性证明",
+      "updatedAt": "2017-05-09T06:26:18.143Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158780",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.553Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae7f",
+      "order": 3,
+      "name": "函数单调性性质",
+      "updatedAt": "2017-05-09T06:26:18.148Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158781",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.614Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 8,
+    "name": "函数的奇偶性",
+    "updatedAt": "2017-05-09T06:26:18.152Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae89",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.619Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae89",
+      "order": 1,
+      "name": "奇偶性概念,奇偶性判断",
+      "updatedAt": "2017-05-09T06:26:18.174Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587a7",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.622Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae89",
+      "order": 2,
+      "name": "奇偶性的性质",
+      "updatedAt": "2017-05-09T06:26:18.179Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587a8",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.625Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae89",
+      "order": 3,
+      "name": "典型习题",
+      "updatedAt": "2017-05-09T06:26:18.183Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587a9",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.693Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 9,
+    "name": "函数的综合运用",
+    "updatedAt": "2017-05-09T06:26:18.187Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae92",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.696Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae92",
+      "order": 1,
+      "name": " 奇偶性单调性的综合运用（1）",
+      "updatedAt": "2017-05-09T06:26:18.209Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587c3",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.700Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae92",
+      "order": 2,
+      "name": " 奇偶性单调性的综合运用（2）",
+      "updatedAt": "2017-05-09T06:26:18.214Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587c4",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.703Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae92",
+      "order": 3,
+      "name": " 奇偶性单调性的综合运用（3）",
+      "updatedAt": "2017-05-09T06:26:18.220Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587c5",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.769Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 10,
+    "name": "函数的凸凹性及函数小结",
+    "updatedAt": "2017-05-09T06:26:18.225Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415ae98",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.772Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae98",
+      "order": 1,
+      "name": "函数凸凹性",
+      "updatedAt": "2017-05-09T06:26:18.249Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587d6",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.775Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae98",
+      "order": 2,
+      "name": "对勾（号）函数",
+      "updatedAt": "2017-05-09T06:26:18.253Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587d7",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.777Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415ae98",
+      "order": 3,
+      "name": "函数小结",
+      "updatedAt": "2017-05-09T06:26:18.257Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587d8",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.842Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 11,
+    "name": "指数幂的运算，指数函数",
+    "updatedAt": "2017-05-09T06:26:18.265Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415aea2",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.844Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aea2",
+      "order": 1,
+      "name": "指数与幂的运算",
+      "updatedAt": "2017-05-09T06:26:18.286Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587fd",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.847Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aea2",
+      "order": 2,
+      "name": "指数函数的概念，图像",
+      "updatedAt": "2017-05-09T06:26:18.290Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587fe",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.849Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aea2",
+      "order": 3,
+      "name": "指数函数的性质",
+      "updatedAt": "2017-05-09T06:26:18.295Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741587ff",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.852Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aea2",
+      "order": 4,
+      "name": "指数的综合运用",
+      "updatedAt": "2017-05-31T07:44:45.307Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158800",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:09.920Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 12,
+    "name": "对数运算，对数函数",
+    "updatedAt": "2017-05-09T06:26:18.302Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415aeac",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:09.923Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeac",
+      "order": 1,
+      "name": "对数基本概念",
+      "updatedAt": "2017-05-09T06:26:18.322Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158819",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.926Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeac",
+      "order": 2,
+      "name": "对数运算一",
+      "updatedAt": "2017-05-09T06:26:18.332Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415881a",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.928Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeac",
+      "order": 3,
+      "name": "对数运算二",
+      "updatedAt": "2017-05-09T06:26:18.339Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415881b",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.931Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeac",
+      "order": 4,
+      "name": " 对数函数的概念，图像",
+      "updatedAt": "2017-05-09T06:26:18.345Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415881c",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:09.934Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeac",
+      "order": 5,
+      "name": "对数函数的性质",
+      "updatedAt": "2017-05-09T06:26:18.355Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415881d",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:35:10.009Z",
+    "courseId": "586d23485f07127674135d19",
+    "order": 13,
+    "name": "幂函数及函数的应用",
+    "updatedAt": "2017-05-09T06:26:18.357Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415aeb1",
+    "children": [{
+      "createdAt": "2017-02-21T17:35:10.014Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeb1",
+      "order": 1,
+      "name": "幂函数",
+      "updatedAt": "2017-05-09T06:26:18.383Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415882f",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:10.020Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeb1",
+      "order": 2,
+      "name": "零点定理 二分法",
+      "updatedAt": "2017-05-09T06:26:18.390Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158830",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:35:10.028Z",
+      "courseId": "586d23485f07127674135d19",
+      "parentId": "586d23555f0712767415aeb1",
+      "order": 3,
+      "name": "习题课",
+      "updatedAt": "2017-05-09T06:26:18.396Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674158831",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

@@ -1,0 +1,931 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-05-31T02:48:39.411Z",
+  "updatedAt": "2018-01-04T12:44:42.227Z",
+  "name": "初中生物七年级上",
+  "description": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。完全贴近书本的内容，结合经典的例题与丰富的大学生物素材，让每一位同学爱上生物学，轻松得高分。",
+  "major": "592e2b4cb45f51716ab6f458",
+  "bigImageUrl": "http://imgs.wanmen.org/26d5e8f992e65abc01ce61db50de8868.png",
+  "bigImage": "http://imgs.wanmen.org/26d5e8f992e65abc01ce61db50de8868.png",
+  "smallImageUrl": "http://imgs.wanmen.org/8ac95c34ab90c9f28753aaeecdf94027.png",
+  "smallImage": "http://imgs.wanmen.org/8ac95c34ab90c9f28753aaeecdf94027.png",
+  "teacherName": "牛佳丽",
+  "teacherDescription": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+  "teacherAvatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+  "hide": false,
+  "price": 78,
+  "shortDescription": "本课程配套教材为人教版初中生物学课本，课程安排与书本目录完全一致， 是每位同学课前预习、自主学习与课后复习的宝典。",
+  "teacher": {
+    "name": "牛佳丽",
+    "description": "牛佳丽，清华大学生命科学学院临床医学专业，学业优秀，曾获国家励志奖学金，生命科学学院社会实践一等奖。 有丰富的生物学辅导经验，讲课风格生动活泼，并在课堂内容中穿插大学实验图片与趣味生物学知识，通过随堂习题活学活用，巩固理解。本课程旨在让广大同学们在理解生物知识与考点的同时，体会到生物学的乐趣与魅力，并因此喜欢上这门贴近生活，充满趣味的课程。",
+    "avatar": "http://imgs.wanmen.org/80426e9aa24cfb37c36d579c7c5871f8.png",
+    "id": "592e2adeb45f51716ab6f456"
+  },
+  "order": 1,
+  "numOfClasses": 9,
+  "expiration": 12,
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/3b76e759-958c-4ebd-97fa-a4fa3a9abec7_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/3b76e759-958c-4ebd-97fa-a4fa3a9abec7_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/3b76e759-958c-4ebd-97fa-a4fa3a9abec7_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/3b76e759-958c-4ebd-97fa-a4fa3a9abec7_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/3b76e759-958c-4ebd-97fa-a4fa3a9abec7_mobile_mid.m3u8"
+    },
+    "id": "5a1f7e54ef23a865a405d620"
+  },
+  "tag": "牛佳丽 初中 七年级 上 生物",
+  "videoCount": 27,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 16,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 9,
+  "mobileCoverUrl": "http://imgs.wanmen.org/8ac95c34ab90c9f28753aaeecdf94027.png",
+  "coverUrl": "http://imgs.wanmen.org/26d5e8f992e65abc01ce61db50de8868.png",
+  "id": "592e2f07b45f51716ab6f475",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:28:24.607Z",
+    "updatedAt": "2017-12-23T02:58:42.351Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "认识生物",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": true
+    },
+    "hide": false,
+    "id": "59360538d5fa2213f156cc16",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:31:17.770Z",
+      "updatedAt": "2017-12-23T02:58:50.340Z",
+      "parentId": "59360538d5fa2213f156cc16",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "生物的特征上",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_mobile_mid.m3u8"
+        },
+        "id": "590bd144ef23a8300dc58ee1"
+      },
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593605e5d5fa2213f156cc28",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/3bd6d157-8589-40c0-9f70-42bea98147d1_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:31:38.928Z",
+      "updatedAt": "2017-12-23T02:58:58.760Z",
+      "parentId": "59360538d5fa2213f156cc16",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "生物的特征下",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_mobile_mid.m3u8"
+        },
+        "id": "590bd2d0d5ff752381c45bf2"
+      },
+      "order": 2,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "593605fad5fa2213f156cc2a",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/3457a5e1-4895-461b-92a5-4d79efce7bd9_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:28:34.001Z",
+    "updatedAt": "2017-12-23T02:59:28.838Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "了解生物圈",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360541d5fa2213f156cc18",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:31:53.910Z",
+      "updatedAt": "2017-12-23T03:00:33.291Z",
+      "parentId": "59360541d5fa2213f156cc18",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "生物与环境的关系 上",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ded769cf-a511-4a86-97ee-b948b58389a2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ded769cf-a511-4a86-97ee-b948b58389a2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ded769cf-a511-4a86-97ee-b948b58389a2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ded769cf-a511-4a86-97ee-b948b58389a2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ded769cf-a511-4a86-97ee-b948b58389a2_mobile_mid.m3u8"
+        },
+        "id": "590bd1e3ef23a82fe208eae6"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360609d5fa2213f156cc2c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:32:12.614Z",
+      "updatedAt": "2017-12-23T03:00:46.366Z",
+      "parentId": "59360541d5fa2213f156cc18",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "生物与环境的关系 下",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/01b5d746-f046-47c9-94ce-d7b0c64dec07_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/01b5d746-f046-47c9-94ce-d7b0c64dec07_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/01b5d746-f046-47c9-94ce-d7b0c64dec07_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/01b5d746-f046-47c9-94ce-d7b0c64dec07_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/01b5d746-f046-47c9-94ce-d7b0c64dec07_mobile_mid.m3u8"
+        },
+        "id": "590bd210ef23a8304704d76e"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936061cd5fa2213f156cc2e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:32:25.697Z",
+      "updatedAt": "2017-12-23T03:01:02.731Z",
+      "parentId": "59360541d5fa2213f156cc18",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "生态系统的构成",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/deda98a9-cbd0-4f4d-b0ef-410fa4322a9b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/deda98a9-cbd0-4f4d-b0ef-410fa4322a9b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/deda98a9-cbd0-4f4d-b0ef-410fa4322a9b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/deda98a9-cbd0-4f4d-b0ef-410fa4322a9b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/deda98a9-cbd0-4f4d-b0ef-410fa4322a9b_mobile_mid.m3u8"
+        },
+        "id": "590bd26aef23a83037f2daef"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360629d5fa2213f156cc30",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:32:33.337Z",
+      "updatedAt": "2017-12-23T03:01:17.010Z",
+      "parentId": "59360541d5fa2213f156cc18",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "生态系统的种类",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/34aca5e9-065f-4442-b409-12876e93f776_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/34aca5e9-065f-4442-b409-12876e93f776_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/34aca5e9-065f-4442-b409-12876e93f776_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/34aca5e9-065f-4442-b409-12876e93f776_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/34aca5e9-065f-4442-b409-12876e93f776_mobile_mid.m3u8"
+        },
+        "id": "590bd2a3ef23a82ffd23541a"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360631d5fa2213f156cc32",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:28:45.624Z",
+    "updatedAt": "2017-12-23T03:01:36.968Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "细胞是生命活动的基本单位",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5936054dd5fa2213f156cc1a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:32:41.427Z",
+      "updatedAt": "2017-12-23T03:02:01.876Z",
+      "parentId": "5936054dd5fa2213f156cc1a",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "动植物细胞的基本结构和功能",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/09e5c7ba-b4eb-4221-b4c2-51ab87d44725_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/09e5c7ba-b4eb-4221-b4c2-51ab87d44725_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/09e5c7ba-b4eb-4221-b4c2-51ab87d44725_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/09e5c7ba-b4eb-4221-b4c2-51ab87d44725_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/09e5c7ba-b4eb-4221-b4c2-51ab87d44725_mobile_mid.m3u8"
+        },
+        "id": "59101397ef23a83089d83a6b"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360639d5fa2213f156cc34",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:32:49.711Z",
+      "updatedAt": "2017-12-23T03:02:27.383Z",
+      "parentId": "5936054dd5fa2213f156cc1a",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "细胞的生活上",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0aac94e7-73a4-4f67-8c24-7412815ba49e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0aac94e7-73a4-4f67-8c24-7412815ba49e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0aac94e7-73a4-4f67-8c24-7412815ba49e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0aac94e7-73a4-4f67-8c24-7412815ba49e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0aac94e7-73a4-4f67-8c24-7412815ba49e_mobile_mid.m3u8"
+        },
+        "id": "591013dcef23a8305dbf4d6a"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360641d5fa2213f156cc36",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:32:57.703Z",
+      "updatedAt": "2017-12-23T03:02:46.980Z",
+      "parentId": "5936054dd5fa2213f156cc1a",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "细胞的生活下",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ca703d80-e311-4952-bc01-7b65b7bcac93_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ca703d80-e311-4952-bc01-7b65b7bcac93_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ca703d80-e311-4952-bc01-7b65b7bcac93_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ca703d80-e311-4952-bc01-7b65b7bcac93_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ca703d80-e311-4952-bc01-7b65b7bcac93_mobile_mid.m3u8"
+        },
+        "id": "5910140fef23a8308c970dbf"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360649d5fa2213f156cc38",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:33:06.342Z",
+      "updatedAt": "2017-12-23T03:03:55.025Z",
+      "parentId": "5936054dd5fa2213f156cc1a",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "显微镜的使用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ed4c3366-d7c0-4505-991d-84a4121a8c54_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ed4c3366-d7c0-4505-991d-84a4121a8c54_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ed4c3366-d7c0-4505-991d-84a4121a8c54_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ed4c3366-d7c0-4505-991d-84a4121a8c54_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ed4c3366-d7c0-4505-991d-84a4121a8c54_mobile_mid.m3u8"
+        },
+        "id": "5910143def23a8304db8337b"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360652d5fa2213f156cc3a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:28:54.321Z",
+    "updatedAt": "2017-12-23T03:04:59.484Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "细胞怎样构成生物体",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360556d5fa2213f156cc1c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:33:14.689Z",
+      "updatedAt": "2017-12-23T03:05:09.707Z",
+      "parentId": "59360556d5fa2213f156cc1c",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "细胞的生长与分裂",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f9cd5d76-102b-4bec-89cf-4c947bd3f46a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f9cd5d76-102b-4bec-89cf-4c947bd3f46a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f9cd5d76-102b-4bec-89cf-4c947bd3f46a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f9cd5d76-102b-4bec-89cf-4c947bd3f46a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f9cd5d76-102b-4bec-89cf-4c947bd3f46a_mobile_mid.m3u8"
+        },
+        "id": "59101586d5ff752394a46f8f"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936065ad5fa2213f156cc3c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:33:21.881Z",
+      "updatedAt": "2017-12-23T03:05:26.199Z",
+      "parentId": "59360556d5fa2213f156cc1c",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "动物体的结构层次",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/49486628-c388-461e-99ab-62b666ac45f0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/49486628-c388-461e-99ab-62b666ac45f0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/49486628-c388-461e-99ab-62b666ac45f0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/49486628-c388-461e-99ab-62b666ac45f0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/49486628-c388-461e-99ab-62b666ac45f0_mobile_mid.m3u8"
+        },
+        "id": "5910147cef23a83062694861"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360661d5fa2213f156cc3e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:33:30.210Z",
+      "updatedAt": "2017-12-23T03:05:36.703Z",
+      "parentId": "59360556d5fa2213f156cc1c",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "植物体的结构层次",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a451d755-9560-462e-8c7c-10ce24d33a54_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a451d755-9560-462e-8c7c-10ce24d33a54_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a451d755-9560-462e-8c7c-10ce24d33a54_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a451d755-9560-462e-8c7c-10ce24d33a54_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a451d755-9560-462e-8c7c-10ce24d33a54_mobile_mid.m3u8"
+        },
+        "id": "591015c1d5ff75237598a86d"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936066ad5fa2213f156cc40",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:33:39.103Z",
+      "updatedAt": "2017-12-23T03:05:46.608Z",
+      "parentId": "59360556d5fa2213f156cc1c",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "单细胞生物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/99f0d8b0-31cb-4ebf-8f5d-d47ef5effb84_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/99f0d8b0-31cb-4ebf-8f5d-d47ef5effb84_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/99f0d8b0-31cb-4ebf-8f5d-d47ef5effb84_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/99f0d8b0-31cb-4ebf-8f5d-d47ef5effb84_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/99f0d8b0-31cb-4ebf-8f5d-d47ef5effb84_mobile_mid.m3u8"
+        },
+        "id": "591014beef23a8306818d0ce"
+      },
+      "order": 4,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360673d5fa2213f156cc42",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:29:02.401Z",
+    "updatedAt": "2017-12-23T03:06:00.877Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "生物圈中有哪些绿色植物",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5936055ed5fa2213f156cc1e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:33:47.312Z",
+      "updatedAt": "2017-12-23T03:06:12.131Z",
+      "parentId": "5936055ed5fa2213f156cc1e",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "孢子植物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5153e888-8656-4aad-b7a1-95e3e38b1bc6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5153e888-8656-4aad-b7a1-95e3e38b1bc6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5153e888-8656-4aad-b7a1-95e3e38b1bc6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5153e888-8656-4aad-b7a1-95e3e38b1bc6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5153e888-8656-4aad-b7a1-95e3e38b1bc6_mobile_mid.m3u8"
+        },
+        "id": "591014fcef23a830026e6f47"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936067bd5fa2213f156cc44",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:33:54.678Z",
+      "updatedAt": "2017-12-23T03:06:24.657Z",
+      "parentId": "5936055ed5fa2213f156cc1e",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "种子植物",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4a227986-0f7d-449b-8221-f0e93e952afa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4a227986-0f7d-449b-8221-f0e93e952afa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4a227986-0f7d-449b-8221-f0e93e952afa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4a227986-0f7d-449b-8221-f0e93e952afa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4a227986-0f7d-449b-8221-f0e93e952afa_mobile_mid.m3u8"
+        },
+        "id": "59101530ef23a83062694862"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360682d5fa2213f156cc46",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:29:10.784Z",
+    "updatedAt": "2017-12-23T03:06:40.008Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "被子植物的一生",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360566d5fa2213f156cc20",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:34:02.516Z",
+      "updatedAt": "2017-12-23T03:07:08.904Z",
+      "parentId": "59360566d5fa2213f156cc20",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "种子的萌发",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/25e6bf67-12df-499d-8fa7-e1dca7bffc3b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/25e6bf67-12df-499d-8fa7-e1dca7bffc3b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/25e6bf67-12df-499d-8fa7-e1dca7bffc3b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/25e6bf67-12df-499d-8fa7-e1dca7bffc3b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/25e6bf67-12df-499d-8fa7-e1dca7bffc3b_mobile_mid.m3u8"
+        },
+        "id": "59101560ef23a82fd5fce947"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936068ad5fa2213f156cc48",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:34:11.530Z",
+      "updatedAt": "2017-12-23T03:07:28.202Z",
+      "parentId": "59360566d5fa2213f156cc20",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "植株的生长",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e6c3d6b5-c001-46ca-a449-ad8a73285c56_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e6c3d6b5-c001-46ca-a449-ad8a73285c56_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e6c3d6b5-c001-46ca-a449-ad8a73285c56_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e6c3d6b5-c001-46ca-a449-ad8a73285c56_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e6c3d6b5-c001-46ca-a449-ad8a73285c56_mobile_mid.m3u8"
+        },
+        "id": "591016b2d5ff752355355750"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59360693d5fa2213f156cc4a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:34:20.892Z",
+      "updatedAt": "2017-12-23T03:07:42.360Z",
+      "parentId": "59360566d5fa2213f156cc20",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "开花和结果",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a797486a-c0d4-4e1c-8e16-54a2614cb8e4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a797486a-c0d4-4e1c-8e16-54a2614cb8e4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a797486a-c0d4-4e1c-8e16-54a2614cb8e4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a797486a-c0d4-4e1c-8e16-54a2614cb8e4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a797486a-c0d4-4e1c-8e16-54a2614cb8e4_mobile_mid.m3u8"
+        },
+        "id": "591015acef23a8306926cb71"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5936069cd5fa2213f156cc4c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:29:19.248Z",
+    "updatedAt": "2017-12-23T03:08:15.720Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "绿色植物与生物圈中的水循环",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5936056fd5fa2213f156cc22",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:34:29.500Z",
+      "updatedAt": "2017-12-23T03:08:32.796Z",
+      "parentId": "5936056fd5fa2213f156cc22",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "植物对水分的吸收与运输",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9062fef7-b05f-4460-8df1-d299b23e983d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9062fef7-b05f-4460-8df1-d299b23e983d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9062fef7-b05f-4460-8df1-d299b23e983d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9062fef7-b05f-4460-8df1-d299b23e983d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9062fef7-b05f-4460-8df1-d299b23e983d_mobile_mid.m3u8"
+        },
+        "id": "5911335cef23a82fe81869d4"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606a5d5fa2213f156cc4e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:34:43.534Z",
+      "updatedAt": "2017-12-23T03:08:48.226Z",
+      "parentId": "5936056fd5fa2213f156cc22",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "叶片的结构与蒸腾作用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/357439ef-e889-4eb0-9b5c-a4b6605a44b0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/357439ef-e889-4eb0-9b5c-a4b6605a44b0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/357439ef-e889-4eb0-9b5c-a4b6605a44b0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/357439ef-e889-4eb0-9b5c-a4b6605a44b0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/357439ef-e889-4eb0-9b5c-a4b6605a44b0_mobile_mid.m3u8"
+        },
+        "id": "59113371ef23a82ffaa0c498"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606b3d5fa2213f156cc50",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:34:51.945Z",
+      "updatedAt": "2017-12-23T03:09:33.432Z",
+      "parentId": "5936056fd5fa2213f156cc22",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "蒸腾作用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a434cf5f-ba5f-43f9-b7a4-e292775f75a2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a434cf5f-ba5f-43f9-b7a4-e292775f75a2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a434cf5f-ba5f-43f9-b7a4-e292775f75a2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a434cf5f-ba5f-43f9-b7a4-e292775f75a2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a434cf5f-ba5f-43f9-b7a4-e292775f75a2_mobile_mid.m3u8"
+        },
+        "id": "59113443ef23a830822d9c0f"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606bbd5fa2213f156cc52",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:29:29.405Z",
+    "updatedAt": "2017-12-23T03:09:55.270Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "绿色植物与生物圈中的碳－氧平衡",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360579d5fa2213f156cc24",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:35:02.394Z",
+      "updatedAt": "2017-12-23T03:10:14.808Z",
+      "parentId": "59360579d5fa2213f156cc24",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "植物的光合作用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2bef162c-6e7e-45af-88fe-076bc0b5ebe5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2bef162c-6e7e-45af-88fe-076bc0b5ebe5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2bef162c-6e7e-45af-88fe-076bc0b5ebe5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2bef162c-6e7e-45af-88fe-076bc0b5ebe5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2bef162c-6e7e-45af-88fe-076bc0b5ebe5_mobile_mid.m3u8"
+        },
+        "id": "591134a0ef23a82feb8a144a"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606c6d5fa2213f156cc54",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:35:15.100Z",
+      "updatedAt": "2017-12-23T03:10:37.261Z",
+      "parentId": "59360579d5fa2213f156cc24",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "植物的呼吸作用",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/de454536-87e3-49b6-8edc-516f88f5a27c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/de454536-87e3-49b6-8edc-516f88f5a27c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/de454536-87e3-49b6-8edc-516f88f5a27c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/de454536-87e3-49b6-8edc-516f88f5a27c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/de454536-87e3-49b6-8edc-516f88f5a27c_mobile_mid.m3u8"
+        },
+        "id": "591134c0ef23a83089d83a6e"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606d3d5fa2213f156cc56",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:35:24.624Z",
+      "updatedAt": "2017-12-23T03:10:56.281Z",
+      "parentId": "59360579d5fa2213f156cc24",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "绿色植物与碳－氧平衡",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d2e7546a-2420-4f01-8975-01f69e7bda72_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d2e7546a-2420-4f01-8975-01f69e7bda72_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d2e7546a-2420-4f01-8975-01f69e7bda72_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d2e7546a-2420-4f01-8975-01f69e7bda72_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d2e7546a-2420-4f01-8975-01f69e7bda72_mobile_mid.m3u8"
+        },
+        "id": "591134dbef23a82ffd235422"
+      },
+      "order": 3,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606dcd5fa2213f156cc58",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-06-06T01:29:43.347Z",
+    "updatedAt": "2017-12-23T03:11:20.189Z",
+    "courseId": "592e2f07b45f51716ab6f475",
+    "name": "爱护植被，绿化祖国",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59360587d5fa2213f156cc26",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:35:34.783Z",
+      "updatedAt": "2017-12-23T03:11:43.488Z",
+      "parentId": "59360587d5fa2213f156cc26",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "我国主要的植被类型",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5781cea-ced7-42fa-b6d2-b087f0f94cc0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5781cea-ced7-42fa-b6d2-b087f0f94cc0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5781cea-ced7-42fa-b6d2-b087f0f94cc0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5781cea-ced7-42fa-b6d2-b087f0f94cc0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5781cea-ced7-42fa-b6d2-b087f0f94cc0_mobile_mid.m3u8"
+        },
+        "id": "591134ebef23a8300e24779c"
+      },
+      "order": 1,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606e6d5fa2213f156cc5a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-06-06T01:35:42.554Z",
+      "updatedAt": "2017-12-23T03:12:15.092Z",
+      "parentId": "59360587d5fa2213f156cc26",
+      "courseId": "592e2f07b45f51716ab6f475",
+      "name": "我国植被面临的主要问题",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1893d972-5246-44f6-855d-ad6fba7475b3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1893d972-5246-44f6-855d-ad6fba7475b3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1893d972-5246-44f6-855d-ad6fba7475b3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1893d972-5246-44f6-855d-ad6fba7475b3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1893d972-5246-44f6-855d-ad6fba7475b3_mobile_mid.m3u8"
+        },
+        "id": "59113637d5ff752381c45bf5"
+      },
+      "order": 2,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "593606eed5fa2213f156cc5c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

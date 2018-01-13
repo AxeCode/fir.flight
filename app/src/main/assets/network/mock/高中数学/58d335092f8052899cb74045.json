@@ -1,0 +1,483 @@
+{
+  "id": "58d335092f8052899cb74045",
+  "createdAt": "2017-03-23T02:38:01.306Z",
+  "teacherAvatar": "http://imgs.wanmen.org/7592e80bea6f15f4694f72d9ce41b783.png",
+  "teacherDescription": "清华大学经济管理学院与哥伦比亚大学商务分析双硕士在读，爱好探索未知世界，希望用双腿走遍地球的每一寸土地并把自己的学习方法和观点分享与每一位同学。",
+  "teacherName": "孙遮缘",
+  "major": "586d234f5f07127674152c49",
+  "homeSmallImage": "http://img.wanmen.org/images/ca5fb0bc-fa62-42cb-9f62-479a1409131c.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/04e5a3a7-afa9-4955-a877-ae1920d9ab3b.png",
+  "bigImage": "http://imgs.wanmen.org/94cea6f5b24ec3b1c5042cc0e4a731a8.png",
+  "smallImage": "http://imgs.wanmen.org/4c66377be47f94eae14f2ff8f6bd9f50.png",
+  "shortDescription": null,
+  "logo": "http://img.wanmen.org/images/3c7e60a7-71f8-464c-a476-95c37b7bf797.png",
+  "order": 16,
+  "hide": false,
+  "price": 158,
+  "description": null,
+  "name": "高中数学选修4-4",
+  "updatedAt": "2018-01-09T04:16:03.366Z",
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/4c66377be47f94eae14f2ff8f6bd9f50.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/14265e39dd33ca67e84ffd123a16f52b.png",
+  "bigImageUrl": "http://imgs.wanmen.org/94cea6f5b24ec3b1c5042cc0e4a731a8.png",
+  "teacher": {
+    "name": "孙遮缘",
+    "description": "清华大学经济管理学院与哥伦比亚大学商务分析双硕士在读，爱好探索未知世界，希望用双腿走遍地球的每一寸土地并把自己的学习方法和观点分享与每一位同学。",
+    "avatar": "http://imgs.wanmen.org/7592e80bea6f15f4694f72d9ce41b783.png",
+    "id": "587a6c76df6ce74ffe55d3e1"
+  },
+  "numOfClasses": 11,
+  "expiration": 12,
+  "tag": "孙遮缘 高中 数学 选修 4 ",
+  "videoCount": 11,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 25,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 11,
+  "mobileCoverUrl": "http://imgs.wanmen.org/4c66377be47f94eae14f2ff8f6bd9f50.png",
+  "coverUrl": "http://imgs.wanmen.org/94cea6f5b24ec3b1c5042cc0e4a731a8.png",
+  "lectures": [{
+    "courseId": "58d335092f8052899cb74045",
+    "name": "平面直角坐标系",
+    "createdAt": "2017-04-09T12:52:00.497Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-12-21T03:40:51.966Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e722f8052899cb864b9",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "平面直角坐标系",
+      "parentId": "58ea2e722f8052899cb864b9",
+      "createdAt": "2017-04-09T12:52:00.540Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:15:15.954Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d0"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/277979f7926ebb6d5e42666df1673b1d_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58ea2e722f8052899cb864ba",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "极坐标系",
+    "createdAt": "2017-04-09T12:52:01.000Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-12-21T03:41:00.713Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864bb",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "极坐标系",
+      "parentId": "58ea2e732f8052899cb864bb",
+      "createdAt": "2017-04-09T12:52:01.058Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:15:37.902Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/832ccfcdefd2d8d09aeffd107fa47060_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/832ccfcdefd2d8d09aeffd107fa47060_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/832ccfcdefd2d8d09aeffd107fa47060_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/832ccfcdefd2d8d09aeffd107fa47060_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/832ccfcdefd2d8d09aeffd107fa47060_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864bc",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "简单曲线的极坐标系方程",
+    "createdAt": "2017-04-09T12:52:01.084Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-12-21T03:41:07.470Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864bd",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "简单曲线的极坐标系方程",
+      "parentId": "58ea2e732f8052899cb864bd",
+      "createdAt": "2017-04-09T12:52:01.142Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:15:48.022Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/892c69b9a8034c246722cb5d8c84d2c0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/892c69b9a8034c246722cb5d8c84d2c0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/892c69b9a8034c246722cb5d8c84d2c0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/892c69b9a8034c246722cb5d8c84d2c0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/892c69b9a8034c246722cb5d8c84d2c0_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864be",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "柱坐标系与球坐标系",
+    "createdAt": "2017-04-09T12:52:01.159Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-12-21T03:41:13.255Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864bf",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "柱坐标系与球坐标系",
+      "parentId": "58ea2e732f8052899cb864bf",
+      "createdAt": "2017-04-09T12:52:01.193Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:16:30.170Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/248f66d4f2855bcd97809dc6b06eea25_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/248f66d4f2855bcd97809dc6b06eea25_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/248f66d4f2855bcd97809dc6b06eea25_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/248f66d4f2855bcd97809dc6b06eea25_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/248f66d4f2855bcd97809dc6b06eea25_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864c0",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "参数方程的概念",
+    "createdAt": "2017-04-09T12:52:01.211Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-12-21T03:41:22.676Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864c1",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "参数方程的概念",
+      "parentId": "58ea2e732f8052899cb864c1",
+      "createdAt": "2017-04-09T12:52:01.245Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:17:00.174Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e9bb30380c25f1191696116e81cff30a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e9bb30380c25f1191696116e81cff30a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e9bb30380c25f1191696116e81cff30a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e9bb30380c25f1191696116e81cff30a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e9bb30380c25f1191696116e81cff30a_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864c2",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "圆的参数方程及应用",
+    "createdAt": "2017-04-09T12:52:01.261Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-12-21T03:41:27.691Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864c3",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "圆的参数方程及应用",
+      "parentId": "58ea2e732f8052899cb864c3",
+      "createdAt": "2017-04-09T12:52:01.294Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:17:10.525Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9c241b4d40036c0ea1a5a10f4dd0bbbf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9c241b4d40036c0ea1a5a10f4dd0bbbf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9c241b4d40036c0ea1a5a10f4dd0bbbf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9c241b4d40036c0ea1a5a10f4dd0bbbf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9c241b4d40036c0ea1a5a10f4dd0bbbf_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864c4",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "圆锥曲线的参数方程及应用",
+    "createdAt": "2017-04-09T12:52:01.311Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-12-21T03:41:33.768Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864c5",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "圆锥曲线的参数方程及应用",
+      "parentId": "58ea2e732f8052899cb864c5",
+      "createdAt": "2017-04-09T12:52:01.360Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:17:24.037Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9922f0982b7b06a62a003180397b6a08_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9922f0982b7b06a62a003180397b6a08_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9922f0982b7b06a62a003180397b6a08_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9922f0982b7b06a62a003180397b6a08_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9922f0982b7b06a62a003180397b6a08_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864c6",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "直线的参数方程及应用",
+    "createdAt": "2017-04-09T12:52:01.376Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2017-12-21T03:41:39.979Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864c7",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "直线的参数方程及应用",
+      "parentId": "58ea2e732f8052899cb864c7",
+      "createdAt": "2017-04-09T12:52:01.416Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:17:32.160Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4fc85df792a844e42ae19416d4e141d0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4fc85df792a844e42ae19416d4e141d0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4fc85df792a844e42ae19416d4e141d0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4fc85df792a844e42ae19416d4e141d0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4fc85df792a844e42ae19416d4e141d0_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864c8",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "参数方程与直角方程的互相转化",
+    "createdAt": "2017-04-09T12:52:01.434Z",
+    "order": 9,
+    "description": null,
+    "updatedAt": "2017-12-21T03:42:24.280Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864c9",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "参数方程与直角方程的互相转化",
+      "parentId": "58ea2e732f8052899cb864c9",
+      "createdAt": "2017-04-09T12:52:01.467Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T06:17:39.978Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1e84d19b9d9b5b6db7ec50b2af69d1db_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1e84d19b9d9b5b6db7ec50b2af69d1db_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1e84d19b9d9b5b6db7ec50b2af69d1db_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1e84d19b9d9b5b6db7ec50b2af69d1db_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1e84d19b9d9b5b6db7ec50b2af69d1db_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b7d8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864ca",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "圆的渐开线与摆线",
+    "createdAt": "2017-04-09T12:52:01.487Z",
+    "order": 10,
+    "description": null,
+    "updatedAt": "2017-12-21T03:42:28.549Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864cb",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "圆的渐开线与摆线",
+      "parentId": "58ea2e732f8052899cb864cb",
+      "createdAt": "2017-04-09T12:52:01.520Z",
+      "order": 1,
+      "updatedAt": "2017-04-17T09:21:25.827Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0365e66d8d21f0d6bc7a29001f2acee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0365e66d8d21f0d6bc7a29001f2acee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0365e66d8d21f0d6bc7a29001f2acee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0365e66d8d21f0d6bc7a29001f2acee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0365e66d8d21f0d6bc7a29001f2acee_mobile_mid.m3u8"
+        },
+        "id": "58ef16a9d5ff756f6344b69c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864cc",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58d335092f8052899cb74045",
+    "name": "习题课",
+    "createdAt": "2017-04-09T12:52:01.540Z",
+    "order": 11,
+    "description": null,
+    "updatedAt": "2017-12-21T03:42:34.897Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58ea2e732f8052899cb864cd",
+    "children": [{
+      "courseId": "58d335092f8052899cb74045",
+      "name": "习题课",
+      "parentId": "58ea2e732f8052899cb864cd",
+      "createdAt": "2017-04-09T12:52:01.572Z",
+      "order": 1,
+      "updatedAt": "2017-04-19T09:14:47.693Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/27abaedc-df69-44f1-abc5-5d820c673fa2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/27abaedc-df69-44f1-abc5-5d820c673fa2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/27abaedc-df69-44f1-abc5-5d820c673fa2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/27abaedc-df69-44f1-abc5-5d820c673fa2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/27abaedc-df69-44f1-abc5-5d820c673fa2_mobile_mid.m3u8"
+        },
+        "id": "58f70fb2ef23a87fbf2b1fb6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58ea2e732f8052899cb864ce",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

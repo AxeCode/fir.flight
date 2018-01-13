@@ -1,0 +1,1484 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-11-22T06:54:16.949Z",
+  "updatedAt": "2017-12-06T03:39:52.030Z",
+  "name": "高中历史选修5",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "description": "本课程是对历史研究中曾经长期困惑不解的历史现象和疑难问题进行奥秘的探究，对那些在人类历史长河中迸发的璀璨文明进行研究和梳理。这里有永恒的人类起源之谜、有极大可能是夏王朝的二里头文化、有文明高度发达的玛雅人、有怪异惊奇的三星堆……随着科学的发展，许多“奥秘”已经被考古学家和历史学家破解，但更多的奥秘，依然会成为早期文明的“黑洞”，吸引着人们的好奇心。",
+  "price": 158,
+  "hide": false,
+  "major": "586d234f5f07127674152c50",
+  "bigImage": "http://imgs.wanmen.org/1cc2616cd06288099744c8c1282072de.png",
+  "smallImage": "http://imgs.wanmen.org/88bf200484f0a8b43d4530ed41f98737.png",
+  "expiration": 12,
+  "numOfClasses": 12,
+  "order": 8,
+  "tag": "丁子江 高中 历史 选修 5 ",
+  "videoCount": 46,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 0,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 12,
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherName": "丁子江",
+  "mobileCoverUrl": "http://imgs.wanmen.org/88bf200484f0a8b43d4530ed41f98737.png",
+  "coverUrl": "http://imgs.wanmen.org/1cc2616cd06288099744c8c1282072de.png",
+  "smallImageUrl": "http://imgs.wanmen.org/88bf200484f0a8b43d4530ed41f98737.png",
+  "bigImageUrl": "http://imgs.wanmen.org/1cc2616cd06288099744c8c1282072de.png",
+  "id": "5a151f1837beee5855953c8e",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:06:40.020Z",
+    "updatedAt": "2017-12-20T03:56:51.504Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "历史的起源",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15220037beee5855953c90",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:09:40.258Z",
+      "updatedAt": "2017-12-20T03:58:04.952Z",
+      "parentId": "5a15220037beee5855953c90",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "“史”的字源演变",
+      "order": 1,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_mobile_mid.m3u8"
+        },
+        "id": "5a1416b2ef23a802193f5948"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a1522b437beee5855953ca8",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/ffa4ef4a-5ad4-469e-9bb3-58198b1744a2_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:09:47.775Z",
+      "updatedAt": "2017-12-20T03:58:14.405Z",
+      "parentId": "5a15220037beee5855953c90",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "“历”的字源演变",
+      "order": 2,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_mobile_mid.m3u8"
+        },
+        "id": "5a1416c2ef23a80254205d47"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a1522bb37beee5855953caa",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/8c54c42c-0093-4044-82a6-1cf96b851ef5_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:09:54.814Z",
+      "updatedAt": "2017-12-20T03:58:26.895Z",
+      "parentId": "5a15220037beee5855953c90",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "“历史”的出现",
+      "order": 3,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_mobile_mid.m3u8"
+        },
+        "id": "5a1416e7ef23a802e4e21497"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a1522c237beee5855953cac",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/44004dce-5cf7-4162-8c9c-2faab55b1a10_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:07:03.140Z",
+    "updatedAt": "2017-12-20T03:57:00.790Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "历史是什么",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15221737beee5855953c92",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:10:03.340Z",
+      "updatedAt": "2017-12-20T03:58:39.243Z",
+      "parentId": "5a15221737beee5855953c92",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史的定义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/637fb9d9-34cf-4c8b-bacd-e66d2a198550_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/637fb9d9-34cf-4c8b-bacd-e66d2a198550_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/637fb9d9-34cf-4c8b-bacd-e66d2a198550_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/637fb9d9-34cf-4c8b-bacd-e66d2a198550_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/637fb9d9-34cf-4c8b-bacd-e66d2a198550_mobile_mid.m3u8"
+        },
+        "id": "5a14178b51f074514e6ac186"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1522cb37beee5855953cae",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:10:10.206Z",
+      "updatedAt": "2017-12-20T03:58:55.179Z",
+      "parentId": "5a15221737beee5855953c92",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史如何重现（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c9797ef6-c8db-4765-94ee-0aad4224337c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c9797ef6-c8db-4765-94ee-0aad4224337c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c9797ef6-c8db-4765-94ee-0aad4224337c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c9797ef6-c8db-4765-94ee-0aad4224337c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c9797ef6-c8db-4765-94ee-0aad4224337c_mobile_mid.m3u8"
+        },
+        "id": "5a1417ce51f074515a3310b5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1522d237beee5855953cb0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:10:16.779Z",
+      "updatedAt": "2017-12-20T03:59:10.242Z",
+      "parentId": "5a15221737beee5855953c92",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史如何重现（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/732d8006-ea28-4cd6-90a3-6ae8b7d96ce8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/732d8006-ea28-4cd6-90a3-6ae8b7d96ce8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/732d8006-ea28-4cd6-90a3-6ae8b7d96ce8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/732d8006-ea28-4cd6-90a3-6ae8b7d96ce8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/732d8006-ea28-4cd6-90a3-6ae8b7d96ce8_mobile_mid.m3u8"
+        },
+        "id": "5a1419a8d5ff755a0ead81c4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1522d837beee5855953cb2",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:07:42.534Z",
+    "updatedAt": "2017-12-20T03:57:07.462Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "历史学什么",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15223e37beee5855953c94",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:10:29.390Z",
+      "updatedAt": "2017-12-20T03:59:30.971Z",
+      "parentId": "5a15223e37beee5855953c94",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史学的定义",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e3f2f8b4-c040-4e75-a990-f8c35d718e0b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e3f2f8b4-c040-4e75-a990-f8c35d718e0b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e3f2f8b4-c040-4e75-a990-f8c35d718e0b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e3f2f8b4-c040-4e75-a990-f8c35d718e0b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e3f2f8b4-c040-4e75-a990-f8c35d718e0b_mobile_mid.m3u8"
+        },
+        "id": "5a1418a051f074515481f5ac"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1522e537beee5855953cb4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:10:37.454Z",
+      "updatedAt": "2017-12-20T03:59:43.984Z",
+      "parentId": "5a15223e37beee5855953c94",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史的类型（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0e6595d5-7f68-4a0e-9c6b-f970aa2a1dee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0e6595d5-7f68-4a0e-9c6b-f970aa2a1dee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0e6595d5-7f68-4a0e-9c6b-f970aa2a1dee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0e6595d5-7f68-4a0e-9c6b-f970aa2a1dee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0e6595d5-7f68-4a0e-9c6b-f970aa2a1dee_mobile_mid.m3u8"
+        },
+        "id": "5a1418e1ef23a8022b6c5a56"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1522ed37beee5855953cb6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:10:49.711Z",
+      "updatedAt": "2017-12-20T03:59:55.500Z",
+      "parentId": "5a15223e37beee5855953c94",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史的类型（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/330ef8fb-c022-4844-ae4a-9f31b0dd4fa7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/330ef8fb-c022-4844-ae4a-9f31b0dd4fa7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/330ef8fb-c022-4844-ae4a-9f31b0dd4fa7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/330ef8fb-c022-4844-ae4a-9f31b0dd4fa7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/330ef8fb-c022-4844-ae4a-9f31b0dd4fa7_mobile_mid.m3u8"
+        },
+        "id": "5a141934ef23a802240bb5ba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1522f937beee5855953cb8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:10:58.723Z",
+      "updatedAt": "2017-12-20T04:00:05.598Z",
+      "parentId": "5a15223e37beee5855953c94",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史的类型（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/38587b1a-cb14-4979-ac10-49ba40836eeb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/38587b1a-cb14-4979-ac10-49ba40836eeb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/38587b1a-cb14-4979-ac10-49ba40836eeb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/38587b1a-cb14-4979-ac10-49ba40836eeb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/38587b1a-cb14-4979-ac10-49ba40836eeb_mobile_mid.m3u8"
+        },
+        "id": "5a1419b5ef23a802cab4492b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15230237beee5855953cba",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:07:52.977Z",
+    "updatedAt": "2017-12-20T03:57:12.997Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "历史有什么用",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15224837beee5855953c96",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:11:10.776Z",
+      "updatedAt": "2017-12-20T04:00:19.406Z",
+      "parentId": "5a15224837beee5855953c96",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史的精神",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f495f560-30a5-4735-8e54-7be67836f59f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f495f560-30a5-4735-8e54-7be67836f59f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f495f560-30a5-4735-8e54-7be67836f59f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f495f560-30a5-4735-8e54-7be67836f59f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f495f560-30a5-4735-8e54-7be67836f59f_mobile_mid.m3u8"
+        },
+        "id": "5a141a21ef23a802e0e5041e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15230e37beee5855953cbc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:11:19.554Z",
+      "updatedAt": "2017-12-20T04:00:35.262Z",
+      "parentId": "5a15224837beee5855953c96",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史的真实（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e64cef91-1d1b-433f-9084-563f3eea6c48_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e64cef91-1d1b-433f-9084-563f3eea6c48_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e64cef91-1d1b-433f-9084-563f3eea6c48_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e64cef91-1d1b-433f-9084-563f3eea6c48_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e64cef91-1d1b-433f-9084-563f3eea6c48_mobile_mid.m3u8"
+        },
+        "id": "5a141a8aef23a80254205d48"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15231737beee5855953cbe",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:11:26.780Z",
+      "updatedAt": "2017-12-20T04:00:48.811Z",
+      "parentId": "5a15224837beee5855953c96",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史的真实（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ada1574c-02c0-4d90-b391-37bbe69ea306_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ada1574c-02c0-4d90-b391-37bbe69ea306_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ada1574c-02c0-4d90-b391-37bbe69ea306_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ada1574c-02c0-4d90-b391-37bbe69ea306_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ada1574c-02c0-4d90-b391-37bbe69ea306_mobile_mid.m3u8"
+        },
+        "id": "5a141ae051f0745161f160e0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15231e37beee5855953cc0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:11:33.244Z",
+      "updatedAt": "2017-12-20T04:01:05.077Z",
+      "parentId": "5a15224837beee5855953c96",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "新时代如何坚持历史自信",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ba7dff3b-4d12-4e91-8dd5-b43e154205be_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ba7dff3b-4d12-4e91-8dd5-b43e154205be_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ba7dff3b-4d12-4e91-8dd5-b43e154205be_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ba7dff3b-4d12-4e91-8dd5-b43e154205be_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ba7dff3b-4d12-4e91-8dd5-b43e154205be_mobile_mid.m3u8"
+        },
+        "id": "5a141b1a51f0745143fd840c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15232537beee5855953cc2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:11:41.804Z",
+      "updatedAt": "2017-12-20T04:01:28.437Z",
+      "parentId": "5a15224837beee5855953c96",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "历史真的有用吗？",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/95e3425b-e763-44e6-99b0-09bcf4240c14_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/95e3425b-e763-44e6-99b0-09bcf4240c14_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/95e3425b-e763-44e6-99b0-09bcf4240c14_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/95e3425b-e763-44e6-99b0-09bcf4240c14_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/95e3425b-e763-44e6-99b0-09bcf4240c14_mobile_mid.m3u8"
+        },
+        "id": "5a141b4d51f07451b8b9d8a9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15232d37beee5855953cc4",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:08:00.851Z",
+    "updatedAt": "2017-12-20T03:57:19.052Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "人类哪里来",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15225037beee5855953c98",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:04.935Z",
+      "updatedAt": "2017-12-20T04:01:47.301Z",
+      "parentId": "5a15225037beee5855953c98",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "中国神创论",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ba6eb89b-7011-41a8-835c-3dfec006b0ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ba6eb89b-7011-41a8-835c-3dfec006b0ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ba6eb89b-7011-41a8-835c-3dfec006b0ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ba6eb89b-7011-41a8-835c-3dfec006b0ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ba6eb89b-7011-41a8-835c-3dfec006b0ad_mobile_mid.m3u8"
+        },
+        "id": "5a141b8351f074519ebce96e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15234437beee5855953cc6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:12.687Z",
+      "updatedAt": "2017-12-20T04:01:57.534Z",
+      "parentId": "5a15225037beee5855953c98",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "外国神创论",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1d415e76-8af6-4a0c-88bd-f6ec0608d316_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1d415e76-8af6-4a0c-88bd-f6ec0608d316_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1d415e76-8af6-4a0c-88bd-f6ec0608d316_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1d415e76-8af6-4a0c-88bd-f6ec0608d316_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1d415e76-8af6-4a0c-88bd-f6ec0608d316_mobile_mid.m3u8"
+        },
+        "id": "5a141bafef23a802bcb7bdc9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15234c37beee5855953cc8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:20.756Z",
+      "updatedAt": "2017-12-20T04:03:40.599Z",
+      "parentId": "5a15225037beee5855953c98",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "进化论",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1b3e2210-c94c-485e-aa91-2e9d96dd6dff_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1b3e2210-c94c-485e-aa91-2e9d96dd6dff_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1b3e2210-c94c-485e-aa91-2e9d96dd6dff_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1b3e2210-c94c-485e-aa91-2e9d96dd6dff_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1b3e2210-c94c-485e-aa91-2e9d96dd6dff_mobile_mid.m3u8"
+        },
+        "id": "5a141bf9ef23a802d25af13b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15235437beee5855953cca",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:08:11.281Z",
+    "updatedAt": "2017-12-20T03:57:24.723Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "人类进化全记录",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15225b37beee5855953c9a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:29.968Z",
+      "updatedAt": "2017-12-20T04:06:09.133Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "从灵长类到人科",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a39305da-5737-4436-9483-ee0d23cb4a1d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a39305da-5737-4436-9483-ee0d23cb4a1d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a39305da-5737-4436-9483-ee0d23cb4a1d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a39305da-5737-4436-9483-ee0d23cb4a1d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a39305da-5737-4436-9483-ee0d23cb4a1d_mobile_mid.m3u8"
+        },
+        "id": "5a141c1751f07451a91a432d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15235d37beee5855953ccc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:37.281Z",
+      "updatedAt": "2017-12-20T04:09:32.875Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "从猿到人",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/451303b2-c539-4fe0-a361-c3b8b21da997_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/451303b2-c539-4fe0-a361-c3b8b21da997_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/451303b2-c539-4fe0-a361-c3b8b21da997_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/451303b2-c539-4fe0-a361-c3b8b21da997_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/451303b2-c539-4fe0-a361-c3b8b21da997_mobile_mid.m3u8"
+        },
+        "id": "5a141c6d51f07451968e4289"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15236537beee5855953cce",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:44.703Z",
+      "updatedAt": "2017-12-20T04:10:28.016Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "南方古猿：直立行走",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3be772ab-a124-4844-b64c-946d00bf3ab0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3be772ab-a124-4844-b64c-946d00bf3ab0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3be772ab-a124-4844-b64c-946d00bf3ab0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3be772ab-a124-4844-b64c-946d00bf3ab0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3be772ab-a124-4844-b64c-946d00bf3ab0_mobile_mid.m3u8"
+        },
+        "id": "5a141ce2ef23a802bcb7bdca"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15236c37beee5855953cd0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:51.488Z",
+      "updatedAt": "2017-12-20T04:10:54.582Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "南方古猿到人的诞生",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d55d5b02-d9cb-48b2-a737-13a7a01322ea_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d55d5b02-d9cb-48b2-a737-13a7a01322ea_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d55d5b02-d9cb-48b2-a737-13a7a01322ea_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d55d5b02-d9cb-48b2-a737-13a7a01322ea_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d55d5b02-d9cb-48b2-a737-13a7a01322ea_mobile_mid.m3u8"
+        },
+        "id": "5a141d16ef23a802b27ff19c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15237337beee5855953cd2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:12:59.040Z",
+      "updatedAt": "2017-12-20T04:12:31.564Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "制造工具：人的诞生",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9321eca8-4768-4b9f-808b-f50e668934fc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9321eca8-4768-4b9f-808b-f50e668934fc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9321eca8-4768-4b9f-808b-f50e668934fc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9321eca8-4768-4b9f-808b-f50e668934fc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9321eca8-4768-4b9f-808b-f50e668934fc_mobile_mid.m3u8"
+        },
+        "id": "5a141d4651f074515a3310b6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15237b37beee5855953cd4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:13:05.331Z",
+      "updatedAt": "2017-12-20T04:13:02.675Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "从直立人到北京猿人",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ca1dc59d-d1fe-4823-a7df-214317fc8f7c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ca1dc59d-d1fe-4823-a7df-214317fc8f7c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ca1dc59d-d1fe-4823-a7df-214317fc8f7c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ca1dc59d-d1fe-4823-a7df-214317fc8f7c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ca1dc59d-d1fe-4823-a7df-214317fc8f7c_mobile_mid.m3u8"
+        },
+        "id": "5a141dc1ef23a80230423f6c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15238137beee5855953cd6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:13:11.574Z",
+      "updatedAt": "2017-12-20T04:13:34.039Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "智人的进击",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c8ff350f-faea-4d1e-b930-73aaa711e24d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c8ff350f-faea-4d1e-b930-73aaa711e24d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c8ff350f-faea-4d1e-b930-73aaa711e24d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c8ff350f-faea-4d1e-b930-73aaa711e24d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c8ff350f-faea-4d1e-b930-73aaa711e24d_mobile_mid.m3u8"
+        },
+        "id": "5a141fb5d5ff755a0bb6c839"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15238737beee5855953cd8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:13:19.716Z",
+      "updatedAt": "2017-12-20T04:13:52.412Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "智人凭什么行",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/239b241d-adfd-4e8f-a9ec-9c627498bb24_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/239b241d-adfd-4e8f-a9ec-9c627498bb24_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/239b241d-adfd-4e8f-a9ec-9c627498bb24_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/239b241d-adfd-4e8f-a9ec-9c627498bb24_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/239b241d-adfd-4e8f-a9ec-9c627498bb24_mobile_mid.m3u8"
+        },
+        "id": "5a141e6751f0745186214bc1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15238f37beee5855953cda",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:13:28.457Z",
+      "updatedAt": "2017-12-20T04:14:13.134Z",
+      "parentId": "5a15225b37beee5855953c9a",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "桑人：最后的哀歌",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/68e28848-f311-45fd-8768-1cb463cb71cc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/68e28848-f311-45fd-8768-1cb463cb71cc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/68e28848-f311-45fd-8768-1cb463cb71cc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/68e28848-f311-45fd-8768-1cb463cb71cc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/68e28848-f311-45fd-8768-1cb463cb71cc_mobile_mid.m3u8"
+        },
+        "id": "5a141eafef23a802b27ff19d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15239837beee5855953cdc",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:08:20.841Z",
+    "updatedAt": "2017-12-20T03:57:30.503Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "人类进化的反思",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15226437beee5855953c9c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:13:41.595Z",
+      "updatedAt": "2017-12-20T04:14:40.574Z",
+      "parentId": "5a15226437beee5855953c9c",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "非洲：今夕何夕",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bb04f863-6bf9-44f5-a828-e69898f583b8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bb04f863-6bf9-44f5-a828-e69898f583b8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bb04f863-6bf9-44f5-a828-e69898f583b8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bb04f863-6bf9-44f5-a828-e69898f583b8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bb04f863-6bf9-44f5-a828-e69898f583b8_mobile_mid.m3u8"
+        },
+        "id": "5a141eefef23a80257b88b08"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523a537beee5855953cde",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:13:47.954Z",
+      "updatedAt": "2017-12-20T04:14:50.148Z",
+      "parentId": "5a15226437beee5855953c9c",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "母系社会的谎言",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f09a79a5-11ed-4696-a7d4-cf2826d83f2a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f09a79a5-11ed-4696-a7d4-cf2826d83f2a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f09a79a5-11ed-4696-a7d4-cf2826d83f2a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f09a79a5-11ed-4696-a7d4-cf2826d83f2a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f09a79a5-11ed-4696-a7d4-cf2826d83f2a_mobile_mid.m3u8"
+        },
+        "id": "5a141f42ef23a8028fad8144"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523ab37beee5855953ce0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:13:55.589Z",
+      "updatedAt": "2017-12-20T04:15:00.263Z",
+      "parentId": "5a15226437beee5855953c9c",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "中国人从哪儿来？",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a0866396-119e-4b44-96b3-c32ae3aae484_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a0866396-119e-4b44-96b3-c32ae3aae484_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a0866396-119e-4b44-96b3-c32ae3aae484_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a0866396-119e-4b44-96b3-c32ae3aae484_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a0866396-119e-4b44-96b3-c32ae3aae484_mobile_mid.m3u8"
+        },
+        "id": "5a141f8251f0745161f160e1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523b337beee5855953ce2",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:08:31.090Z",
+    "updatedAt": "2017-12-20T04:15:11.550Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "克里特文明",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15226f37beee5855953c9e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:14:20.142Z",
+      "updatedAt": "2017-12-20T04:15:19.137Z",
+      "parentId": "5a15226f37beee5855953c9e",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "克里特的灿烂与毁灭",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79a17104-46d9-4f12-a3bb-1a33ecd17ad3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79a17104-46d9-4f12-a3bb-1a33ecd17ad3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79a17104-46d9-4f12-a3bb-1a33ecd17ad3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79a17104-46d9-4f12-a3bb-1a33ecd17ad3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79a17104-46d9-4f12-a3bb-1a33ecd17ad3_mobile_mid.m3u8"
+        },
+        "id": "5a141fb2ef23a8022af3d2ad"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523cc37beee5855953ce4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:14:28.014Z",
+      "updatedAt": "2017-12-20T04:15:34.926Z",
+      "parentId": "5a15226f37beee5855953c9e",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "米诺斯神话",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79b3df7f-bd85-48a5-a9d3-f34302fe16bf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79b3df7f-bd85-48a5-a9d3-f34302fe16bf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79b3df7f-bd85-48a5-a9d3-f34302fe16bf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79b3df7f-bd85-48a5-a9d3-f34302fe16bf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79b3df7f-bd85-48a5-a9d3-f34302fe16bf_mobile_mid.m3u8"
+        },
+        "id": "5a141fff51f074516222bc5f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523d49f2dff58500f579c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:14:34.837Z",
+      "updatedAt": "2017-12-20T04:15:49.891Z",
+      "parentId": "5a15226f37beee5855953c9e",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "米诺斯文明（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bcbbc5f8-5136-48df-8262-4d0f09c3d431_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bcbbc5f8-5136-48df-8262-4d0f09c3d431_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bcbbc5f8-5136-48df-8262-4d0f09c3d431_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bcbbc5f8-5136-48df-8262-4d0f09c3d431_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bcbbc5f8-5136-48df-8262-4d0f09c3d431_mobile_mid.m3u8"
+        },
+        "id": "5a1421c5d5ff755a1a4e10b4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523da9f2dff58500f579e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:14:42.045Z",
+      "updatedAt": "2017-12-20T04:15:59.323Z",
+      "parentId": "5a15226f37beee5855953c9e",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "米诺斯文明（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c76cdfda-121b-4ffe-8202-033fa21d41d4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c76cdfda-121b-4ffe-8202-033fa21d41d4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c76cdfda-121b-4ffe-8202-033fa21d41d4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c76cdfda-121b-4ffe-8202-033fa21d41d4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c76cdfda-121b-4ffe-8202-033fa21d41d4_mobile_mid.m3u8"
+        },
+        "id": "5a14208e51f074514954758f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523e29f2dff58500f57a0",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:08:39.576Z",
+    "updatedAt": "2017-12-20T03:57:37.261Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "二里头文化",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15227737beee5855953ca0",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:14:52.183Z",
+      "updatedAt": "2017-12-20T04:16:14.922Z",
+      "parentId": "5a15227737beee5855953ca0",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "二里头的发现",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ccf64df4-f63d-4901-85e2-5fcb49cfe1e9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ccf64df4-f63d-4901-85e2-5fcb49cfe1e9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ccf64df4-f63d-4901-85e2-5fcb49cfe1e9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ccf64df4-f63d-4901-85e2-5fcb49cfe1e9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ccf64df4-f63d-4901-85e2-5fcb49cfe1e9_mobile_mid.m3u8"
+        },
+        "id": "5a1420c8ef23a802240bb5bb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523ec9f2dff58500f57a2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:14:58.491Z",
+      "updatedAt": "2017-12-20T04:16:27.861Z",
+      "parentId": "5a15227737beee5855953ca0",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "二里头文化探秘（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/95dbf426-8376-4713-9983-e5e79c4c942a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/95dbf426-8376-4713-9983-e5e79c4c942a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/95dbf426-8376-4713-9983-e5e79c4c942a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/95dbf426-8376-4713-9983-e5e79c4c942a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/95dbf426-8376-4713-9983-e5e79c4c942a_mobile_mid.m3u8"
+        },
+        "id": "5a142102ef23a802dafa9815"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523f29f2dff58500f57a4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:04.737Z",
+      "updatedAt": "2017-12-20T04:16:39.406Z",
+      "parentId": "5a15227737beee5855953ca0",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "二里头文化探秘（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4e8ee7c5-75bd-4039-bc6a-60e611727487_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4e8ee7c5-75bd-4039-bc6a-60e611727487_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4e8ee7c5-75bd-4039-bc6a-60e611727487_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4e8ee7c5-75bd-4039-bc6a-60e611727487_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4e8ee7c5-75bd-4039-bc6a-60e611727487_mobile_mid.m3u8"
+        },
+        "id": "5a142133ef23a802dafa9816"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523f89f2dff58500f57a6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:11.477Z",
+      "updatedAt": "2017-12-20T04:16:53.382Z",
+      "parentId": "5a15227737beee5855953ca0",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "关于大禹",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eee7183d-9d3c-4fac-9847-5920bdecb2b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eee7183d-9d3c-4fac-9847-5920bdecb2b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eee7183d-9d3c-4fac-9847-5920bdecb2b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eee7183d-9d3c-4fac-9847-5920bdecb2b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eee7183d-9d3c-4fac-9847-5920bdecb2b1_mobile_mid.m3u8"
+        },
+        "id": "5a14217f51f07451ba004b35"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1523ff9f2dff58500f57a8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:18.075Z",
+      "updatedAt": "2017-12-20T04:17:06.947Z",
+      "parentId": "5a15227737beee5855953ca0",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "血染的“禅让制”",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4494e257-0e7f-4852-8e8d-06fec992a9ea_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4494e257-0e7f-4852-8e8d-06fec992a9ea_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4494e257-0e7f-4852-8e8d-06fec992a9ea_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4494e257-0e7f-4852-8e8d-06fec992a9ea_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4494e257-0e7f-4852-8e8d-06fec992a9ea_mobile_mid.m3u8"
+        },
+        "id": "5a1421bd51f07451ba004b36"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1524069f2dff58500f57aa",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:08:51.660Z",
+    "updatedAt": "2017-12-20T03:57:43.415Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "三星堆文化",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15228337beee5855953ca2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:30.274Z",
+      "updatedAt": "2017-12-20T04:17:22.367Z",
+      "parentId": "5a15228337beee5855953ca2",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "三星堆的灿烂文明",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d0408f99-b9d0-4011-ad97-d1dda3be0873_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d0408f99-b9d0-4011-ad97-d1dda3be0873_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d0408f99-b9d0-4011-ad97-d1dda3be0873_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d0408f99-b9d0-4011-ad97-d1dda3be0873_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d0408f99-b9d0-4011-ad97-d1dda3be0873_mobile_mid.m3u8"
+        },
+        "id": "5a1421ff51f07451968e428a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1524129f2dff58500f57ac",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:37.073Z",
+      "updatedAt": "2017-12-20T04:17:30.536Z",
+      "parentId": "5a15228337beee5855953ca2",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "古蜀文化",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a60ed6bc-740a-47c1-88c4-f16b324922cb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a60ed6bc-740a-47c1-88c4-f16b324922cb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a60ed6bc-740a-47c1-88c4-f16b324922cb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a60ed6bc-740a-47c1-88c4-f16b324922cb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a60ed6bc-740a-47c1-88c4-f16b324922cb_mobile_mid.m3u8"
+        },
+        "id": "5a1423cad5ff7559f607a51b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1524199f2dff58500f57ae",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:44.093Z",
+      "updatedAt": "2017-12-20T04:17:43.309Z",
+      "parentId": "5a15228337beee5855953ca2",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "三星堆与十二生肖",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d1deb707-50bd-4292-9803-5c6b2dcb4e68_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d1deb707-50bd-4292-9803-5c6b2dcb4e68_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d1deb707-50bd-4292-9803-5c6b2dcb4e68_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d1deb707-50bd-4292-9803-5c6b2dcb4e68_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d1deb707-50bd-4292-9803-5c6b2dcb4e68_mobile_mid.m3u8"
+        },
+        "id": "5a1423e4d5ff7559f607a51c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1524209f2dff58500f57b0",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:09:01.453Z",
+    "updatedAt": "2017-12-20T03:57:49.611Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "玛雅文明",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15228d37beee5855953ca4",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:50.816Z",
+      "updatedAt": "2017-12-20T04:17:57.191Z",
+      "parentId": "5a15228d37beee5855953ca4",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "玛雅文明的演变",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/75517dc8-c7b4-4b60-8569-6c9a3a27b12e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/75517dc8-c7b4-4b60-8569-6c9a3a27b12e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/75517dc8-c7b4-4b60-8569-6c9a3a27b12e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/75517dc8-c7b4-4b60-8569-6c9a3a27b12e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/75517dc8-c7b4-4b60-8569-6c9a3a27b12e_mobile_mid.m3u8"
+        },
+        "id": "5a1422a451f0745143fd840d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1524269f2dff58500f57b2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:15:57.151Z",
+      "updatedAt": "2017-12-20T04:18:09.027Z",
+      "parentId": "5a15228d37beee5855953ca4",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "玛雅文明的成就",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/90a4c161-b1ee-4b28-86fa-6fea1b713e35_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/90a4c161-b1ee-4b28-86fa-6fea1b713e35_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/90a4c161-b1ee-4b28-86fa-6fea1b713e35_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/90a4c161-b1ee-4b28-86fa-6fea1b713e35_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/90a4c161-b1ee-4b28-86fa-6fea1b713e35_mobile_mid.m3u8"
+        },
+        "id": "5a1422e051f074512cab7141"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15242d9f2dff58500f57b4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:16:03.703Z",
+      "updatedAt": "2017-12-20T04:18:22.416Z",
+      "parentId": "5a15228d37beee5855953ca4",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "殷商征服玛雅之谜",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/93c7e9d5-6afe-49c5-b88e-b78510187d3f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/93c7e9d5-6afe-49c5-b88e-b78510187d3f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/93c7e9d5-6afe-49c5-b88e-b78510187d3f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/93c7e9d5-6afe-49c5-b88e-b78510187d3f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/93c7e9d5-6afe-49c5-b88e-b78510187d3f_mobile_mid.m3u8"
+        },
+        "id": "5a142306ef23a802e0e5041f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a1524339f2dff58500f57b6",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-11-22T07:09:10.379Z",
+    "updatedAt": "2017-12-20T03:57:55.120Z",
+    "courseId": "5a151f1837beee5855953c8e",
+    "name": "大津巴布韦文明",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a15229637beee5855953ca6",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-11-22T07:16:11.596Z",
+      "updatedAt": "2017-12-20T04:18:33.832Z",
+      "parentId": "5a15229637beee5855953ca6",
+      "courseId": "5a151f1837beee5855953c8e",
+      "name": "大津巴布韦文明",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b1431cb6-a302-491a-88c6-f23feb09684a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b1431cb6-a302-491a-88c6-f23feb09684a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b1431cb6-a302-491a-88c6-f23feb09684a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b1431cb6-a302-491a-88c6-f23feb09684a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b1431cb6-a302-491a-88c6-f23feb09684a_mobile_mid.m3u8"
+        },
+        "id": "5a14234451f07451b18af21c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a15243b9f2dff58500f57b8",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

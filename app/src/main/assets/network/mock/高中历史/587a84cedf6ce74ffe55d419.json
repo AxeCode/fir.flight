@@ -1,0 +1,1721 @@
+{
+  "major": "586d234f5f07127674152c50",
+  "description": "寒假期间，来自清华北大各个系科的学霸学神（其中不乏由各地的文理科高考状元，单科状元）将组成学霸天团帮你解决高中各科的难题，传授高考“考试真经”。各位平易近人的学长学姐们有问必答，只要你有任何不懂的问题，请随时缠上他们！",
+  "deleted": false,
+  "bigImage": "http://imgs.wanmen.org/e07a86f06997651c47b33f99dfbf2a13.png",
+  "finishedAt": "2017-04-25T02:54:50.166Z",
+  "introductionVideoUrl": "http://media.wanmen.org/85b723324c42b65e728da75683f9685d_pc_high.m3u8",
+  "smallImage": "http://imgs.wanmen.org/c3c3cae486763449864c818a01fcbd6d.png",
+  "updatedAt": "2018-01-13T08:10:54.199Z",
+  "teacher": {
+    "name": "李嘉年",
+    "description": "我是李嘉年，现在就读于北京大学历史系世界史专业美国史方向，爱好旅游与街舞，关注社会现实。希望与你一起去探索人类浩瀚无垠的灿烂文明。",
+    "avatar": "http://imgs.wanmen.org/d15a09cb32fd4edb14f851329a2f7665.png",
+    "id": "587a843ddf6ce74ffe55d414"
+  },
+  "createdAt": "2017-01-14T20:06:38.158Z",
+  "hide": false,
+  "name": "清北学霸天团答疑直播——历史",
+  "isPinned": false,
+  "expiration": 12,
+  "deletedAt": null,
+  "streamKey": "7061659233674629",
+  "price": 0,
+  "openingAt": "2017-01-19T10:00:00.000Z",
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/b2a0f8da-c5f4-4cfc-986b-3446a8825f37_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/b2a0f8da-c5f4-4cfc-986b-3446a8825f37_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/b2a0f8da-c5f4-4cfc-986b-3446a8825f37_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/b2a0f8da-c5f4-4cfc-986b-3446a8825f37_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/b2a0f8da-c5f4-4cfc-986b-3446a8825f37_mobile_mid.m3u8"
+    },
+    "id": "595b039c51f0744b91c6d7b1"
+  },
+  "order": 19,
+  "videoCount": 44,
+  "tag": "李嘉年 高中 清北学霸 天团 答疑 直播 历史 高考",
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "finished",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a558789035f3144f0dd2258",
+    "endTime": "20:00",
+    "startTime": "18:00",
+    "name": "第一讲：16年各地高考典型历史题回顾",
+    "startDate": "2017-01-18T16:00:00.000Z"
+  }, {
+    "_id": "5a558789035f3144f0dd2257",
+    "endTime": "16:00",
+    "startTime": "14:00",
+    "name": "第二讲：高中历史必修一",
+    "startDate": "2017-01-21T16:00:00.000Z"
+  }, {
+    "_id": "5a558789035f3144f0dd2256",
+    "endTime": "16:00",
+    "startTime": "14:00",
+    "name": "第三讲：历史框架的梳理与总结方法",
+    "startDate": "2017-01-23T16:00:00.000Z"
+  }, {
+    "_id": "5a558789035f3144f0dd2255",
+    "endTime": "20:00",
+    "startTime": "18:00",
+    "name": "第四讲：宏观历史背景与趋势的把握",
+    "startDate": "2017-01-25T16:00:00.000Z"
+  }, {
+    "_id": "5a558789035f3144f0dd2254",
+    "endTime": "16:00",
+    "startTime": "14:00",
+    "name": "第五讲：高中历史必修二知识点回顾",
+    "startDate": "2017-02-03T16:00:00.000Z"
+  }, {
+    "_id": "5a558789035f3144f0dd2253",
+    "endTime": "20:00",
+    "startTime": "18:00",
+    "name": "第六讲：16年高考全部真题分知识点突破——必修一",
+    "startDate": "2017-02-04T16:00:00.000Z"
+  }, {
+    "_id": "5a558789035f3144f0dd2252",
+    "endTime": "16:00",
+    "startTime": "14:00",
+    "name": "第七讲：16年高考全部真题分知识点突破——必修二",
+    "startDate": "2017-02-10T16:00:00.000Z"
+  }, {
+    "_id": "5a558789035f3144f0dd2251",
+    "endTime": "20:00",
+    "startTime": "18:00",
+    "name": "第八讲：高中历史必修三知识点回顾",
+    "startDate": "2017-02-11T16:00:00.000Z"
+  }],
+  "type": "record",
+  "likes": 8,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "teacherDescription": "我是李嘉年，现在就读于北京大学历史系世界史专业美国史方向，爱好旅游与街舞，关注社会现实。希望与你一起去探索人类浩瀚无垠的灿烂文明。",
+  "teacherAvatar": "http://imgs.wanmen.org/d15a09cb32fd4edb14f851329a2f7665.png",
+  "teacherName": "李嘉年",
+  "mobileCoverUrl": "http://imgs.wanmen.org/c3c3cae486763449864c818a01fcbd6d.png",
+  "coverUrl": "http://imgs.wanmen.org/e07a86f06997651c47b33f99dfbf2a13.png",
+  "smallImageUrl": "http://imgs.wanmen.org/c3c3cae486763449864c818a01fcbd6d.png",
+  "bigImageUrl": "http://imgs.wanmen.org/e07a86f06997651c47b33f99dfbf2a13.png",
+  "id": "587a84cedf6ce74ffe55d419",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:59:12.865Z",
+    "updatedAt": "2017-06-21T08:40:14.924Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史1",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3903eaab450bca37bd9",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T04:00:32.767Z",
+      "updatedAt": "2017-12-22T02:21:32.968Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "学习方法概述",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_mobile_mid.m3u8"
+        },
+        "id": "59191c8eef23a8301e5ebdc8"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923b3e03eaab450bca37beb",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/fd3976b1-54dd-4001-905e-1a837bf18cb1_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T04:00:44.553Z",
+      "updatedAt": "2017-12-22T02:21:37.461Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_mobile_mid.m3u8"
+        },
+        "id": "59191cbbef23a83018b34d24"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923b3ec3eaab450bca37bed",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/2c979bc3-9b6c-40e8-aa4c-5646c769993f_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T04:00:52.657Z",
+      "updatedAt": "2017-12-22T02:21:41.157Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_mobile_mid.m3u8"
+        },
+        "id": "59191cebef23a8302b0c356e"
+      },
+      "order": 3,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923b3f43eaab450bca37bef",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/31a78c63-2750-48e5-b184-795773bc4ef6_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T04:01:01.497Z",
+      "updatedAt": "2017-12-22T02:21:45.109Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_mobile_mid.m3u8"
+        },
+        "id": "59191d24ef23a8305c40f551"
+      },
+      "order": 4,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923b3fd3eaab450bca37bf1",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/586d159d-d465-4bee-ab43-ca68c31ea5da_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T04:01:10.847Z",
+      "updatedAt": "2017-12-22T02:21:49.307Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题4",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_mobile_mid.m3u8"
+        },
+        "id": "59191d54ef23a830026e6f56"
+      },
+      "order": 5,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923b4063eaab450bca37bf3",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/05593c2b-fb05-4695-a20f-72028a6d2b32_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:34:56.309Z",
+      "updatedAt": "2017-12-22T02:21:58.404Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "材料题1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_mobile_mid.m3u8"
+        },
+        "id": "59191d9bef23a8306926cb7c"
+      },
+      "order": 6,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ca003eaab450bca37bf5",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/fede56a6-d466-45f9-bc85-2513552d1a96_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:35:07.189Z",
+      "updatedAt": "2017-12-22T02:22:02.306Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "材料题2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_mobile_mid.m3u8"
+        },
+        "id": "59191ddaef23a83072ca0b58"
+      },
+      "order": 7,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ca0b3eaab450bca37bf7",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/fb082a28-86dd-4495-a1b8-f786fa0f8a4e_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:35:22.119Z",
+      "updatedAt": "2017-12-22T02:22:06.873Z",
+      "parentId": "5923b3903eaab450bca37bd9",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "材料题3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_mobile_mid.m3u8"
+        },
+        "id": "59191e18ef23a8300dc58efa"
+      },
+      "order": 8,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ca1a3eaab450bca37bf9",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/45e02b59-c9fd-4b1d-8874-fe2e239321b3_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:59:35.131Z",
+    "updatedAt": "2017-06-21T08:40:16.586Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史2",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3a73eaab450bca37bdb",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:50:20.244Z",
+      "updatedAt": "2017-12-22T02:22:14.510Z",
+      "parentId": "5923b3a73eaab450bca37bdb",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高考应试方法及选择题1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_mobile_mid.m3u8"
+        },
+        "id": "59191e5bef23a8302f307409"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cd9c3eaab450bca37bfb",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c4e2e440-8fcd-4dcc-8c86-efd5106a3177_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:50:28.820Z",
+      "updatedAt": "2017-12-22T02:22:18.284Z",
+      "parentId": "5923b3a73eaab450bca37bdb",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_mobile_mid.m3u8"
+        },
+        "id": "59191fb9d5ff75236719eed6"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cda43eaab450bca37bfd",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7899753b-86e3-4a3c-816d-37a8c770ae89_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:50:40.315Z",
+      "updatedAt": "2017-12-22T02:22:24.115Z",
+      "parentId": "5923b3a73eaab450bca37bdb",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_mobile_mid.m3u8"
+        },
+        "id": "59191ec6ef23a8306269486a"
+      },
+      "order": 3,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cdb03eaab450bca37bff",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a951f73f-a18e-49a3-9cd1-aa016edbfca4_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:50:57.384Z",
+      "updatedAt": "2017-12-22T02:22:27.955Z",
+      "parentId": "5923b3a73eaab450bca37bdb",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题4",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_mobile_mid.m3u8"
+        },
+        "id": "59192033d5ff752381c45bfe"
+      },
+      "order": 4,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cdc13eaab450bca37c01",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/b507a7bb-c675-4f04-a319-245887aad81c_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:51:06.758Z",
+      "updatedAt": "2017-12-22T02:22:31.911Z",
+      "parentId": "5923b3a73eaab450bca37bdb",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题5",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_mobile_mid.m3u8"
+        },
+        "id": "59192071d5ff752379dbcfb6"
+      },
+      "order": 5,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cdca3eaab450bca37c03",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/ef88423f-2248-4cc1-a86e-12c4feaecfac_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:51:15.322Z",
+      "updatedAt": "2017-12-22T02:22:35.825Z",
+      "parentId": "5923b3a73eaab450bca37bdb",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题6",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_mobile_mid.m3u8"
+        },
+        "id": "591920a8d5ff7523626a6d1e"
+      },
+      "order": 6,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cdd33eaab450bca37c05",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/75b3ba57-5547-4630-a614-226799853893_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:51:26.999Z",
+      "updatedAt": "2017-12-22T02:22:39.950Z",
+      "parentId": "5923b3a73eaab450bca37bdb",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "选择题7",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_mobile_mid.m3u8"
+        },
+        "id": "59191fb7ef23a83018b34d25"
+      },
+      "order": 7,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cdde3eaab450bca37c07",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/809f061f-5f2e-45eb-8a15-29ac2b91f80a_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:59:39.177Z",
+    "updatedAt": "2017-06-21T08:40:18.301Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史3",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3ab3eaab450bca37bdd",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:53:40.572Z",
+      "updatedAt": "2017-12-22T02:22:57.890Z",
+      "parentId": "5923b3ab3eaab450bca37bdd",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高中历史学习方法及历史知识体系归纳1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_mobile_mid.m3u8"
+        },
+        "id": "59191feeef23a82fe208eaf5"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ce643eaab450bca37c09",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/3ffce57a-795e-499a-96de-1e3cdec30079_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:53:49.896Z",
+      "updatedAt": "2017-12-22T02:23:01.577Z",
+      "parentId": "5923b3ab3eaab450bca37bdd",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高中历史知识体系归纳2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_mobile_mid.m3u8"
+        },
+        "id": "59192035ef23a83037f2db08"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ce6d3eaab450bca37c0b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/6118e618-7c1f-481e-9f2c-47da3cff1ac6_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:53:58.240Z",
+      "updatedAt": "2017-12-22T02:23:05.295Z",
+      "parentId": "5923b3ab3eaab450bca37bdd",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高中历史知识体系归纳3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_mobile_mid.m3u8"
+        },
+        "id": "591921a5d5ff75234875d90e"
+      },
+      "order": 3,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ce763eaab450bca37c0d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/faf4c160-d84d-4067-932c-e06a1f879948_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:54:08.377Z",
+      "updatedAt": "2017-12-22T02:23:08.762Z",
+      "parentId": "5923b3ab3eaab450bca37bdd",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高中历史知识体系归纳4",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_mobile_mid.m3u8"
+        },
+        "id": "591920b9ef23a82fd351fc6f"
+      },
+      "order": 4,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ce803eaab450bca37c0f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/f1e1b669-02c3-43c3-b905-e613bfaf5f4f_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:54:16.465Z",
+      "updatedAt": "2017-12-22T02:23:14.010Z",
+      "parentId": "5923b3ab3eaab450bca37bdd",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高中历史知识体系归纳5",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_mobile_mid.m3u8"
+        },
+        "id": "5919210aef23a83055f064ae"
+      },
+      "order": 5,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ce883eaab450bca37c11",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e9b60a37-80c8-4007-817f-8b40cd7871e6_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:54:24.995Z",
+      "updatedAt": "2017-12-22T02:23:18.154Z",
+      "parentId": "5923b3ab3eaab450bca37bdd",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高中历史知识体系归纳6",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_mobile_mid.m3u8"
+        },
+        "id": "59192151ef23a82ff01ce4d2"
+      },
+      "order": 6,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ce903eaab450bca37c13",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e62fc038-9bf3-438a-97a1-53aa1bf2c333_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:54:34.039Z",
+      "updatedAt": "2017-12-22T02:23:21.550Z",
+      "parentId": "5923b3ab3eaab450bca37bdd",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "高中历史知识体系归纳7",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_mobile_mid.m3u8"
+        },
+        "id": "591922cad5ff7523521d0461"
+      },
+      "order": 7,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ce9a3eaab450bca37c15",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/397bf938-9bb2-4a01-aa19-af8ad30e5d82_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:59:43.603Z",
+    "updatedAt": "2017-06-21T08:40:20.649Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史4",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3af3eaab450bca37bdf",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:54:44.227Z",
+      "updatedAt": "2017-12-22T02:23:29.764Z",
+      "parentId": "5923b3af3eaab450bca37bdf",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "中国现代政治史1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_mobile_mid.m3u8"
+        },
+        "id": "591a5721ef23a83089d83a7d"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cea43eaab450bca37c17",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/9a5f1b35-7086-466d-a782-c5585f026565_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:54:52.872Z",
+      "updatedAt": "2017-12-22T02:23:35.528Z",
+      "parentId": "5923b3af3eaab450bca37bdf",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "中国现代政治史2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_mobile_mid.m3u8"
+        },
+        "id": "591a574cef23a8304704d77a"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ceac3eaab450bca37c19",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/dfa52502-942a-4c8b-93f8-420fcd1288ee_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:55:02.117Z",
+      "updatedAt": "2017-12-22T02:23:39.258Z",
+      "parentId": "5923b3af3eaab450bca37bdf",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "政治史总结&中国古代经济史1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_mobile_mid.m3u8"
+        },
+        "id": "591a5776ef23a8304704d77b"
+      },
+      "order": 3,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ceb63eaab450bca37c1b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/630d335f-1daa-43f3-8c04-69c742bacbee_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:55:12.941Z",
+      "updatedAt": "2017-12-22T02:23:43.912Z",
+      "parentId": "5923b3af3eaab450bca37bdf",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "中国古代经济史2&世界经济史1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_mobile_mid.m3u8"
+        },
+        "id": "591a57a4ef23a8302b0c3572"
+      },
+      "order": 4,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cec03eaab450bca37c1d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a7469d26-305d-4e11-9bd8-2b35ddf17884_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:55:23.583Z",
+      "updatedAt": "2017-12-22T02:23:48.140Z",
+      "parentId": "5923b3af3eaab450bca37bdf",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "世界经济史2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_mobile_mid.m3u8"
+        },
+        "id": "591a57ddef23a82fd4f5dbb7"
+      },
+      "order": 5,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cecb3eaab450bca37c1f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c3d1ffbc-4184-4d18-ab7c-a1b0fdef4726_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:55:33.447Z",
+      "updatedAt": "2017-12-22T02:23:52.192Z",
+      "parentId": "5923b3af3eaab450bca37bdf",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "中国近代经济史",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_mobile_mid.m3u8"
+        },
+        "id": "591a581def23a8300e2477ac"
+      },
+      "order": 6,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ced53eaab450bca37c21",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/cc989542-48e9-4dfb-8768-0ef621dd47ec_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:59:49.011Z",
+    "updatedAt": "2017-06-21T08:40:23.940Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史5",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3b53eaab450bca37be1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:55:47.218Z",
+      "updatedAt": "2017-12-22T02:23:59.715Z",
+      "parentId": "5923b3b53eaab450bca37be1",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "中国近现代经济史",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_mobile_mid.m3u8"
+        },
+        "id": "591a585cef23a8306926cb80"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cee33eaab450bca37c23",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/99f10811-aa45-45fe-9f23-d1bf37d76783_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:55:56.834Z",
+      "updatedAt": "2017-12-22T02:24:12.196Z",
+      "parentId": "5923b3b53eaab450bca37be1",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "世界近现代经济史1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_mobile_mid.m3u8"
+        },
+        "id": "591a589eef23a82fd4f5dbb8"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923ceec3eaab450bca37c25",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/03d060d2-7571-4d1a-8ecd-d0f5283f0df8_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:56:07.988Z",
+      "updatedAt": "2017-12-22T02:24:16.335Z",
+      "parentId": "5923b3b53eaab450bca37be1",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "世界近现代经济史2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_mobile_mid.m3u8"
+        },
+        "id": "591a58e8ef23a8304704d77c"
+      },
+      "order": 3,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cef73eaab450bca37c27",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e08bd6ce-9220-42c5-a587-3e3731ed38fb_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:56:17.382Z",
+      "updatedAt": "2017-12-22T02:24:20.326Z",
+      "parentId": "5923b3b53eaab450bca37be1",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "世界近现代经济史3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_mobile_mid.m3u8"
+        },
+        "id": "591a5a5cd5ff7523a0331280"
+      },
+      "order": 4,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf013eaab450bca37c29",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/5750042b-1eaa-4986-8416-96be295e329a_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:56:27.585Z",
+      "updatedAt": "2017-12-22T02:24:25.272Z",
+      "parentId": "5923b3b53eaab450bca37be1",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "世界近现代经济史4",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_mobile_mid.m3u8"
+        },
+        "id": "591a5977ef23a830822d9c1b"
+      },
+      "order": 5,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf0b3eaab450bca37c2b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c6cadce7-3cc1-49ac-b8ad-aa40e4e09985_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T03:59:54.914Z",
+    "updatedAt": "2017-06-21T08:40:29.273Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史6",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3ba3eaab450bca37be3",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:56:42.626Z",
+      "updatedAt": "2017-12-22T02:24:32.818Z",
+      "parentId": "5923b3ba3eaab450bca37be3",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版政治史试题解析1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_mobile_mid.m3u8"
+        },
+        "id": "591bb784ef23a830822d9c1d"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf1a3eaab450bca37c2d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/af556528-38c3-4501-9c59-28e43efe11bf_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:56:51.543Z",
+      "updatedAt": "2017-12-22T02:24:36.471Z",
+      "parentId": "5923b3ba3eaab450bca37be3",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版政治史试题解析2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_mobile_mid.m3u8"
+        },
+        "id": "591bb7acef23a83026369c62"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf233eaab450bca37c2f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/af64030e-f02f-4d59-b286-592fafe4b8f6_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:57:01.520Z",
+      "updatedAt": "2017-12-22T02:24:50.392Z",
+      "parentId": "5923b3ba3eaab450bca37be3",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版政治史试题解析3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_mobile_mid.m3u8"
+        },
+        "id": "591bb7deef23a83072ca0b5c"
+      },
+      "order": 3,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf2d3eaab450bca37c31",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/0dd2d9cb-a2c8-4778-8d19-1e9e7fa8f27e_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:57:10.630Z",
+      "updatedAt": "2017-12-22T02:24:53.977Z",
+      "parentId": "5923b3ba3eaab450bca37be3",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版政治史试题解析4",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_mobile_mid.m3u8"
+        },
+        "id": "591bb949d5ff75234875d911"
+      },
+      "order": 4,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf363eaab450bca37c33",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/585f089a-c431-48ec-a878-c4d5f65a3648_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:57:19.604Z",
+      "updatedAt": "2017-12-22T02:24:57.720Z",
+      "parentId": "5923b3ba3eaab450bca37be3",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版政治史试题解析5",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_mobile_mid.m3u8"
+        },
+        "id": "591bb847ef23a83074a8021f"
+      },
+      "order": 5,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf3f3eaab450bca37c35",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/4b99edf9-f89b-480b-88b1-0c7f6f21f5c3_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T04:00:00.720Z",
+    "updatedAt": "2017-06-21T08:40:33.236Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史7",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3c03eaab450bca37be5",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:57:28.279Z",
+      "updatedAt": "2017-12-22T02:25:15.741Z",
+      "parentId": "5923b3c03eaab450bca37be5",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版经济史试题解析1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_mobile_mid.m3u8"
+        },
+        "id": "591bb882ef23a8300e2477af"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf483eaab450bca37c37",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/30f09c9b-a39b-4aa4-bf3b-fd3f302543e5_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:57:37.421Z",
+      "updatedAt": "2017-12-22T02:25:29.846Z",
+      "parentId": "5923b3c03eaab450bca37be5",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版经济史试题解析2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_mobile_mid.m3u8"
+        },
+        "id": "591bb8bcef23a8303956a1e9"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf513eaab450bca37c39",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/82a3cb14-e070-4018-98f6-a0579bf48604_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:57:47.399Z",
+      "updatedAt": "2017-12-22T02:25:34.999Z",
+      "parentId": "5923b3c03eaab450bca37be5",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版经济史试题解析3",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_mobile_mid.m3u8"
+        },
+        "id": "591bb8f2ef23a82ffd23542d"
+      },
+      "order": 3,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf5b3eaab450bca37c3b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/89386f07-50d2-4da3-b3eb-cd50bc2da713_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:57:57.030Z",
+      "updatedAt": "2017-12-22T02:25:38.161Z",
+      "parentId": "5923b3c03eaab450bca37be5",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版经济史试题解析4",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_mobile_mid.m3u8"
+        },
+        "id": "591bb926ef23a8306926cb81"
+      },
+      "order": 4,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf653eaab450bca37c3d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a3a1b7ce-b092-4fe4-9773-3078776682d9_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-05-23T04:00:04.683Z",
+    "updatedAt": "2017-06-21T08:40:36.986Z",
+    "courseId": "587a84cedf6ce74ffe55d419",
+    "name": "清北学霸高考答疑-历史8",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5923b3c43eaab450bca37be7",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:58:09.186Z",
+      "updatedAt": "2017-12-22T02:25:48.479Z",
+      "parentId": "5923b3c43eaab450bca37be7",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版经济史试题解析1",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_mobile_mid.m3u8"
+        },
+        "id": "591bba95d5ff752353a29feb"
+      },
+      "order": 1,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf713eaab450bca37c3f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/9e5b9a2e-de71-4f4b-9dd2-b1133363f471_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-05-23T05:58:19.339Z",
+      "updatedAt": "2017-12-22T02:25:51.592Z",
+      "parentId": "5923b3c43eaab450bca37be7",
+      "courseId": "587a84cedf6ce74ffe55d419",
+      "name": "（2016）高考全国卷岳麓版经济史试题解析2",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_mobile_mid.m3u8"
+        },
+        "id": "591bb9a8ef23a82fe81869e4"
+      },
+      "order": 2,
+      "from": "playback",
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5923cf7b3eaab450bca37c41",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/eb6490e6-76ac-475f-8b4d-1e470eac865b_mobile_mid.m3u8"
+      }
+    }]
+  }],
+  "hasTopic": false
+}

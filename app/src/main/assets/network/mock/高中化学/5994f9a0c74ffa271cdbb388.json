@@ -1,0 +1,1535 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-08-17T02:04:16.660Z",
+  "updatedAt": "2017-12-06T04:30:33.461Z",
+  "name": "高中化学选修4串讲",
+  "numOfClasses": 4,
+  "description": "本课程面向所有的高二学生，对化学选修四进行全面的讲解，着力于弄清楚抽象性的概念。选修四主要从化学动力学和热力学两大角度对化学反应方向，四大平衡（化学平衡，沉淀溶解平衡、电离平衡和水解平衡）和电化学反应。",
+  "price": 158,
+  "teacher": {
+    "name": "黄健",
+    "description": "清华大学化学系硕士生。2012年由化学竞赛保送清华大学化学系基础科学班（化学与生物学方向）。本科期间，学分绩点专业第一，曾多次获得国家奖学金、清华大学学业优秀奖学金等。大学期间，一直参与家教、讲师授课等，长期与高中母校保持联系，兼职竞赛指导，指导过的学生有超10人次进入清华、北大。",
+    "avatar": "http://imgs.wanmen.org/cbfd4f536e1bdaa7415be284f26fc18a.png",
+    "id": "5994f6cee2af5a546d1d36d1"
+  },
+  "hide": false,
+  "major": "586d234f5f07127674152c44",
+  "expiration": 12,
+  "smallImage": "http://imgs.wanmen.org/34aff8d24097e2bee75f8be15ca8c494.png",
+  "bigImage": "http://imgs.wanmen.org/eac0127140486b89bac48a31ba55b17b.png",
+  "order": 10,
+  "tag": "黄健 高中 化学 选修 4 串讲 ",
+  "videoCount": 51,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 2,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 4,
+  "teacherDescription": "清华大学化学系硕士生。2012年由化学竞赛保送清华大学化学系基础科学班（化学与生物学方向）。本科期间，学分绩点专业第一，曾多次获得国家奖学金、清华大学学业优秀奖学金等。大学期间，一直参与家教、讲师授课等，长期与高中母校保持联系，兼职竞赛指导，指导过的学生有超10人次进入清华、北大。",
+  "teacherAvatar": "http://imgs.wanmen.org/cbfd4f536e1bdaa7415be284f26fc18a.png",
+  "teacherName": "黄健",
+  "mobileCoverUrl": "http://imgs.wanmen.org/34aff8d24097e2bee75f8be15ca8c494.png",
+  "coverUrl": "http://imgs.wanmen.org/eac0127140486b89bac48a31ba55b17b.png",
+  "smallImageUrl": "http://imgs.wanmen.org/34aff8d24097e2bee75f8be15ca8c494.png",
+  "bigImageUrl": "http://imgs.wanmen.org/eac0127140486b89bac48a31ba55b17b.png",
+  "id": "5994f9a0c74ffa271cdbb388",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-05T06:39:56.652Z",
+    "updatedAt": "2017-09-05T06:41:06.915Z",
+    "courseId": "5994f9a0c74ffa271cdbb388",
+    "name": "化学反应与能量",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59ae46bc4cc99b38c8feb77d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:41:26.615Z",
+      "updatedAt": "2017-12-20T07:37:26.751Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应与能量变化（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_mobile_mid.m3u8"
+        },
+        "id": "59acb4e351f0744b5e0d555c"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae471620783e275ef05a88",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/0dd161ce-ab3d-4fca-850d-97fb8e9a80a0_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:41:35.385Z",
+      "updatedAt": "2017-12-20T07:37:30.214Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应与能量变化（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_mobile_mid.m3u8"
+        },
+        "id": "59acb8eaef23a830026e6ff2"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae471fedad944b098bf607",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/192ae980-4749-4452-a91b-38a30802ed34_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:41:45.318Z",
+      "updatedAt": "2017-12-20T07:37:34.730Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应与能量变化（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_mobile_mid.m3u8"
+        },
+        "id": "59acb97251f0744b7694214e"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae4729947e2a4d821c6b7d",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/35727631-012c-40dc-855f-935d226a165f_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:41:53.913Z",
+      "updatedAt": "2017-12-20T07:37:38.629Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应与能量变化（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_mobile_mid.m3u8"
+        },
+        "id": "59acb9acef23a82fd351fd10"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae473120783e275ef05a8a",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/bba721ba-f1d2-4b5d-922f-2873b0d46454_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:42:03.674Z",
+      "updatedAt": "2017-12-20T07:37:42.864Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "燃烧热（中和热）能源（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_mobile_mid.m3u8"
+        },
+        "id": "59acb9e3ef23a8302f307496"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae473bedad944b098bf609",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/00af5bcc-591e-4e35-85ef-6b72a5c9142a_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:42:12.603Z",
+      "updatedAt": "2017-12-20T07:37:47.523Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "燃烧热（中和热）能源（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_mobile_mid.m3u8"
+        },
+        "id": "59acbba6d5ff7513c60acf8e"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae4744947e2a4d821c6b7f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/082cc417-25e3-4034-b000-b75707bde830_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:42:21.537Z",
+      "updatedAt": "2017-12-20T07:37:52.159Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应热的计算（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_mobile_mid.m3u8"
+        },
+        "id": "59acbbebd5ff7513c60acf8f"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae474d20783e275ef05a8c",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/2b0f3aa2-be26-46ca-a37f-506b097be0b3_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:42:31.250Z",
+      "updatedAt": "2017-12-20T07:37:57.059Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应热的计算（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_mobile_mid.m3u8"
+        },
+        "id": "59acbabbef23a830822d9ca2"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae4757edad944b098bf60b",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a618e142-8abb-45dd-b49c-609d2ce2646a_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:42:40.461Z",
+      "updatedAt": "2017-12-20T07:38:01.508Z",
+      "parentId": "59ae46bc4cc99b38c8feb77d",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应热的计算（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_mobile_mid.m3u8"
+        },
+        "id": "59acbc95d5ff75136d2008ea"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59ae4760947e2a4d821c6b81",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/76961fc2-bb02-44f1-a34d-e101399e33e1_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-05T06:40:38.224Z",
+    "updatedAt": "2017-09-05T06:41:08.444Z",
+    "courseId": "5994f9a0c74ffa271cdbb388",
+    "name": "化学反应速率与化学平衡",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59ae46e6947e2a4d821c6b7b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:42:52.916Z",
+      "updatedAt": "2017-12-20T07:38:10.366Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应速率（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/729e6f0e-c476-4414-80eb-8de25bb797a4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/729e6f0e-c476-4414-80eb-8de25bb797a4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/729e6f0e-c476-4414-80eb-8de25bb797a4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/729e6f0e-c476-4414-80eb-8de25bb797a4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/729e6f0e-c476-4414-80eb-8de25bb797a4_mobile_mid.m3u8"
+        },
+        "id": "59acbb63ef23a82fd351fd11"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae476c20783e275ef05a8e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:43:02.488Z",
+      "updatedAt": "2017-12-20T07:38:14.138Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应速率（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b5ff5664-4327-4aad-a53c-4a579a67401b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b5ff5664-4327-4aad-a53c-4a579a67401b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b5ff5664-4327-4aad-a53c-4a579a67401b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b5ff5664-4327-4aad-a53c-4a579a67401b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b5ff5664-4327-4aad-a53c-4a579a67401b_mobile_mid.m3u8"
+        },
+        "id": "59acbd42d5ff7513924acad6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4776edad944b098bf60d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:43:12.930Z",
+      "updatedAt": "2017-12-20T07:38:18.577Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学反应速率 （三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/799d408c-0084-4df8-a38c-a21fc699df86_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/799d408c-0084-4df8-a38c-a21fc699df86_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/799d408c-0084-4df8-a38c-a21fc699df86_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/799d408c-0084-4df8-a38c-a21fc699df86_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/799d408c-0084-4df8-a38c-a21fc699df86_mobile_mid.m3u8"
+        },
+        "id": "59acbd89d5ff7513c60acf90"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4780947e2a4d821c6b83",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:43:22.499Z",
+      "updatedAt": "2017-12-20T07:38:31.335Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "影响化学反应速率的因素 （一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f4cb7701-b429-4b6b-bd03-0d4860adf66e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f4cb7701-b429-4b6b-bd03-0d4860adf66e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f4cb7701-b429-4b6b-bd03-0d4860adf66e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f4cb7701-b429-4b6b-bd03-0d4860adf66e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f4cb7701-b429-4b6b-bd03-0d4860adf66e_mobile_mid.m3u8"
+        },
+        "id": "59acbc64ef23a8306926cc18"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae478a20783e275ef05a90",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:43:32.049Z",
+      "updatedAt": "2017-12-20T07:38:39.259Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "影响化学反应的因素 （二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/818cc41e-1793-4d1f-8d30-4ccd9ebc8235_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/818cc41e-1793-4d1f-8d30-4ccd9ebc8235_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/818cc41e-1793-4d1f-8d30-4ccd9ebc8235_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/818cc41e-1793-4d1f-8d30-4ccd9ebc8235_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/818cc41e-1793-4d1f-8d30-4ccd9ebc8235_mobile_mid.m3u8"
+        },
+        "id": "59acbcc1ef23a84321c2792b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4794edad944b098bf60f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:43:40.750Z",
+      "updatedAt": "2017-12-20T07:38:44.261Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学平衡（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/53d2c446-232e-4610-9f98-a8f4f533f219_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/53d2c446-232e-4610-9f98-a8f4f533f219_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/53d2c446-232e-4610-9f98-a8f4f533f219_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/53d2c446-232e-4610-9f98-a8f4f533f219_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/53d2c446-232e-4610-9f98-a8f4f533f219_mobile_mid.m3u8"
+        },
+        "id": "59acbd34ef23a8302b0c35fb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae479c947e2a4d821c6b85",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:43:49.641Z",
+      "updatedAt": "2017-12-20T07:38:47.857Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学平衡（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a0e42858-45c3-47e5-829b-a1494268669b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a0e42858-45c3-47e5-829b-a1494268669b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a0e42858-45c3-47e5-829b-a1494268669b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a0e42858-45c3-47e5-829b-a1494268669b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a0e42858-45c3-47e5-829b-a1494268669b_mobile_mid.m3u8"
+        },
+        "id": "59acbd75ef23a83072ca0bdf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47a520783e275ef05a92",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:43:58.617Z",
+      "updatedAt": "2017-12-20T07:38:51.194Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学平衡的移动（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f42eedfc-f61c-466f-8d25-cc9165964339_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f42eedfc-f61c-466f-8d25-cc9165964339_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f42eedfc-f61c-466f-8d25-cc9165964339_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f42eedfc-f61c-466f-8d25-cc9165964339_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f42eedfc-f61c-466f-8d25-cc9165964339_mobile_mid.m3u8"
+        },
+        "id": "59acbdedef23a82fd5fce9dd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47aeedad944b098bf611",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:44:07.005Z",
+      "updatedAt": "2017-12-20T07:38:55.135Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学平衡的移动（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/18219cd0-acb7-4139-8047-fdb006f346bc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/18219cd0-acb7-4139-8047-fdb006f346bc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/18219cd0-acb7-4139-8047-fdb006f346bc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/18219cd0-acb7-4139-8047-fdb006f346bc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/18219cd0-acb7-4139-8047-fdb006f346bc_mobile_mid.m3u8"
+        },
+        "id": "59acbebbef23a83072ca0be0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47b7947e2a4d821c6b87",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:44:15.677Z",
+      "updatedAt": "2017-12-20T07:38:59.346Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学平衡常数（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c44a0ee1-cfbe-4b78-81af-50f2ea02988e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c44a0ee1-cfbe-4b78-81af-50f2ea02988e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c44a0ee1-cfbe-4b78-81af-50f2ea02988e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c44a0ee1-cfbe-4b78-81af-50f2ea02988e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c44a0ee1-cfbe-4b78-81af-50f2ea02988e_mobile_mid.m3u8"
+        },
+        "id": "59acbf8451f0744b127f8684"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47bf20783e275ef05a94",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:44:24.507Z",
+      "updatedAt": "2017-12-20T07:39:03.607Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学平衡常数（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1da9ec5e-0ae8-4ab2-82cb-57ca5acd4d6d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1da9ec5e-0ae8-4ab2-82cb-57ca5acd4d6d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1da9ec5e-0ae8-4ab2-82cb-57ca5acd4d6d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1da9ec5e-0ae8-4ab2-82cb-57ca5acd4d6d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1da9ec5e-0ae8-4ab2-82cb-57ca5acd4d6d_mobile_mid.m3u8"
+        },
+        "id": "59acf1ac51f0744b852de0cb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47c8edad944b098bf613",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:44:34.931Z",
+      "updatedAt": "2017-12-20T07:39:07.123Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "平衡移动与转化率的关系",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e80244e7-a700-4c04-943a-0752df2bf4e5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e80244e7-a700-4c04-943a-0752df2bf4e5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e80244e7-a700-4c04-943a-0752df2bf4e5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e80244e7-a700-4c04-943a-0752df2bf4e5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e80244e7-a700-4c04-943a-0752df2bf4e5_mobile_mid.m3u8"
+        },
+        "id": "59acf214ef23a82feb8a14e7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47d2947e2a4d821c6b89",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:44:45.699Z",
+      "updatedAt": "2017-12-20T07:39:10.623Z",
+      "parentId": "59ae46e6947e2a4d821c6b7b",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "等效平衡",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04c072de-f720-43ab-b59d-d4efca35b45e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04c072de-f720-43ab-b59d-d4efca35b45e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04c072de-f720-43ab-b59d-d4efca35b45e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04c072de-f720-43ab-b59d-d4efca35b45e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04c072de-f720-43ab-b59d-d4efca35b45e_mobile_mid.m3u8"
+        },
+        "id": "59acf2a151f0744b07dbd516"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47dd20783e275ef05a96",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-05T06:40:50.280Z",
+    "updatedAt": "2017-09-05T06:41:10.165Z",
+    "courseId": "5994f9a0c74ffa271cdbb388",
+    "name": "水溶液中的离子反应",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59ae46f220783e275ef05a86",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:44:57.375Z",
+      "updatedAt": "2017-12-20T07:39:18.634Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "电解质与非电解质、强电解质与弱电解质",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/328b302a-a7e3-428a-be6f-0a1a7d06f3ce_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/328b302a-a7e3-428a-be6f-0a1a7d06f3ce_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/328b302a-a7e3-428a-be6f-0a1a7d06f3ce_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/328b302a-a7e3-428a-be6f-0a1a7d06f3ce_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/328b302a-a7e3-428a-be6f-0a1a7d06f3ce_mobile_mid.m3u8"
+        },
+        "id": "59acf303ef23a82fd4f5dc5f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47e9edad944b098bf615",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:45:05.947Z",
+      "updatedAt": "2017-12-20T07:39:24.843Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "弱电解质的电离平衡（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/07db4f05-e931-4087-a169-f132f918df14_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/07db4f05-e931-4087-a169-f132f918df14_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/07db4f05-e931-4087-a169-f132f918df14_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/07db4f05-e931-4087-a169-f132f918df14_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/07db4f05-e931-4087-a169-f132f918df14_mobile_mid.m3u8"
+        },
+        "id": "59acf35aef23a830026e6ff3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47f1947e2a4d821c6b8b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:45:15.624Z",
+      "updatedAt": "2017-12-20T07:39:28.964Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "弱电解质的电离平衡（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7d722371-e4a9-446b-8644-88baec014a7f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7d722371-e4a9-446b-8644-88baec014a7f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7d722371-e4a9-446b-8644-88baec014a7f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7d722371-e4a9-446b-8644-88baec014a7f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7d722371-e4a9-446b-8644-88baec014a7f_mobile_mid.m3u8"
+        },
+        "id": "59acf3b2ef23a82fd4f5dc60"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae47fb20783e275ef05a98",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:45:24.752Z",
+      "updatedAt": "2017-12-20T07:39:32.984Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "弱电解质的电离平衡（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/08efa576-a0b3-4008-925f-e696525c2b1f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/08efa576-a0b3-4008-925f-e696525c2b1f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/08efa576-a0b3-4008-925f-e696525c2b1f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/08efa576-a0b3-4008-925f-e696525c2b1f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/08efa576-a0b3-4008-925f-e696525c2b1f_mobile_mid.m3u8"
+        },
+        "id": "59ad1960d5ff7513bb4105c4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4804edad944b098bf617",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:45:34.798Z",
+      "updatedAt": "2017-12-20T07:39:36.996Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "弱电解质的电离平衡（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8b79554c-a4ee-4f42-87d3-74ef8ea03666_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8b79554c-a4ee-4f42-87d3-74ef8ea03666_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8b79554c-a4ee-4f42-87d3-74ef8ea03666_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8b79554c-a4ee-4f42-87d3-74ef8ea03666_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8b79554c-a4ee-4f42-87d3-74ef8ea03666_mobile_mid.m3u8"
+        },
+        "id": "59ad19cfd5ff7513727b0877"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae480e947e2a4d821c6b8d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:45:44.458Z",
+      "updatedAt": "2017-12-20T07:39:41.139Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "水的电离",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/365473d4-211e-455b-978e-50c1088efaf3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/365473d4-211e-455b-978e-50c1088efaf3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/365473d4-211e-455b-978e-50c1088efaf3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/365473d4-211e-455b-978e-50c1088efaf3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/365473d4-211e-455b-978e-50c1088efaf3_mobile_mid.m3u8"
+        },
+        "id": "59ad1887ef23a830822d9ca3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae481820783e275ef05a9a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:45:56.168Z",
+      "updatedAt": "2017-12-20T07:39:45.294Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "溶液的酸碱性与pH（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/73a480ab-dc8d-4ccd-886a-0a68651b5eed_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/73a480ab-dc8d-4ccd-886a-0a68651b5eed_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/73a480ab-dc8d-4ccd-886a-0a68651b5eed_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/73a480ab-dc8d-4ccd-886a-0a68651b5eed_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/73a480ab-dc8d-4ccd-886a-0a68651b5eed_mobile_mid.m3u8"
+        },
+        "id": "59ad191f51f0744b4cc9e7cd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4824edad944b098bf619",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:46:05.158Z",
+      "updatedAt": "2017-12-20T07:39:49.535Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "溶液的酸碱性与pH（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a1313b78-cecf-445f-9a8c-4d6a19f35598_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a1313b78-cecf-445f-9a8c-4d6a19f35598_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a1313b78-cecf-445f-9a8c-4d6a19f35598_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a1313b78-cecf-445f-9a8c-4d6a19f35598_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a1313b78-cecf-445f-9a8c-4d6a19f35598_mobile_mid.m3u8"
+        },
+        "id": "59ad19d451f0744b8fa428c2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae482d947e2a4d821c6b8f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:46:15.118Z",
+      "updatedAt": "2017-12-20T07:39:54.805Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "酸碱滴定（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e91099f6-ca72-41d1-bc13-d8bf46f8d2df_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e91099f6-ca72-41d1-bc13-d8bf46f8d2df_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e91099f6-ca72-41d1-bc13-d8bf46f8d2df_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e91099f6-ca72-41d1-bc13-d8bf46f8d2df_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e91099f6-ca72-41d1-bc13-d8bf46f8d2df_mobile_mid.m3u8"
+        },
+        "id": "59ad1acc51f0744b545a3aba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae483720783e275ef05a9c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:46:23.536Z",
+      "updatedAt": "2017-12-20T07:39:58.850Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "酸碱滴定（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a778eb92-6254-4706-b9da-046f814cd10e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a778eb92-6254-4706-b9da-046f814cd10e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a778eb92-6254-4706-b9da-046f814cd10e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a778eb92-6254-4706-b9da-046f814cd10e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a778eb92-6254-4706-b9da-046f814cd10e_mobile_mid.m3u8"
+        },
+        "id": "59ad21b6ef23a86cb3121986"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae483fedad944b098bf61b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:46:32.488Z",
+      "updatedAt": "2017-12-20T07:40:03.124Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "盐类的水解（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bed14298-2562-470d-a3bc-0ea91e71fed8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bed14298-2562-470d-a3bc-0ea91e71fed8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bed14298-2562-470d-a3bc-0ea91e71fed8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bed14298-2562-470d-a3bc-0ea91e71fed8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bed14298-2562-470d-a3bc-0ea91e71fed8_mobile_mid.m3u8"
+        },
+        "id": "59ad24c6d5ff7513924acad7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4848947e2a4d821c6b91",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:46:40.940Z",
+      "updatedAt": "2017-12-20T07:40:07.484Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "盐类的水解（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3788840d-7ecb-4a68-9168-170d2219143f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3788840d-7ecb-4a68-9168-170d2219143f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3788840d-7ecb-4a68-9168-170d2219143f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3788840d-7ecb-4a68-9168-170d2219143f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3788840d-7ecb-4a68-9168-170d2219143f_mobile_mid.m3u8"
+        },
+        "id": "59ad254751f0744b7dbf1cc1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae485020783e275ef05a9e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:46:49.740Z",
+      "updatedAt": "2017-12-20T07:40:11.764Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "盐类的水解（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3cacd22f-1baa-4802-b115-c4af8de553be_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3cacd22f-1baa-4802-b115-c4af8de553be_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3cacd22f-1baa-4802-b115-c4af8de553be_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3cacd22f-1baa-4802-b115-c4af8de553be_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3cacd22f-1baa-4802-b115-c4af8de553be_mobile_mid.m3u8"
+        },
+        "id": "59ad27a0ef23a87f216eeb48"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4859edad944b098bf61d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:46:59.153Z",
+      "updatedAt": "2017-12-20T07:40:15.978Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "盐类的水解（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fa1c6532-87b6-45d4-bea3-cbba3b1fa019_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fa1c6532-87b6-45d4-bea3-cbba3b1fa019_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fa1c6532-87b6-45d4-bea3-cbba3b1fa019_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fa1c6532-87b6-45d4-bea3-cbba3b1fa019_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fa1c6532-87b6-45d4-bea3-cbba3b1fa019_mobile_mid.m3u8"
+        },
+        "id": "59ad2b2951f0744b7dbf1cc2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4863947e2a4d821c6b93",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:47:08.613Z",
+      "updatedAt": "2017-12-20T07:40:29.351Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "盐类的水解（五）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/010b54dc-976f-4236-9647-778020aec0aa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/010b54dc-976f-4236-9647-778020aec0aa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/010b54dc-976f-4236-9647-778020aec0aa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/010b54dc-976f-4236-9647-778020aec0aa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/010b54dc-976f-4236-9647-778020aec0aa_mobile_mid.m3u8"
+        },
+        "id": "59ad2de751f0744b35e96a7a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae486c20783e275ef05aa0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:47:18.762Z",
+      "updatedAt": "2017-12-20T07:40:20.008Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "难溶电解质的电解平衡（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9cbd1075-b6e3-44f8-8019-6f9eac75239d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9cbd1075-b6e3-44f8-8019-6f9eac75239d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9cbd1075-b6e3-44f8-8019-6f9eac75239d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9cbd1075-b6e3-44f8-8019-6f9eac75239d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9cbd1075-b6e3-44f8-8019-6f9eac75239d_mobile_mid.m3u8"
+        },
+        "id": "59adf6c451f0744b8fa428c3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4876edad944b098bf61f",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:47:28.923Z",
+      "updatedAt": "2017-12-20T07:40:25.440Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "难溶电解质的电解平衡（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b223e679-6eb8-4bc0-98a4-3ce01545250c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b223e679-6eb8-4bc0-98a4-3ce01545250c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b223e679-6eb8-4bc0-98a4-3ce01545250c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b223e679-6eb8-4bc0-98a4-3ce01545250c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b223e679-6eb8-4bc0-98a4-3ce01545250c_mobile_mid.m3u8"
+        },
+        "id": "59adf73f51f07461f271af6e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4880947e2a4d821c6b95",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:47:39.537Z",
+      "updatedAt": "2017-12-20T07:40:34.735Z",
+      "parentId": "59ae46f220783e275ef05a86",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "难溶电解质的电解平衡（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7d445c8d-c312-4a40-97ae-8b2775a6f487_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7d445c8d-c312-4a40-97ae-8b2775a6f487_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7d445c8d-c312-4a40-97ae-8b2775a6f487_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7d445c8d-c312-4a40-97ae-8b2775a6f487_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7d445c8d-c312-4a40-97ae-8b2775a6f487_mobile_mid.m3u8"
+        },
+        "id": "59adf76bef23a8302f307497"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae488b20783e275ef05aa2",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-05T06:41:03.507Z",
+    "updatedAt": "2017-09-05T06:41:12.098Z",
+    "courseId": "5994f9a0c74ffa271cdbb388",
+    "name": "电化学基础",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59ae46ffedad944b098bf605",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T06:48:03.922Z",
+      "updatedAt": "2017-12-20T07:40:42.529Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "原电池（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0c758143-c57c-44fb-a902-22d86163e793_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0c758143-c57c-44fb-a902-22d86163e793_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0c758143-c57c-44fb-a902-22d86163e793_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0c758143-c57c-44fb-a902-22d86163e793_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0c758143-c57c-44fb-a902-22d86163e793_mobile_mid.m3u8"
+        },
+        "id": "59adf81751f0744b1ec89242"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae48a3edad944b098bf621",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:02:54.825Z",
+      "updatedAt": "2017-12-20T07:40:46.331Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "原电池（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7e9f5221-cd31-4ae2-bba3-27cfa922afa6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7e9f5221-cd31-4ae2-bba3-27cfa922afa6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7e9f5221-cd31-4ae2-bba3-27cfa922afa6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7e9f5221-cd31-4ae2-bba3-27cfa922afa6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7e9f5221-cd31-4ae2-bba3-27cfa922afa6_mobile_mid.m3u8"
+        },
+        "id": "59adf853ef23a831f5967f9a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c1eedad944b098bf623",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:03:05.503Z",
+      "updatedAt": "2017-12-20T07:40:49.808Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "原电池（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/830997c1-019c-4ac6-8c2f-025796903acd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/830997c1-019c-4ac6-8c2f-025796903acd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/830997c1-019c-4ac6-8c2f-025796903acd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/830997c1-019c-4ac6-8c2f-025796903acd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/830997c1-019c-4ac6-8c2f-025796903acd_mobile_mid.m3u8"
+        },
+        "id": "59adf895ef23a83055f06522"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c29cc70c34c6298570a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:03:14.533Z",
+      "updatedAt": "2017-12-20T07:40:53.575Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "原电池（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/29b73408-7991-477d-be61-2b317ca3c2d3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/29b73408-7991-477d-be61-2b317ca3c2d3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/29b73408-7991-477d-be61-2b317ca3c2d3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/29b73408-7991-477d-be61-2b317ca3c2d3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/29b73408-7991-477d-be61-2b317ca3c2d3_mobile_mid.m3u8"
+        },
+        "id": "59adfa69d5ff75139038457f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c3220783e275ef05aa4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:03:24.310Z",
+      "updatedAt": "2017-12-20T07:40:57.989Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学电源（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1332480e-e323-486c-9fed-f42921225312_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1332480e-e323-486c-9fed-f42921225312_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1332480e-e323-486c-9fed-f42921225312_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1332480e-e323-486c-9fed-f42921225312_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1332480e-e323-486c-9fed-f42921225312_mobile_mid.m3u8"
+        },
+        "id": "59adf919ef23a86cb3121987"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c3cedad944b098bf625",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:03:33.164Z",
+      "updatedAt": "2017-12-20T07:41:02.235Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "化学电源（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9e8b0c22-e85d-4432-8545-d9b907435d96_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9e8b0c22-e85d-4432-8545-d9b907435d96_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9e8b0c22-e85d-4432-8545-d9b907435d96_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9e8b0c22-e85d-4432-8545-d9b907435d96_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9e8b0c22-e85d-4432-8545-d9b907435d96_mobile_mid.m3u8"
+        },
+        "id": "59adf95fef23a830626948f2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c45cc70c34c6298570c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:03:41.620Z",
+      "updatedAt": "2017-12-20T07:41:07.424Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "电解池（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d6b86b39-aa45-4762-896d-60a8fc530886_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d6b86b39-aa45-4762-896d-60a8fc530886_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d6b86b39-aa45-4762-896d-60a8fc530886_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d6b86b39-aa45-4762-896d-60a8fc530886_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d6b86b39-aa45-4762-896d-60a8fc530886_mobile_mid.m3u8"
+        },
+        "id": "59adfb48d5ff75136d2008eb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c4d20783e275ef05aa6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:03:49.794Z",
+      "updatedAt": "2017-12-20T07:41:14.557Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "电解池（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9e447829-bfbf-4440-af8a-1e23500485e3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9e447829-bfbf-4440-af8a-1e23500485e3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9e447829-bfbf-4440-af8a-1e23500485e3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9e447829-bfbf-4440-af8a-1e23500485e3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9e447829-bfbf-4440-af8a-1e23500485e3_mobile_mid.m3u8"
+        },
+        "id": "59adfa11ef23a830626948f3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c55edad944b098bf627",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:03:58.379Z",
+      "updatedAt": "2017-12-20T07:41:20.500Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "电解池（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9d11324b-53c6-4d02-9e66-c253446c6b72_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9d11324b-53c6-4d02-9e66-c253446c6b72_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9d11324b-53c6-4d02-9e66-c253446c6b72_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9d11324b-53c6-4d02-9e66-c253446c6b72_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9d11324b-53c6-4d02-9e66-c253446c6b72_mobile_mid.m3u8"
+        },
+        "id": "59adfad851f0744b7694214f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c5ecc70c34c6298570e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:04:06.885Z",
+      "updatedAt": "2017-12-20T07:41:24.037Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "电解池（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/27cd5b62-f518-4ca9-a47c-57ff709abbce_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/27cd5b62-f518-4ca9-a47c-57ff709abbce_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/27cd5b62-f518-4ca9-a47c-57ff709abbce_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/27cd5b62-f518-4ca9-a47c-57ff709abbce_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/27cd5b62-f518-4ca9-a47c-57ff709abbce_mobile_mid.m3u8"
+        },
+        "id": "59ae2177ef23a82456d49ee2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c6620783e275ef05aa8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-05T07:04:16.057Z",
+      "updatedAt": "2017-12-20T07:41:27.795Z",
+      "parentId": "59ae46ffedad944b098bf605",
+      "courseId": "5994f9a0c74ffa271cdbb388",
+      "name": "金属的电化学腐蚀与防护",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ff93de50-75a5-4cc8-9f36-10473fdb37fb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ff93de50-75a5-4cc8-9f36-10473fdb37fb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ff93de50-75a5-4cc8-9f36-10473fdb37fb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ff93de50-75a5-4cc8-9f36-10473fdb37fb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ff93de50-75a5-4cc8-9f36-10473fdb37fb_mobile_mid.m3u8"
+        },
+        "id": "59ae7c51ef23a82080b5d272"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59ae4c70edad944b098bf629",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

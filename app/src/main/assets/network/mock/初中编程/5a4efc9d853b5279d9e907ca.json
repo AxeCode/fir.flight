@@ -1,0 +1,1999 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2018-01-05T04:18:37.884Z",
+  "updatedAt": "2018-01-09T10:56:33.106Z",
+  "name": "Python编程入门",
+  "major": "5a4efafde1028579d40fa326",
+  "numOfClasses": 5,
+  "price": 598,
+  "teacher": {
+    "name": "王玉杰",
+    "description": "混沌巡洋舰联合创始人、web开发工程师、数据工程师。",
+    "avatar": "http://imgs.wanmen.org/f3248b65dc63fb6139a90a0b4b3d450d.png",
+    "id": "599e4d282478ef1f3fdac64c"
+  },
+  "hide": false,
+  "expiration": 12,
+  "tag": "王玉杰 初中 Python 编程 入门 ",
+  "description": "零基础入门Python，基础理论+项目实战，动手实践课程设计的技术项目。一线Python名师授课，全面入门编程领域。\n",
+  "videoCount": 69,
+  "bigImage": "http://imgs.wanmen.org/56b16676a3286f943d38139a4d9b85ed.png",
+  "smallImage": "http://imgs.wanmen.org/d4ba82dc835a1cfb4e465e2a3f72c33f.png",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 0,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 5,
+  "teacherDescription": "混沌巡洋舰联合创始人、web开发工程师、数据工程师。",
+  "teacherAvatar": "http://imgs.wanmen.org/f3248b65dc63fb6139a90a0b4b3d450d.png",
+  "teacherName": "王玉杰",
+  "mobileCoverUrl": "http://imgs.wanmen.org/d4ba82dc835a1cfb4e465e2a3f72c33f.png",
+  "coverUrl": "http://imgs.wanmen.org/56b16676a3286f943d38139a4d9b85ed.png",
+  "smallImageUrl": "http://imgs.wanmen.org/d4ba82dc835a1cfb4e465e2a3f72c33f.png",
+  "bigImageUrl": "http://imgs.wanmen.org/56b16676a3286f943d38139a4d9b85ed.png",
+  "id": "5a4efc9d853b5279d9e907ca",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T04:25:26.267Z",
+    "updatedAt": "2018-01-05T04:25:42.611Z",
+    "courseId": "5a4efc9d853b5279d9e907ca",
+    "name": "Python基础课程（上）",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4efe36853b5279d9e907d2",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:25:36.392Z",
+      "updatedAt": "2018-01-05T04:28:39.186Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python介绍（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_mobile_mid.m3u8"
+        },
+        "id": "599657a7ef23a82456d49eda"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4efe40e1028579d40fa33c",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/96b77bed-bc8e-4494-ab9a-a84663cd0aa1_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:26:02.494Z",
+      "updatedAt": "2018-01-05T04:28:46.717Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python介绍（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_mobile_mid.m3u8"
+        },
+        "id": "5996582e51f0744b84e04bde"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4efe5ae1028579d40fa33e",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/d8b949f6-596a-41b8-8c59-ca3b3cd99cd8_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:26:12.888Z",
+      "updatedAt": "2018-01-05T04:28:53.194Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量—命名规范",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_mobile_mid.m3u8"
+        },
+        "id": "59965868ef23a83038f67c84"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a4efe64853b5279d9e907d4",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/2fee11b8-db66-4898-8da8-8eb142420442_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:26:21.675Z",
+      "updatedAt": "2018-01-05T04:29:02.194Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量—代码规范",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/395b0788-7725-480e-a4e8-a41a5f8d4198_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/395b0788-7725-480e-a4e8-a41a5f8d4198_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/395b0788-7725-480e-a4e8-a41a5f8d4198_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/395b0788-7725-480e-a4e8-a41a5f8d4198_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/395b0788-7725-480e-a4e8-a41a5f8d4198_mobile_mid.m3u8"
+        },
+        "id": "599659ffd5ff7513b4cec83e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efe6d853b5279d9e907d6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:26:30.967Z",
+      "updatedAt": "2018-01-05T04:29:12.224Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—数值类型",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a4fecb4e-5fbf-49c4-bdf9-f68114d99fa1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a4fecb4e-5fbf-49c4-bdf9-f68114d99fa1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a4fecb4e-5fbf-49c4-bdf9-f68114d99fa1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a4fecb4e-5fbf-49c4-bdf9-f68114d99fa1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a4fecb4e-5fbf-49c4-bdf9-f68114d99fa1_mobile_mid.m3u8"
+        },
+        "id": "599658b6ef23a82080b5d26e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efe76853b5279d9e907d8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:26:39.356Z",
+      "updatedAt": "2018-01-05T04:29:20.657Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—bool类型",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c89c7a27-6979-4c9f-9e4b-12fb116196a9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c89c7a27-6979-4c9f-9e4b-12fb116196a9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c89c7a27-6979-4c9f-9e4b-12fb116196a9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c89c7a27-6979-4c9f-9e4b-12fb116196a9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c89c7a27-6979-4c9f-9e4b-12fb116196a9_mobile_mid.m3u8"
+        },
+        "id": "599658dfef23a82ffd2354ca"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efe7f853b5279d9e907da",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:26:48.820Z",
+      "updatedAt": "2018-01-05T04:29:29.500Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—字符串类型（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/58bc67f0-0b6f-4eb7-9973-e000fa4a46ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/58bc67f0-0b6f-4eb7-9973-e000fa4a46ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/58bc67f0-0b6f-4eb7-9973-e000fa4a46ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/58bc67f0-0b6f-4eb7-9973-e000fa4a46ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/58bc67f0-0b6f-4eb7-9973-e000fa4a46ad_mobile_mid.m3u8"
+        },
+        "id": "5996591eef23a8306926cc0c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efe88853b5279d9e907dc",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:26:59.231Z",
+      "updatedAt": "2018-01-05T04:29:39.150Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "课间答疑",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f92fd0b6-74c5-4c4a-9a7b-b1b8e1b3957d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f92fd0b6-74c5-4c4a-9a7b-b1b8e1b3957d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f92fd0b6-74c5-4c4a-9a7b-b1b8e1b3957d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f92fd0b6-74c5-4c4a-9a7b-b1b8e1b3957d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f92fd0b6-74c5-4c4a-9a7b-b1b8e1b3957d_mobile_mid.m3u8"
+        },
+        "id": "5996596551f0744b1ec8923e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efe93853b5279d9e907de",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:27:07.677Z",
+      "updatedAt": "2018-01-05T04:29:45.798Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—字符串类型（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e704ea58-cb41-492c-be52-8a79c0e15d6e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e704ea58-cb41-492c-be52-8a79c0e15d6e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e704ea58-cb41-492c-be52-8a79c0e15d6e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e704ea58-cb41-492c-be52-8a79c0e15d6e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e704ea58-cb41-492c-be52-8a79c0e15d6e_mobile_mid.m3u8"
+        },
+        "id": "59965b15d5ff75138a2b551d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efe9b853b5279d9e907e0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:27:16.541Z",
+      "updatedAt": "2018-01-05T04:29:59.040Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—字符串类型（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d861796e-d408-419d-a03c-351f8b234057_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d861796e-d408-419d-a03c-351f8b234057_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d861796e-d408-419d-a03c-351f8b234057_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d861796e-d408-419d-a03c-351f8b234057_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d861796e-d408-419d-a03c-351f8b234057_mobile_mid.m3u8"
+        },
+        "id": "59965b5cd5ff75139aab4ba3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efea4853b5279d9e907e2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:27:26.098Z",
+      "updatedAt": "2018-01-05T04:30:07.016Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—列表类型（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/abaafebd-51ce-4285-9871-a8a21afd9055_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/abaafebd-51ce-4285-9871-a8a21afd9055_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/abaafebd-51ce-4285-9871-a8a21afd9055_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/abaafebd-51ce-4285-9871-a8a21afd9055_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/abaafebd-51ce-4285-9871-a8a21afd9055_mobile_mid.m3u8"
+        },
+        "id": "59965a3f51f0744b1ec8923f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efeae853b5279d9e907e4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:27:35.368Z",
+      "updatedAt": "2018-01-05T06:07:40.389Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—列表类型（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c39d599e-e1bc-4719-b02e-0f639b92a510_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c39d599e-e1bc-4719-b02e-0f639b92a510_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c39d599e-e1bc-4719-b02e-0f639b92a510_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c39d599e-e1bc-4719-b02e-0f639b92a510_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c39d599e-e1bc-4719-b02e-0f639b92a510_mobile_mid.m3u8"
+        },
+        "id": "59965bfbd5ff75136e21dcb7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efeb7853b5279d9e907e6",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:27:44.112Z",
+      "updatedAt": "2018-01-05T06:07:50.366Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—列表类型（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/56829652-6dee-4620-9a67-158415ef6c13_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/56829652-6dee-4620-9a67-158415ef6c13_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/56829652-6dee-4620-9a67-158415ef6c13_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/56829652-6dee-4620-9a67-158415ef6c13_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/56829652-6dee-4620-9a67-158415ef6c13_mobile_mid.m3u8"
+        },
+        "id": "59965aafef23a83055f06518"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efec0853b5279d9e907e8",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:27:53.235Z",
+      "updatedAt": "2018-01-05T06:08:00.821Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—语言组类型、字典类型（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cf11bcfc-f0a2-4b24-8de6-01e77b5e06b7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cf11bcfc-f0a2-4b24-8de6-01e77b5e06b7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cf11bcfc-f0a2-4b24-8de6-01e77b5e06b7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cf11bcfc-f0a2-4b24-8de6-01e77b5e06b7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cf11bcfc-f0a2-4b24-8de6-01e77b5e06b7_mobile_mid.m3u8"
+        },
+        "id": "59965c54d5ff7513ba2a04a4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efec9853b5279d9e907ea",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T04:28:03.881Z",
+      "updatedAt": "2018-01-05T06:08:09.642Z",
+      "parentId": "5a4efe36853b5279d9e907d2",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "变量类型—字典类型（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/01406387-1d26-4803-9167-4525a2b5c70c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/01406387-1d26-4803-9167-4525a2b5c70c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/01406387-1d26-4803-9167-4525a2b5c70c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/01406387-1d26-4803-9167-4525a2b5c70c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/01406387-1d26-4803-9167-4525a2b5c70c_mobile_mid.m3u8"
+        },
+        "id": "59965b1fef23a8306926cc0d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4efed3853b5279d9e907ec",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T06:08:28.605Z",
+    "updatedAt": "2018-01-05T06:08:40.845Z",
+    "courseId": "5a4efc9d853b5279d9e907ca",
+    "name": "Python基础课程（下） ",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f165c853b5279d9e907fe",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:08:45.958Z",
+      "updatedAt": "2018-01-05T06:11:16.279Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "条件判断（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/61d00f67-f811-42bc-8ceb-f8cc8685d6aa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/61d00f67-f811-42bc-8ceb-f8cc8685d6aa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/61d00f67-f811-42bc-8ceb-f8cc8685d6aa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/61d00f67-f811-42bc-8ceb-f8cc8685d6aa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/61d00f67-f811-42bc-8ceb-f8cc8685d6aa_mobile_mid.m3u8"
+        },
+        "id": "599f8633ef23a82feb8a14e2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f166d853b5279d9e90800",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:08:56.000Z",
+      "updatedAt": "2018-01-05T06:11:25.061Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "条件判断（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1aea459f-71dc-4b10-a07c-cab0d44f1eb0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1aea459f-71dc-4b10-a07c-cab0d44f1eb0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1aea459f-71dc-4b10-a07c-cab0d44f1eb0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1aea459f-71dc-4b10-a07c-cab0d44f1eb0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1aea459f-71dc-4b10-a07c-cab0d44f1eb0_mobile_mid.m3u8"
+        },
+        "id": "599f86a051f0744b65064e27"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1677853b5279d9e90802",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:09:05.437Z",
+      "updatedAt": "2018-01-05T06:11:37.665Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "循环（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3701d5b1-0a7e-4f6a-bb83-ca541b5baa1c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3701d5b1-0a7e-4f6a-bb83-ca541b5baa1c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3701d5b1-0a7e-4f6a-bb83-ca541b5baa1c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3701d5b1-0a7e-4f6a-bb83-ca541b5baa1c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3701d5b1-0a7e-4f6a-bb83-ca541b5baa1c_mobile_mid.m3u8"
+        },
+        "id": "599f86bbef23a8302b0c35f8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1681853b5279d9e90804",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:09:16.373Z",
+      "updatedAt": "2018-01-05T06:11:47.015Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "循环（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bb5e9172-0e63-431f-a4d6-33b4a5789e62_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bb5e9172-0e63-431f-a4d6-33b4a5789e62_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bb5e9172-0e63-431f-a4d6-33b4a5789e62_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bb5e9172-0e63-431f-a4d6-33b4a5789e62_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bb5e9172-0e63-431f-a4d6-33b4a5789e62_mobile_mid.m3u8"
+        },
+        "id": "599f86e5ef23a83026369cf1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f168c853b5279d9e90806",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:09:28.241Z",
+      "updatedAt": "2018-01-05T06:11:54.729Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "课间答疑",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f0aedfdc-b073-47d7-a4db-1d2992e3c6ee_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f0aedfdc-b073-47d7-a4db-1d2992e3c6ee_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f0aedfdc-b073-47d7-a4db-1d2992e3c6ee_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f0aedfdc-b073-47d7-a4db-1d2992e3c6ee_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f0aedfdc-b073-47d7-a4db-1d2992e3c6ee_mobile_mid.m3u8"
+        },
+        "id": "599f8711ef23a82eb6746842"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1698853b5279d9e90808",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:09:39.071Z",
+      "updatedAt": "2018-01-05T06:12:02.540Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "循环（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dd5364ab-02ec-4a54-b668-82df258eac1d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dd5364ab-02ec-4a54-b668-82df258eac1d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dd5364ab-02ec-4a54-b668-82df258eac1d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dd5364ab-02ec-4a54-b668-82df258eac1d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dd5364ab-02ec-4a54-b668-82df258eac1d_mobile_mid.m3u8"
+        },
+        "id": "599f873aef23a82fd351fd0c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16a3853b5279d9e9080a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:09:48.882Z",
+      "updatedAt": "2018-01-05T06:12:09.872Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "循环（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79f8728d-91dc-4089-add5-fe7a1f265ac7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79f8728d-91dc-4089-add5-fe7a1f265ac7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79f8728d-91dc-4089-add5-fe7a1f265ac7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79f8728d-91dc-4089-add5-fe7a1f265ac7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79f8728d-91dc-4089-add5-fe7a1f265ac7_mobile_mid.m3u8"
+        },
+        "id": "599f88e4d5ff75136d2008e6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16ac853b5279d9e9080c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:09:58.227Z",
+      "updatedAt": "2018-01-05T06:12:16.956Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "函数（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/40c4f0db-6c22-484e-a2df-3a8a9e1e3c90_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/40c4f0db-6c22-484e-a2df-3a8a9e1e3c90_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/40c4f0db-6c22-484e-a2df-3a8a9e1e3c90_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/40c4f0db-6c22-484e-a2df-3a8a9e1e3c90_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/40c4f0db-6c22-484e-a2df-3a8a9e1e3c90_mobile_mid.m3u8"
+        },
+        "id": "599f87ab51f0744b09d589e8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16b6853b5279d9e9080e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:10:07.673Z",
+      "updatedAt": "2018-01-05T06:12:25.533Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "函数（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/af1d2172-cd60-44cc-a6e3-8e6708764f88_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/af1d2172-cd60-44cc-a6e3-8e6708764f88_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/af1d2172-cd60-44cc-a6e3-8e6708764f88_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/af1d2172-cd60-44cc-a6e3-8e6708764f88_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/af1d2172-cd60-44cc-a6e3-8e6708764f88_mobile_mid.m3u8"
+        },
+        "id": "599f87d3ef23a830626948ec"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16bf853b5279d9e90810",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:10:23.718Z",
+      "updatedAt": "2018-01-05T06:12:33.497Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "函数（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/00ed0721-7fc0-4200-9f5a-ba190e07f92a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/00ed0721-7fc0-4200-9f5a-ba190e07f92a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/00ed0721-7fc0-4200-9f5a-ba190e07f92a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/00ed0721-7fc0-4200-9f5a-ba190e07f92a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/00ed0721-7fc0-4200-9f5a-ba190e07f92a_mobile_mid.m3u8"
+        },
+        "id": "599f8807ef23a82feb8a14e3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16cf853b5279d9e90812",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:10:32.803Z",
+      "updatedAt": "2018-01-05T06:12:39.633Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "函数（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a5e5268d-4af6-428e-a32a-94e8e3bfef06_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a5e5268d-4af6-428e-a32a-94e8e3bfef06_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a5e5268d-4af6-428e-a32a-94e8e3bfef06_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a5e5268d-4af6-428e-a32a-94e8e3bfef06_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a5e5268d-4af6-428e-a32a-94e8e3bfef06_mobile_mid.m3u8"
+        },
+        "id": "599f8844ef23a82264c26f7b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16d8853b5279d9e90814",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:10:42.547Z",
+      "updatedAt": "2018-01-05T06:12:46.254Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "类（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e4f27c34-33f5-4021-82bd-0b1894ee78df_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e4f27c34-33f5-4021-82bd-0b1894ee78df_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e4f27c34-33f5-4021-82bd-0b1894ee78df_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e4f27c34-33f5-4021-82bd-0b1894ee78df_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e4f27c34-33f5-4021-82bd-0b1894ee78df_mobile_mid.m3u8"
+        },
+        "id": "599f889751f0744b7dbf1cba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16e2853b5279d9e90816",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:10:53.764Z",
+      "updatedAt": "2018-01-05T06:12:53.081Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "类（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/98b1d584-7b85-4279-8d31-4e7ec64abe43_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/98b1d584-7b85-4279-8d31-4e7ec64abe43_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/98b1d584-7b85-4279-8d31-4e7ec64abe43_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/98b1d584-7b85-4279-8d31-4e7ec64abe43_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/98b1d584-7b85-4279-8d31-4e7ec64abe43_mobile_mid.m3u8"
+        },
+        "id": "599f8a39d5ff7513924acad2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16ed853b5279d9e90818",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:11:04.336Z",
+      "updatedAt": "2018-01-05T06:13:00.609Z",
+      "parentId": "5a4f165c853b5279d9e907fe",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "类（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b74cddbc-b942-485b-a59a-0c4cc98d5a4f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b74cddbc-b942-485b-a59a-0c4cc98d5a4f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b74cddbc-b942-485b-a59a-0c4cc98d5a4f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b74cddbc-b942-485b-a59a-0c4cc98d5a4f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b74cddbc-b942-485b-a59a-0c4cc98d5a4f_mobile_mid.m3u8"
+        },
+        "id": "599f88ff51f0744b07dbd512"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f16f8853b5279d9e9081a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T06:13:17.905Z",
+    "updatedAt": "2018-01-05T06:13:22.452Z",
+    "courseId": "5a4efc9d853b5279d9e907ca",
+    "name": "Python操作数据库、 Python爬虫",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f177de1028579d40fa35a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:13:32.561Z",
+      "updatedAt": "2018-01-05T06:17:34.863Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "课程介绍",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cb470ab8-f0d1-4bbf-b04d-ee3fc3f98ba4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cb470ab8-f0d1-4bbf-b04d-ee3fc3f98ba4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cb470ab8-f0d1-4bbf-b04d-ee3fc3f98ba4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cb470ab8-f0d1-4bbf-b04d-ee3fc3f98ba4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cb470ab8-f0d1-4bbf-b04d-ee3fc3f98ba4_mobile_mid.m3u8"
+        },
+        "id": "599f8ebdef23a8308c970e5f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f178ce1028579d40fa35c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:13:42.419Z",
+      "updatedAt": "2018-01-05T06:17:43.730Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "认识关系型数据库（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b3d97829-b3c5-4363-8eac-079e517dafc6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b3d97829-b3c5-4363-8eac-079e517dafc6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b3d97829-b3c5-4363-8eac-079e517dafc6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b3d97829-b3c5-4363-8eac-079e517dafc6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b3d97829-b3c5-4363-8eac-079e517dafc6_mobile_mid.m3u8"
+        },
+        "id": "599f8efdef23a8302f307493"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1796e1028579d40fa35e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:13:52.823Z",
+      "updatedAt": "2018-01-05T06:17:53.008Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "认识关系型数据库（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6f3855f8-0bd9-4833-895f-be05c0fef216_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6f3855f8-0bd9-4833-895f-be05c0fef216_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6f3855f8-0bd9-4833-895f-be05c0fef216_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6f3855f8-0bd9-4833-895f-be05c0fef216_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6f3855f8-0bd9-4833-895f-be05c0fef216_mobile_mid.m3u8"
+        },
+        "id": "599f90aed5ff7513bb4105c0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17a0e1028579d40fa360",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:14:02.979Z",
+      "updatedAt": "2018-01-05T06:18:01.456Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "MySQL数据库与Excle的不同",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0d68f68e-5235-49f3-b46a-367b25411164_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0d68f68e-5235-49f3-b46a-367b25411164_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0d68f68e-5235-49f3-b46a-367b25411164_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0d68f68e-5235-49f3-b46a-367b25411164_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0d68f68e-5235-49f3-b46a-367b25411164_mobile_mid.m3u8"
+        },
+        "id": "599f8f69ef23a830026e6fef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17aae1028579d40fa362",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:14:14.383Z",
+      "updatedAt": "2018-01-05T06:19:03.639Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "命令行操作数据库（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/923fe434-9486-49e0-b92e-4bf9a55bd7f3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/923fe434-9486-49e0-b92e-4bf9a55bd7f3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/923fe434-9486-49e0-b92e-4bf9a55bd7f3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/923fe434-9486-49e0-b92e-4bf9a55bd7f3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/923fe434-9486-49e0-b92e-4bf9a55bd7f3_mobile_mid.m3u8"
+        },
+        "id": "599f8fb3ef23a83026369cf3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17b6853b5279d9e9081c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:14:23.644Z",
+      "updatedAt": "2018-01-05T06:19:15.549Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "命令行操作数据库（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/44de7a2f-66b8-4992-bd00-a3f5b434da9f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/44de7a2f-66b8-4992-bd00-a3f5b434da9f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/44de7a2f-66b8-4992-bd00-a3f5b434da9f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/44de7a2f-66b8-4992-bd00-a3f5b434da9f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/44de7a2f-66b8-4992-bd00-a3f5b434da9f_mobile_mid.m3u8"
+        },
+        "id": "599f8fffef23a82ffaa0c52f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17bf853b5279d9e9081e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:14:32.869Z",
+      "updatedAt": "2018-01-05T06:19:24.237Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "命令行操作数据库（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e4ed347d-eae1-4498-890d-70eb4f31e220_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e4ed347d-eae1-4498-890d-70eb4f31e220_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e4ed347d-eae1-4498-890d-70eb4f31e220_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e4ed347d-eae1-4498-890d-70eb4f31e220_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e4ed347d-eae1-4498-890d-70eb4f31e220_mobile_mid.m3u8"
+        },
+        "id": "599f9028ef23a8300dc58f9f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17c8853b5279d9e90820",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:14:42.037Z",
+      "updatedAt": "2018-01-05T06:19:31.862Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "命令行操作数据库（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/adfd5ef7-0a09-41af-b4d0-ef268f3af2b2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/adfd5ef7-0a09-41af-b4d0-ef268f3af2b2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/adfd5ef7-0a09-41af-b4d0-ef268f3af2b2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/adfd5ef7-0a09-41af-b4d0-ef268f3af2b2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/adfd5ef7-0a09-41af-b4d0-ef268f3af2b2_mobile_mid.m3u8"
+        },
+        "id": "599f9073ef23a8302f307494"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17d2853b5279d9e90822",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:14:51.572Z",
+      "updatedAt": "2018-01-05T06:19:40.437Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python操作数据库（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7182b4e1-edf5-40e8-8e59-989b764bf5e0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7182b4e1-edf5-40e8-8e59-989b764bf5e0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7182b4e1-edf5-40e8-8e59-989b764bf5e0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7182b4e1-edf5-40e8-8e59-989b764bf5e0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7182b4e1-edf5-40e8-8e59-989b764bf5e0_mobile_mid.m3u8"
+        },
+        "id": "599f9098ef23a82ffd2354ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17db853b5279d9e90824",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:15:00.580Z",
+      "updatedAt": "2018-01-05T06:19:48.538Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python操作数据库（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c143b8d4-7874-4f05-a008-ba6d83dc946a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c143b8d4-7874-4f05-a008-ba6d83dc946a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c143b8d4-7874-4f05-a008-ba6d83dc946a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c143b8d4-7874-4f05-a008-ba6d83dc946a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c143b8d4-7874-4f05-a008-ba6d83dc946a_mobile_mid.m3u8"
+        },
+        "id": "599f90edef23a82feb8a14e4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17e4853b5279d9e90826",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:15:09.869Z",
+      "updatedAt": "2018-01-05T06:19:55.330Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python操作数据库（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/139692a3-3bc4-4d04-93fc-824c8e8ab2af_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/139692a3-3bc4-4d04-93fc-824c8e8ab2af_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/139692a3-3bc4-4d04-93fc-824c8e8ab2af_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/139692a3-3bc4-4d04-93fc-824c8e8ab2af_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/139692a3-3bc4-4d04-93fc-824c8e8ab2af_mobile_mid.m3u8"
+        },
+        "id": "599f9115ef23a830626948ee"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17ed853b5279d9e90828",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:15:19.431Z",
+      "updatedAt": "2018-01-05T06:20:04.395Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python操作数据库（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/464c52f9-06a0-46c8-b6b6-8da741cbcd0f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/464c52f9-06a0-46c8-b6b6-8da741cbcd0f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/464c52f9-06a0-46c8-b6b6-8da741cbcd0f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/464c52f9-06a0-46c8-b6b6-8da741cbcd0f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/464c52f9-06a0-46c8-b6b6-8da741cbcd0f_mobile_mid.m3u8"
+        },
+        "id": "59a3713e51f0744b91c6d7ca"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f17f7853b5279d9e9082a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:15:30.438Z",
+      "updatedAt": "2018-01-05T06:20:11.048Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python爬虫（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3f6c5e01-6901-4cd4-9e34-3c7cc049b3aa_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3f6c5e01-6901-4cd4-9e34-3c7cc049b3aa_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3f6c5e01-6901-4cd4-9e34-3c7cc049b3aa_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3f6c5e01-6901-4cd4-9e34-3c7cc049b3aa_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3f6c5e01-6901-4cd4-9e34-3c7cc049b3aa_mobile_mid.m3u8"
+        },
+        "id": "599fb02c51f0744b70df3e47"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1802853b5279d9e9082c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:15:41.525Z",
+      "updatedAt": "2018-01-05T06:20:19.996Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python爬虫（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/803614cc-c244-4474-b0c8-ccc69ef3308f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/803614cc-c244-4474-b0c8-ccc69ef3308f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/803614cc-c244-4474-b0c8-ccc69ef3308f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/803614cc-c244-4474-b0c8-ccc69ef3308f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/803614cc-c244-4474-b0c8-ccc69ef3308f_mobile_mid.m3u8"
+        },
+        "id": "599fb053ef23a8302f307495"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f180d853b5279d9e9082e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:15:51.419Z",
+      "updatedAt": "2018-01-05T06:20:27.360Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python爬虫（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/df5cb554-61a3-48d8-b774-34eb99e6dd3a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/df5cb554-61a3-48d8-b774-34eb99e6dd3a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/df5cb554-61a3-48d8-b774-34eb99e6dd3a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/df5cb554-61a3-48d8-b774-34eb99e6dd3a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/df5cb554-61a3-48d8-b774-34eb99e6dd3a_mobile_mid.m3u8"
+        },
+        "id": "599fb1ffd5ff7513ba2a04a7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1817853b5279d9e90830",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:16:02.398Z",
+      "updatedAt": "2018-01-05T06:20:33.997Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python爬虫（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9be623e9-1097-46c8-b780-7a1d61b49655_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9be623e9-1097-46c8-b780-7a1d61b49655_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9be623e9-1097-46c8-b780-7a1d61b49655_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9be623e9-1097-46c8-b780-7a1d61b49655_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9be623e9-1097-46c8-b780-7a1d61b49655_mobile_mid.m3u8"
+        },
+        "id": "599fb0bfef23a87f216eeb41"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1822853b5279d9e90832",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:16:12.618Z",
+      "updatedAt": "2018-01-05T06:20:41.550Z",
+      "parentId": "5a4f177de1028579d40fa35a",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Python爬虫（五）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3821edcc-efd4-42b8-9dbf-4af3c99c36d0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3821edcc-efd4-42b8-9dbf-4af3c99c36d0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3821edcc-efd4-42b8-9dbf-4af3c99c36d0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3821edcc-efd4-42b8-9dbf-4af3c99c36d0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3821edcc-efd4-42b8-9dbf-4af3c99c36d0_mobile_mid.m3u8"
+        },
+        "id": "599fb13751f0744b8fa428c1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f182c853b5279d9e90834",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T06:21:01.435Z",
+    "updatedAt": "2018-01-05T06:21:06.407Z",
+    "courseId": "5a4efc9d853b5279d9e907ca",
+    "name": "Python进阶（上）",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f194d853b5279d9e90836",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:21:15.643Z",
+      "updatedAt": "2018-01-05T06:35:29.390Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "NumPy基本操作（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7e8bd81e-92a7-4dca-b286-59a38ed4bfc4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7e8bd81e-92a7-4dca-b286-59a38ed4bfc4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7e8bd81e-92a7-4dca-b286-59a38ed4bfc4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7e8bd81e-92a7-4dca-b286-59a38ed4bfc4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7e8bd81e-92a7-4dca-b286-59a38ed4bfc4_mobile_mid.m3u8"
+        },
+        "id": "59a8d69551f0744b7694214c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f195b853b5279d9e9083a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:21:25.071Z",
+      "updatedAt": "2018-01-05T06:35:38.531Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "NumPy基本操作（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b8f2111f-13aa-4216-87a9-56106acdd680_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b8f2111f-13aa-4216-87a9-56106acdd680_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b8f2111f-13aa-4216-87a9-56106acdd680_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b8f2111f-13aa-4216-87a9-56106acdd680_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b8f2111f-13aa-4216-87a9-56106acdd680_mobile_mid.m3u8"
+        },
+        "id": "59a8d6b9ef23a83026369cf7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1965853b5279d9e9083c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:21:34.511Z",
+      "updatedAt": "2018-01-05T06:35:45.344Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "NumPy基本操作（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c414170d-c891-4cd0-9ee2-bd8a4dc40643_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c414170d-c891-4cd0-9ee2-bd8a4dc40643_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c414170d-c891-4cd0-9ee2-bd8a4dc40643_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c414170d-c891-4cd0-9ee2-bd8a4dc40643_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c414170d-c891-4cd0-9ee2-bd8a4dc40643_mobile_mid.m3u8"
+        },
+        "id": "59a8d6e5ef23a831f5967f99"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f196e853b5279d9e9083e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:21:44.609Z",
+      "updatedAt": "2018-01-05T06:35:52.649Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "NumPy基本操作（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/029fe869-e5ae-4299-b521-c2220f79fcfe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/029fe869-e5ae-4299-b521-c2220f79fcfe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/029fe869-e5ae-4299-b521-c2220f79fcfe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/029fe869-e5ae-4299-b521-c2220f79fcfe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/029fe869-e5ae-4299-b521-c2220f79fcfe_mobile_mid.m3u8"
+        },
+        "id": "59a8d702ef23a8300dc58fa1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1978853b5279d9e90842",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:21:54.194Z",
+      "updatedAt": "2018-01-05T06:36:06.543Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "NumPy基本操作（五）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b343178e-5123-4fd7-9c5c-c7c55ff5fbb9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b343178e-5123-4fd7-9c5c-c7c55ff5fbb9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b343178e-5123-4fd7-9c5c-c7c55ff5fbb9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b343178e-5123-4fd7-9c5c-c7c55ff5fbb9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b343178e-5123-4fd7-9c5c-c7c55ff5fbb9_mobile_mid.m3u8"
+        },
+        "id": "59a8d75e51f0744b09d589e9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1982853b5279d9e90844",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:22:05.413Z",
+      "updatedAt": "2018-01-05T06:36:14.504Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "NumPy基本操作（六）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e22725ae-d3c5-4ee9-8e2d-f4bf0e81efdb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e22725ae-d3c5-4ee9-8e2d-f4bf0e81efdb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e22725ae-d3c5-4ee9-8e2d-f4bf0e81efdb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e22725ae-d3c5-4ee9-8e2d-f4bf0e81efdb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e22725ae-d3c5-4ee9-8e2d-f4bf0e81efdb_mobile_mid.m3u8"
+        },
+        "id": "59a8d8ffd5ff75136e21dcb9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f198d853b5279d9e90846",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:22:16.792Z",
+      "updatedAt": "2018-01-05T06:36:22.460Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas基本操作（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/af0ee307-6c59-4ba5-be17-d8c93be77a15_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/af0ee307-6c59-4ba5-be17-d8c93be77a15_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/af0ee307-6c59-4ba5-be17-d8c93be77a15_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/af0ee307-6c59-4ba5-be17-d8c93be77a15_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/af0ee307-6c59-4ba5-be17-d8c93be77a15_mobile_mid.m3u8"
+        },
+        "id": "59a8d7c3ef23a8300dc58fa2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1998853b5279d9e9084a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:22:27.968Z",
+      "updatedAt": "2018-01-05T06:36:29.638Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas基本操作（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/96cdea2d-6e8c-41fc-9014-efa01f0b4b83_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/96cdea2d-6e8c-41fc-9014-efa01f0b4b83_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/96cdea2d-6e8c-41fc-9014-efa01f0b4b83_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/96cdea2d-6e8c-41fc-9014-efa01f0b4b83_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/96cdea2d-6e8c-41fc-9014-efa01f0b4b83_mobile_mid.m3u8"
+        },
+        "id": "59a8d96ad5ff75139038457b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f19a3853b5279d9e9084c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:22:37.262Z",
+      "updatedAt": "2018-01-05T06:36:36.914Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas基本操作（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/29ef2104-4906-4a32-9635-cb2ef56d0492_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/29ef2104-4906-4a32-9635-cb2ef56d0492_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/29ef2104-4906-4a32-9635-cb2ef56d0492_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/29ef2104-4906-4a32-9635-cb2ef56d0492_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/29ef2104-4906-4a32-9635-cb2ef56d0492_mobile_mid.m3u8"
+        },
+        "id": "59a8d99cd5ff751391ba8a00"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f19ad853b5279d9e9084e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:22:49.270Z",
+      "updatedAt": "2018-01-05T06:36:44.629Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas基本操作（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c617a587-02b1-4d27-be05-5d8fb3e466b3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c617a587-02b1-4d27-be05-5d8fb3e466b3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c617a587-02b1-4d27-be05-5d8fb3e466b3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c617a587-02b1-4d27-be05-5d8fb3e466b3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c617a587-02b1-4d27-be05-5d8fb3e466b3_mobile_mid.m3u8"
+        },
+        "id": "59a8d9c3d5ff751382935b93"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f19b9853b5279d9e90850",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:22:59.032Z",
+      "updatedAt": "2018-01-05T06:36:54.148Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas绘图（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/945f0d83-3687-4c6d-b2a0-36c2d5678b4d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/945f0d83-3687-4c6d-b2a0-36c2d5678b4d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/945f0d83-3687-4c6d-b2a0-36c2d5678b4d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/945f0d83-3687-4c6d-b2a0-36c2d5678b4d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/945f0d83-3687-4c6d-b2a0-36c2d5678b4d_mobile_mid.m3u8"
+        },
+        "id": "59a8d884ef23a84321c27926"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f19c3853b5279d9e90852",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:23:08.821Z",
+      "updatedAt": "2018-01-05T06:37:02.183Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas绘图（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/03a1a2fa-650b-4a67-9ed4-67fe58447f32_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/03a1a2fa-650b-4a67-9ed4-67fe58447f32_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/03a1a2fa-650b-4a67-9ed4-67fe58447f32_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/03a1a2fa-650b-4a67-9ed4-67fe58447f32_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/03a1a2fa-650b-4a67-9ed4-67fe58447f32_mobile_mid.m3u8"
+        },
+        "id": "59a8d8c2ef23a86cb3121985"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f19cc853b5279d9e90854",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:23:18.161Z",
+      "updatedAt": "2018-01-05T06:37:11.020Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas绘图（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4780d2fc-4741-404e-b00b-b94ae122d4d4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4780d2fc-4741-404e-b00b-b94ae122d4d4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4780d2fc-4741-404e-b00b-b94ae122d4d4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4780d2fc-4741-404e-b00b-b94ae122d4d4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4780d2fc-4741-404e-b00b-b94ae122d4d4_mobile_mid.m3u8"
+        },
+        "id": "59a8d90451f0744b1ec89241"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f19d6e1028579d40fa364",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:23:27.832Z",
+      "updatedAt": "2018-01-05T06:37:22.053Z",
+      "parentId": "5a4f194d853b5279d9e90836",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "Pandas绘图（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5ba4f433-390e-49d3-a11d-e1fcf79c963d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5ba4f433-390e-49d3-a11d-e1fcf79c963d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5ba4f433-390e-49d3-a11d-e1fcf79c963d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5ba4f433-390e-49d3-a11d-e1fcf79c963d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5ba4f433-390e-49d3-a11d-e1fcf79c963d_mobile_mid.m3u8"
+        },
+        "id": "59a8d943ef23a84321c27927"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f19df853b5279d9e90858",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2018-01-05T06:37:41.669Z",
+    "updatedAt": "2018-01-05T06:37:47.218Z",
+    "courseId": "5a4efc9d853b5279d9e907ca",
+    "name": "Python进阶（下）",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a4f1d35e1028579d40fa382",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:37:56.609Z",
+      "updatedAt": "2018-01-05T06:39:28.468Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1b49208d-e9e3-4fee-9819-449e35695a13_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1b49208d-e9e3-4fee-9819-449e35695a13_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1b49208d-e9e3-4fee-9819-449e35695a13_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1b49208d-e9e3-4fee-9819-449e35695a13_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1b49208d-e9e3-4fee-9819-449e35695a13_mobile_mid.m3u8"
+        },
+        "id": "59a8f972ef23a82456d49ee1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d44e1028579d40fa386",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:38:05.795Z",
+      "updatedAt": "2018-01-05T06:40:46.033Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/790a166e-acb4-426b-b2ff-ea7953389374_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/790a166e-acb4-426b-b2ff-ea7953389374_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/790a166e-acb4-426b-b2ff-ea7953389374_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/790a166e-acb4-426b-b2ff-ea7953389374_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/790a166e-acb4-426b-b2ff-ea7953389374_mobile_mid.m3u8"
+        },
+        "id": "59a8f9a451f0744b5e0d555b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d4de1028579d40fa38a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:38:14.752Z",
+      "updatedAt": "2018-01-05T06:40:55.763Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/bdfd3141-6065-43a9-af5c-c57c40131c68_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/bdfd3141-6065-43a9-af5c-c57c40131c68_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/bdfd3141-6065-43a9-af5c-c57c40131c68_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/bdfd3141-6065-43a9-af5c-c57c40131c68_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/bdfd3141-6065-43a9-af5c-c57c40131c68_mobile_mid.m3u8"
+        },
+        "id": "59a8fb3ad5ff7513ad660936"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d56e1028579d40fa38c",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:38:24.410Z",
+      "updatedAt": "2018-01-05T06:41:02.535Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f62dde1e-5127-4661-9330-5fe431602551_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f62dde1e-5127-4661-9330-5fe431602551_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f62dde1e-5127-4661-9330-5fe431602551_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f62dde1e-5127-4661-9330-5fe431602551_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f62dde1e-5127-4661-9330-5fe431602551_mobile_mid.m3u8"
+        },
+        "id": "59a8f9e4ef23a80d3835ccf9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d60853b5279d9e9085e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:38:34.644Z",
+      "updatedAt": "2018-01-05T06:41:09.187Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（五）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ea93c930-03b1-48d1-b10b-226e5f1a3fd4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ea93c930-03b1-48d1-b10b-226e5f1a3fd4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ea93c930-03b1-48d1-b10b-226e5f1a3fd4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ea93c930-03b1-48d1-b10b-226e5f1a3fd4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ea93c930-03b1-48d1-b10b-226e5f1a3fd4_mobile_mid.m3u8"
+        },
+        "id": "59a8fb89d5ff7513727b0875"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d6a853b5279d9e90860",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:38:44.348Z",
+      "updatedAt": "2018-01-05T06:41:16.037Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（六）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fe1cdc77-7db7-4e4b-bcdb-fd386fc3ab7d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fe1cdc77-7db7-4e4b-bcdb-fd386fc3ab7d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fe1cdc77-7db7-4e4b-bcdb-fd386fc3ab7d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fe1cdc77-7db7-4e4b-bcdb-fd386fc3ab7d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fe1cdc77-7db7-4e4b-bcdb-fd386fc3ab7d_mobile_mid.m3u8"
+        },
+        "id": "59a8fa3d51f0744b3b409e13"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d74853b5279d9e90862",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:38:53.672Z",
+      "updatedAt": "2018-01-05T06:41:24.043Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（七）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b3e9e7e4-ffea-416d-aa92-fcb3a8a4eba1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b3e9e7e4-ffea-416d-aa92-fcb3a8a4eba1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b3e9e7e4-ffea-416d-aa92-fcb3a8a4eba1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b3e9e7e4-ffea-416d-aa92-fcb3a8a4eba1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b3e9e7e4-ffea-416d-aa92-fcb3a8a4eba1_mobile_mid.m3u8"
+        },
+        "id": "59a8fa9551f0744b84e04be2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d7d853b5279d9e90864",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:39:03.843Z",
+      "updatedAt": "2018-01-05T06:41:31.421Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（八）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4a7417f9-6f20-48d4-af39-ddc4858bf6bd_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4a7417f9-6f20-48d4-af39-ddc4858bf6bd_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4a7417f9-6f20-48d4-af39-ddc4858bf6bd_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4a7417f9-6f20-48d4-af39-ddc4858bf6bd_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4a7417f9-6f20-48d4-af39-ddc4858bf6bd_mobile_mid.m3u8"
+        },
+        "id": "59a8fafa51f0744b2a99be9e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d87853b5279d9e90866",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2018-01-05T06:39:15.301Z",
+      "updatedAt": "2018-01-05T06:41:38.415Z",
+      "parentId": "5a4f1d35e1028579d40fa382",
+      "courseId": "5a4efc9d853b5279d9e907ca",
+      "name": "泰坦尼克数据处理与分析（九）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a9591fb7-16d7-41ca-9718-691da46fb4b5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a9591fb7-16d7-41ca-9718-691da46fb4b5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a9591fb7-16d7-41ca-9718-691da46fb4b5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a9591fb7-16d7-41ca-9718-691da46fb4b5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a9591fb7-16d7-41ca-9718-691da46fb4b5_mobile_mid.m3u8"
+        },
+        "id": "59a8fca4d5ff7513a1c2a669"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a4f1d93853b5279d9e90868",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

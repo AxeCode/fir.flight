@@ -1,0 +1,470 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-11-22T07:47:25.155Z",
+  "updatedAt": "2018-01-06T14:53:50.310Z",
+  "name": "高中历史深度进阶中国现代文明与社会主义建设专题",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "price": 158,
+  "major": "586d234f5f07127674152c50",
+  "expiration": 12,
+  "hide": false,
+  "order": 16,
+  "numOfClasses": 10,
+  "description": "本专题课程是对中华人民共和国社会主义建设的探究。中华人民共和国建立后，虽然有苏联社会主义建设的经验可以参考，但依然要走出符合中国国情的社会主义建设道路，为此，中国共产党领导全国人民进行了社会主义建设道路的探索。此中，既有一五计划、中共八大等成就，也经历了大跃进、人民公社化运动和文化大革命等严重的挫折，十一届三中全会后，我们走上了改革开放的道路，并逐步探索与完善中国特色社会主义建设。",
+  "bigImage": "http://imgs.wanmen.org/9c2f8b99ed12258dcef5cdef99ce41d5.png",
+  "smallImage": "http://imgs.wanmen.org/a1a3270dfa71a02d0f7fe3b150ad71fe.png",
+  "tag": "丁子江 高中 历史 深度 进阶 现代文明 社会主义 建设 专题 ",
+  "videoCount": 10,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 1,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 10,
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherName": "丁子江",
+  "mobileCoverUrl": "http://imgs.wanmen.org/a1a3270dfa71a02d0f7fe3b150ad71fe.png",
+  "coverUrl": "http://imgs.wanmen.org/9c2f8b99ed12258dcef5cdef99ce41d5.png",
+  "smallImageUrl": "http://imgs.wanmen.org/a1a3270dfa71a02d0f7fe3b150ad71fe.png",
+  "bigImageUrl": "http://imgs.wanmen.org/9c2f8b99ed12258dcef5cdef99ce41d5.png",
+  "id": "5a152b8d37beee5855953cec",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:37:40.485Z",
+    "updatedAt": "2017-12-20T02:36:55.540Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "新中国的成立与民主政治制度建设",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f864a7b33c240bf4c376",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:39:26.545Z",
+      "updatedAt": "2017-12-20T02:37:02.932Z",
+      "parentId": "5a25f864a7b33c240bf4c376",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "民主政治建设的成就",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_mobile_mid.m3u8"
+        },
+        "id": "5a27b13251f0741126c85de9"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a25f8cea7b33c240bf4c38a",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/b48fb0f7-77a5-40ca-96fb-dacdea5d586c_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:37:49.765Z",
+    "updatedAt": "2017-12-20T02:37:12.136Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "新中国成立初期的外交活动",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f86da7b33c240bf4c378",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:39:35.384Z",
+      "updatedAt": "2017-12-20T02:37:19.846Z",
+      "parentId": "5a25f86da7b33c240bf4c378",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "打开外交空间",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7184553a-e6c8-4d1e-9a1b-34c0db04c776_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7184553a-e6c8-4d1e-9a1b-34c0db04c776_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7184553a-e6c8-4d1e-9a1b-34c0db04c776_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7184553a-e6c8-4d1e-9a1b-34c0db04c776_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7184553a-e6c8-4d1e-9a1b-34c0db04c776_mobile_mid.m3u8"
+        },
+        "id": "5a27b14d51f07410bab95c6c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f8d7a7b33c240bf4c38c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:37:58.549Z",
+    "updatedAt": "2017-12-20T02:37:41.255Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "20世纪70年代的外交成就",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f876a7b33c240bf4c37a",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:39:46.593Z",
+      "updatedAt": "2017-12-20T02:37:30.909Z",
+      "parentId": "5a25f876a7b33c240bf4c37a",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "重返国际社会",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/304b4a1c-3e11-497c-85fb-8d51cec79f05_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/304b4a1c-3e11-497c-85fb-8d51cec79f05_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/304b4a1c-3e11-497c-85fb-8d51cec79f05_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/304b4a1c-3e11-497c-85fb-8d51cec79f05_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/304b4a1c-3e11-497c-85fb-8d51cec79f05_mobile_mid.m3u8"
+        },
+        "id": "5a27b16bef23a86590dca401"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f8e2a7b33c240bf4c38e",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:38:10.172Z",
+    "updatedAt": "2017-12-20T02:37:48.282Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "文化大革命与民主法制建设",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f882a7b33c240bf4c37c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:39:53.609Z",
+      "updatedAt": "2017-12-20T02:37:54.580Z",
+      "parentId": "5a25f882a7b33c240bf4c37c",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "民主法制建设的经验教训",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/92cdbcba-5aa9-4c4e-94f7-83ac5011cde6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/92cdbcba-5aa9-4c4e-94f7-83ac5011cde6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/92cdbcba-5aa9-4c4e-94f7-83ac5011cde6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/92cdbcba-5aa9-4c4e-94f7-83ac5011cde6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/92cdbcba-5aa9-4c4e-94f7-83ac5011cde6_mobile_mid.m3u8"
+        },
+        "id": "5a27b18251f074113571f282"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f8e9a7b33c240bf4c390",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:38:20.712Z",
+    "updatedAt": "2017-12-20T02:38:10.003Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "一国两制与祖国统一",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f88ca7b33c240bf4c37e",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:40:01.838Z",
+      "updatedAt": "2017-12-20T02:38:17.431Z",
+      "parentId": "5a25f88ca7b33c240bf4c37e",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "实现祖国的统一",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5c099b91-dd75-446f-a44c-98a126a4161b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5c099b91-dd75-446f-a44c-98a126a4161b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5c099b91-dd75-446f-a44c-98a126a4161b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5c099b91-dd75-446f-a44c-98a126a4161b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5c099b91-dd75-446f-a44c-98a126a4161b_mobile_mid.m3u8"
+        },
+        "id": "5a27b19ed5ff75131d876edc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f8f1a7b33c240bf4c392",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:38:30.776Z",
+    "updatedAt": "2017-12-20T02:38:28.843Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "改革开放以来的多边外交",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f896a7b33c240bf4c380",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:40:11.485Z",
+      "updatedAt": "2017-12-20T02:38:33.422Z",
+      "parentId": "5a25f896a7b33c240bf4c380",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "重要外交活动",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eb9fe88d-73e1-48d8-a954-1ab3c75a93fc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eb9fe88d-73e1-48d8-a954-1ab3c75a93fc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eb9fe88d-73e1-48d8-a954-1ab3c75a93fc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eb9fe88d-73e1-48d8-a954-1ab3c75a93fc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eb9fe88d-73e1-48d8-a954-1ab3c75a93fc_mobile_mid.m3u8"
+        },
+        "id": "5a27b1c151f074109e100ac1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f8fba7b33c240bf4c394",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:38:42.594Z",
+    "updatedAt": "2017-12-20T02:38:43.178Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "孙中山的三民主义",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f8a2a7b33c240bf4c382",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:40:18.640Z",
+      "updatedAt": "2017-12-20T02:38:52.142Z",
+      "parentId": "5a25f8a2a7b33c240bf4c382",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "民族、民权、民生",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0ab8e5dc-0f7c-4b62-81a1-c08d08b89656_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0ab8e5dc-0f7c-4b62-81a1-c08d08b89656_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0ab8e5dc-0f7c-4b62-81a1-c08d08b89656_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0ab8e5dc-0f7c-4b62-81a1-c08d08b89656_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0ab8e5dc-0f7c-4b62-81a1-c08d08b89656_mobile_mid.m3u8"
+        },
+        "id": "5a27b1e4d5ff7512f88013b9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f902a7b33c240bf4c396",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:38:52.712Z",
+    "updatedAt": "2017-12-20T02:38:57.611Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "毛泽东思想",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f8aca7b33c240bf4c384",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:40:26.503Z",
+      "updatedAt": "2017-12-20T02:39:01.731Z",
+      "parentId": "5a25f8aca7b33c240bf4c384",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "新民主主义革命的指导思想",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7d1ae31c-ebe3-4f56-9628-3b29b5438ce8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7d1ae31c-ebe3-4f56-9628-3b29b5438ce8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7d1ae31c-ebe3-4f56-9628-3b29b5438ce8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7d1ae31c-ebe3-4f56-9628-3b29b5438ce8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7d1ae31c-ebe3-4f56-9628-3b29b5438ce8_mobile_mid.m3u8"
+        },
+        "id": "5a27b1fcd5ff75132cfb90a6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f90aa7b33c240bf4c398",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:39:01.466Z",
+    "updatedAt": "2017-12-20T02:39:07.591Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "中国特色社会主义理论体系",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f8b5a7b33c240bf4c386",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:40:34.417Z",
+      "updatedAt": "2017-12-20T02:39:12.892Z",
+      "parentId": "5a25f8b5a7b33c240bf4c386",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "现代化建设的指导思想",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/725e00c2-e0e4-468e-b2d1-8ab453504c76_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/725e00c2-e0e4-468e-b2d1-8ab453504c76_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/725e00c2-e0e4-468e-b2d1-8ab453504c76_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/725e00c2-e0e4-468e-b2d1-8ab453504c76_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/725e00c2-e0e4-468e-b2d1-8ab453504c76_mobile_mid.m3u8"
+        },
+        "id": "5a27b21bd5ff75136391ffc1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f912a7b33c240bf4c39a",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:39:11.644Z",
+    "updatedAt": "2017-12-20T02:39:17.634Z",
+    "courseId": "5a152b8d37beee5855953cec",
+    "name": "中国现代文明与社会主义建设总括",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f8bfa7b33c240bf4c388",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:40:43.054Z",
+      "updatedAt": "2017-12-20T02:39:24.189Z",
+      "parentId": "5a25f8bfa7b33c240bf4c388",
+      "courseId": "5a152b8d37beee5855953cec",
+      "name": "政治经济和思想文化",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0c5f851-52a2-415c-bb8f-96d519e50262_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0c5f851-52a2-415c-bb8f-96d519e50262_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0c5f851-52a2-415c-bb8f-96d519e50262_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0c5f851-52a2-415c-bb8f-96d519e50262_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0c5f851-52a2-415c-bb8f-96d519e50262_mobile_mid.m3u8"
+        },
+        "id": "5a27b235ef23a8660adf7280"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f91ba7b33c240bf4c39c",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

@@ -1,0 +1,194 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-09-26T06:33:17.407Z",
+  "updatedAt": "2017-12-26T09:45:16.989Z",
+  "name": "高中数学必修5串讲",
+  "numOfClasses": 1,
+  "description": "本次串讲主要介绍了解三角形、不等式和数列。",
+  "price": 158,
+  "teacher": {
+    "name": "刘畅",
+    "description": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。",
+    "avatar": "http://imgs.wanmen.org/12a6ec76fad164cfc20358a4019ac0c6.png",
+    "id": "59c0d02b6614d35df527582c"
+  },
+  "major": "586d234f5f07127674152c49",
+  "bigImage": "http://imgs.wanmen.org/bba6553335c6e6a14117b3c48e4c8c5f.png",
+  "smallImage": "http://imgs.wanmen.org/bcf08fb6944597ffaf89ded55d67111f.png",
+  "expiration": 12,
+  "hide": false,
+  "order": 8,
+  "tag": "刘畅 高中 数学 必修 5 串讲 ",
+  "videoCount": 5,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 8,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 1,
+  "teacherDescription": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。",
+  "teacherAvatar": "http://imgs.wanmen.org/12a6ec76fad164cfc20358a4019ac0c6.png",
+  "teacherName": "刘畅",
+  "mobileCoverUrl": "http://imgs.wanmen.org/bcf08fb6944597ffaf89ded55d67111f.png",
+  "coverUrl": "http://imgs.wanmen.org/bba6553335c6e6a14117b3c48e4c8c5f.png",
+  "smallImageUrl": "http://imgs.wanmen.org/bcf08fb6944597ffaf89ded55d67111f.png",
+  "bigImageUrl": "http://imgs.wanmen.org/bba6553335c6e6a14117b3c48e4c8c5f.png",
+  "id": "59c9f4adb326f467e34dfd2a",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-26T06:33:38.276Z",
+    "updatedAt": "2017-09-26T06:33:38.276Z",
+    "courseId": "59c9f4adb326f467e34dfd2a",
+    "name": "解三角形 数列 不等式",
+    "order": 0,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59c9f4c2e56bde62cd913e07",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-26T06:33:49.839Z",
+      "updatedAt": "2017-12-20T04:22:23.373Z",
+      "parentId": "59c9f4c2e56bde62cd913e07",
+      "courseId": "59c9f4adb326f467e34dfd2a",
+      "name": "解三角形、数列、不等式（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a117523d-154b-4680-8d9c-836c2c0752d2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a117523d-154b-4680-8d9c-836c2c0752d2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a117523d-154b-4680-8d9c-836c2c0752d2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a117523d-154b-4680-8d9c-836c2c0752d2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a117523d-154b-4680-8d9c-836c2c0752d2_mobile_mid.m3u8"
+        },
+        "id": "59c8645bef23a84321c2793b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c9f4cd3412c03a8abe9f1e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-26T06:33:59.519Z",
+      "updatedAt": "2017-12-20T04:22:30.480Z",
+      "parentId": "59c9f4c2e56bde62cd913e07",
+      "courseId": "59c9f4adb326f467e34dfd2a",
+      "name": "解三角形、数列、不等式（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/16fb7b16-002f-455c-ae28-d42d0678c0d3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/16fb7b16-002f-455c-ae28-d42d0678c0d3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/16fb7b16-002f-455c-ae28-d42d0678c0d3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/16fb7b16-002f-455c-ae28-d42d0678c0d3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/16fb7b16-002f-455c-ae28-d42d0678c0d3_mobile_mid.m3u8"
+        },
+        "id": "59c8639fef23a8306926cc2b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c9f4d7831b92181c448a26",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-26T06:34:07.721Z",
+      "updatedAt": "2017-12-20T04:22:37.810Z",
+      "parentId": "59c9f4c2e56bde62cd913e07",
+      "courseId": "59c9f4adb326f467e34dfd2a",
+      "name": "解三角形、数列、不等式（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/80454c19-fb8f-430f-805a-da7b5ea9b1b1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/80454c19-fb8f-430f-805a-da7b5ea9b1b1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/80454c19-fb8f-430f-805a-da7b5ea9b1b1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/80454c19-fb8f-430f-805a-da7b5ea9b1b1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/80454c19-fb8f-430f-805a-da7b5ea9b1b1_mobile_mid.m3u8"
+        },
+        "id": "59c86547ef23a82080b5d288"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c9f4dfe56bde62cd913e09",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-26T06:34:16.968Z",
+      "updatedAt": "2017-12-20T04:22:44.428Z",
+      "parentId": "59c9f4c2e56bde62cd913e07",
+      "courseId": "59c9f4adb326f467e34dfd2a",
+      "name": "解三角形、数列、不等式（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4ac91882-9dd0-40ab-9282-9f5bf54bea21_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4ac91882-9dd0-40ab-9282-9f5bf54bea21_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4ac91882-9dd0-40ab-9282-9f5bf54bea21_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4ac91882-9dd0-40ab-9282-9f5bf54bea21_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4ac91882-9dd0-40ab-9282-9f5bf54bea21_mobile_mid.m3u8"
+        },
+        "id": "59c8648051f0744b3b409e1d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c9f4e83412c03a8abe9f20",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-26T06:34:25.181Z",
+      "updatedAt": "2017-12-20T04:24:50.621Z",
+      "parentId": "59c9f4c2e56bde62cd913e07",
+      "courseId": "59c9f4adb326f467e34dfd2a",
+      "name": "解三角形、数列、不等式（五）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c18f889c-4edf-43c7-b8f9-bc70095a8620_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c18f889c-4edf-43c7-b8f9-bc70095a8620_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c18f889c-4edf-43c7-b8f9-bc70095a8620_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c18f889c-4edf-43c7-b8f9-bc70095a8620_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c18f889c-4edf-43c7-b8f9-bc70095a8620_mobile_mid.m3u8"
+        },
+        "id": "59c865ee51f0744b5fdc6b59"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c9f4f1831b92181c448a28",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

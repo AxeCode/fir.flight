@@ -1,0 +1,449 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-08-17T02:34:19.862Z",
+  "updatedAt": "2017-12-06T04:03:14.314Z",
+  "name": "高中数学必修4串讲",
+  "description": "帮助同学们迅速梳理高中必修四数学的内容，使同学们在学校听课无障碍。视频中个别内容比较难，希望同学们可以认真思考或者与小伙伴们讨论。",
+  "price": 158,
+  "hide": false,
+  "major": "586d234f5f07127674152c49",
+  "expiration": 12,
+  "bigImage": "http://imgs.wanmen.org/6ecb337c2f79686d2e3322b69e735862.png",
+  "smallImage": "http://imgs.wanmen.org/ca9be59aa1fab926d63e3b0f81d52e57.png",
+  "teacher": {
+    "name": "刘畅",
+    "description": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。",
+    "avatar": "http://imgs.wanmen.org/12a6ec76fad164cfc20358a4019ac0c6.png",
+    "id": "59c0d02b6614d35df527582c"
+  },
+  "numOfClasses": 2,
+  "order": 6,
+  "tag": "刘畅 高中 数学 必修 4 串讲 ",
+  "videoCount": 13,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 5,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 2,
+  "teacherDescription": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。",
+  "teacherAvatar": "http://imgs.wanmen.org/12a6ec76fad164cfc20358a4019ac0c6.png",
+  "teacherName": "刘畅",
+  "mobileCoverUrl": "http://imgs.wanmen.org/ca9be59aa1fab926d63e3b0f81d52e57.png",
+  "coverUrl": "http://imgs.wanmen.org/6ecb337c2f79686d2e3322b69e735862.png",
+  "smallImageUrl": "http://imgs.wanmen.org/ca9be59aa1fab926d63e3b0f81d52e57.png",
+  "bigImageUrl": "http://imgs.wanmen.org/6ecb337c2f79686d2e3322b69e735862.png",
+  "id": "599500ab9c3c8d2b53cba529",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-25T09:01:30.380Z",
+    "updatedAt": "2017-09-25T09:02:22.456Z",
+    "courseId": "599500ab9c3c8d2b53cba529",
+    "name": "对数与对数函数",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59c8c5eac3f7715cd9cf928f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:01:39.959Z",
+      "updatedAt": "2017-12-20T06:22:31.099Z",
+      "parentId": "59c8c5eac3f7715cd9cf928f",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "对数的运算法则（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_mobile_mid.m3u8"
+        },
+        "id": "59c85eb0ef23a84321c27939"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59c8c5f30640e717de3a473f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/2cdc5f55-5399-4994-a644-08b91b0ba53b_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:01:49.049Z",
+      "updatedAt": "2017-12-20T06:22:37.426Z",
+      "parentId": "59c8c5eac3f7715cd9cf928f",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "对数的运算法则（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_mobile_mid.m3u8"
+        },
+        "id": "59c860a2d5ff75136d2008f6"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59c8c5fd831b92181c448a17",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/81225565-fd7a-4a8a-a313-ac7c9e45ef09_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:01:58.329Z",
+      "updatedAt": "2017-12-20T06:22:44.426Z",
+      "parentId": "59c8c5eac3f7715cd9cf928f",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "换底公式",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_mobile_mid.m3u8"
+        },
+        "id": "59c85f57ef23a8306926cc29"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59c8c606c3f7715cd9cf9291",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/4238c3cb-cbd7-4d02-9323-8030a9d0e368_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:02:08.729Z",
+      "updatedAt": "2017-12-20T06:22:53.948Z",
+      "parentId": "59c8c5eac3f7715cd9cf928f",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "对数函数习题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_mobile_mid.m3u8"
+        },
+        "id": "59c860aa51f0744b3d5146d2"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59c8c6100640e717de3a4741",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/55acde2d-ba45-4af5-b817-b1f9fce267af_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-25T09:02:19.191Z",
+    "updatedAt": "2017-09-25T09:02:24.483Z",
+    "courseId": "599500ab9c3c8d2b53cba529",
+    "name": "三角函数",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59c8c61b831b92181c448a19",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:02:34.113Z",
+      "updatedAt": "2017-12-20T06:23:05.239Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角函数的性质与应用（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d698abc9-dcf6-4fa1-bd81-df5811ad958f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d698abc9-dcf6-4fa1-bd81-df5811ad958f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d698abc9-dcf6-4fa1-bd81-df5811ad958f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d698abc9-dcf6-4fa1-bd81-df5811ad958f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d698abc9-dcf6-4fa1-bd81-df5811ad958f_mobile_mid.m3u8"
+        },
+        "id": "59c861dbd5ff75138a2b5533"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c62ac3f7715cd9cf9293",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:02:43.061Z",
+      "updatedAt": "2017-12-20T06:24:13.263Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角函数的性质与应用（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/788d4831-f1bd-42b6-afdc-d694b553b912_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/788d4831-f1bd-42b6-afdc-d694b553b912_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/788d4831-f1bd-42b6-afdc-d694b553b912_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/788d4831-f1bd-42b6-afdc-d694b553b912_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/788d4831-f1bd-42b6-afdc-d694b553b912_mobile_mid.m3u8"
+        },
+        "id": "59c860c551f0741880952ae6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c6330640e717de3a4743",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:02:51.205Z",
+      "updatedAt": "2017-12-20T06:24:28.712Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角恒等变换（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9099101c-ddd6-449a-bd92-726b8ce161cf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9099101c-ddd6-449a-bd92-726b8ce161cf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9099101c-ddd6-449a-bd92-726b8ce161cf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9099101c-ddd6-449a-bd92-726b8ce161cf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9099101c-ddd6-449a-bd92-726b8ce161cf_mobile_mid.m3u8"
+        },
+        "id": "59c8623651f0744b5fdc6b58"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c63b831b92181c448a1b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:03:00.067Z",
+      "updatedAt": "2017-12-20T06:24:45.563Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角恒等变换（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5f5d9f6-a0cd-40f9-bd48-21e0a2a22943_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5f5d9f6-a0cd-40f9-bd48-21e0a2a22943_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5f5d9f6-a0cd-40f9-bd48-21e0a2a22943_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5f5d9f6-a0cd-40f9-bd48-21e0a2a22943_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5f5d9f6-a0cd-40f9-bd48-21e0a2a22943_mobile_mid.m3u8"
+        },
+        "id": "59c8627fef23a82feb8a14f5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c644c3f7715cd9cf9295",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:03:08.338Z",
+      "updatedAt": "2017-12-20T06:25:52.358Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "平面向量",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/caf99c32-7065-45dc-823f-aa0e94b06d5a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/caf99c32-7065-45dc-823f-aa0e94b06d5a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/caf99c32-7065-45dc-823f-aa0e94b06d5a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/caf99c32-7065-45dc-823f-aa0e94b06d5a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/caf99c32-7065-45dc-823f-aa0e94b06d5a_mobile_mid.m3u8"
+        },
+        "id": "59c86459d5ff75136d2008f7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c64c0640e717de3a4745",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:03:16.814Z",
+      "updatedAt": "2017-12-20T06:26:22.102Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角函数习题（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/093b91b6-b188-48f3-a9ef-c7ff8ce6bd2a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/093b91b6-b188-48f3-a9ef-c7ff8ce6bd2a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/093b91b6-b188-48f3-a9ef-c7ff8ce6bd2a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/093b91b6-b188-48f3-a9ef-c7ff8ce6bd2a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/093b91b6-b188-48f3-a9ef-c7ff8ce6bd2a_mobile_mid.m3u8"
+        },
+        "id": "59c864b5d5ff75138a2b5536"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c654831b92181c448a1d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:03:26.144Z",
+      "updatedAt": "2017-12-20T06:26:38.495Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角函数习题（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b97057ec-dffb-468e-b91d-e4478c577b4d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b97057ec-dffb-468e-b91d-e4478c577b4d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b97057ec-dffb-468e-b91d-e4478c577b4d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b97057ec-dffb-468e-b91d-e4478c577b4d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b97057ec-dffb-468e-b91d-e4478c577b4d_mobile_mid.m3u8"
+        },
+        "id": "59c863ac51f0744b127f8695"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c65ec3f7715cd9cf9297",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:03:34.697Z",
+      "updatedAt": "2017-12-20T06:26:55.033Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角函数习题（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f884b3be-b76f-46c9-97be-784ea438d744_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f884b3be-b76f-46c9-97be-784ea438d744_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f884b3be-b76f-46c9-97be-784ea438d744_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f884b3be-b76f-46c9-97be-784ea438d744_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f884b3be-b76f-46c9-97be-784ea438d744_mobile_mid.m3u8"
+        },
+        "id": "59c863efef23a82ffd2354e6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c6660640e717de3a4747",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-25T09:03:43.486Z",
+      "updatedAt": "2017-12-20T06:27:09.574Z",
+      "parentId": "59c8c61b831b92181c448a19",
+      "courseId": "599500ab9c3c8d2b53cba529",
+      "name": "三角函数习题（四）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0ebfdc45-d391-48f3-afbc-5b5e5b59c666_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0ebfdc45-d391-48f3-afbc-5b5e5b59c666_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0ebfdc45-d391-48f3-afbc-5b5e5b59c666_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0ebfdc45-d391-48f3-afbc-5b5e5b59c666_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0ebfdc45-d391-48f3-afbc-5b5e5b59c666_mobile_mid.m3u8"
+        },
+        "id": "59c862c5ef23a82456d49eef"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59c8c66f831b92181c448a1f",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

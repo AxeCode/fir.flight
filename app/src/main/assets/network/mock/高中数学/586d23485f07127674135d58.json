@@ -1,0 +1,293 @@
+{
+  "id": "586d23485f07127674135d58",
+  "name": "2015高考数学真题解析",
+  "logo": "http://img.wanmen.org/course/logo/0d4ea335-739b-4a84-9ba4-6cf36428822d..jpg",
+  "order": 21,
+  "price": 158,
+  "promotion": null,
+  "description": "本课程将以2015年各省高考数学真题试卷为重点，结合常见的考生答题错误对试题进行深度讲解，同时总结今年的重要考点，为明年参加高考的同学提供参考。",
+  "shortDescription": "本课程将以2015年各省高考数学真题试卷为重点，结合常见的考生答题错误对试题进行深度讲解，同时总结今年的重要考点，为明年参加高考的同学提供参考。",
+  "hide": false,
+  "major": "586d234f5f07127674152c49",
+  "teacherName": "刘畅",
+  "teacherAvatar": "http://imgs.wanmen.org/120610d4f9c1651d48e458b5f1aec53b.png",
+  "teacherDescription": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。刘畅老师微信号：liuchangshuxue",
+  "numOfClasses": 3,
+  "qqGroup": "万门高中数学官方QQ群：1号群：289033979（已满）；请加2号群：201594838",
+  "smallImageUrl": "http://imgs.wanmen.org/0c164a500c4d8ec7a501fff09d03897d.png",
+  "bigImageUrl": "http://imgs.wanmen.org/5cfde7d7e17c0047f50ce091226e0fd7.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/37b36d67-7092-42cb-8406-d203b711d4ee.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "刘畅 高中 数学 真题 解析 ",
+  "isPresell": null,
+  "createdAt": "2015-06-11T02:57:17.000Z",
+  "updatedAt": "2018-01-09T03:57:22.087Z",
+  "homeSmallImage": "http://img.wanmen.org/images/547a3105-df9f-4e2c-8c84-22af48c1f065.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/37b36d67-7092-42cb-8406-d203b711d4ee.jpeg",
+  "bigImage": "http://imgs.wanmen.org/5cfde7d7e17c0047f50ce091226e0fd7.png",
+  "smallImage": "http://imgs.wanmen.org/0c164a500c4d8ec7a501fff09d03897d.png",
+  "bookId": [],
+  "teacher": {
+    "name": "刘畅",
+    "description": "刘畅：北京科技大学直博在读。大三学年加权99.62，曾获全国大学生计算机博弈大赛一等奖、全国大学生物联网创新创业大赛北京赛区一等奖等。累计共获10余次国家级、市级竞赛奖项。刘畅老师还在培训机构担任数学老师的教职和高中课程负责人的管理教职。刘畅老师微信号：liuchangshuxue",
+    "avatar": "http://imgs.wanmen.org/120610d4f9c1651d48e458b5f1aec53b.png",
+    "id": "586d235d5f0712767415bd86"
+  },
+  "expiration": 12,
+  "videoCount": 11,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 25,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 3,
+  "mobileCoverUrl": "http://imgs.wanmen.org/0c164a500c4d8ec7a501fff09d03897d.png",
+  "coverUrl": "http://imgs.wanmen.org/5cfde7d7e17c0047f50ce091226e0fd7.png",
+  "lectures": [{
+    "createdAt": "2017-02-21T17:36:27.577Z",
+    "courseId": "586d23485f07127674135d58",
+    "order": 1,
+    "name": "北京卷",
+    "updatedAt": "2017-05-09T06:26:03.774Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b204",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:27.580Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b204",
+      "order": 1,
+      "name": "选择题",
+      "updatedAt": "2017-05-09T06:26:03.795Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3c854246-1b09-4493-bdf7-c630523b6044_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/3c854246-1b09-4493-bdf7-c630523b6044_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/3c854246-1b09-4493-bdf7-c630523b6044_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/3c854246-1b09-4493-bdf7-c630523b6044_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/3c854246-1b09-4493-bdf7-c630523b6044_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592e2",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.583Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b204",
+      "order": 2,
+      "name": "填空题",
+      "updatedAt": "2017-05-16T02:53:23.387Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_mobile_mid.m3u8"
+        },
+        "id": "59128a9fef23a8301e5ebdc0"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/58b59938-c181-4a44-9717-b4d8d7c7d389_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592e3",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.585Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b204",
+      "order": 3,
+      "name": "解答题（上）",
+      "updatedAt": "2017-05-09T06:26:03.826Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/de671091-1ecb-4925-8800-0d0d7877fe76_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/de671091-1ecb-4925-8800-0d0d7877fe76_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/de671091-1ecb-4925-8800-0d0d7877fe76_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/de671091-1ecb-4925-8800-0d0d7877fe76_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/de671091-1ecb-4925-8800-0d0d7877fe76_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592e4",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.588Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b204",
+      "order": 4,
+      "name": "解答题（下）",
+      "updatedAt": "2017-05-09T06:26:03.836Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d5aac2eb-ac4f-4b19-a3b7-51bee38bcbc6_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/d5aac2eb-ac4f-4b19-a3b7-51bee38bcbc6_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/d5aac2eb-ac4f-4b19-a3b7-51bee38bcbc6_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/d5aac2eb-ac4f-4b19-a3b7-51bee38bcbc6_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/d5aac2eb-ac4f-4b19-a3b7-51bee38bcbc6_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f071276741592e5",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:27.652Z",
+    "courseId": "586d23485f07127674135d58",
+    "order": 2,
+    "name": "全国一卷",
+    "updatedAt": "2017-05-09T06:26:03.842Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b21b",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:27.654Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b21b",
+      "order": 1,
+      "name": "选择题",
+      "updatedAt": "2017-05-09T06:26:03.872Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159327",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.657Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b21b",
+      "order": 2,
+      "name": "填空题",
+      "updatedAt": "2017-05-09T06:26:03.881Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159328",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.659Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b21b",
+      "order": 3,
+      "name": "解答题（上）",
+      "updatedAt": "2017-05-09T06:26:03.891Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159329",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.662Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b21b",
+      "order": 4,
+      "name": "解答题（下）",
+      "updatedAt": "2017-05-09T06:26:03.897Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415932a",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:27.724Z",
+    "courseId": "586d23485f07127674135d58",
+    "order": 3,
+    "name": "全国二卷",
+    "updatedAt": "2017-05-09T06:26:03.903Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b256",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:27.727Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b256",
+      "order": 1,
+      "name": "选择题",
+      "updatedAt": "2017-05-09T06:26:03.929Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159402",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.730Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b256",
+      "order": 2,
+      "name": "填空题",
+      "updatedAt": "2017-05-09T06:26:03.935Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159403",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:27.733Z",
+      "courseId": "586d23485f07127674135d58",
+      "parentId": "586d23555f0712767415b256",
+      "order": 3,
+      "name": "解答题",
+      "updatedAt": "2017-05-09T06:26:03.941Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159404",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

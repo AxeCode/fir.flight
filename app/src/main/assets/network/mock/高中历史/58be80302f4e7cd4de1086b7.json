@@ -1,0 +1,1421 @@
+{
+  "id": "58be80302f4e7cd4de1086b7",
+  "createdAt": "2017-03-07T09:41:04.493Z",
+  "major": "586d234f5f07127674152c50",
+  "homeSmallImage": "http://img.wanmen.org/images/99d09654-af23-4292-bcde-f926357809f3.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/439e0d1f-8cdb-4bcb-ac66-ff56695cb8e8.png",
+  "bigImage": "http://imgs.wanmen.org/5ead6b556eb84c37d941c085d1c05146.png",
+  "smallImage": "http://imgs.wanmen.org/2de939ec0acb69511bde2654f20fd5fe.png",
+  "shortDescription": "本课程介绍动荡不安，战乱频繁的20世纪，通过本课程，希望同学们既能珍爱和平，也能认识到战争对国际秩序的挑战。",
+  "logo": "http://img.wanmen.org/images/bfe1dc24-18a5-40ca-b55a-4d8986cbc99f.png",
+  "order": 6,
+  "hide": false,
+  "price": 158,
+  "description": "本课程介绍动荡不安，战乱频繁的20世纪。20世纪从历史路径来看，是一个短暂的世纪，19世纪由日不落帝国所确立的国际秩序，一直绵延到1914年一战的爆发。一战不仅终结了19世纪，更是宣告了20世纪的血腥。二战后，两极格局的确立，美苏争霸的紧张，延续到苏联解体，也就是1991年，20世纪就寿终正寝了。此后美利坚虽贵为唯一超级大国，但区域政治集团与中国等力量的崛起，正在创设21世纪的崭新面貌。通过本课程，希望同学们既能珍爱和平，也能认识到战争对国际秩序的挑战。",
+  "name": "高中历史选修3（人教版）",
+  "updatedAt": "2018-01-09T04:12:18.590Z",
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/2de939ec0acb69511bde2654f20fd5fe.png",
+  "bigImageUrl": "http://imgs.wanmen.org/5ead6b556eb84c37d941c085d1c05146.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/891d20c9ce3c9b9596b9622c89490923.png",
+  "teacherName": "丁子江",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "numOfClasses": 7,
+  "expiration": 12,
+  "videoCount": 49,
+  "tag": "丁子江 高中 历史 选修 人教版 3",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 16,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 7,
+  "mobileCoverUrl": "http://imgs.wanmen.org/2de939ec0acb69511bde2654f20fd5fe.png",
+  "coverUrl": "http://imgs.wanmen.org/5ead6b556eb84c37d941c085d1c05146.png",
+  "lectures": [{
+    "courseId": "58be80302f4e7cd4de1086b7",
+    "name": "第一次世界大战",
+    "createdAt": "2017-03-09T07:32:31.751Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-12-21T04:15:07.546Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1050f2f4e7cd4de10951f",
+    "children": [{
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "战争与和平",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:31.839Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:15:11.320Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_mobile_mid.m3u8"
+        },
+        "id": "595b0d4e51f0744b08e84137"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/9005db87-bb8c-4ccc-a01d-a9e7aa671bc6_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1050f2f4e7cd4de109520",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "欧洲两大军事集团的形成",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:31.974Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:15:15.657Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_mobile_mid.m3u8"
+        },
+        "id": "595b34cbef23a82feb8a14bb"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e6f340b0-c9e9-4e9f-9356-28811e249a63_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109521",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "军国主义与极端民族主义",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.027Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:15:19.933Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_mobile_mid.m3u8"
+        },
+        "id": "5934f4c7ef23a830822d9c44"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c33a7679-6689-42da-bf83-f5d60beee92d_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109522",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "好战的幽灵",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.143Z",
+      "order": 4,
+      "updatedAt": "2017-12-21T04:15:24.581Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_mobile_mid.m3u8"
+        },
+        "id": "5934f692ef23a82fd351fca0"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/9ec5ac89-3e7d-4b45-8fcb-09bff695813e_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109523",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "马恩河战役",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.193Z",
+      "order": 5,
+      "updatedAt": "2017-12-21T04:15:28.480Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_mobile_mid.m3u8"
+        },
+        "id": "5934f7a3ef23a8302b0c3596"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7fd2ce6f-ef87-43f8-8e6a-23bce448285d_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109524",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "凡尔登、索恩战役与日德兰海战",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.339Z",
+      "order": 6,
+      "updatedAt": "2017-12-21T04:15:32.934Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_mobile_mid.m3u8"
+        },
+        "id": "5934fa09d5ff7523521d047e"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/c05804c8-89ab-4579-b830-b88aef3867de_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109525",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "协约国的优势渐露",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.484Z",
+      "order": 7,
+      "updatedAt": "2017-12-21T04:15:36.731Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_mobile_mid.m3u8"
+        },
+        "id": "595b35ecd5ff7513783b2c77"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/47af8964-768b-43d8-932a-208f9a84bc9e_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109526",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "同盟国瓦解与一战的结束",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.563Z",
+      "order": 8,
+      "updatedAt": "2017-12-21T04:15:45.226Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_mobile_mid.m3u8"
+        },
+        "id": "595b367951f0744b1cd60fdd"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e9110d69-3267-440f-a682-7bc7c1df3030_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109527",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "一战的多米诺骨牌效应",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.686Z",
+      "order": 9,
+      "updatedAt": "2017-12-21T04:15:50.010Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_mobile_mid.m3u8"
+        },
+        "id": "595b38e9d5ff7513bb4105a2"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/3bbbda8f-2cac-4008-b663-4ab8d1558ec6_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109528",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "一战的影响",
+      "parentId": "58c1050f2f4e7cd4de10951f",
+      "createdAt": "2017-03-09T07:32:32.745Z",
+      "order": 10,
+      "updatedAt": "2017-12-21T04:15:53.674Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_mobile_mid.m3u8"
+        },
+        "id": "595b38a5ef23a83038f67c6b"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/fa8ba028-90a9-4105-940e-857e15168f27_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105102f4e7cd4de109529",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58be80302f4e7cd4de1086b7",
+    "name": "凡尔赛-华盛顿秩序",
+    "createdAt": "2017-03-09T07:32:32.894Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-12-21T04:15:59.345Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105102f4e7cd4de10952a",
+    "children": [{
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "巴黎和会的背景",
+      "parentId": "58c105102f4e7cd4de10952a",
+      "createdAt": "2017-03-09T07:32:32.991Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:16:03.086Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9b528c7c-d58e-42ae-bdd1-e7646cad0874_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9b528c7c-d58e-42ae-bdd1-e7646cad0874_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9b528c7c-d58e-42ae-bdd1-e7646cad0874_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9b528c7c-d58e-42ae-bdd1-e7646cad0874_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9b528c7c-d58e-42ae-bdd1-e7646cad0874_mobile_mid.m3u8"
+        },
+        "id": "595b3a8fef23a8308c970e3d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de10952b",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "《凡尔赛条约》",
+      "parentId": "58c105102f4e7cd4de10952a",
+      "createdAt": "2017-03-09T07:32:33.129Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:16:06.313Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7f6e26a7-7921-426c-8985-83432e06280f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7f6e26a7-7921-426c-8985-83432e06280f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7f6e26a7-7921-426c-8985-83432e06280f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7f6e26a7-7921-426c-8985-83432e06280f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7f6e26a7-7921-426c-8985-83432e06280f_mobile_mid.m3u8"
+        },
+        "id": "5979b4bdef23a85887e057e9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de10952c",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "凡尔赛体系",
+      "parentId": "58c105102f4e7cd4de10952a",
+      "createdAt": "2017-03-09T07:32:33.266Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:16:09.560Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9f2b0387-7e75-4756-ab88-aab8fbad1042_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9f2b0387-7e75-4756-ab88-aab8fbad1042_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9f2b0387-7e75-4756-ab88-aab8fbad1042_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9f2b0387-7e75-4756-ab88-aab8fbad1042_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9f2b0387-7e75-4756-ab88-aab8fbad1042_mobile_mid.m3u8"
+        },
+        "id": "595b3ffd51f0744b8fa4289c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de10952d",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "《四国条约》",
+      "parentId": "58c105102f4e7cd4de10952a",
+      "createdAt": "2017-03-09T07:32:33.396Z",
+      "order": 4,
+      "updatedAt": "2017-12-21T04:16:13.674Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ea56029b-43ec-48e8-9378-df6dd0e3ec68_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ea56029b-43ec-48e8-9378-df6dd0e3ec68_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ea56029b-43ec-48e8-9378-df6dd0e3ec68_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ea56029b-43ec-48e8-9378-df6dd0e3ec68_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ea56029b-43ec-48e8-9378-df6dd0e3ec68_mobile_mid.m3u8"
+        },
+        "id": "5979be49d5ff75136d2008da"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de10952e",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "限制海军军备与中国问题",
+      "parentId": "58c105102f4e7cd4de10952a",
+      "createdAt": "2017-03-09T07:32:33.471Z",
+      "order": 5,
+      "updatedAt": "2017-12-21T04:16:19.209Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/48f79840-669f-4495-b79a-ac5f20268998_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/48f79840-669f-4495-b79a-ac5f20268998_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/48f79840-669f-4495-b79a-ac5f20268998_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/48f79840-669f-4495-b79a-ac5f20268998_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/48f79840-669f-4495-b79a-ac5f20268998_mobile_mid.m3u8"
+        },
+        "id": "595b4726ef23a86cb312195e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de10952f",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "维护和平的尝试",
+      "parentId": "58c105102f4e7cd4de10952a",
+      "createdAt": "2017-03-09T07:32:33.527Z",
+      "order": 6,
+      "updatedAt": "2017-12-21T04:16:23.365Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a276bf38-9597-49b4-a0d4-e303580412ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a276bf38-9597-49b4-a0d4-e303580412ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a276bf38-9597-49b4-a0d4-e303580412ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a276bf38-9597-49b4-a0d4-e303580412ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a276bf38-9597-49b4-a0d4-e303580412ad_mobile_mid.m3u8"
+        },
+        "id": "595b47f351f0744b09d589c2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de109530",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58be80302f4e7cd4de1086b7",
+    "name": "第二次世界大战的序曲",
+    "createdAt": "2017-03-09T07:32:33.585Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-12-21T04:16:29.708Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105112f4e7cd4de109531",
+    "children": [{
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "经济大萧条",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:33.654Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:17:54.513Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e0926de6-e512-43a2-aab4-69e1be1e9501_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e0926de6-e512-43a2-aab4-69e1be1e9501_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e0926de6-e512-43a2-aab4-69e1be1e9501_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e0926de6-e512-43a2-aab4-69e1be1e9501_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e0926de6-e512-43a2-aab4-69e1be1e9501_mobile_mid.m3u8"
+        },
+        "id": "595b4b1bef23a82456d49ebc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de109532",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "胡佛与罗斯福",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:33.778Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:17:58.401Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2d359f9b-61ce-4bc5-ab83-386536b4451b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2d359f9b-61ce-4bc5-ab83-386536b4451b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2d359f9b-61ce-4bc5-ab83-386536b4451b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2d359f9b-61ce-4bc5-ab83-386536b4451b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2d359f9b-61ce-4bc5-ab83-386536b4451b_mobile_mid.m3u8"
+        },
+        "id": "595b4e9751f0744b08e8413a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105112f4e7cd4de109533",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "希特勒上台",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:33.915Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:18:01.731Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de109534",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "日本军部法西斯专政",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:34.097Z",
+      "order": 4,
+      "updatedAt": "2017-12-21T04:18:06.133Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cecc0551-194d-4803-83ad-124d0e47ac62_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cecc0551-194d-4803-83ad-124d0e47ac62_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cecc0551-194d-4803-83ad-124d0e47ac62_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cecc0551-194d-4803-83ad-124d0e47ac62_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cecc0551-194d-4803-83ad-124d0e47ac62_mobile_mid.m3u8"
+        },
+        "id": "595b5188ef23a82feb8a14bd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de109535",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "中国和埃塞俄比亚的反法西斯战争",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:34.166Z",
+      "order": 5,
+      "updatedAt": "2017-12-21T04:18:10.407Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1dac2c55-b0f1-4417-a5ec-45d570b1576c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1dac2c55-b0f1-4417-a5ec-45d570b1576c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1dac2c55-b0f1-4417-a5ec-45d570b1576c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1dac2c55-b0f1-4417-a5ec-45d570b1576c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1dac2c55-b0f1-4417-a5ec-45d570b1576c_mobile_mid.m3u8"
+        },
+        "id": "595b521bef23a8306926cbe9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de109536",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "西班牙内战与轴心国集团",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:34.228Z",
+      "order": 6,
+      "updatedAt": "2017-12-21T04:18:14.020Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ba7f260f-c729-4923-817c-ae54b066d798_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ba7f260f-c729-4923-817c-ae54b066d798_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ba7f260f-c729-4923-817c-ae54b066d798_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ba7f260f-c729-4923-817c-ae54b066d798_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ba7f260f-c729-4923-817c-ae54b066d798_mobile_mid.m3u8"
+        },
+        "id": "595b533c51f0744b65064e0d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de109537",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "绥靖政策：慕尼黑阴谋",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:34.297Z",
+      "order": 7,
+      "updatedAt": "2017-12-21T04:18:18.208Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1470eeea-4110-46f0-a3b6-97280c091c70_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1470eeea-4110-46f0-a3b6-97280c091c70_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1470eeea-4110-46f0-a3b6-97280c091c70_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1470eeea-4110-46f0-a3b6-97280c091c70_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1470eeea-4110-46f0-a3b6-97280c091c70_mobile_mid.m3u8"
+        },
+        "id": "595b544cef23a8300e247810"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de109538",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "苏德互不侵犯",
+      "parentId": "58c105112f4e7cd4de109531",
+      "createdAt": "2017-03-09T07:32:34.379Z",
+      "order": 8,
+      "updatedAt": "2017-12-21T04:19:37.790Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b68c2f5d-9198-4e2b-b542-21b19c464cd0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b68c2f5d-9198-4e2b-b542-21b19c464cd0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b68c2f5d-9198-4e2b-b542-21b19c464cd0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b68c2f5d-9198-4e2b-b542-21b19c464cd0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b68c2f5d-9198-4e2b-b542-21b19c464cd0_mobile_mid.m3u8"
+        },
+        "id": "595b54c951f0744b07dbd4f6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de109539",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58be80302f4e7cd4de1086b7",
+    "name": "第二次世界大战",
+    "createdAt": "2017-03-09T07:32:34.473Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-12-21T04:19:51.197Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105122f4e7cd4de10953a",
+    "children": [{
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "突袭波兰到敦刻尔克大撤退",
+      "parentId": "58c105122f4e7cd4de10953a",
+      "createdAt": "2017-03-09T07:32:34.539Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:19:59.748Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/632791f6-0b89-4a4d-a033-452e30182cc6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/632791f6-0b89-4a4d-a033-452e30182cc6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/632791f6-0b89-4a4d-a033-452e30182cc6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/632791f6-0b89-4a4d-a033-452e30182cc6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/632791f6-0b89-4a4d-a033-452e30182cc6_mobile_mid.m3u8"
+        },
+        "id": "595b37b4ef23a830626948cc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de10953b",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "不列颠空战",
+      "parentId": "58c105122f4e7cd4de10953a",
+      "createdAt": "2017-03-09T07:32:34.643Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:20:07.368Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ca1139b8-6a42-4a48-b6cf-93d2e9a108c9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ca1139b8-6a42-4a48-b6cf-93d2e9a108c9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ca1139b8-6a42-4a48-b6cf-93d2e9a108c9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ca1139b8-6a42-4a48-b6cf-93d2e9a108c9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ca1139b8-6a42-4a48-b6cf-93d2e9a108c9_mobile_mid.m3u8"
+        },
+        "id": "595b378aef23a82ffd23549b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de10953c",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "美苏参战与反法西斯同盟",
+      "parentId": "58c105122f4e7cd4de10953a",
+      "createdAt": "2017-03-09T07:32:34.724Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:20:13.221Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/08aa168f-1129-4daa-99ef-c1373d2be31d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/08aa168f-1129-4daa-99ef-c1373d2be31d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/08aa168f-1129-4daa-99ef-c1373d2be31d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/08aa168f-1129-4daa-99ef-c1373d2be31d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/08aa168f-1129-4daa-99ef-c1373d2be31d_mobile_mid.m3u8"
+        },
+        "id": "595b39c651f0744b08e84139"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de10953d",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "二战的转折战役",
+      "parentId": "58c105122f4e7cd4de10953a",
+      "createdAt": "2017-03-09T07:32:34.800Z",
+      "order": 4,
+      "updatedAt": "2017-12-21T04:20:17.432Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5344716-8ccf-49c5-a9ff-5ffbddf3fe40_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5344716-8ccf-49c5-a9ff-5ffbddf3fe40_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5344716-8ccf-49c5-a9ff-5ffbddf3fe40_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5344716-8ccf-49c5-a9ff-5ffbddf3fe40_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5344716-8ccf-49c5-a9ff-5ffbddf3fe40_mobile_mid.m3u8"
+        },
+        "id": "595b3ba851f0744b127f865f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de10953e",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "二战的结束",
+      "parentId": "58c105122f4e7cd4de10953a",
+      "createdAt": "2017-03-09T07:32:34.875Z",
+      "order": 5,
+      "updatedAt": "2017-12-21T04:20:22.706Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8cb856ed-5ba9-4b51-896c-13f3f7f3c083_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8cb856ed-5ba9-4b51-896c-13f3f7f3c083_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8cb856ed-5ba9-4b51-896c-13f3f7f3c083_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8cb856ed-5ba9-4b51-896c-13f3f7f3c083_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8cb856ed-5ba9-4b51-896c-13f3f7f3c083_mobile_mid.m3u8"
+        },
+        "id": "595b409bd5ff7513a1c2a644"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105122f4e7cd4de10953f",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "二战的影响",
+      "parentId": "58c105122f4e7cd4de10953a",
+      "createdAt": "2017-03-09T07:32:34.937Z",
+      "order": 6,
+      "updatedAt": "2017-12-21T04:20:28.737Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5c71f057-7aaf-4d52-9d2e-e6ab34927f7a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5c71f057-7aaf-4d52-9d2e-e6ab34927f7a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5c71f057-7aaf-4d52-9d2e-e6ab34927f7a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5c71f057-7aaf-4d52-9d2e-e6ab34927f7a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5c71f057-7aaf-4d52-9d2e-e6ab34927f7a_mobile_mid.m3u8"
+        },
+        "id": "595b4724ef23a8306926cbe7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105132f4e7cd4de109540",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58be80302f4e7cd4de1086b7",
+    "name": "雅尔塔体系下的冷战与和平",
+    "createdAt": "2017-03-09T07:32:35.022Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-12-21T04:20:35.256Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105132f4e7cd4de109541",
+    "children": [{
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "雅尔塔体系",
+      "parentId": "58c105132f4e7cd4de109541",
+      "createdAt": "2017-03-09T07:32:35.162Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:20:45.914Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c51710e2-eb02-4eaf-8c3b-bb729e52ca6d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c51710e2-eb02-4eaf-8c3b-bb729e52ca6d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c51710e2-eb02-4eaf-8c3b-bb729e52ca6d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c51710e2-eb02-4eaf-8c3b-bb729e52ca6d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c51710e2-eb02-4eaf-8c3b-bb729e52ca6d_mobile_mid.m3u8"
+        },
+        "id": "595b4774ef23a80d3835cccd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105132f4e7cd4de109542",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "两极格局的形成",
+      "parentId": "58c105132f4e7cd4de109541",
+      "createdAt": "2017-03-09T07:32:35.298Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:20:49.881Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/90deb05e-b84f-4cc0-894c-12a57ff9814e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/90deb05e-b84f-4cc0-894c-12a57ff9814e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/90deb05e-b84f-4cc0-894c-12a57ff9814e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/90deb05e-b84f-4cc0-894c-12a57ff9814e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/90deb05e-b84f-4cc0-894c-12a57ff9814e_mobile_mid.m3u8"
+        },
+        "id": "595b4878ef23a87f216eeb1d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105132f4e7cd4de109543",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "冷战的开始",
+      "parentId": "58c105132f4e7cd4de109541",
+      "createdAt": "2017-03-09T07:32:35.702Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:20:57.136Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/cd669c6e-8657-4530-94b1-177f05878d65_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/cd669c6e-8657-4530-94b1-177f05878d65_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/cd669c6e-8657-4530-94b1-177f05878d65_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/cd669c6e-8657-4530-94b1-177f05878d65_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/cd669c6e-8657-4530-94b1-177f05878d65_mobile_mid.m3u8"
+        },
+        "id": "595b4acc51f0744b76942124"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105132f4e7cd4de109544",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "苏联的对抗",
+      "parentId": "58c105132f4e7cd4de109541",
+      "createdAt": "2017-03-09T07:32:35.746Z",
+      "order": 4,
+      "updatedAt": "2017-12-21T04:21:01.791Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fa52ab50-d0a0-4a73-9087-8728c93edc41_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fa52ab50-d0a0-4a73-9087-8728c93edc41_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fa52ab50-d0a0-4a73-9087-8728c93edc41_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fa52ab50-d0a0-4a73-9087-8728c93edc41_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fa52ab50-d0a0-4a73-9087-8728c93edc41_mobile_mid.m3u8"
+        },
+        "id": "595b4c8cef23a82ffaa0c510"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105132f4e7cd4de109545",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "美苏争霸",
+      "parentId": "58c105132f4e7cd4de109541",
+      "createdAt": "2017-03-09T07:32:35.847Z",
+      "order": 5,
+      "updatedAt": "2017-12-21T04:21:06.535Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/efce711c-ae36-446e-8b7b-460c1a6bdcc2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/efce711c-ae36-446e-8b7b-460c1a6bdcc2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/efce711c-ae36-446e-8b7b-460c1a6bdcc2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/efce711c-ae36-446e-8b7b-460c1a6bdcc2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/efce711c-ae36-446e-8b7b-460c1a6bdcc2_mobile_mid.m3u8"
+        },
+        "id": "595b4ec9ef23a83026369cc9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105132f4e7cd4de109546",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "冷战的结束",
+      "parentId": "58c105132f4e7cd4de109541",
+      "createdAt": "2017-03-09T07:32:35.929Z",
+      "order": 6,
+      "updatedAt": "2017-12-21T04:21:10.575Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/10cc59cf-6f8f-452a-9796-b87c4569ae23_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/10cc59cf-6f8f-452a-9796-b87c4569ae23_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/10cc59cf-6f8f-452a-9796-b87c4569ae23_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/10cc59cf-6f8f-452a-9796-b87c4569ae23_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/10cc59cf-6f8f-452a-9796-b87c4569ae23_mobile_mid.m3u8"
+        },
+        "id": "595b4fefef23a8052253c740"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105142f4e7cd4de109547",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58be80302f4e7cd4de1086b7",
+    "name": "冷战中的局部战争",
+    "createdAt": "2017-03-09T07:32:36.032Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-12-21T04:21:14.862Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105142f4e7cd4de109548",
+    "children": [{
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "朝鲜战争的背景",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:36.156Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:21:20.603Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/76600893-fca2-4853-b709-a5cc6c8400d6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/76600893-fca2-4853-b709-a5cc6c8400d6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/76600893-fca2-4853-b709-a5cc6c8400d6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/76600893-fca2-4853-b709-a5cc6c8400d6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/76600893-fca2-4853-b709-a5cc6c8400d6_mobile_mid.m3u8"
+        },
+        "id": "595b4582ef23a8308c970e3e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105142f4e7cd4de109549",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "朝鲜战争的经过",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:36.219Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:21:24.412Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b4a8302f-387e-412e-a4af-d102764b2e79_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b4a8302f-387e-412e-a4af-d102764b2e79_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b4a8302f-387e-412e-a4af-d102764b2e79_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b4a8302f-387e-412e-a4af-d102764b2e79_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b4a8302f-387e-412e-a4af-d102764b2e79_mobile_mid.m3u8"
+        },
+        "id": "595b490f51f0740e0781028f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105142f4e7cd4de10954a",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "越南战争",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:36.324Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:21:28.473Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8f3dcc53-7838-42c0-9bfa-b0a2efa31542_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8f3dcc53-7838-42c0-9bfa-b0a2efa31542_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8f3dcc53-7838-42c0-9bfa-b0a2efa31542_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8f3dcc53-7838-42c0-9bfa-b0a2efa31542_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8f3dcc53-7838-42c0-9bfa-b0a2efa31542_mobile_mid.m3u8"
+        },
+        "id": "595b4c20ef23a82fd351fce0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105142f4e7cd4de10954b",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "中东概况",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:36.432Z",
+      "order": 4,
+      "updatedAt": "2017-12-21T04:21:32.537Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c84b697a-264b-4a60-9d90-c53d8d490f27_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c84b697a-264b-4a60-9d90-c53d8d490f27_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c84b697a-264b-4a60-9d90-c53d8d490f27_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c84b697a-264b-4a60-9d90-c53d8d490f27_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c84b697a-264b-4a60-9d90-c53d8d490f27_mobile_mid.m3u8"
+        },
+        "id": "595b4fa1d5ff7513ad660915"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105142f4e7cd4de10954c",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "巴以冲突的由来",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:36.667Z",
+      "order": 5,
+      "updatedAt": "2017-12-21T04:21:36.992Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/59685dff-0158-4c9d-9d3f-9d98cbe4b652_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/59685dff-0158-4c9d-9d3f-9d98cbe4b652_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/59685dff-0158-4c9d-9d3f-9d98cbe4b652_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/59685dff-0158-4c9d-9d3f-9d98cbe4b652_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/59685dff-0158-4c9d-9d3f-9d98cbe4b652_mobile_mid.m3u8"
+        },
+        "id": "595b4f2c51f0744b290f9588"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105142f4e7cd4de10954d",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "四次中东战争简介",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:36.930Z",
+      "order": 6,
+      "updatedAt": "2017-12-21T04:21:41.090Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9962e147-0f57-4118-b137-3d0accd3bbcc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9962e147-0f57-4118-b137-3d0accd3bbcc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9962e147-0f57-4118-b137-3d0accd3bbcc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9962e147-0f57-4118-b137-3d0accd3bbcc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9962e147-0f57-4118-b137-3d0accd3bbcc_mobile_mid.m3u8"
+        },
+        "id": "595b508f51f0744b5fdc6b2f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105142f4e7cd4de10954e",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "曲折的中东和平进程",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:36.984Z",
+      "order": 7,
+      "updatedAt": "2017-12-21T04:21:45.563Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9e91ebe3-e635-4532-b2d6-d2e4d1189ecc_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9e91ebe3-e635-4532-b2d6-d2e4d1189ecc_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9e91ebe3-e635-4532-b2d6-d2e4d1189ecc_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9e91ebe3-e635-4532-b2d6-d2e4d1189ecc_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9e91ebe3-e635-4532-b2d6-d2e4d1189ecc_mobile_mid.m3u8"
+        },
+        "id": "595b510aef23a82ffd23549e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105152f4e7cd4de10954f",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "印巴冲突",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:37.039Z",
+      "order": 8,
+      "updatedAt": "2017-12-21T04:21:51.212Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/951a4178-7e2a-42bd-93f2-86bb6782ef5c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/951a4178-7e2a-42bd-93f2-86bb6782ef5c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/951a4178-7e2a-42bd-93f2-86bb6782ef5c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/951a4178-7e2a-42bd-93f2-86bb6782ef5c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/951a4178-7e2a-42bd-93f2-86bb6782ef5c_mobile_mid.m3u8"
+        },
+        "id": "595b520b51f0744b08e8413b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105152f4e7cd4de109550",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "两伊战争",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:37.098Z",
+      "order": 9,
+      "updatedAt": "2017-12-21T04:21:55.715Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/52db7ca8-8b3c-48dc-a963-6d6092cfbdf1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/52db7ca8-8b3c-48dc-a963-6d6092cfbdf1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/52db7ca8-8b3c-48dc-a963-6d6092cfbdf1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/52db7ca8-8b3c-48dc-a963-6d6092cfbdf1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/52db7ca8-8b3c-48dc-a963-6d6092cfbdf1_mobile_mid.m3u8"
+        },
+        "id": "595b522051f0740e07810290"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105152f4e7cd4de109551",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "海湾战争",
+      "parentId": "58c105142f4e7cd4de109548",
+      "createdAt": "2017-03-09T07:32:37.151Z",
+      "order": 10,
+      "updatedAt": "2017-12-21T04:21:59.513Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/50214494-21a7-4bdd-a59d-d5aad1435f0b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/50214494-21a7-4bdd-a59d-d5aad1435f0b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/50214494-21a7-4bdd-a59d-d5aad1435f0b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/50214494-21a7-4bdd-a59d-d5aad1435f0b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/50214494-21a7-4bdd-a59d-d5aad1435f0b_mobile_mid.m3u8"
+        },
+        "id": "595b53af51f0744b290f958a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105152f4e7cd4de109552",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58be80302f4e7cd4de1086b7",
+    "name": "和平与发展",
+    "createdAt": "2017-03-09T07:32:37.320Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-12-21T04:22:06.336Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105152f4e7cd4de109553",
+    "children": [{
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "联合国的建立",
+      "parentId": "58c105152f4e7cd4de109553",
+      "createdAt": "2017-03-09T07:32:37.418Z",
+      "order": 1,
+      "updatedAt": "2017-12-21T04:22:12.332Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/34ec9f9a-d5ba-4583-bd19-c5fef1a19ea3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/34ec9f9a-d5ba-4583-bd19-c5fef1a19ea3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/34ec9f9a-d5ba-4583-bd19-c5fef1a19ea3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/34ec9f9a-d5ba-4583-bd19-c5fef1a19ea3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/34ec9f9a-d5ba-4583-bd19-c5fef1a19ea3_mobile_mid.m3u8"
+        },
+        "id": "595b543c51f0744b852de0b1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105152f4e7cd4de109554",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "反战和平运动",
+      "parentId": "58c105152f4e7cd4de109553",
+      "createdAt": "2017-03-09T07:32:37.499Z",
+      "order": 2,
+      "updatedAt": "2017-12-21T04:22:16.185Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5c2871b7-8944-4dee-ab35-65fb657d4bc0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5c2871b7-8944-4dee-ab35-65fb657d4bc0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5c2871b7-8944-4dee-ab35-65fb657d4bc0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5c2871b7-8944-4dee-ab35-65fb657d4bc0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5c2871b7-8944-4dee-ab35-65fb657d4bc0_mobile_mid.m3u8"
+        },
+        "id": "595b552851f0744b4cc9e7b0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105152f4e7cd4de109555",
+      "hasTopic": false
+    }, {
+      "courseId": "58be80302f4e7cd4de1086b7",
+      "name": "和平与发展的时代主题",
+      "parentId": "58c105152f4e7cd4de109553",
+      "createdAt": "2017-03-09T07:32:37.582Z",
+      "order": 3,
+      "updatedAt": "2017-12-21T04:22:20.479Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/43603619-3a6e-4b08-ac76-1210c1301abf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/43603619-3a6e-4b08-ac76-1210c1301abf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/43603619-3a6e-4b08-ac76-1210c1301abf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/43603619-3a6e-4b08-ac76-1210c1301abf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/43603619-3a6e-4b08-ac76-1210c1301abf_mobile_mid.m3u8"
+        },
+        "id": "595b554551f0740e07810291"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105152f4e7cd4de109556",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

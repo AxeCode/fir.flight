@@ -1,0 +1,428 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-11-22T07:48:17.634Z",
+  "updatedAt": "2018-01-05T04:28:30.691Z",
+  "name": "高中历史深度进阶选修内容总览专题",
+  "teacher": {
+    "name": "丁子江",
+    "description": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+    "avatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+    "id": "5886e0efc442e94369eeff95"
+  },
+  "price": 158,
+  "major": "586d234f5f07127674152c50",
+  "expiration": 12,
+  "hide": false,
+  "order": 17,
+  "numOfClasses": 9,
+  "description": "本专题课程是对历史上的重大改革、近代社会的民主思想与实践、20世纪的战争与和平、中外历史人物评说等内容的探究。改革是社会演进的动力，是人类文明的助推器；战争是矛盾解决的最后的办法，和平是为人所珍惜的时代主题；民主思想是现代文明的重要组成部分，是人类文明的光芒；杰出历史人物对历史有重大推动作用，是社会发展的关键因素。通过对以上内容的学习，希望同学们可以对历史的复杂进行更多的洞察，知道人性的多变与诡秘，养成开拓和敏感的历史思维。",
+  "bigImage": "http://imgs.wanmen.org/31ec63dbe482f5ebb20bef77e13b5e79.png",
+  "smallImage": "http://imgs.wanmen.org/a3adfeb125bdab3e42aa4b8cf65ab724.png",
+  "tag": "丁子江 高中 历史 深度 进阶 选修 专题 ",
+  "videoCount": 9,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 0,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 9,
+  "teacherDescription": "丁子江，毕业于中山大学，辅修华南师范大学教育学课程，在校期间考取高中历史教师资格证。曾任南方报业集团记者，之后于南京某知名大学附属中学担任中学历史教师，教学风格幽默风趣，深入浅出，注重故事性和逻辑性，连续三年教学满意度测评100%好评，所带班级教学成绩优异，多次获市优秀公开课、校级教学比赛一等奖等荣誉，曾于万门大学作《中国历史上的风云人物》等系列讲座。",
+  "teacherAvatar": "http://imgs.wanmen.org/7fb541c9cea486f248be29839ced5e50.png",
+  "teacherName": "丁子江",
+  "mobileCoverUrl": "http://imgs.wanmen.org/a3adfeb125bdab3e42aa4b8cf65ab724.png",
+  "coverUrl": "http://imgs.wanmen.org/31ec63dbe482f5ebb20bef77e13b5e79.png",
+  "smallImageUrl": "http://imgs.wanmen.org/a3adfeb125bdab3e42aa4b8cf65ab724.png",
+  "bigImageUrl": "http://imgs.wanmen.org/31ec63dbe482f5ebb20bef77e13b5e79.png",
+  "id": "5a152bc137beee5855953cee",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:41:09.481Z",
+    "updatedAt": "2017-12-20T03:17:43.187Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "中国历史上的重大改革",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f9350c69752405df7045",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:42:34.859Z",
+      "updatedAt": "2017-12-20T03:16:00.990Z",
+      "parentId": "5a25f9350c69752405df7045",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "从商鞅变法到戊戌变法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_mobile_mid.m3u8"
+        },
+        "id": "5a27b4f7d5ff75130570060c"
+      },
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hide": false,
+      "id": "5a25f98a0c69752405df7057",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/14b85a36-2d8d-4729-8301-18768cf605c2_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:41:18.519Z",
+    "updatedAt": "2017-12-20T03:17:45.451Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "外国历史上的重大改革",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f93e0c69752405df7047",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:42:42.862Z",
+      "updatedAt": "2017-12-20T03:16:11.328Z",
+      "parentId": "5a25f93e0c69752405df7047",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "从明治维新到农奴制改革",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b397eeed-22b4-43a9-bc60-cde6a39f2aa0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b397eeed-22b4-43a9-bc60-cde6a39f2aa0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b397eeed-22b4-43a9-bc60-cde6a39f2aa0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b397eeed-22b4-43a9-bc60-cde6a39f2aa0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b397eeed-22b4-43a9-bc60-cde6a39f2aa0_mobile_mid.m3u8"
+        },
+        "id": "5a27b51f51f0741133b058c3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f9920c69752405df7059",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:41:28.940Z",
+    "updatedAt": "2017-12-20T03:17:48.391Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "近代欧洲民主思想及实践",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f9480c69752405df7049",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:42:51.069Z",
+      "updatedAt": "2017-12-20T03:16:21.962Z",
+      "parentId": "5a25f9480c69752405df7049",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "从《独立宣言》到《人权宣言》",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c6990b31-12fc-4598-932a-613effce5899_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c6990b31-12fc-4598-932a-613effce5899_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c6990b31-12fc-4598-932a-613effce5899_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c6990b31-12fc-4598-932a-613effce5899_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c6990b31-12fc-4598-932a-613effce5899_mobile_mid.m3u8"
+        },
+        "id": "5a27b537d5ff75134bb43fff"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f99b0c69752405df705b",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:41:39.573Z",
+    "updatedAt": "2017-12-20T03:17:51.140Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "近代中国民主思想及实践",
+    "order": 4,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f9530c69752405df704b",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:42:58.995Z",
+      "updatedAt": "2017-12-20T03:16:33.620Z",
+      "parentId": "5a25f9530c69752405df704b",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "从康梁到孙中山",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/becf596a-5837-4686-b905-97fce452e514_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/becf596a-5837-4686-b905-97fce452e514_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/becf596a-5837-4686-b905-97fce452e514_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/becf596a-5837-4686-b905-97fce452e514_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/becf596a-5837-4686-b905-97fce452e514_mobile_mid.m3u8"
+        },
+        "id": "5a27b553ef23a865d38ed840"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f9a20c69752405df705d",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:41:47.652Z",
+    "updatedAt": "2017-12-20T03:17:54.139Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "20世纪的战争",
+    "order": 5,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f95b0c69752405df704d",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:43:06.425Z",
+      "updatedAt": "2017-12-20T03:16:44.107Z",
+      "parentId": "5a25f95b0c69752405df704d",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "从一战到局部战争",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a36e9f53-e4d1-4622-a177-7f1f7cb2ab62_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a36e9f53-e4d1-4622-a177-7f1f7cb2ab62_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a36e9f53-e4d1-4622-a177-7f1f7cb2ab62_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a36e9f53-e4d1-4622-a177-7f1f7cb2ab62_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a36e9f53-e4d1-4622-a177-7f1f7cb2ab62_mobile_mid.m3u8"
+        },
+        "id": "5a27b57851f0741131709212"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f9aa0c69752405df705f",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:41:56.081Z",
+    "updatedAt": "2017-12-20T03:17:58.770Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "20世纪的和平",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f9640c69752405df704f",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:43:14.228Z",
+      "updatedAt": "2017-12-20T03:16:53.242Z",
+      "parentId": "5a25f9640c69752405df704f",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "和平与发展的时代主题",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ed999c12-6e2f-49a3-8acf-812fb3a6c962_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ed999c12-6e2f-49a3-8acf-812fb3a6c962_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ed999c12-6e2f-49a3-8acf-812fb3a6c962_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ed999c12-6e2f-49a3-8acf-812fb3a6c962_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ed999c12-6e2f-49a3-8acf-812fb3a6c962_mobile_mid.m3u8"
+        },
+        "id": "5a27b58fd5ff75131d876edd"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f9b20c69752405df7061",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:42:09.311Z",
+    "updatedAt": "2017-12-20T03:18:08.344Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "古代先哲与著名政治家",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f9710c69752405df7051",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:43:21.900Z",
+      "updatedAt": "2017-12-20T03:17:01.366Z",
+      "parentId": "5a25f9710c69752405df7051",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "杰出人物们",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5bcee1b-4905-454f-9a30-436686062ae2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5bcee1b-4905-454f-9a30-436686062ae2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5bcee1b-4905-454f-9a30-436686062ae2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5bcee1b-4905-454f-9a30-436686062ae2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5bcee1b-4905-454f-9a30-436686062ae2_mobile_mid.m3u8"
+        },
+        "id": "5a27b5b451f07410beb3b42a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f9b90c69752405df7063",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:42:16.989Z",
+    "updatedAt": "2017-12-20T03:18:11.038Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "古今中外的科学家",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f9780c69752405df7053",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:43:28.846Z",
+      "updatedAt": "2017-12-20T03:17:08.985Z",
+      "parentId": "5a25f9780c69752405df7053",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "人类之光",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e6e07a5d-01a5-457f-97df-413b07e96c78_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e6e07a5d-01a5-457f-97df-413b07e96c78_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e6e07a5d-01a5-457f-97df-413b07e96c78_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e6e07a5d-01a5-457f-97df-413b07e96c78_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e6e07a5d-01a5-457f-97df-413b07e96c78_mobile_mid.m3u8"
+        },
+        "id": "5a27b5c8ef23a8660adf7281"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f9c00c69752405df7065",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-12-05T01:42:26.119Z",
+    "updatedAt": "2017-12-20T03:18:13.628Z",
+    "courseId": "5a152bc137beee5855953cee",
+    "name": "选修内容总括",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5a25f9820c69752405df7055",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-12-05T01:43:37.383Z",
+      "updatedAt": "2017-12-20T03:17:18.543Z",
+      "parentId": "5a25f9820c69752405df7055",
+      "courseId": "5a152bc137beee5855953cee",
+      "name": "灿烂而多难的人类文明",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/54c8f865-7084-451e-a7b9-791917b35734_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/54c8f865-7084-451e-a7b9-791917b35734_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/54c8f865-7084-451e-a7b9-791917b35734_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/54c8f865-7084-451e-a7b9-791917b35734_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/54c8f865-7084-451e-a7b9-791917b35734_mobile_mid.m3u8"
+        },
+        "id": "5a27b5f6d5ff75135315fd1a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "5a25f9c90c69752405df7067",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}
