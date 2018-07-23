@@ -1,14 +1,13 @@
 buildscript {
     repositories {
-        maven { url 'https://maven.fabric.io/public' }
     }
 
     dependencies {
-        classpath paths.fabricClassPath
+//        classpath paths.fabricClassPath
     }
 }
 apply plugin: 'com.android.application'
-apply plugin: 'io.fabric'
+//apply plugin: 'io.fabric'
 
 // Singing configs
 def STORE_FILE, KEY_ALIAS, STORE_PASSWORD, KEY_PASSWORD
@@ -36,7 +35,7 @@ if (file('fabric.properties').exists()) {
 }
 
 repositories {
-    maven { url 'https://maven.fabric.io/public' }
+//    maven { url 'https://maven.fabric.io/public' }
 }
 
 android {
@@ -144,8 +143,8 @@ dependencies {
 
     compile libs.sqlbrite
 
-    compile(libs.crashlytics) { transitive = true; }
-    compile(libs.answers) { transitive = true; }
+//    compile(libs.crashlytics) { transitive = true; }
+//    compile(libs.answers) { transitive = true; }
 
     compile libs.stetho
     compile libs.stetho_okhttp

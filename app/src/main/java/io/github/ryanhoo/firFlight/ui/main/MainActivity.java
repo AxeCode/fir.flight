@@ -8,11 +8,11 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBar;
 import android.support.v7.widget.Toolbar;
 
-import com.crashlytics.android.answers.Answers;
+//import com.crashlytics.android.answers.Answers;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
-import io.fabric.sdk.android.Fabric;
+//import io.fabric.sdk.android.Fabric;
 import io.github.ryanhoo.firFlight.R;
 import io.github.ryanhoo.firFlight.RxBus;
 import io.github.ryanhoo.firFlight.data.model.Courses;
@@ -49,7 +49,7 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
-        Fabric.with(this, new Answers());
+//        Fabric.with(this, new Answers());
         ActionBar actionBar = supportActionBar(toolbar);
         if (actionBar != null) {
             actionBar.setDisplayOptions(ActionBar.DISPLAY_SHOW_TITLE);

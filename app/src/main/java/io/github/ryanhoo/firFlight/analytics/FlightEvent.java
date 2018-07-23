@@ -1,6 +1,6 @@
 package io.github.ryanhoo.firFlight.analytics;
 
-import com.crashlytics.android.answers.CustomEvent;
+//import com.crashlytics.android.answers.CustomEvent;
 import io.github.ryanhoo.firFlight.BuildConfig;
 
 /**
@@ -10,7 +10,7 @@ import io.github.ryanhoo.firFlight.BuildConfig;
  * Time: 6:09 PM
  * Desc: FlightEvent
  */
-public class FlightEvent extends CustomEvent {
+public class FlightEvent {
 
     // Events
     public static final String EVENT_SIGN_IN = "Sign In";
@@ -29,24 +29,24 @@ public class FlightEvent extends CustomEvent {
     public static final String KEY_SUCCESS = "success";
 
     public FlightEvent(String eventName) {
-        super(eventName);
-        putCustomAttribute(KEY_FLAVOR, BuildConfig.FLAVOR);
+//        super(eventName);
+//        putCustomAttribute(KEY_FLAVOR, BuildConfig.FLAVOR);
     }
-
-    @Override
+//
+//    @Override
     public FlightEvent putCustomAttribute(String key, String value) {
-        super.putCustomAttribute(key, value);
+//        super.putCustomAttribute(key, value);
         return this;
     }
-
-    @Override
-    public FlightEvent putCustomAttribute(String key, Number value) {
-        super.putCustomAttribute(key, value);
-        return this;
-    }
-
+//
+//    @Override
+//    public FlightEvent putCustomAttribute(String key, Number value) {
+//        super.putCustomAttribute(key, value);
+//        return this;
+//    }
+//
     public FlightEvent putSuccess(boolean success) {
-        super.putCustomAttribute(KEY_SUCCESS, Boolean.toString(success));
+//        super.putCustomAttribute(KEY_SUCCESS, Boolean.toString(success));
         return this;
     }
 }

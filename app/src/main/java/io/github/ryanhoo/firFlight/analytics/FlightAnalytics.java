@@ -3,9 +3,9 @@ package io.github.ryanhoo.firFlight.analytics;
 import android.app.Application;
 import android.content.Context;
 import android.util.Log;
-import com.crashlytics.android.Crashlytics;
-import com.crashlytics.android.answers.Answers;
-import io.fabric.sdk.android.Fabric;
+//import com.crashlytics.android.Crashlytics;
+//import com.crashlytics.android.answers.Answers;
+//import io.fabric.sdk.android.Fabric;
 import io.github.ryanhoo.firFlight.BuildConfig;
 import io.github.ryanhoo.firFlight.account.UserSession;
 import io.github.ryanhoo.firFlight.data.model.User;
@@ -26,7 +26,7 @@ public class FlightAnalytics {
     private static final String TAG = "FlightAnalytics";
 
     public static boolean isEnabled() {
-        return BuildConfig.FABRIC_ENABLED;
+        return false;
     }
 
     /**
@@ -46,11 +46,11 @@ public class FlightAnalytics {
 
         Context appContext = application.getApplicationContext();
         // Fabric: Crashlytics, Answers
-        final Fabric fabric = new Fabric.Builder(appContext)
-                .kits(new Crashlytics(), new Answers())
-                .debuggable(BuildConfig.DEBUG)
-                .build();
-        Fabric.with(fabric);
+//        final Fabric fabric = new Fabric.Builder(appContext)
+//                .kits(new Crashlytics(), new Answers())
+//                .debuggable(BuildConfig.DEBUG)
+//                .build();
+//        Fabric.with(fabric);
 
         configFlavor();
         configUserSession(UserSession.getInstance());
@@ -71,7 +71,7 @@ public class FlightAnalytics {
     private static void configFlavor() {
         if (!isEnabled()) return;
 
-        Crashlytics.setString(KEY_FLAVOR, BuildConfig.FLAVOR);
+//        Crashlytics.setString(KEY_FLAVOR, BuildConfig.FLAVOR);
     }
 
     public static void configUserSession(UserSession userSession) {
@@ -90,9 +90,9 @@ public class FlightAnalytics {
             */
             User user = userSession.getUser();
             if (user != null) {
-                Crashlytics.setString(KEY_ID, user.getId());
-                Crashlytics.setString(KEY_NAME, user.getName());
-                Crashlytics.setString(KEY_EMAIL, user.getEmail());
+//                Crashlytics.setString(KEY_ID, user.getId());
+//                Crashlytics.setString(KEY_NAME, user.getName());
+//                Crashlytics.setString(KEY_EMAIL, user.getEmail());
             }
         } else {
             Log.e(TAG, "Config UserSession failed, session is null");
@@ -102,6 +102,6 @@ public class FlightAnalytics {
     public static void onEvent(FlightEvent event) {
         if (!isEnabled()) return;
 
-        Answers.getInstance().logCustom(event);
+//        Answers.getInstance().logCustom(event);
     }
 }
