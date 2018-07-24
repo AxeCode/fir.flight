@@ -1,5 +1,5 @@
 <resources>
-    <string name="ff.app.name">严家学堂</string>
+    <string name="ff.app.name">严家学堂(高中版)</string>
     <string name="ff.splash.slogan">An android version Test Flight\nby using the testing app distribution\nservice provided by fir.im</string>
     <string name="ff.splash.slogan.about">An android version Test Flight\nby using the testing app distribution service provided by fir.im</string>
 
@@ -29,11 +29,12 @@
     <string name="ff.main.tab.about">关于</string>
 
     <string-array name="ff_main_tab_titles">
-        <item>@string/ff.main.tab.math</item>
-        <item>@string/ff.main.tab.physics</item>
-        <item>@string/ff.main.tab.english</item>
-        <item>@string/ff.main.tab.chinese</item>
-        <item>@string/ff.main.tab.about</item>
+        <item>高中语文</item>
+        <item>高中数学</item>
+        <item>高中英语</item>
+        <item>高中历史</item>
+        <item>高中政治</item>
+        <item>关于</item>
     </string-array>
 
     <!-- Apps -->

@@ -1,0 +1,660 @@
+{
+  "id": "586d23485f07127674135d76",
+  "name": "英语必修5",
+  "logo": "http://img.wanmen.org/course/logo/174b8aab-c948-4868-ab4e-9eba85e63c86..jpg",
+  "order": 5,
+  "price": 158,
+  "promotion": null,
+  "description": "本课程专为念高二上学期的同学设计，分为单词讲解，课外长难句分析，重点知识拓展，以及介绍英语国家有趣文化的番外篇。知识点的讲解皆图文并茂，并有配套例题和相应历年高考例题的讲解。",
+  "shortDescription": "“别人的美女老师”现在开始陪伴你整个高中的英语辅导。",
+  "hide": false,
+  "major": "586d234f5f07127674152c43",
+  "teacherName": "史心语",
+  "teacherAvatar": "http://imgs.wanmen.org/6c59985697eb99682e2a3fdf918397c2.png",
+  "teacherDescription": "史心语，北京大学英语翻译硕士，多年标准化考试应试和授课经验，雅思听力、阅读均达到满分水平，所授高中英文课程因风格独特清晰而深受学生喜爱。",
+  "numOfClasses": 10,
+  "qqGroup": "",
+  "smallImageUrl": "http://imgs.wanmen.org/c13187e6ae045db129da8025cadea26c.png",
+  "bigImageUrl": "http://imgs.wanmen.org/79bbf0c8af570c2416d21c8196c69939.png",
+  "smallMobileImageUrl": "http://img.wanmen.org/images/3aef6289-355c-4300-a81b-5e7e71985666.jpeg",
+  "smallHomeImageUrl": null,
+  "tag": "史心语 高中 英语 必修 ",
+  "isPresell": null,
+  "createdAt": "2015-08-28T03:42:00.000Z",
+  "updatedAt": "2018-01-13T03:08:28.249Z",
+  "homeSmallImage": "http://img.wanmen.org/images/6ce4b817-106d-40a6-a876-8067c6ba3741.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/3aef6289-355c-4300-a81b-5e7e71985666.jpeg",
+  "bigImage": "http://imgs.wanmen.org/79bbf0c8af570c2416d21c8196c69939.png",
+  "smallImage": "http://imgs.wanmen.org/c13187e6ae045db129da8025cadea26c.png",
+  "bookId": [],
+  "teacher": {
+    "name": "史心语",
+    "description": "史心语，北京大学英语翻译硕士，多年标准化考试应试和授课经验，雅思听力、阅读均达到满分水平，所授高中英文课程因风格独特清晰而深受学生喜爱。",
+    "avatar": "http://imgs.wanmen.org/6c59985697eb99682e2a3fdf918397c2.png",
+    "id": "586d236d5f071276741bab98"
+  },
+  "expiration": 12,
+  "videoCount": 30,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 108,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 10,
+  "mobileCoverUrl": "http://imgs.wanmen.org/c13187e6ae045db129da8025cadea26c.png",
+  "coverUrl": "http://imgs.wanmen.org/79bbf0c8af570c2416d21c8196c69939.png",
+  "lectures": [{
+    "createdAt": "2017-02-21T17:36:58.843Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 1,
+    "name": "Great ScientistsⅠ",
+    "updatedAt": "2017-03-28T14:30:09.254Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b351",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:58.845Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b351",
+      "order": 1,
+      "name": "课标单词1",
+      "updatedAt": "2017-03-28T14:30:09.278Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/c70176cc-cabf-45a7-9a2c-3ae7415be0e4_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/c70176cc-cabf-45a7-9a2c-3ae7415be0e4_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/c70176cc-cabf-45a7-9a2c-3ae7415be0e4_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/c70176cc-cabf-45a7-9a2c-3ae7415be0e4_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/c70176cc-cabf-45a7-9a2c-3ae7415be0e4_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674159758",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:58.848Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b351",
+      "order": 2,
+      "name": "课标单词2",
+      "updatedAt": "2017-03-28T14:30:09.296Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/8c452fb2-91fc-45b1-8415-1b1975d28643_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/8c452fb2-91fc-45b1-8415-1b1975d28643_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/8c452fb2-91fc-45b1-8415-1b1975d28643_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/8c452fb2-91fc-45b1-8415-1b1975d28643_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/8c452fb2-91fc-45b1-8415-1b1975d28643_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f07127674159759",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:58.851Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b351",
+      "order": 3,
+      "name": "词语综合",
+      "updatedAt": "2017-03-28T14:30:09.309Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/b7bbc8c9-1077-415a-9b72-f7ffb0a00c8b_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/b7bbc8c9-1077-415a-9b72-f7ffb0a00c8b_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/b7bbc8c9-1077-415a-9b72-f7ffb0a00c8b_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/b7bbc8c9-1077-415a-9b72-f7ffb0a00c8b_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/b7bbc8c9-1077-415a-9b72-f7ffb0a00c8b_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415975a",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:58.914Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 2,
+    "name": "Great ScientistsⅡ",
+    "updatedAt": "2017-03-28T14:30:09.323Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b36b",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:58.917Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b36b",
+      "order": 1,
+      "name": "课文长难句1",
+      "updatedAt": "2017-03-28T14:30:09.353Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741597b8",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:58.921Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b36b",
+      "order": 2,
+      "name": "课文长难句2",
+      "updatedAt": "2017-03-28T14:30:09.369Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741597b9",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:58.923Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b36b",
+      "order": 3,
+      "name": "语法讲解:非谓语动词1",
+      "updatedAt": "2017-03-28T14:30:09.386Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741597ba",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:58.994Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 3,
+    "name": "The United KingdomⅠ",
+    "updatedAt": "2017-03-28T14:30:09.400Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b38a",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:58.997Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b38a",
+      "order": 1,
+      "name": "课标单词1",
+      "updatedAt": "2017-03-28T14:30:09.447Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159825",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:58.999Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b38a",
+      "order": 2,
+      "name": "课表单词2",
+      "updatedAt": "2017-03-28T14:30:09.454Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159826",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.004Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b38a",
+      "order": 3,
+      "name": "词语综合",
+      "updatedAt": "2017-03-28T14:30:09.465Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159827",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:59.073Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 4,
+    "name": "The United KingdomⅡ",
+    "updatedAt": "2017-03-28T14:30:09.472Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b3aa",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:59.075Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3aa",
+      "order": 1,
+      "name": "课文长难句1",
+      "updatedAt": "2017-03-28T14:30:09.495Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415988d",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.078Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3aa",
+      "order": 2,
+      "name": "课文长难句2",
+      "updatedAt": "2017-03-28T14:30:09.504Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415988e",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.081Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3aa",
+      "order": 3,
+      "name": "语法讲解：非谓语动词2",
+      "updatedAt": "2017-03-28T14:30:09.511Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415988f",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:59.138Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 5,
+    "name": "Life in the futureⅠ",
+    "updatedAt": "2017-03-28T14:30:09.519Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b3cc",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:59.140Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3cc",
+      "order": 1,
+      "name": "课标单词1",
+      "updatedAt": "2017-03-28T14:30:09.543Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159901",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.143Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3cc",
+      "order": 2,
+      "name": "课标单词2",
+      "updatedAt": "2017-03-28T14:30:09.554Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159902",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.148Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3cc",
+      "order": 3,
+      "name": "词语综合",
+      "updatedAt": "2017-03-28T14:30:09.564Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159903",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:59.205Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 6,
+    "name": "Life in the futureⅡ",
+    "updatedAt": "2017-03-28T14:30:09.573Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b3ee",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:59.208Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3ee",
+      "order": 1,
+      "name": "课文长难句",
+      "updatedAt": "2017-03-28T14:30:09.610Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415997e",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.211Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3ee",
+      "order": 2,
+      "name": "语法讲解：非谓语动词3",
+      "updatedAt": "2017-03-28T14:30:09.631Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415997f",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.213Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3ee",
+      "order": 3,
+      "name": " 语法讲解：非谓语动词4",
+      "updatedAt": "2017-03-28T14:30:09.691Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159980",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:59.273Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 7,
+    "name": "Making the newsⅠ",
+    "updatedAt": "2017-03-28T14:30:09.756Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b3ef",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:59.275Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3ef",
+      "order": 1,
+      "name": "课标单词1",
+      "updatedAt": "2017-03-28T14:30:09.792Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159981",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.278Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3ef",
+      "order": 2,
+      "name": "课标单词2",
+      "updatedAt": "2017-03-28T14:30:09.813Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159982",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.280Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b3ef",
+      "order": 3,
+      "name": "词语综合",
+      "updatedAt": "2017-03-28T14:30:09.831Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159983",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:59.345Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 8,
+    "name": "Making the newsⅡ",
+    "updatedAt": "2017-03-28T14:30:09.851Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b40a",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:59.348Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b40a",
+      "order": 1,
+      "name": "课文长难句",
+      "updatedAt": "2017-03-28T14:30:09.884Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741599d4",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.350Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b40a",
+      "order": 2,
+      "name": "语法讲解：倒装句1",
+      "updatedAt": "2017-03-28T14:30:09.900Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741599d5",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.353Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b40a",
+      "order": 3,
+      "name": "语法讲解：倒装句2",
+      "updatedAt": "2017-03-28T14:30:09.914Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f071276741599d6",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:59.415Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 9,
+    "name": "First aidⅠ",
+    "updatedAt": "2017-03-28T14:30:09.927Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b419",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:59.418Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b419",
+      "order": 1,
+      "name": "课标单词1",
+      "updatedAt": "2017-03-28T14:30:09.958Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159a06",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.421Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b419",
+      "order": 2,
+      "name": "课标单词2",
+      "updatedAt": "2017-03-28T14:30:09.975Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159a07",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.425Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b419",
+      "order": 3,
+      "name": "词语综合",
+      "updatedAt": "2017-03-28T14:30:09.992Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159a08",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:36:59.487Z",
+    "courseId": "586d23485f07127674135d76",
+    "order": 10,
+    "name": " First aidⅡ",
+    "updatedAt": "2017-03-28T14:30:10.009Z",
+    "description": "",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415b438",
+    "children": [{
+      "createdAt": "2017-02-21T17:36:59.490Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b438",
+      "order": 1,
+      "name": "课文长难句",
+      "updatedAt": "2017-03-28T14:30:10.044Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159a59",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.493Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b438",
+      "order": 2,
+      "name": "语法讲解：强调句",
+      "updatedAt": "2017-03-28T14:30:10.400Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159a5a",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:36:59.496Z",
+      "courseId": "586d23485f07127674135d76",
+      "parentId": "586d23555f0712767415b438",
+      "order": 3,
+      "name": "语法讲解：省略句",
+      "updatedAt": "2017-03-28T14:30:10.418Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f07127674159a5b",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

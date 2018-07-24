@@ -1,0 +1,420 @@
+{
+  "major": "586d234f5f07127674152c43",
+  "description": "由来自清华北大各个系科的学霸学神在周末直播课堂上帮你复习难点，查缺补漏，传授高考“考试真经”，预习领先，让你处处快人一步，各位平易近人的学长学姐们有问必答，只要你有任何不懂的问题，请随时缠上他们！",
+  "deleted": false,
+  "bigImage": "http://imgs.wanmen.org/7fcbffa988d3a6d68ce6e41877b87247.png",
+  "smallImage": "http://imgs.wanmen.org/6f486d02d75ca98bf873128c09209625.png",
+  "updatedAt": "2018-01-13T04:29:39.200Z",
+  "teacher": {
+    "name": "清北英语答疑老师",
+    "avatar": "http://imgs.wanmen.org/8ac0df4f3e59d31f25d2eca7c361b97f.png",
+    "description": "来自于清北的学霸们带你查漏补缺，进步提分！",
+    "id": "590c3b2c71b2262ac78f1d05"
+  },
+  "createdAt": "2017-05-05T08:50:57.255Z",
+  "hide": false,
+  "name": "暑期清北学霸周末直播课堂——高中英语",
+  "isPinned": false,
+  "presentationVideo": {
+    "hls": {
+      "mobileLow": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_mobile_low.m3u8",
+      "pcLow": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_pc_low.m3u8",
+      "pcHigh": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_pc_high.m3u8",
+      "pcMid": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_pc_mid.m3u8",
+      "mobileMid": "http://media.wanmen.org/7b3d337f-47e1-4de8-8881-2e251f96a0b0_mobile_mid.m3u8"
+    },
+    "id": "596476b8ef23a80d3835ccd6"
+  },
+  "deletedAt": null,
+  "streamKey": "950343689649793",
+  "openingAt": "2017-07-22T11:10:58.273Z",
+  "lastConnectedAt": 1504350413,
+  "expiration": 12,
+  "numOfClasses": 9,
+  "price": 0,
+  "order": 12,
+  "tag": "清北英语答疑老师 高中 暑期 清北学霸 周末 直播 课堂 英语 ",
+  "videoCount": 9,
+  "isOnLive": false,
+  "playbackStatus": "done",
+  "status": "finished",
+  "introductionImages": [],
+  "schedule": [{
+    "_id": "5a41af19af13505e2ba28cb9",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "高一高二同学如何备战高三",
+    "startDate": "2017-05-06T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb8",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "英语阅读理解应试技巧与能力提升",
+    "startDate": "2017-05-14T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb7",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "作文经验分享",
+    "startDate": "2017-05-27T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb6",
+    "endTime": "20:00",
+    "startTime": "19:00",
+    "name": "情态动词should&would&shall",
+    "startDate": "2017-06-04T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb5",
+    "startTime": "19:10",
+    "endTime": "20:10",
+    "name": "暑期清北学霸周末直播讲堂——高中英语专题：定语从句",
+    "startDate": "2017-07-22T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb4",
+    "startTime": "19:10",
+    "endTime": "20:10",
+    "name": "暑期清北学霸周末直播讲堂——高中英语专题：名词性从句（一）",
+    "startDate": "2017-07-30T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb3",
+    "startTime": "19:10",
+    "endTime": "20:10",
+    "name": "暑期清北学霸周末直播讲堂——高中英语专题：名词性从句（二）",
+    "startDate": "2017-08-12T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb2",
+    "startTime": "19:10",
+    "endTime": "20:10",
+    "name": "暑期清北学霸周末直播讲堂——高中英语专题：倒装句",
+    "startDate": "2017-08-20T00:00:00.000Z"
+  }, {
+    "_id": "5a41af19af13505e2ba28cb1",
+    "startDate": "2017-09-02T00:00:00.000Z",
+    "startTime": "19:10",
+    "endTime": "20:10",
+    "name": "暑期清北学霸周末直播讲堂——高中英语专题：主谓一致"
+  }],
+  "type": "record",
+  "likes": 14,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 9,
+  "teacherDescription": "来自于清北的学霸们带你查漏补缺，进步提分！",
+  "teacherAvatar": "http://imgs.wanmen.org/8ac0df4f3e59d31f25d2eca7c361b97f.png",
+  "teacherName": "清北英语答疑老师",
+  "mobileCoverUrl": "http://imgs.wanmen.org/6f486d02d75ca98bf873128c09209625.png",
+  "coverUrl": "http://imgs.wanmen.org/7fcbffa988d3a6d68ce6e41877b87247.png",
+  "smallImageUrl": "http://imgs.wanmen.org/6f486d02d75ca98bf873128c09209625.png",
+  "bigImageUrl": "http://imgs.wanmen.org/7fcbffa988d3a6d68ce6e41877b87247.png",
+  "id": "590c3cf171b2262ac78f1d29",
+  "lectures": [{
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "高一高二如何备战高三",
+    "order": 1,
+    "updatedAt": "2018-01-02T03:18:27.980Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5933d9dbd5fa2213f156c8e8",
+    "children": [{
+      "from": "playback",
+      "name": "高一高二如何备战高三",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "parentId": "5933d9dbd5fa2213f156c8e8",
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494068371_1494071926.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494068371_1494071926.m3u8",
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494068371_1494071926.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494068371_1494071926.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494068371_1494071926.m3u8"
+      },
+      "hide": false,
+      "id": "5934bf3fd5fa2213f156c997",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "英语阅读理解应试技巧与能力提升",
+    "order": 2,
+    "updatedAt": "2018-01-02T03:18:45.165Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5933e4b1d5fa2213f156c8f5",
+    "children": [{
+      "from": "playback",
+      "name": "英语阅读理解应试技巧与能力提升",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "parentId": "5933e4b1d5fa2213f156c8f5",
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494759421_1494763189.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494759421_1494763189.m3u8",
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494759421_1494763189.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494759421_1494763189.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1494759421_1494763189.m3u8"
+      },
+      "hide": false,
+      "id": "5934bf28d5fa2213f156c996",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "作文经验分享",
+    "order": 3,
+    "updatedAt": "2018-01-02T03:18:58.406Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "5933f736d5fa2213f156c92f",
+    "children": [{
+      "from": "playback",
+      "name": "作文经验分享",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "parentId": "5933f736d5fa2213f156c92f",
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1496574053_1496577809.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1496574053_1496577809.m3u8",
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1496574053_1496577809.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1496574053_1496577809.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1496574053_1496577809.m3u8"
+      },
+      "hide": false,
+      "id": "5934c0bdd5fa2213f156c99c",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "情态动词should&would&shall",
+    "order": 4,
+    "updatedAt": "2018-01-02T03:19:11.849Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "593d3078fd6d795a342d9e72",
+    "children": [{
+      "from": "playback",
+      "name": "情态动词should&would&shall",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "parentId": "593d3078fd6d795a342d9e72",
+      "order": 1,
+      "actions": {
+        "download": true,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1497178836_1497182290.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1497178836_1497182290.m3u8",
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1497178836_1497182290.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1497178836_1497182290.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1497178836_1497182290.m3u8"
+      },
+      "hide": false,
+      "id": "5940d33d0953207728967a83",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "定语从句",
+    "createdAt": "2017-07-22T10:58:49.581Z",
+    "updatedAt": "2018-01-02T03:20:10.749Z",
+    "order": 6,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59732fe92f8052899cbdf1df",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-22T12:08:48.215Z",
+      "updatedAt": "2017-09-12T06:06:41.387Z",
+      "name": "定语从句",
+      "parentId": "59732fe92f8052899cbdf1df",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1500721639_1500725327.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1500721639_1500725327.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1500721639_1500725327.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1500721639_1500725327.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1500721639_1500725327.m3u8"
+      },
+      "hide": false,
+      "id": "5973405021b0930ac809d517",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "名词性从句",
+    "createdAt": "2017-07-30T12:08:24.387Z",
+    "updatedAt": "2018-01-02T03:20:23.960Z",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "597dcc382f8052899cbe78f3",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-07-30T12:08:24.429Z",
+      "updatedAt": "2017-09-12T04:27:41.779Z",
+      "name": "名词性从句",
+      "parentId": "597dcc382f8052899cbe78f3",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1501412721_1501416502.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1501412721_1501416502.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1501412721_1501416502.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1501412721_1501416502.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1501412721_1501416502.m3u8"
+      },
+      "hide": false,
+      "id": "597dcc383c66920b49a54bdc",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "情态动词&虚拟语气",
+    "createdAt": "2017-08-12T12:08:46.854Z",
+    "updatedAt": "2018-01-02T03:20:37.733Z",
+    "order": 7,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "598eefce2f8052899cbf5d95",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-12T12:08:46.874Z",
+      "updatedAt": "2017-08-26T10:38:02.616Z",
+      "name": "情态动词&虚拟语气",
+      "parentId": "598eefce2f8052899cbf5d95",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1502536088_1502539726.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1502536088_1502539726.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1502536088_1502539726.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1502536088_1502539726.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1502536088_1502539726.m3u8"
+      },
+      "hide": false,
+      "id": "598eefce106cea63b53c52fb",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "非谓语动词",
+    "createdAt": "2017-08-20T12:09:52.848Z",
+    "updatedAt": "2018-01-02T03:20:50.901Z",
+    "order": 8,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59997c102f8052899cbfdcda",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-08-20T12:09:52.873Z",
+      "updatedAt": "2017-08-26T10:38:57.995Z",
+      "name": "非谓语动词",
+      "parentId": "59997c102f8052899cbfdcda",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1503226955_1503230991.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1503226955_1503230991.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1503226955_1503230991.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1503226955_1503230991.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1503226955_1503230991.m3u8"
+      },
+      "hide": false,
+      "id": "59997c10e2af5a546d1d36eb",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "590c3cf171b2262ac78f1d29",
+    "name": "特殊句式",
+    "createdAt": "2017-09-02T12:10:13.077Z",
+    "updatedAt": "2018-01-02T03:21:07.022Z",
+    "order": 9,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59aa9fa52f8052899cc08fe1",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-02T12:10:13.122Z",
+      "updatedAt": "2017-09-03T10:50:56.028Z",
+      "name": "特殊句式",
+      "parentId": "59aa9fa52f8052899cc08fe1",
+      "courseId": "590c3cf171b2262ac78f1d29",
+      "order": 0,
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {
+        "pcHigh": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1504350413_1504354212.m3u8",
+        "pcMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1504350413_1504354212.m3u8",
+        "pcLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1504350413_1504354212.m3u8",
+        "mobileLow": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1504350413_1504354212.m3u8",
+        "mobileMid": "http://playback.wanmen.org/recordings/z1.wanmen.950343689649793/1504350413_1504354212.m3u8"
+      },
+      "hide": false,
+      "id": "59aa9fa5edad944b098bf5b1",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

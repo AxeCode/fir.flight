@@ -57,21 +57,24 @@ public class MainActivity extends BaseActivity {
 
         final String[] tabTitles = getResources().getStringArray(R.array.ff_main_tab_titles);
         final BaseFragment[] fragments = new BaseFragment[tabTitles.length];
-        //数学
-        fragments[0] = CoursesFragment.newInstance(Constants.SUBJECT_MATH, "58f0331bc6bdf222b1744e10");
-        //物理
-        fragments[1] = CoursesFragment.newInstance(Constants.SUBJECT_PHYSICS, "592e38d4b45f51716ab6f487");
-        //英语
-        fragments[2] = CoursesFragment.newInstance(Constants.SUBJECT_ENGLISH, "590b35f071b2262ac78f19fb");
         //语文
-        fragments[3] = CoursesFragment.newInstance(Constants.SUBJECT_CHINESE, "59354a36d5fa2213f156cb86");
-        fragments[4] = new ProfileFragment();
+        fragments[0] = CoursesFragment.newInstance(Constants.SUBJECT_CHINESE, "586d234f5f07127674152c55");
+        //数学
+        fragments[1] = CoursesFragment.newInstance(Constants.SUBJECT_MATH, "58f0331bc6bdf222b1744e10");
+        //英语
+        fragments[2] = CoursesFragment.newInstance(Constants.SUBJECT_ENGLISH, "586d234f5f07127674152c43");
+        fragments[3] = CoursesFragment.newInstance(Constants.SUBJECT_HISTORY, "586d234f5f07127674152c50");
+        fragments[4] = CoursesFragment.newInstance(Constants.SUBJECT_POLITICS, "586d234f5f07127674152c5f");
+        //物理
+//        fragments[1] = CoursesFragment.newInstance(Constants.SUBJECT_PHYSICS, "586d234f5f07127674152c4b");
+        fragments[5] = new ProfileFragment();
 
         MainTabAdapter adapter = new MainTabAdapter(getSupportFragmentManager(), tabTitles, fragments);
         viewPager.setAdapter(adapter);
         viewPager.setOffscreenPageLimit(adapter.getCount() - 1);
         viewPager.setPageMargin(getResources().getDimensionPixelSize(R.dimen.ff_padding_large));
 
+        tabLayout.setTabMode(TabLayout.MODE_FIXED);
         tabLayout.setupWithViewPager(viewPager);
     }
 

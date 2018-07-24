@@ -15,4 +15,6 @@ public class Constants {
     public static final String SUBJECT_PHYSICS = "physics";
     public static final String SUBJECT_ENGLISH = "english";
     public static final String SUBJECT_CHINESE = "chinese";
+    public static final String SUBJECT_HISTORY = "history";
+    public static final String SUBJECT_POLITICS = "politics";
 }

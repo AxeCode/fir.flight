@@ -1,0 +1,619 @@
+{
+  "id": "586d23485f07127674135dfd",
+  "name": "英语选修9",
+  "logo": "http://img.wanmen.org/images/19e7cce5-47d1-4fbe-a05c-bae026a958dd.png",
+  "order": 9,
+  "price": 158,
+  "promotion": null,
+  "description": "该课程目的在于通过对高中英语选修9课本知识的详细详解帮助目标为高考的高中学生系统地学习高中英语重点词汇、句法结构和人文知识。涉及的内容包括选修课本新词学习、旧词巩固、重点语法回顾、高考链接以及人文背景导入和拓展。每一单元都有一个特定的主题，老师会围绕该主题讲解相关的单词和语法，与高考进行对接，并且针对北京知识进行拓展式的学习，扩大同学们的知识面。",
+  "shortDescription": "该课程目的在于通过对高中英语选修9课本知识的详细详解帮助目标为高考的高中学生系统地学习高中英语重点词汇、句法结构和人文知识。",
+  "hide": false,
+  "major": "586d234f5f07127674152c43",
+  "teacherName": "况霍凌霄",
+  "teacherAvatar": "http://imgs.wanmen.org/ccbee7dc7063111b328416af1c393758.png",
+  "teacherDescription": "况霍凌霄，北京大学英汉笔译专业，拥有全国翻译资格考试（catti）二级口译证书。超过15年的英语学习经历让她对英语课本知识了熟于心。其讲课风格活泼生动，能够启发学生，并且在本身的语法和词汇的学习之外，其特地设置了语法巩固部分，让学生们理解语言的结构能极大地帮助同学们学习英语。",
+  "numOfClasses": 5,
+  "qqGroup": null,
+  "smallImageUrl": "http://imgs.wanmen.org/f2f7362d483bb9a9706f435b06284a78.png",
+  "bigImageUrl": "http://imgs.wanmen.org/1412c66670dfdf854d7726fe409d8010.png",
+  "smallMobileImageUrl": null,
+  "smallHomeImageUrl": null,
+  "tag": "况霍凌霄 高中 英语 选修 9",
+  "isPresell": null,
+  "liked": 1,
+  "createdAt": "2016-12-30T09:23:26.000Z",
+  "updatedAt": "2018-01-13T03:32:01.958Z",
+  "homeSmallImage": "http://img.wanmen.org/images/d59cc21b-2adb-4ad7-9551-ebff24726426.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/ce009dcb-42bb-4729-a4d9-bf424effbb12.png",
+  "bigImage": "http://imgs.wanmen.org/1412c66670dfdf854d7726fe409d8010.png",
+  "smallImage": "http://imgs.wanmen.org/f2f7362d483bb9a9706f435b06284a78.png",
+  "bookId": [],
+  "teacher": {
+    "name": "况霍凌霄",
+    "description": "况霍凌霄，北京大学英汉笔译专业，拥有全国翻译资格考试（catti）二级口译证书。超过15年的英语学习经历让她对英语课本知识了熟于心。其讲课风格活泼生动，能够启发学生，并且在本身的语法和词汇的学习之外，其特地设置了语法巩固部分，让学生们理解语言的结构能极大地帮助同学们学习英语。",
+    "avatar": "http://imgs.wanmen.org/ccbee7dc7063111b328416af1c393758.png",
+    "id": "5923f3a729a8354075e09af1"
+  },
+  "expiration": 12,
+  "videoCount": 30,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 16,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 5,
+  "mobileCoverUrl": "http://imgs.wanmen.org/f2f7362d483bb9a9706f435b06284a78.png",
+  "coverUrl": "http://imgs.wanmen.org/1412c66670dfdf854d7726fe409d8010.png",
+  "lectures": [{
+    "createdAt": "2017-02-21T17:38:57.229Z",
+    "courseId": "586d23485f07127674135dfd",
+    "order": 1,
+    "name": "Breaking Records",
+    "updatedAt": "2017-12-22T07:24:10.669Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415bafb",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:57.232Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafb",
+      "order": 1,
+      "name": "导入（奥林匹克运动与吉尼斯世界纪录）",
+      "updatedAt": "2017-12-22T07:17:17.881Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_mobile_mid.m3u8"
+        },
+        "id": "590a87f7ef23a8302b0c3560"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/6eb28188-ce82-42a9-9cb8-6f35863faf8e_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ad77",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.234Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafb",
+      "order": 2,
+      "name": "单词－生词学习",
+      "updatedAt": "2017-12-22T07:17:21.497Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ef3d92250a1afcedf86674f3bc9f1579_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/ef3d92250a1afcedf86674f3bc9f1579_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/ef3d92250a1afcedf86674f3bc9f1579_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/ef3d92250a1afcedf86674f3bc9f1579_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/ef3d92250a1afcedf86674f3bc9f1579_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ad78",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.236Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafb",
+      "order": 3,
+      "name": "单词－旧词巩固",
+      "updatedAt": "2017-12-22T07:17:24.923Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": null,
+        "mobileMid": null,
+        "pcLow": null,
+        "pcMid": null,
+        "pcHigh": null
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ad79",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.239Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafb",
+      "order": 4,
+      "name": "语法－主语",
+      "updatedAt": "2017-12-22T07:17:28.165Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/9a1e17a4b140e74592180bb3ca7ae016_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/9a1e17a4b140e74592180bb3ca7ae016_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/9a1e17a4b140e74592180bb3ca7ae016_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/9a1e17a4b140e74592180bb3ca7ae016_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/9a1e17a4b140e74592180bb3ca7ae016_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ad7a",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.241Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafb",
+      "order": 5,
+      "name": "练习－高考链接",
+      "updatedAt": "2017-12-22T07:17:31.906Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/48d2e81f1060a2670ff2e6b30d9441f9_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/48d2e81f1060a2670ff2e6b30d9441f9_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/48d2e81f1060a2670ff2e6b30d9441f9_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/48d2e81f1060a2670ff2e6b30d9441f9_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/48d2e81f1060a2670ff2e6b30d9441f9_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ad7b",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.244Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafb",
+      "order": 6,
+      "name": "拓展－吉尼斯的故事",
+      "updatedAt": "2017-12-22T07:17:36.003Z",
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/19f6eb466aad837b7f990b4926c7b77c_mobile_low.m3u8",
+        "mobileMid": "http://media.wanmen.org/19f6eb466aad837b7f990b4926c7b77c_mobile_mid.m3u8",
+        "pcLow": "http://media.wanmen.org/19f6eb466aad837b7f990b4926c7b77c_pc_low.m3u8",
+        "pcMid": "http://media.wanmen.org/19f6eb466aad837b7f990b4926c7b77c_pc_mid.m3u8",
+        "pcHigh": "http://media.wanmen.org/19f6eb466aad837b7f990b4926c7b77c_pc_high.m3u8"
+      },
+      "hide": false,
+      "id": "586d23535f0712767415ad7c",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:57.301Z",
+    "courseId": "586d23485f07127674135dfd",
+    "order": 2,
+    "name": "Sailing the Oceans",
+    "updatedAt": "2017-12-22T07:24:16.001Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415bafc",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:57.304Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafc",
+      "order": 1,
+      "name": "导入（郑和、Marco Polo 、James Cook ）",
+      "updatedAt": "2017-12-22T07:17:43.312Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad7d",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.306Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafc",
+      "order": 2,
+      "name": "单词－生词学习",
+      "updatedAt": "2017-12-22T07:24:20.469Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad7e",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.309Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafc",
+      "order": 3,
+      "name": "单词－旧词巩固",
+      "updatedAt": "2017-12-22T07:24:24.148Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad7f",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.311Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafc",
+      "order": 4,
+      "name": "语法－谓语",
+      "updatedAt": "2017-12-22T07:24:29.729Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad80",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.313Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafc",
+      "order": 5,
+      "name": "练习－高考链接",
+      "updatedAt": "2017-12-22T07:24:37.023Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad81",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.316Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafc",
+      "order": 6,
+      "name": "拓展－传奇航海家哥伦布",
+      "updatedAt": "2017-12-22T07:25:36.407Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad82",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:57.394Z",
+    "courseId": "586d23485f07127674135dfd",
+    "order": 3,
+    "name": "Australia",
+    "updatedAt": "2017-12-22T07:25:45.450Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415bafd",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:57.397Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafd",
+      "order": 1,
+      "name": "导入（澳大利亚 ）",
+      "updatedAt": "2017-12-22T07:25:54.727Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad83",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.400Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafd",
+      "order": 2,
+      "name": "单词－生词学习",
+      "updatedAt": "2017-12-22T07:26:00.423Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad84",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.402Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafd",
+      "order": 3,
+      "name": "单词－旧词巩固",
+      "updatedAt": "2017-12-22T07:26:06.144Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad85",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.405Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafd",
+      "order": 4,
+      "name": "语法－表语",
+      "updatedAt": "2017-12-22T07:26:11.865Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad87",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.409Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafd",
+      "order": 5,
+      "name": "练习－高考链接",
+      "updatedAt": "2017-12-22T07:26:18.041Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad88",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.412Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafd",
+      "order": 6,
+      "name": "拓展－悉尼歌剧院的诞生",
+      "updatedAt": "2017-12-22T07:26:26.677Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad89",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:57.481Z",
+    "courseId": "586d23485f07127674135dfd",
+    "order": 4,
+    "name": "Exploring Plants",
+    "updatedAt": "2017-12-22T07:26:42.344Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415bafe",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:57.483Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafe",
+      "order": 1,
+      "name": "导入（常见的动植物介绍 ）",
+      "updatedAt": "2017-12-22T07:26:54.877Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad8a",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.486Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafe",
+      "order": 2,
+      "name": "单词－生词学习",
+      "updatedAt": "2017-12-22T07:27:01.928Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad8b",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.488Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafe",
+      "order": 3,
+      "name": "单词－旧词巩固",
+      "updatedAt": "2017-12-22T07:27:08.331Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad8c",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.491Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafe",
+      "order": 4,
+      "name": "语法－宾语",
+      "updatedAt": "2017-12-22T07:27:16.392Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad8d",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.493Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafe",
+      "order": 5,
+      "name": "练习－高考链接",
+      "updatedAt": "2017-12-22T07:27:21.819Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad8e",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.496Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415bafe",
+      "order": 6,
+      "name": "拓展－中英植物词汇的意义比较",
+      "updatedAt": "2017-12-22T07:27:28.428Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad8f",
+      "hasTopic": false
+    }]
+  }, {
+    "createdAt": "2017-02-21T17:38:57.554Z",
+    "courseId": "586d23485f07127674135dfd",
+    "order": 5,
+    "name": "Inside Advertising",
+    "updatedAt": "2017-12-22T07:27:37.858Z",
+    "description": null,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "586d23555f0712767415baff",
+    "children": [{
+      "createdAt": "2017-02-21T17:38:57.557Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415baff",
+      "order": 1,
+      "name": "导入（广告 ）",
+      "updatedAt": "2017-12-22T07:27:52.568Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad90",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.559Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415baff",
+      "order": 2,
+      "name": "单词－生词学习",
+      "updatedAt": "2017-12-22T07:28:10.421Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad91",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.562Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415baff",
+      "order": 3,
+      "name": "单词－旧词巩固",
+      "updatedAt": "2017-12-22T07:28:17.142Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad92",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.564Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415baff",
+      "order": 4,
+      "name": "语法－宾语补足语",
+      "updatedAt": "2017-12-22T07:28:24.556Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad93",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.567Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415baff",
+      "order": 5,
+      "name": "练习－高考链接",
+      "updatedAt": "2017-12-22T07:28:30.311Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad94",
+      "hasTopic": false
+    }, {
+      "createdAt": "2017-02-21T17:38:57.570Z",
+      "courseId": "586d23485f07127674135dfd",
+      "parentId": "586d23555f0712767415baff",
+      "order": 6,
+      "name": "拓展－ 有趣的广告词",
+      "updatedAt": "2017-12-22T07:28:36.123Z",
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "586d23535f0712767415ad95",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

@@ -1,0 +1,681 @@
+{
+  "id": "58bd79ae2f4e7cd4de1082d2",
+  "createdAt": "2017-03-06T15:01:02.443Z",
+  "price": 158,
+  "description": "高中政治必修三（文化生活），是高中政治课的重要组成部分，各地高考试卷必考的部分，主要介绍文化的内涵、范围、特点、文化多样性、文化传播、中华民族传统文化、社会主义先进文化建设等内容",
+  "name": "政治必修3",
+  "updatedAt": "2018-01-13T03:39:13.009Z",
+  "major": "586d234f5f07127674152c5f",
+  "homeSmallImage": "http://img.wanmen.org/images/5d1ff021-633c-472e-8e81-6a22c5e3b23c.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/f3af263b-92d2-4f62-8a56-7bd385f92af7.png",
+  "bigImage": "http://imgs.wanmen.org/0f582de218e136ac42ac5344504d3904.png",
+  "smallImage": "http://imgs.wanmen.org/cebe0f954f7a3647f34a776104f0cd4a.png",
+  "shortDescription": "主要介绍文化的内涵、范围、特点、文化多样性、文化传播、中华民族传统文化、社会主义先进文化建设等内容",
+  "logo": "http://img.wanmen.org/images/55cc3909-38e5-4be1-b2dc-b3d7cceebae7.png",
+  "order": 3,
+  "hide": false,
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/cebe0f954f7a3647f34a776104f0cd4a.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/371eafb1ebbb905d9cdc19f4c1263137.png",
+  "bigImageUrl": "http://imgs.wanmen.org/0f582de218e136ac42ac5344504d3904.png",
+  "teacherAvatar": "http://imgs.wanmen.org/5566fa2555e7aeec66325da5b8ecf77b.png",
+  "teacherDescription": "王亮，清华大学博士研究生，曾在多家中学课外辅导机构任职，讲授高中政治等课程，知识渊博，风趣幽默，深受广大学生的喜爱。",
+  "teacherName": "王亮",
+  "teacher": {
+    "name": "王亮",
+    "description": "王亮，清华大学博士研究生，曾在多家中学课外辅导机构任职，讲授高中政治等课程，知识渊博，风趣幽默，深受广大学生的喜爱。",
+    "avatar": "http://imgs.wanmen.org/5566fa2555e7aeec66325da5b8ecf77b.png",
+    "id": "586d235f5f0712767415d50d"
+  },
+  "numOfClasses": 10,
+  "expiration": 12,
+  "videoCount": 19,
+  "tag": "王亮 高中 政治 必修 3",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 18,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 10,
+  "mobileCoverUrl": "http://imgs.wanmen.org/cebe0f954f7a3647f34a776104f0cd4a.png",
+  "coverUrl": "http://imgs.wanmen.org/0f582de218e136ac42ac5344504d3904.png",
+  "lectures": [{
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "文化与社会",
+    "createdAt": "2017-03-09T07:33:14.039Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.575Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053a2f4e7cd4de109674",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化的内涵特点与形式",
+      "parentId": "58c1053a2f4e7cd4de109674",
+      "createdAt": "2017-03-09T07:33:14.181Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:57:53.498Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_mobile_mid.m3u8"
+        },
+        "id": "595c3d12ef23a8302b0c35d9"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/1b467533-744b-448b-b3a5-011afb695233_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1053a2f4e7cd4de109675",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化的作用1",
+      "parentId": "58c1053a2f4e7cd4de109674",
+      "createdAt": "2017-03-09T07:33:14.233Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T01:57:59.303Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_mobile_mid.m3u8"
+        },
+        "id": "595c3d2aef23a8300e247812"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/982e722c-9880-4b3e-bbf9-15db13f753ad_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1053a2f4e7cd4de109676",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化的作用2",
+      "parentId": "58c1053a2f4e7cd4de109674",
+      "createdAt": "2017-03-09T07:33:14.291Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T01:58:07.357Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_mobile_mid.m3u8"
+        },
+        "id": "595c3d3a51f0744b545a3a98"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/2043cdf5-f4c9-4ffa-9779-fb0220962a5f_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1053a2f4e7cd4de109677",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "文化对人的影响",
+    "createdAt": "2017-03-09T07:33:14.370Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.648Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053a2f4e7cd4de109678",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化对人影响的表现及特点",
+      "parentId": "58c1053a2f4e7cd4de109678",
+      "createdAt": "2017-03-09T07:33:14.446Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:58:14.791Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3332338f-d049-4e51-b887-1ff0bb328d71_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3332338f-d049-4e51-b887-1ff0bb328d71_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3332338f-d049-4e51-b887-1ff0bb328d71_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3332338f-d049-4e51-b887-1ff0bb328d71_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3332338f-d049-4e51-b887-1ff0bb328d71_mobile_mid.m3u8"
+        },
+        "id": "595c3d6a51f0744b1cd60fdf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053a2f4e7cd4de109679",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "丰富精神世界、促进全面发展",
+      "parentId": "58c1053a2f4e7cd4de109678",
+      "createdAt": "2017-03-09T07:33:14.545Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T01:58:18.477Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d9c16172-72f0-497e-964d-f4e7e64824e2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d9c16172-72f0-497e-964d-f4e7e64824e2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d9c16172-72f0-497e-964d-f4e7e64824e2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d9c16172-72f0-497e-964d-f4e7e64824e2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d9c16172-72f0-497e-964d-f4e7e64824e2_mobile_mid.m3u8"
+        },
+        "id": "595c3d8951f0744b84e04bc4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053a2f4e7cd4de10967a",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "文化的多样性与文化传播",
+    "createdAt": "2017-03-09T07:33:14.645Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.702Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053a2f4e7cd4de10967b",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化的多样性",
+      "parentId": "58c1053a2f4e7cd4de10967b",
+      "createdAt": "2017-03-09T07:33:14.758Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:58:25.475Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/679377cc-a1b2-4aa7-b1bd-a1fbd09279b4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/679377cc-a1b2-4aa7-b1bd-a1fbd09279b4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/679377cc-a1b2-4aa7-b1bd-a1fbd09279b4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/679377cc-a1b2-4aa7-b1bd-a1fbd09279b4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/679377cc-a1b2-4aa7-b1bd-a1fbd09279b4_mobile_mid.m3u8"
+        },
+        "id": "595c3db0ef23a82fd4f5dc29"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053b2f4e7cd4de10967c",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化传播",
+      "parentId": "58c1053a2f4e7cd4de10967b",
+      "createdAt": "2017-03-09T07:33:15.022Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T01:58:29.157Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/32864af5-5c30-4b44-9b62-94b1cd3f809c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/32864af5-5c30-4b44-9b62-94b1cd3f809c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/32864af5-5c30-4b44-9b62-94b1cd3f809c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/32864af5-5c30-4b44-9b62-94b1cd3f809c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/32864af5-5c30-4b44-9b62-94b1cd3f809c_mobile_mid.m3u8"
+        },
+        "id": "595c3de251f0744b545a3a99"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053b2f4e7cd4de10967d",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "文化的继承与文化传播",
+    "createdAt": "2017-03-09T07:33:15.215Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.760Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053b2f4e7cd4de10967e",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "传统文化",
+      "parentId": "58c1053b2f4e7cd4de10967e",
+      "createdAt": "2017-03-09T07:33:15.759Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:58:36.267Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/48eb9730-4a77-45f0-a475-ae061a854bdb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/48eb9730-4a77-45f0-a475-ae061a854bdb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/48eb9730-4a77-45f0-a475-ae061a854bdb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/48eb9730-4a77-45f0-a475-ae061a854bdb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/48eb9730-4a77-45f0-a475-ae061a854bdb_mobile_mid.m3u8"
+        },
+        "id": "595c3e19ef23a82ff01ce53d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053b2f4e7cd4de10967f",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化在继承中发展",
+      "parentId": "58c1053b2f4e7cd4de10967e",
+      "createdAt": "2017-03-09T07:33:15.882Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T01:59:20.430Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3305666f-fe6c-4db7-900f-47001e723646_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3305666f-fe6c-4db7-900f-47001e723646_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3305666f-fe6c-4db7-900f-47001e723646_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3305666f-fe6c-4db7-900f-47001e723646_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3305666f-fe6c-4db7-900f-47001e723646_mobile_mid.m3u8"
+        },
+        "id": "595c3e3eef23a830822d9c7d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053c2f4e7cd4de109680",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "文化创新",
+    "createdAt": "2017-03-09T07:33:16.033Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.819Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053c2f4e7cd4de109681",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化创新的源泉和作用",
+      "parentId": "58c1053c2f4e7cd4de109681",
+      "createdAt": "2017-03-09T07:33:16.197Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:59:26.726Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2c7a8f2c-e2b4-4605-b722-7ce8b07cfe97_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2c7a8f2c-e2b4-4605-b722-7ce8b07cfe97_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2c7a8f2c-e2b4-4605-b722-7ce8b07cfe97_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2c7a8f2c-e2b4-4605-b722-7ce8b07cfe97_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2c7a8f2c-e2b4-4605-b722-7ce8b07cfe97_mobile_mid.m3u8"
+        },
+        "id": "595c3e7951f0744b70df3e2d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053c2f4e7cd4de109682",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化创新的途径",
+      "parentId": "58c1053c2f4e7cd4de109681",
+      "createdAt": "2017-03-09T07:33:16.251Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T01:59:30.756Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f64156ce-d799-4edf-94c9-3bc4d3868a56_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f64156ce-d799-4edf-94c9-3bc4d3868a56_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f64156ce-d799-4edf-94c9-3bc4d3868a56_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f64156ce-d799-4edf-94c9-3bc4d3868a56_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f64156ce-d799-4edf-94c9-3bc4d3868a56_mobile_mid.m3u8"
+        },
+        "id": "595c3ea451f0744b3b409df3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053c2f4e7cd4de109683",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "中华文化",
+    "createdAt": "2017-03-09T07:33:16.389Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.872Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053c2f4e7cd4de109684",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "我们的中华文化",
+      "parentId": "58c1053c2f4e7cd4de109684",
+      "createdAt": "2017-03-09T07:33:16.484Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:59:37.026Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/864d1e81-8428-4f6b-a352-abc43b2fddc1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/864d1e81-8428-4f6b-a352-abc43b2fddc1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/864d1e81-8428-4f6b-a352-abc43b2fddc1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/864d1e81-8428-4f6b-a352-abc43b2fddc1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/864d1e81-8428-4f6b-a352-abc43b2fddc1_mobile_mid.m3u8"
+        },
+        "id": "595c3ed351f0744b545a3a9a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053c2f4e7cd4de109685",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "中华民族精神",
+    "createdAt": "2017-03-09T07:33:16.549Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.917Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053c2f4e7cd4de109686",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "中华民族精神的基本内涵与时代特征",
+      "parentId": "58c1053c2f4e7cd4de109686",
+      "createdAt": "2017-03-09T07:33:16.751Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:59:43.284Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79f2d662-d043-4884-ae1a-0adb15cd1189_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79f2d662-d043-4884-ae1a-0adb15cd1189_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79f2d662-d043-4884-ae1a-0adb15cd1189_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79f2d662-d043-4884-ae1a-0adb15cd1189_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79f2d662-d043-4884-ae1a-0adb15cd1189_mobile_mid.m3u8"
+        },
+        "id": "595c3ef4ef23a82456d49ebf"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053c2f4e7cd4de109687",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "弘扬和培育民族精神",
+      "parentId": "58c1053c2f4e7cd4de109686",
+      "createdAt": "2017-03-09T07:33:16.822Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T01:59:47.527Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/00ceca6c-9e93-4857-a54b-4bb824acbad3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/00ceca6c-9e93-4857-a54b-4bb824acbad3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/00ceca6c-9e93-4857-a54b-4bb824acbad3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/00ceca6c-9e93-4857-a54b-4bb824acbad3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/00ceca6c-9e93-4857-a54b-4bb824acbad3_mobile_mid.m3u8"
+        },
+        "id": "595c4070d5ff7513ad660919"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053d2f4e7cd4de109688",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "文化生活",
+    "createdAt": "2017-03-09T07:33:17.023Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:14.979Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053d2f4e7cd4de109689",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "走进文化生活",
+      "parentId": "58c1053d2f4e7cd4de109689",
+      "createdAt": "2017-03-09T07:33:17.238Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T01:59:53.930Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/eafd94cf-9cf2-445d-92b6-18729be208fe_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/eafd94cf-9cf2-445d-92b6-18729be208fe_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/eafd94cf-9cf2-445d-92b6-18729be208fe_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/eafd94cf-9cf2-445d-92b6-18729be208fe_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/eafd94cf-9cf2-445d-92b6-18729be208fe_mobile_mid.m3u8"
+        },
+        "id": "595c3f64ef23a82ffd2354a5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053d2f4e7cd4de10968a",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "建设社会主义文化强国",
+    "createdAt": "2017-03-09T07:33:17.591Z",
+    "order": 9,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:15.021Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053d2f4e7cd4de10968b",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "建设社会主义文化强国1",
+      "parentId": "58c1053d2f4e7cd4de10968b",
+      "createdAt": "2017-03-09T07:33:17.683Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:00:00.623Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/04224fdd-4f6f-4438-aee5-e33f26c56c2a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/04224fdd-4f6f-4438-aee5-e33f26c56c2a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/04224fdd-4f6f-4438-aee5-e33f26c56c2a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/04224fdd-4f6f-4438-aee5-e33f26c56c2a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/04224fdd-4f6f-4438-aee5-e33f26c56c2a_mobile_mid.m3u8"
+        },
+        "id": "595c3f9bef23a82264c26f5b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053d2f4e7cd4de10968c",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "建设社会主义文化强国2",
+      "parentId": "58c1053d2f4e7cd4de10968b",
+      "createdAt": "2017-03-09T07:33:17.744Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:00:05.964Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7c64ad1e-27b6-46bc-9e09-34b0dcc0df84_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7c64ad1e-27b6-46bc-9e09-34b0dcc0df84_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7c64ad1e-27b6-46bc-9e09-34b0dcc0df84_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7c64ad1e-27b6-46bc-9e09-34b0dcc0df84_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7c64ad1e-27b6-46bc-9e09-34b0dcc0df84_mobile_mid.m3u8"
+        },
+        "id": "595c3fd9ef23a83038f67c6f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053d2f4e7cd4de10968d",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd79ae2f4e7cd4de1082d2",
+    "name": "文化建设的中心环节",
+    "createdAt": "2017-03-09T07:33:17.796Z",
+    "order": 10,
+    "description": null,
+    "updatedAt": "2017-03-24T16:00:15.086Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053e2f4e7cd4de10968e",
+    "children": [{
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化建设的中心环节1",
+      "parentId": "58c1053e2f4e7cd4de10968e",
+      "createdAt": "2017-03-09T07:33:18.033Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:00:13.480Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/189b2b06-2ebc-4a7e-b4a8-6a311e63d097_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/189b2b06-2ebc-4a7e-b4a8-6a311e63d097_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/189b2b06-2ebc-4a7e-b4a8-6a311e63d097_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/189b2b06-2ebc-4a7e-b4a8-6a311e63d097_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/189b2b06-2ebc-4a7e-b4a8-6a311e63d097_mobile_mid.m3u8"
+        },
+        "id": "595c4001ef23a8300dc58f76"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053e2f4e7cd4de10968f",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd79ae2f4e7cd4de1082d2",
+      "name": "文化建设的中心环节2",
+      "parentId": "58c1053e2f4e7cd4de10968e",
+      "createdAt": "2017-03-09T07:33:18.099Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:00:17.512Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/afc02694-c008-4701-8d15-8ea044f9df86_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/afc02694-c008-4701-8d15-8ea044f9df86_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/afc02694-c008-4701-8d15-8ea044f9df86_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/afc02694-c008-4701-8d15-8ea044f9df86_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/afc02694-c008-4701-8d15-8ea044f9df86_mobile_mid.m3u8"
+        },
+        "id": "595c4176d5ff7513783b2c7a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053e2f4e7cd4de109690",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

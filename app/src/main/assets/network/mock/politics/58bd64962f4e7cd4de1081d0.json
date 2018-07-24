@@ -1,0 +1,836 @@
+{
+  "id": "58bd64962f4e7cd4de1081d0",
+  "createdAt": "2017-03-06T13:31:02.250Z",
+  "price": 158,
+  "description": "高中政治必修二（政治生活），是高中政治课的重要组成部分，各地高考试卷必考的部分，主要介绍我国的国体、公民、政府、人大、政协、共产党、民族宗教政策、国际社会与中国外交等内容",
+  "name": "政治必修2",
+  "updatedAt": "2018-01-13T03:38:39.282Z",
+  "major": "586d234f5f07127674152c5f",
+  "homeSmallImage": "http://img.wanmen.org/images/01077f93-32c9-4338-9b92-3599d986a26e.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/087731f4-f038-4f19-a72f-3a70d0909359.png",
+  "bigImage": "http://imgs.wanmen.org/0ea58589957d7a6398d70b8f46ceda31.png",
+  "smallImage": "http://imgs.wanmen.org/e249100b2fe6d8f173fbeaf0c91eec4a.png",
+  "shortDescription": "主要介绍我国的国体、公民、政府、人大、政协、共产党、民族宗教政策、国际社会与中国外交等内容",
+  "logo": "http://img.wanmen.org/images/dc0385d4-4d1f-482e-8b8c-7de05f54cbb1.png",
+  "order": 2,
+  "hide": false,
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/e249100b2fe6d8f173fbeaf0c91eec4a.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/bda212199c1f330791cc6320dbe12798.png",
+  "bigImageUrl": "http://imgs.wanmen.org/0ea58589957d7a6398d70b8f46ceda31.png",
+  "teacherAvatar": "http://imgs.wanmen.org/5566fa2555e7aeec66325da5b8ecf77b.png",
+  "teacherDescription": "王亮，清华大学博士研究生，曾在多家中学课外辅导机构任职，讲授高中政治等课程，知识渊博，风趣幽默，深受广大学生的喜爱。",
+  "teacherName": "王亮",
+  "teacher": {
+    "name": "王亮",
+    "description": "王亮，清华大学博士研究生，曾在多家中学课外辅导机构任职，讲授高中政治等课程，知识渊博，风趣幽默，深受广大学生的喜爱。",
+    "avatar": "http://imgs.wanmen.org/5566fa2555e7aeec66325da5b8ecf77b.png",
+    "id": "586d235f5f0712767415d50d"
+  },
+  "numOfClasses": 9,
+  "expiration": 12,
+  "videoCount": 26,
+  "tag": "王亮 高中 政治 必修 2",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 22,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 9,
+  "mobileCoverUrl": "http://imgs.wanmen.org/e249100b2fe6d8f173fbeaf0c91eec4a.png",
+  "coverUrl": "http://imgs.wanmen.org/0ea58589957d7a6398d70b8f46ceda31.png",
+  "lectures": [{
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "国家",
+    "createdAt": "2017-03-09T07:33:09.932Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:05.351Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105362f4e7cd4de109651",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "人民民主专政",
+      "parentId": "58c105362f4e7cd4de109651",
+      "createdAt": "2017-03-09T07:33:10.066Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:03:37.399Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_mobile_mid.m3u8"
+        },
+        "id": "5938bd85ef23a82fd351fca6"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/a6f52cba-6133-45e1-a579-e91668f68a7f_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105362f4e7cd4de109652",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "公民的政治权利与政治义务",
+      "parentId": "58c105362f4e7cd4de109651",
+      "createdAt": "2017-03-09T07:33:10.203Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:03:40.971Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_mobile_mid.m3u8"
+        },
+        "id": "5938bdceef23a8308c970e00"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/ef702569-c44f-4e16-9067-d3e127bcb806_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c105362f4e7cd4de109653",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "我国公民的政治参与",
+    "createdAt": "2017-03-09T07:33:10.293Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:05.459Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105362f4e7cd4de109654",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "民主选举&民主决策",
+      "parentId": "58c105362f4e7cd4de109654",
+      "createdAt": "2017-03-09T07:33:10.370Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:03:46.874Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/28aff9d7-49e3-4f96-bbf2-965dc67d2aad_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/28aff9d7-49e3-4f96-bbf2-965dc67d2aad_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/28aff9d7-49e3-4f96-bbf2-965dc67d2aad_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/28aff9d7-49e3-4f96-bbf2-965dc67d2aad_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/28aff9d7-49e3-4f96-bbf2-965dc67d2aad_mobile_mid.m3u8"
+        },
+        "id": "5938b681ef23a82eb67467e5"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105362f4e7cd4de109655",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "民主管理&民主监督",
+      "parentId": "58c105362f4e7cd4de109654",
+      "createdAt": "2017-03-09T07:33:10.731Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:03:50.605Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b4d44a3c-6753-4472-a999-861b12426ff8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b4d44a3c-6753-4472-a999-861b12426ff8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b4d44a3c-6753-4472-a999-861b12426ff8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b4d44a3c-6753-4472-a999-861b12426ff8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b4d44a3c-6753-4472-a999-861b12426ff8_mobile_mid.m3u8"
+        },
+        "id": "5938beeaef23a84321c278d0"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105362f4e7cd4de109656",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "我国政府是人民的政府",
+    "createdAt": "2017-03-09T07:33:10.840Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:05.568Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105362f4e7cd4de109657",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "国家行政机关",
+      "parentId": "58c105362f4e7cd4de109657",
+      "createdAt": "2017-03-09T07:33:10.951Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:03:59.577Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d65f0279-e521-4b39-bd4c-235863b0de61_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d65f0279-e521-4b39-bd4c-235863b0de61_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d65f0279-e521-4b39-bd4c-235863b0de61_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d65f0279-e521-4b39-bd4c-235863b0de61_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d65f0279-e521-4b39-bd4c-235863b0de61_mobile_mid.m3u8"
+        },
+        "id": "5938c093ef23a83062694899"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105372f4e7cd4de109658",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "政府与人民",
+      "parentId": "58c105362f4e7cd4de109657",
+      "createdAt": "2017-03-09T07:33:11.095Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:04:03.902Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/565e84b8-1e31-4208-81e8-d0bf3402e0e9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/565e84b8-1e31-4208-81e8-d0bf3402e0e9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/565e84b8-1e31-4208-81e8-d0bf3402e0e9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/565e84b8-1e31-4208-81e8-d0bf3402e0e9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/565e84b8-1e31-4208-81e8-d0bf3402e0e9_mobile_mid.m3u8"
+        },
+        "id": "5938c248ef23a82ffaa0c4d2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105372f4e7cd4de109659",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "我国政府受人民的监督",
+    "createdAt": "2017-03-09T07:33:11.240Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:05.716Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105372f4e7cd4de10965a",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "依法行政",
+      "parentId": "58c105372f4e7cd4de10965a",
+      "createdAt": "2017-03-09T07:33:11.446Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:04:14.545Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2f8cce8b-eea1-4cb1-b511-e56251271321_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2f8cce8b-eea1-4cb1-b511-e56251271321_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2f8cce8b-eea1-4cb1-b511-e56251271321_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2f8cce8b-eea1-4cb1-b511-e56251271321_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2f8cce8b-eea1-4cb1-b511-e56251271321_mobile_mid.m3u8"
+        },
+        "id": "5938c544ef23a82fd4f5dbe9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105372f4e7cd4de10965b",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "政府权力的行使及监督",
+      "parentId": "58c105372f4e7cd4de10965a",
+      "createdAt": "2017-03-09T07:33:11.564Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:04:18.358Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a0de0b0e-5e27-4031-8aa7-d39d73de67e3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a0de0b0e-5e27-4031-8aa7-d39d73de67e3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a0de0b0e-5e27-4031-8aa7-d39d73de67e3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a0de0b0e-5e27-4031-8aa7-d39d73de67e3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a0de0b0e-5e27-4031-8aa7-d39d73de67e3_mobile_mid.m3u8"
+        },
+        "id": "5938c74def23a8306269489a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105372f4e7cd4de10965c",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "政务公开及政府权威",
+      "parentId": "58c105372f4e7cd4de10965a",
+      "createdAt": "2017-03-09T07:33:11.697Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:04:23.253Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/13c93b28-2012-4358-b23e-0286a76eb9e0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/13c93b28-2012-4358-b23e-0286a76eb9e0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/13c93b28-2012-4358-b23e-0286a76eb9e0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/13c93b28-2012-4358-b23e-0286a76eb9e0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/13c93b28-2012-4358-b23e-0286a76eb9e0_mobile_mid.m3u8"
+        },
+        "id": "5938d64aef23a8308c970e01"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105372f4e7cd4de10965d",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "我国的人民代表大会制度",
+    "createdAt": "2017-03-09T07:33:11.764Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:05.797Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105372f4e7cd4de10965e",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "人民代表大会：国家权力机关",
+      "parentId": "58c105372f4e7cd4de10965e",
+      "createdAt": "2017-03-09T07:33:11.835Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:14:30.879Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6c4a820f-657e-4a1d-bfd8-96361b8949f2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6c4a820f-657e-4a1d-bfd8-96361b8949f2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6c4a820f-657e-4a1d-bfd8-96361b8949f2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6c4a820f-657e-4a1d-bfd8-96361b8949f2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6c4a820f-657e-4a1d-bfd8-96361b8949f2_mobile_mid.m3u8"
+        },
+        "id": "597af7a3ef23a8306926cc00"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105372f4e7cd4de10965f",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "人民代表大会制度：我国的根本政治制度",
+      "parentId": "58c105372f4e7cd4de10965e",
+      "createdAt": "2017-03-09T07:33:11.893Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:14:40.064Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6fc430da-0021-45bb-9994-d5a33af89969_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6fc430da-0021-45bb-9994-d5a33af89969_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6fc430da-0021-45bb-9994-d5a33af89969_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6fc430da-0021-45bb-9994-d5a33af89969_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6fc430da-0021-45bb-9994-d5a33af89969_mobile_mid.m3u8"
+        },
+        "id": "597af7e4ef23a83055f0650b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105372f4e7cd4de109660",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "我国的政党制度",
+    "createdAt": "2017-03-09T07:33:11.946Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:05.864Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105382f4e7cd4de109661",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "中国共产党的执政地位1",
+      "parentId": "58c105382f4e7cd4de109661",
+      "createdAt": "2017-03-09T07:33:12.043Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:14:52.850Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d33778e7-bb6c-48b5-b4cb-f98365c185a9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d33778e7-bb6c-48b5-b4cb-f98365c185a9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d33778e7-bb6c-48b5-b4cb-f98365c185a9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d33778e7-bb6c-48b5-b4cb-f98365c185a9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d33778e7-bb6c-48b5-b4cb-f98365c185a9_mobile_mid.m3u8"
+        },
+        "id": "594b261cef23a82feb8a14ac"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105382f4e7cd4de109662",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "中国共产党的执政地位2",
+      "parentId": "58c105382f4e7cd4de109661",
+      "createdAt": "2017-03-09T07:33:12.142Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:14:58.662Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/26dc7643-6fac-4f2e-942a-26394e761e1e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/26dc7643-6fac-4f2e-942a-26394e761e1e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/26dc7643-6fac-4f2e-942a-26394e761e1e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/26dc7643-6fac-4f2e-942a-26394e761e1e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/26dc7643-6fac-4f2e-942a-26394e761e1e_mobile_mid.m3u8"
+        },
+        "id": "5938da45ef23a82456d49e92"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105382f4e7cd4de109663",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "政协制度",
+      "parentId": "58c105382f4e7cd4de109661",
+      "createdAt": "2017-03-09T07:33:12.243Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:15:04.996Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d11448dc-8b3b-4833-a830-408068fa3a27_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d11448dc-8b3b-4833-a830-408068fa3a27_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d11448dc-8b3b-4833-a830-408068fa3a27_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d11448dc-8b3b-4833-a830-408068fa3a27_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d11448dc-8b3b-4833-a830-408068fa3a27_mobile_mid.m3u8"
+        },
+        "id": "597e8999d5ff7513c5256cdb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105382f4e7cd4de109664",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "我国的民族区域自治制度和宗教政策",
+    "createdAt": "2017-03-09T07:33:12.328Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:05.943Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105382f4e7cd4de109665",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "处理民族关系的原则",
+      "parentId": "58c105382f4e7cd4de109665",
+      "createdAt": "2017-03-09T07:33:12.416Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:15:33.476Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a4555edb-82a9-4775-a207-c03f37a4b7de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a4555edb-82a9-4775-a207-c03f37a4b7de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a4555edb-82a9-4775-a207-c03f37a4b7de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a4555edb-82a9-4775-a207-c03f37a4b7de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a4555edb-82a9-4775-a207-c03f37a4b7de_mobile_mid.m3u8"
+        },
+        "id": "5938dc63ef23a83072ca0b82"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105382f4e7cd4de109666",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "民族区域自治制度和我国的宗教政策",
+      "parentId": "58c105382f4e7cd4de109665",
+      "createdAt": "2017-03-09T07:33:12.494Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:15:39.437Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/910ce489-4d2e-45da-a32c-7b1ecc333e21_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/910ce489-4d2e-45da-a32c-7b1ecc333e21_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/910ce489-4d2e-45da-a32c-7b1ecc333e21_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/910ce489-4d2e-45da-a32c-7b1ecc333e21_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/910ce489-4d2e-45da-a32c-7b1ecc333e21_mobile_mid.m3u8"
+        },
+        "id": "5938dd57ef23a8302f30743a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105382f4e7cd4de109667",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "走进国际社会",
+    "createdAt": "2017-03-09T07:33:12.668Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:06.331Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105382f4e7cd4de109668",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "国际社会的成员1",
+      "parentId": "58c105382f4e7cd4de109668",
+      "createdAt": "2017-03-09T07:33:12.853Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:16:56.154Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/22e81ac8-43f6-43c1-a4b4-9479d8395201_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/22e81ac8-43f6-43c1-a4b4-9479d8395201_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/22e81ac8-43f6-43c1-a4b4-9479d8395201_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/22e81ac8-43f6-43c1-a4b4-9479d8395201_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/22e81ac8-43f6-43c1-a4b4-9479d8395201_mobile_mid.m3u8"
+        },
+        "id": "5938de89ef23a8308c970e03"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105382f4e7cd4de109669",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "国际社会的成员2",
+      "parentId": "58c105382f4e7cd4de109668",
+      "createdAt": "2017-03-09T07:33:12.917Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:17:00.731Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ec31dbab-6218-4b11-b269-8f77c86779d1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ec31dbab-6218-4b11-b269-8f77c86779d1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ec31dbab-6218-4b11-b269-8f77c86779d1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ec31dbab-6218-4b11-b269-8f77c86779d1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ec31dbab-6218-4b11-b269-8f77c86779d1_mobile_mid.m3u8"
+        },
+        "id": "5938e011ef23a82ffd23545b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105382f4e7cd4de10966a",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "国际社会的成员3",
+      "parentId": "58c105382f4e7cd4de109668",
+      "createdAt": "2017-03-09T07:33:12.974Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:17:04.450Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8b071873-2330-445e-bd45-51580ed0f652_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8b071873-2330-445e-bd45-51580ed0f652_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8b071873-2330-445e-bd45-51580ed0f652_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8b071873-2330-445e-bd45-51580ed0f652_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8b071873-2330-445e-bd45-51580ed0f652_mobile_mid.m3u8"
+        },
+        "id": "5938e15fef23a82ffaa0c4d6"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de10966b",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "国际关系的决定因素1",
+      "parentId": "58c105382f4e7cd4de109668",
+      "createdAt": "2017-03-09T07:33:13.031Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T02:17:12.056Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/44db8c38-ea2e-452b-b814-326e156f6cf8_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/44db8c38-ea2e-452b-b814-326e156f6cf8_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/44db8c38-ea2e-452b-b814-326e156f6cf8_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/44db8c38-ea2e-452b-b814-326e156f6cf8_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/44db8c38-ea2e-452b-b814-326e156f6cf8_mobile_mid.m3u8"
+        },
+        "id": "5938e2f5ef23a8052253c70f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de10966c",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "国际关系的决定因素2",
+      "parentId": "58c105382f4e7cd4de109668",
+      "createdAt": "2017-03-09T07:33:13.090Z",
+      "order": 5,
+      "updatedAt": "2017-12-22T02:17:18.118Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f3cbf177-cb33-4caa-bcb0-a61c9e0c8844_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f3cbf177-cb33-4caa-bcb0-a61c9e0c8844_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f3cbf177-cb33-4caa-bcb0-a61c9e0c8844_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f3cbf177-cb33-4caa-bcb0-a61c9e0c8844_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f3cbf177-cb33-4caa-bcb0-a61c9e0c8844_mobile_mid.m3u8"
+        },
+        "id": "5938e4beef23a85887e0579c"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de10966d",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d0",
+    "name": "维护世界和平、促进共同发展",
+    "createdAt": "2017-03-09T07:33:13.231Z",
+    "order": 9,
+    "description": null,
+    "updatedAt": "2017-04-01T15:00:06.554Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105392f4e7cd4de10966e",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "和平与发展1",
+      "parentId": "58c105392f4e7cd4de10966e",
+      "createdAt": "2017-03-09T07:33:13.311Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:17:29.154Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4d3fdb5d-3c92-49d7-aaf4-27a5337dc567_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4d3fdb5d-3c92-49d7-aaf4-27a5337dc567_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4d3fdb5d-3c92-49d7-aaf4-27a5337dc567_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4d3fdb5d-3c92-49d7-aaf4-27a5337dc567_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4d3fdb5d-3c92-49d7-aaf4-27a5337dc567_mobile_mid.m3u8"
+        },
+        "id": "5938e5eaef23a83026369c90"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de10966f",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "和平与发展2",
+      "parentId": "58c105392f4e7cd4de10966e",
+      "createdAt": "2017-03-09T07:33:13.438Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:17:32.801Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b50c124f-ec75-4830-8a2f-0ac38a54e85e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b50c124f-ec75-4830-8a2f-0ac38a54e85e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b50c124f-ec75-4830-8a2f-0ac38a54e85e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b50c124f-ec75-4830-8a2f-0ac38a54e85e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b50c124f-ec75-4830-8a2f-0ac38a54e85e_mobile_mid.m3u8"
+        },
+        "id": "5938e712ef23a830822d9c4b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de109670",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "世界多极化1",
+      "parentId": "58c105392f4e7cd4de10966e",
+      "createdAt": "2017-03-09T07:33:13.591Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:17:40.422Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/fc198134-4669-49c2-a051-9e75c1bcbfb0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/fc198134-4669-49c2-a051-9e75c1bcbfb0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/fc198134-4669-49c2-a051-9e75c1bcbfb0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/fc198134-4669-49c2-a051-9e75c1bcbfb0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/fc198134-4669-49c2-a051-9e75c1bcbfb0_mobile_mid.m3u8"
+        },
+        "id": "5938e92aef23a8302f30743b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de109671",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "世界多极化2",
+      "parentId": "58c105392f4e7cd4de10966e",
+      "createdAt": "2017-03-09T07:33:13.640Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T02:17:44.978Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8444ddf9-5b78-4421-8df3-13be67839918_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8444ddf9-5b78-4421-8df3-13be67839918_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8444ddf9-5b78-4421-8df3-13be67839918_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8444ddf9-5b78-4421-8df3-13be67839918_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8444ddf9-5b78-4421-8df3-13be67839918_mobile_mid.m3u8"
+        },
+        "id": "594b27cdd5ff751391ba89d1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de109672",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d0",
+      "name": "我国外交的基本目标和宗旨",
+      "parentId": "58c105392f4e7cd4de10966e",
+      "createdAt": "2017-03-09T07:33:13.840Z",
+      "order": 5,
+      "updatedAt": "2017-12-22T02:17:50.058Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/dbec721b-587c-4673-8689-ad05571d4fea_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/dbec721b-587c-4673-8689-ad05571d4fea_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/dbec721b-587c-4673-8689-ad05571d4fea_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/dbec721b-587c-4673-8689-ad05571d4fea_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/dbec721b-587c-4673-8689-ad05571d4fea_mobile_mid.m3u8"
+        },
+        "id": "5938eb4fef23a84321c278d2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105392f4e7cd4de109673",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}

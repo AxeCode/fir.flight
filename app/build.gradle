@@ -43,7 +43,7 @@ android {
     buildToolsVersion "$rootProject.buildToolsVersion"
 
     defaultConfig {
-        applicationId 'io.yan.xuetang'
+        applicationId 'io.yan.xuetang.senior'
         minSdkVersion "$rootProject.minSdkVersion".toInteger()
         targetSdkVersion "$rootProject.targetSdkVersion".toInteger()
         versionCode "$VERSION_CODE".toInteger()

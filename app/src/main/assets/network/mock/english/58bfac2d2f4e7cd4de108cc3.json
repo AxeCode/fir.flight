@@ -1,0 +1,904 @@
+{
+  "id": "58bfac2d2f4e7cd4de108cc3",
+  "createdAt": "2017-03-08T07:01:01.374Z",
+  "major": "586d234f5f07127674152c43",
+  "homeSmallImage": "http://img.wanmen.org/images/ac588c07-f5f2-4c4a-8d23-5f6ed5bb7bb8.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/15600271-fda0-43b3-9464-8dd0ed5c1127.png",
+  "bigImage": "http://imgs.wanmen.org/59de4830da6b8958aa1ec8df315aca1f.png",
+  "smallImage": "http://imgs.wanmen.org/8855f5ccbcd9b4a5ca421f85b8f219c3.png",
+  "shortDescription": "高中英语必修1针对刚刚进入高中，需要适应高中英语学习，并以高考为目标的学生，进行高考重点词汇、语法、人文知识的详细讲解。",
+  "logo": "http://img.wanmen.org/images/7f1f5926-4c0f-4869-9a93-64797a103afc.png",
+  "order": 1,
+  "hide": false,
+  "price": 158,
+  "description": "该课程目的在于通过对高中英语必修1课本知识的详细详解帮助目标为高考的高中学生系统地学习高中英语重点词汇、句法结构和人文知识。老师将严格按照高考考点和单元结构进行讲解。首先对单元中的重点词汇（包括生词和熟词）以及重点语法进行梳理，并以相应的高考真题进行辅助，除此之外，老师还会根据各个单元的主题向学生讲解一定的人文知识，达到既学习知识又拓宽视野的目的。",
+  "name": "英语必修1",
+  "updatedAt": "2018-01-13T03:05:15.175Z",
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/8855f5ccbcd9b4a5ca421f85b8f219c3.png",
+  "bigImageUrl": "http://imgs.wanmen.org/59de4830da6b8958aa1ec8df315aca1f.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/856ab53f7ffb209bb2b0272ba713bc13.png",
+  "teacherAvatar": "http://imgs.wanmen.org/ccbee7dc7063111b328416af1c393758.png",
+  "teacherDescription": "况霍凌霄，北京大学英汉笔译专业，拥有全国翻译资格考试（catti）二级口译证书。超过15年的英语学习经历让她对英语课本知识了熟于心。其讲课风格活泼生动，能够启发学生，并且在本身的语法和词汇的学习之外，其特地设置了语法巩固部分，让学生们理解语言的结构能极大地帮助同学们学习英语。",
+  "teacherName": "况霍凌霄",
+  "teacher": {
+    "name": "况霍凌霄",
+    "description": "况霍凌霄，北京大学英汉笔译专业，拥有全国翻译资格考试（catti）二级口译证书。超过15年的英语学习经历让她对英语课本知识了熟于心。其讲课风格活泼生动，能够启发学生，并且在本身的语法和词汇的学习之外，其特地设置了语法巩固部分，让学生们理解语言的结构能极大地帮助同学们学习英语。",
+    "avatar": "http://imgs.wanmen.org/ccbee7dc7063111b328416af1c393758.png",
+    "id": "5923f3a729a8354075e09af1"
+  },
+  "expiration": 12,
+  "numOfClasses": 5,
+  "videoCount": 31,
+  "tag": "况霍凌霄 高中 英语 必修 1",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 64,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 5,
+  "mobileCoverUrl": "http://imgs.wanmen.org/8855f5ccbcd9b4a5ca421f85b8f219c3.png",
+  "coverUrl": "http://imgs.wanmen.org/59de4830da6b8958aa1ec8df315aca1f.png",
+  "lectures": [{
+    "courseId": "58bfac2d2f4e7cd4de108cc3",
+    "name": "Freindship",
+    "createdAt": "2017-03-09T07:33:32.161Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-04-08T07:00:06.905Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1054c2f4e7cd4de1096e5",
+    "children": [{
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "导入－Anne Frank",
+      "parentId": "58c1054c2f4e7cd4de1096e5",
+      "createdAt": "2017-03-10T07:37:01.809Z",
+      "order": 1,
+      "updatedAt": "2017-07-05T02:08:53.095Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_mobile_mid.m3u8"
+        },
+        "id": "595b6581ef23a82ffd2354a1"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/e21bcc39-26aa-43d6-9ef9-80202b9848a5_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c2579d2f4e7cd4de10a004",
+      "hasTopic": false
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Warming up and pre-reading",
+      "parentId": "58c1054c2f4e7cd4de1096e5",
+      "createdAt": "2017-03-09T07:33:32.347Z",
+      "order": 2,
+      "updatedAt": "2017-07-05T02:09:10.117Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_mobile_mid.m3u8"
+        },
+        "id": "595b677551f0744b09d589c3"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/92c6e98d-b8ec-4dd1-ac1a-234c115d8645_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1054c2f4e7cd4de1096e6",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Reading and comprehending",
+      "parentId": "58c1054c2f4e7cd4de1096e5",
+      "createdAt": "2017-03-09T07:33:32.446Z",
+      "order": 3,
+      "updatedAt": "2017-07-05T02:09:38.410Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_mobile_mid.m3u8"
+        },
+        "id": "595b6b5751f0744b5e0d553e"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/d3b430ec-a62a-4468-bf9e-482bc14f91e6_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1054c2f4e7cd4de1096e7",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Learning about language",
+      "parentId": "58c1054c2f4e7cd4de1096e5",
+      "createdAt": "2017-03-09T07:33:32.671Z",
+      "order": 4,
+      "updatedAt": "2017-07-05T02:09:46.121Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_mobile_mid.m3u8"
+        },
+        "id": "595b6cfdef23a82feb8a14be"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/21962e5f-c987-41a4-b677-a334ed06bd49_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1054c2f4e7cd4de1096e8",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Using language",
+      "parentId": "58c1054c2f4e7cd4de1096e5",
+      "createdAt": "2017-03-09T07:33:32.882Z",
+      "order": 5,
+      "updatedAt": "2017-07-05T02:09:54.704Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_mobile_mid.m3u8"
+        },
+        "id": "595b6e2351f0744b08e8413d"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/922d64d5-9a8b-41fd-a44b-4fabe0260e2c_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1054c2f4e7cd4de1096e9",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "语法：直接引语与间接引语的转换（一）",
+      "parentId": "58c1054c2f4e7cd4de1096e5",
+      "createdAt": "2017-03-09T07:33:32.939Z",
+      "order": 6,
+      "updatedAt": "2017-07-05T02:10:05.021Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_mobile_mid.m3u8"
+        },
+        "id": "595b6ff3d5ff7513ad660917"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7027e74a-62c8-4c7f-9a0a-e18313a99092_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1054c2f4e7cd4de1096ea",
+      "hasTopic": true
+    }]
+  }, {
+    "courseId": "58bfac2d2f4e7cd4de108cc3",
+    "name": "English Around the World",
+    "createdAt": "2017-03-09T07:33:33.066Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-04-08T07:00:07.053Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1054d2f4e7cd4de1096ec",
+    "children": [{
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "导入-History of English",
+      "parentId": "58c1054d2f4e7cd4de1096ec",
+      "createdAt": "2017-03-10T07:48:01.895Z",
+      "order": 1,
+      "updatedAt": "2017-07-05T02:10:30.412Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/74940a6c-1304-4050-8f6f-06c8e1595cb0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/74940a6c-1304-4050-8f6f-06c8e1595cb0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/74940a6c-1304-4050-8f6f-06c8e1595cb0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/74940a6c-1304-4050-8f6f-06c8e1595cb0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/74940a6c-1304-4050-8f6f-06c8e1595cb0_mobile_mid.m3u8"
+        },
+        "id": "595b6f1e51f0744b3c6d61e4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c25a312f4e7cd4de10a028",
+      "hasTopic": false
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Warming up and pre-reading",
+      "parentId": "58c1054d2f4e7cd4de1096ec",
+      "createdAt": "2017-03-09T07:33:33.140Z",
+      "order": 2,
+      "updatedAt": "2017-07-05T02:11:00.516Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/71d18fc0-3206-46d7-b850-8938dddfd966_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/71d18fc0-3206-46d7-b850-8938dddfd966_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/71d18fc0-3206-46d7-b850-8938dddfd966_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/71d18fc0-3206-46d7-b850-8938dddfd966_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/71d18fc0-3206-46d7-b850-8938dddfd966_mobile_mid.m3u8"
+        },
+        "id": "595b6f6aef23a830626948ce"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054d2f4e7cd4de1096ed",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Reading and comprehending",
+      "parentId": "58c1054d2f4e7cd4de1096ec",
+      "createdAt": "2017-03-09T07:33:33.302Z",
+      "order": 3,
+      "updatedAt": "2017-07-05T02:11:12.240Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8a6dab76-4453-4d2c-a79f-5e3c46132aaf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8a6dab76-4453-4d2c-a79f-5e3c46132aaf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8a6dab76-4453-4d2c-a79f-5e3c46132aaf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8a6dab76-4453-4d2c-a79f-5e3c46132aaf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8a6dab76-4453-4d2c-a79f-5e3c46132aaf_mobile_mid.m3u8"
+        },
+        "id": "595b713651f0744b290f958b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054d2f4e7cd4de1096ee",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Learning about language",
+      "parentId": "58c1054d2f4e7cd4de1096ec",
+      "createdAt": "2017-03-09T07:33:33.505Z",
+      "order": 4,
+      "updatedAt": "2017-07-05T02:11:24.152Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0a073739-ca51-4df5-9f26-301996899421_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0a073739-ca51-4df5-9f26-301996899421_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0a073739-ca51-4df5-9f26-301996899421_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0a073739-ca51-4df5-9f26-301996899421_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0a073739-ca51-4df5-9f26-301996899421_mobile_mid.m3u8"
+        },
+        "id": "595b72aed5ff751382935b78"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054d2f4e7cd4de1096ef",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Using language",
+      "parentId": "58c1054d2f4e7cd4de1096ec",
+      "createdAt": "2017-03-09T07:33:33.576Z",
+      "order": 5,
+      "updatedAt": "2017-07-05T02:11:49.011Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e1f54e75-5b0c-4637-9729-8aafacfe6d8c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e1f54e75-5b0c-4637-9729-8aafacfe6d8c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e1f54e75-5b0c-4637-9729-8aafacfe6d8c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e1f54e75-5b0c-4637-9729-8aafacfe6d8c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e1f54e75-5b0c-4637-9729-8aafacfe6d8c_mobile_mid.m3u8"
+        },
+        "id": "595b729a51f0744b5fdc6b32"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054d2f4e7cd4de1096f0",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "语法：直接引语与间接引语的转换（二）",
+      "parentId": "58c1054d2f4e7cd4de1096ec",
+      "createdAt": "2017-03-09T07:33:33.681Z",
+      "order": 6,
+      "updatedAt": "2017-07-05T02:12:02.153Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/37017d79-baeb-44c5-87cb-7066f5739f38_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/37017d79-baeb-44c5-87cb-7066f5739f38_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/37017d79-baeb-44c5-87cb-7066f5739f38_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/37017d79-baeb-44c5-87cb-7066f5739f38_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/37017d79-baeb-44c5-87cb-7066f5739f38_mobile_mid.m3u8"
+        },
+        "id": "595b731e51f0740e07810292"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054d2f4e7cd4de1096f1",
+      "hasTopic": true
+    }]
+  }, {
+    "courseId": "58bfac2d2f4e7cd4de108cc3",
+    "name": "Travel Journal",
+    "createdAt": "2017-03-09T07:33:33.985Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-04-08T07:00:07.188Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1054e2f4e7cd4de1096f3",
+    "children": [{
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "导入－Mekong River",
+      "parentId": "58c1054e2f4e7cd4de1096f3",
+      "createdAt": "2017-03-10T15:03:30.950Z",
+      "order": 1,
+      "updatedAt": "2017-07-05T02:12:36.636Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2420303e-dabf-44bb-9e41-daca44eb2ff5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2420303e-dabf-44bb-9e41-daca44eb2ff5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2420303e-dabf-44bb-9e41-daca44eb2ff5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2420303e-dabf-44bb-9e41-daca44eb2ff5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2420303e-dabf-44bb-9e41-daca44eb2ff5_mobile_mid.m3u8"
+        },
+        "id": "595b656eef23a82080b5d253"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c2c0432f4e7cd4de10a49a",
+      "hasTopic": false
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Warming up and pre-reading",
+      "parentId": "58c1054e2f4e7cd4de1096f3",
+      "createdAt": "2017-03-09T07:33:34.183Z",
+      "order": 2,
+      "updatedAt": "2017-07-05T02:13:55.233Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2228208c-9b0e-4007-90a1-f174900e3f77_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2228208c-9b0e-4007-90a1-f174900e3f77_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2228208c-9b0e-4007-90a1-f174900e3f77_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2228208c-9b0e-4007-90a1-f174900e3f77_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2228208c-9b0e-4007-90a1-f174900e3f77_mobile_mid.m3u8"
+        },
+        "id": "595b673d51f0744b852de0b2"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054e2f4e7cd4de1096f4",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Reading and comprehending",
+      "parentId": "58c1054e2f4e7cd4de1096f3",
+      "createdAt": "2017-03-09T07:33:34.250Z",
+      "order": 3,
+      "updatedAt": "2017-07-05T02:14:09.008Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/58717efc-7886-4780-8e65-2e05b0227021_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/58717efc-7886-4780-8e65-2e05b0227021_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/58717efc-7886-4780-8e65-2e05b0227021_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/58717efc-7886-4780-8e65-2e05b0227021_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/58717efc-7886-4780-8e65-2e05b0227021_mobile_mid.m3u8"
+        },
+        "id": "595b6e48d5ff75139038455e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054e2f4e7cd4de1096f5",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Learning about language",
+      "parentId": "58c1054e2f4e7cd4de1096f3",
+      "createdAt": "2017-03-09T07:33:34.333Z",
+      "order": 4,
+      "updatedAt": "2017-07-05T02:14:35.988Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c22bf9b0-15c2-4793-b3d3-a609638a94c9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c22bf9b0-15c2-4793-b3d3-a609638a94c9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c22bf9b0-15c2-4793-b3d3-a609638a94c9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c22bf9b0-15c2-4793-b3d3-a609638a94c9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c22bf9b0-15c2-4793-b3d3-a609638a94c9_mobile_mid.m3u8"
+        },
+        "id": "595b6d39ef23a830026e6fd1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054e2f4e7cd4de1096f6",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Using language",
+      "parentId": "58c1054e2f4e7cd4de1096f3",
+      "createdAt": "2017-03-09T07:33:34.567Z",
+      "order": 5,
+      "updatedAt": "2017-07-05T02:14:43.177Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3f37661d-b37b-48e9-8893-b04c002123e2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3f37661d-b37b-48e9-8893-b04c002123e2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3f37661d-b37b-48e9-8893-b04c002123e2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3f37661d-b37b-48e9-8893-b04c002123e2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3f37661d-b37b-48e9-8893-b04c002123e2_mobile_mid.m3u8"
+        },
+        "id": "595b6e7951f0744b65064e0e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054e2f4e7cd4de1096f7",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "语法：现在进行时表将来",
+      "parentId": "58c1054e2f4e7cd4de1096f3",
+      "createdAt": "2017-03-09T07:33:34.777Z",
+      "order": 6,
+      "updatedAt": "2017-07-05T02:14:52.207Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a8a8c951-3002-44c0-b34f-ba053988ab4b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a8a8c951-3002-44c0-b34f-ba053988ab4b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a8a8c951-3002-44c0-b34f-ba053988ab4b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a8a8c951-3002-44c0-b34f-ba053988ab4b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a8a8c951-3002-44c0-b34f-ba053988ab4b_mobile_mid.m3u8"
+        },
+        "id": "595b6ef5ef23a82ff01ce53a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054e2f4e7cd4de1096f8",
+      "hasTopic": true
+    }]
+  }, {
+    "courseId": "58bfac2d2f4e7cd4de108cc3",
+    "name": "Earthquakes",
+    "createdAt": "2017-03-09T07:33:34.936Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-04-08T07:00:07.432Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1054f2f4e7cd4de1096fa",
+    "children": [{
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "导入－Natural Disasters",
+      "parentId": "58c1054f2f4e7cd4de1096fa",
+      "createdAt": "2017-03-20T01:30:14.914Z",
+      "order": 1,
+      "updatedAt": "2017-07-05T02:16:59.334Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2c26485d-c25a-4c9c-a9ab-394bd3e6746c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2c26485d-c25a-4c9c-a9ab-394bd3e6746c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2c26485d-c25a-4c9c-a9ab-394bd3e6746c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2c26485d-c25a-4c9c-a9ab-394bd3e6746c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2c26485d-c25a-4c9c-a9ab-394bd3e6746c_mobile_mid.m3u8"
+        },
+        "id": "595b6f8fef23a82eb674681d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58cf30a62f8052899cb72057",
+      "hasTopic": false
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Warming up and pre-reading",
+      "parentId": "58c1054f2f4e7cd4de1096fa",
+      "createdAt": "2017-03-09T07:33:35.034Z",
+      "order": 2,
+      "updatedAt": "2017-07-05T02:17:05.896Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/56dea5b6-b27c-4d8d-baff-a7723e17658b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/56dea5b6-b27c-4d8d-baff-a7723e17658b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/56dea5b6-b27c-4d8d-baff-a7723e17658b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/56dea5b6-b27c-4d8d-baff-a7723e17658b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/56dea5b6-b27c-4d8d-baff-a7723e17658b_mobile_mid.m3u8"
+        },
+        "id": "595b6facef23a8302f307470"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054f2f4e7cd4de1096fb",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Reading and comprehending",
+      "parentId": "58c1054f2f4e7cd4de1096fa",
+      "createdAt": "2017-03-09T07:33:35.225Z",
+      "order": 3,
+      "updatedAt": "2017-07-05T02:17:14.385Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/145cd34d-d4f0-47df-a42a-4b12e4d35459_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/145cd34d-d4f0-47df-a42a-4b12e4d35459_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/145cd34d-d4f0-47df-a42a-4b12e4d35459_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/145cd34d-d4f0-47df-a42a-4b12e4d35459_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/145cd34d-d4f0-47df-a42a-4b12e4d35459_mobile_mid.m3u8"
+        },
+        "id": "595b72ebd5ff7513c5256cc9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054f2f4e7cd4de1096fc",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Learning about language",
+      "parentId": "58c1054f2f4e7cd4de1096fa",
+      "createdAt": "2017-03-09T07:33:35.293Z",
+      "order": 4,
+      "updatedAt": "2017-07-05T02:17:22.475Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a310db71-f26a-42fb-b6cc-e90c632fce0e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a310db71-f26a-42fb-b6cc-e90c632fce0e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a310db71-f26a-42fb-b6cc-e90c632fce0e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a310db71-f26a-42fb-b6cc-e90c632fce0e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a310db71-f26a-42fb-b6cc-e90c632fce0e_mobile_mid.m3u8"
+        },
+        "id": "595b720051f0744b852de0b4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054f2f4e7cd4de1096fd",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Using language",
+      "parentId": "58c1054f2f4e7cd4de1096fa",
+      "createdAt": "2017-03-09T07:33:35.822Z",
+      "order": 5,
+      "updatedAt": "2017-07-05T02:17:31.851Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/138346dd-3684-45d1-84b2-39acb161f0de_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/138346dd-3684-45d1-84b2-39acb161f0de_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/138346dd-3684-45d1-84b2-39acb161f0de_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/138346dd-3684-45d1-84b2-39acb161f0de_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/138346dd-3684-45d1-84b2-39acb161f0de_mobile_mid.m3u8"
+        },
+        "id": "595b7244ef23a830026e6fd3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1054f2f4e7cd4de1096fe",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "语法：定语从句（一）",
+      "parentId": "58c1054f2f4e7cd4de1096fa",
+      "createdAt": "2017-03-09T07:33:35.887Z",
+      "order": 6,
+      "updatedAt": "2017-07-05T02:17:57.635Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3a7793fc-08d0-49ab-aa81-09354c6ec51e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3a7793fc-08d0-49ab-aa81-09354c6ec51e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3a7793fc-08d0-49ab-aa81-09354c6ec51e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3a7793fc-08d0-49ab-aa81-09354c6ec51e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3a7793fc-08d0-49ab-aa81-09354c6ec51e_mobile_mid.m3u8"
+        },
+        "id": "595b72dd51f0744b2a99be83"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105502f4e7cd4de1096ff",
+      "hasTopic": true
+    }]
+  }, {
+    "courseId": "58bfac2d2f4e7cd4de108cc3",
+    "name": "Nelson Mandela-a modern hero",
+    "createdAt": "2017-03-09T07:33:36.152Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-04-08T07:00:07.578Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105502f4e7cd4de109701",
+    "children": [{
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "导入－Nelson Mandela",
+      "parentId": "58c105502f4e7cd4de109701",
+      "createdAt": "2017-03-10T15:03:34.239Z",
+      "order": 1,
+      "updatedAt": "2017-07-05T02:18:11.137Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/8f647b03-edfe-49e9-9d4d-119a31e965f3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/8f647b03-edfe-49e9-9d4d-119a31e965f3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/8f647b03-edfe-49e9-9d4d-119a31e965f3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/8f647b03-edfe-49e9-9d4d-119a31e965f3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/8f647b03-edfe-49e9-9d4d-119a31e965f3_mobile_mid.m3u8"
+        },
+        "id": "595b735b51f0744b8fa4289f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c2c0462f4e7cd4de10a49e",
+      "hasTopic": false
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Warming up and pre-reading",
+      "parentId": "58c105502f4e7cd4de109701",
+      "createdAt": "2017-03-09T07:33:36.389Z",
+      "order": 2,
+      "updatedAt": "2017-07-05T02:18:18.285Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5a9475a2-3dae-4f89-a3a6-742276b25263_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5a9475a2-3dae-4f89-a3a6-742276b25263_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5a9475a2-3dae-4f89-a3a6-742276b25263_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5a9475a2-3dae-4f89-a3a6-742276b25263_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5a9475a2-3dae-4f89-a3a6-742276b25263_mobile_mid.m3u8"
+        },
+        "id": "595b740451f0744b545a3a97"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105502f4e7cd4de109702",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Reading and comprehending",
+      "parentId": "58c105502f4e7cd4de109701",
+      "createdAt": "2017-03-09T07:33:36.486Z",
+      "order": 3,
+      "updatedAt": "2017-07-05T02:18:30.626Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/905d79e1-0be7-4675-be42-6fd6abcbf173_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/905d79e1-0be7-4675-be42-6fd6abcbf173_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/905d79e1-0be7-4675-be42-6fd6abcbf173_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/905d79e1-0be7-4675-be42-6fd6abcbf173_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/905d79e1-0be7-4675-be42-6fd6abcbf173_mobile_mid.m3u8"
+        },
+        "id": "595b74e251f0744b7dbf1c96"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105502f4e7cd4de109703",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Learning about language",
+      "parentId": "58c105502f4e7cd4de109701",
+      "createdAt": "2017-03-09T07:33:36.592Z",
+      "order": 4,
+      "updatedAt": "2017-07-05T02:18:38.277Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2e146ade-8082-4024-9a11-4ccbbc0f3f8b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2e146ade-8082-4024-9a11-4ccbbc0f3f8b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2e146ade-8082-4024-9a11-4ccbbc0f3f8b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2e146ade-8082-4024-9a11-4ccbbc0f3f8b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2e146ade-8082-4024-9a11-4ccbbc0f3f8b_mobile_mid.m3u8"
+        },
+        "id": "595b74ff51f0744b5e0d553f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105502f4e7cd4de109704",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "Using language",
+      "parentId": "58c105502f4e7cd4de109701",
+      "createdAt": "2017-03-09T07:33:36.693Z",
+      "order": 5,
+      "updatedAt": "2017-07-05T02:18:46.682Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c5b875e6-8ab4-4b81-a2d4-927e43da7c80_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c5b875e6-8ab4-4b81-a2d4-927e43da7c80_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c5b875e6-8ab4-4b81-a2d4-927e43da7c80_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c5b875e6-8ab4-4b81-a2d4-927e43da7c80_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c5b875e6-8ab4-4b81-a2d4-927e43da7c80_mobile_mid.m3u8"
+        },
+        "id": "595b753bef23a82ffd2354a3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105502f4e7cd4de109705",
+      "hasTopic": true
+    }, {
+      "courseId": "58bfac2d2f4e7cd4de108cc3",
+      "name": "语法：定语从句（二）",
+      "parentId": "58c105502f4e7cd4de109701",
+      "createdAt": "2017-03-09T07:33:36.850Z",
+      "order": 6,
+      "updatedAt": "2017-07-05T02:18:54.287Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/29358fcd-2914-4b11-8277-50371b2d9ed3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/29358fcd-2914-4b11-8277-50371b2d9ed3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/29358fcd-2914-4b11-8277-50371b2d9ed3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/29358fcd-2914-4b11-8277-50371b2d9ed3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/29358fcd-2914-4b11-8277-50371b2d9ed3_mobile_mid.m3u8"
+        },
+        "id": "595b75a851f0744b8fa428a1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105502f4e7cd4de109706",
+      "hasTopic": true
+    }]
+  }],
+  "hasTopic": false
+}

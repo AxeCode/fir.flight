@@ -1,0 +1,752 @@
+{
+  "deletedAt": null,
+  "deleted": false,
+  "createdAt": "2017-08-17T02:23:29.390Z",
+  "updatedAt": "2018-01-02T14:49:29.371Z",
+  "name": "高中物理必修1串讲",
+  "price": 158,
+  "hide": false,
+  "major": "586d234f5f07127674152c4b",
+  "description": "本课程旨在引发高中生学习物理的兴趣。从知识上由近及远、由浅入深、让学生动手动脑了解物理概念规律的产生过程。",
+  "expiration": 12,
+  "smallImage": "http://imgs.wanmen.org/84a57e7dce67d31a5acadacb8d2bbbba.png",
+  "bigImage": "http://imgs.wanmen.org/c4aa59b45d3691894b512680b8cfe2be.png",
+  "teacher": {
+    "name": "王志轩",
+    "avatar": "http://imgs.wanmen.org/87c442c2d66553eb56253ec4bf57f988.png",
+    "description": "北大物理本硕连读，曾任教北大附中、十一学校。中学一级教师，十年培训经验。丰富的理综复习经验，能力短期显著提升。教学成绩显著，学生多人考入北清名校。“国培计划”上公开课并获一致好评。接受中国教育台采访，学生表示：逻辑清晰，耐心细致，人气爆棚。",
+    "id": "59c0d04b6614d35df527582e"
+  },
+  "numOfClasses": 3,
+  "order": 3,
+  "tag": "王志轩 高中 物理 必修1 串讲 ",
+  "videoCount": 23,
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 11,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 3,
+  "teacherDescription": "北大物理本硕连读，曾任教北大附中、十一学校。中学一级教师，十年培训经验。丰富的理综复习经验，能力短期显著提升。教学成绩显著，学生多人考入北清名校。“国培计划”上公开课并获一致好评。接受中国教育台采访，学生表示：逻辑清晰，耐心细致，人气爆棚。",
+  "teacherAvatar": "http://imgs.wanmen.org/87c442c2d66553eb56253ec4bf57f988.png",
+  "teacherName": "王志轩",
+  "mobileCoverUrl": "http://imgs.wanmen.org/84a57e7dce67d31a5acadacb8d2bbbba.png",
+  "coverUrl": "http://imgs.wanmen.org/c4aa59b45d3691894b512680b8cfe2be.png",
+  "smallImageUrl": "http://imgs.wanmen.org/84a57e7dce67d31a5acadacb8d2bbbba.png",
+  "bigImageUrl": "http://imgs.wanmen.org/c4aa59b45d3691894b512680b8cfe2be.png",
+  "id": "5994fe2110020b27528d19b1",
+  "lectures": [{
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-27T03:14:11.614Z",
+    "updatedAt": "2017-09-27T03:16:38.217Z",
+    "courseId": "5994fe2110020b27528d19b1",
+    "name": "匀速直线运动",
+    "order": 1,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59cb17833412c03a8abe9f42",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:14:20.439Z",
+      "updatedAt": "2017-12-20T07:07:28.257Z",
+      "parentId": "59cb17833412c03a8abe9f42",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "课程内容介绍",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_mobile_mid.m3u8"
+        },
+        "id": "59c4d67151f0744b7dbf1ccf"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59cb178c831b92181c448a2f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/f2fb6dc4-9e7e-4f89-8678-ed4acbdb7fc1_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:14:30.457Z",
+      "updatedAt": "2017-12-20T07:07:33.305Z",
+      "parentId": "59cb17833412c03a8abe9f42",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "运动的基本描述（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_mobile_mid.m3u8"
+        },
+        "id": "59c4d6a151f07461f271af7a"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59cb1796b326f467e34dfd3f",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/40474425-af2a-469a-b96e-2a3ac6fd66d9_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:14:39.147Z",
+      "updatedAt": "2017-12-20T07:07:37.544Z",
+      "parentId": "59cb17833412c03a8abe9f42",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "运动的基本描述（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_mobile_mid.m3u8"
+        },
+        "id": "59c4d6df51f0744b84e04bf2"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59cb179f3412c03a8abe9f44",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/20db751d-3548-4959-a907-ac192909d5e5_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:14:47.670Z",
+      "updatedAt": "2017-12-20T07:07:44.527Z",
+      "parentId": "59cb17833412c03a8abe9f42",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "匀变速直线运动的规律（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_mobile_mid.m3u8"
+        },
+        "id": "59c4d71c51f0740fe95972e1"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59cb17a7831b92181c448a31",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/618e1543-32ce-4113-92d4-5ab028aa3674_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:14:56.572Z",
+      "updatedAt": "2017-12-20T07:08:28.514Z",
+      "parentId": "59cb17833412c03a8abe9f42",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "匀变速直线运动的规律（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_mobile_mid.m3u8"
+        },
+        "id": "59c4d75f51f0745f5e330aef"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59cb17b0b326f467e34dfd41",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/51f70957-b1bf-451a-a27d-da2849463ea7_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:15:05.539Z",
+      "updatedAt": "2017-12-20T07:08:32.593Z",
+      "parentId": "59cb17833412c03a8abe9f42",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "匀变速直线运动的规律（三）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_mobile_mid.m3u8"
+        },
+        "id": "59c4d77fef23a830822d9cb9"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59cb17b93412c03a8abe9f46",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/99160de2-b155-4943-83d3-5124b95394ed_mobile_mid.m3u8"
+      }
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:15:13.928Z",
+      "updatedAt": "2017-12-20T07:08:38.551Z",
+      "parentId": "59cb17833412c03a8abe9f42",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "运动图像、追及、相遇",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_mobile_mid.m3u8"
+        },
+        "id": "59c4d7a6ef23a80d3835cd06"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hide": false,
+      "id": "59cb17c1831b92181c448a33",
+      "hasTopic": false,
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/89534f58-3500-447d-b465-74a5d33f6e0a_mobile_mid.m3u8"
+      }
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-27T03:16:30.607Z",
+    "updatedAt": "2017-09-27T03:16:40.445Z",
+    "courseId": "5994fe2110020b27528d19b1",
+    "name": "力的相互作用",
+    "order": 2,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59cb180eb326f467e34dfd43",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:16:45.427Z",
+      "updatedAt": "2017-12-20T07:08:45.676Z",
+      "parentId": "59cb180eb326f467e34dfd43",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "重力、弹力、摩擦力",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7b92f7c7-4185-4ce9-a53f-0ca7184b3136_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7b92f7c7-4185-4ce9-a53f-0ca7184b3136_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7b92f7c7-4185-4ce9-a53f-0ca7184b3136_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7b92f7c7-4185-4ce9-a53f-0ca7184b3136_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7b92f7c7-4185-4ce9-a53f-0ca7184b3136_mobile_mid.m3u8"
+        },
+        "id": "59c4d7ceef23a8305dbf4e06"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb181d3412c03a8abe9f48",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:16:57.588Z",
+      "updatedAt": "2017-12-20T07:08:48.784Z",
+      "parentId": "59cb180eb326f467e34dfd43",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "胡克定律",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0a885ffa-7508-4708-9eb9-2473ff576c9e_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0a885ffa-7508-4708-9eb9-2473ff576c9e_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0a885ffa-7508-4708-9eb9-2473ff576c9e_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0a885ffa-7508-4708-9eb9-2473ff576c9e_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0a885ffa-7508-4708-9eb9-2473ff576c9e_mobile_mid.m3u8"
+        },
+        "id": "59c4d7f3ef23a8300dc58fb3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1829831b92181c448a35",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:21:52.199Z",
+      "updatedAt": "2017-12-20T07:08:51.765Z",
+      "parentId": "59cb180eb326f467e34dfd43",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "力的合成与分解（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/21d9722c-b27a-403a-b088-4fecaa9a7dbf_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/21d9722c-b27a-403a-b088-4fecaa9a7dbf_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/21d9722c-b27a-403a-b088-4fecaa9a7dbf_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/21d9722c-b27a-403a-b088-4fecaa9a7dbf_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/21d9722c-b27a-403a-b088-4fecaa9a7dbf_mobile_mid.m3u8"
+        },
+        "id": "59c4d84451f0744b84e04bf3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb19500640e717de3a4762",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:22:00.999Z",
+      "updatedAt": "2017-12-20T07:08:58.012Z",
+      "parentId": "59cb180eb326f467e34dfd43",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "力的合成与分解（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/79f5e24a-d187-4069-9630-6408e5e4bdc0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/79f5e24a-d187-4069-9630-6408e5e4bdc0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/79f5e24a-d187-4069-9630-6408e5e4bdc0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/79f5e24a-d187-4069-9630-6408e5e4bdc0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/79f5e24a-d187-4069-9630-6408e5e4bdc0_mobile_mid.m3u8"
+        },
+        "id": "59c4d9ffd5ff7513c5256cfb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1958831b92181c448a37",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }, {
+    "deletedAt": null,
+    "deleted": false,
+    "createdAt": "2017-09-27T03:22:12.453Z",
+    "updatedAt": "2017-09-27T03:22:17.081Z",
+    "courseId": "5994fe2110020b27528d19b1",
+    "name": "牛顿运动定律",
+    "order": 3,
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "59cb196428a9184efc9f159c",
+    "children": [{
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:24:25.849Z",
+      "updatedAt": "2017-12-20T07:09:04.740Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿第一定律",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d9796050-b14f-48d1-9846-b0f59069c9c5_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d9796050-b14f-48d1-9846-b0f59069c9c5_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d9796050-b14f-48d1-9846-b0f59069c9c5_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d9796050-b14f-48d1-9846-b0f59069c9c5_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d9796050-b14f-48d1-9846-b0f59069c9c5_mobile_mid.m3u8"
+        },
+        "id": "59ca28e251f0744e3b24b179"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb19e928a9184efc9f159e",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:24:36.487Z",
+      "updatedAt": "2017-12-20T07:09:08.406Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿第三定律",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/61d3d9a3-7a95-4b49-8294-b058eaf05099_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/61d3d9a3-7a95-4b49-8294-b058eaf05099_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/61d3d9a3-7a95-4b49-8294-b058eaf05099_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/61d3d9a3-7a95-4b49-8294-b058eaf05099_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/61d3d9a3-7a95-4b49-8294-b058eaf05099_mobile_mid.m3u8"
+        },
+        "id": "59ca290eef23a82456d49ef1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb19f40640e717de3a4764",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:24:45.250Z",
+      "updatedAt": "2017-12-20T07:09:11.583Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿第二定律（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b0804e4c-489d-4bc0-9d78-3b312f03a314_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b0804e4c-489d-4bc0-9d78-3b312f03a314_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b0804e4c-489d-4bc0-9d78-3b312f03a314_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b0804e4c-489d-4bc0-9d78-3b312f03a314_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b0804e4c-489d-4bc0-9d78-3b312f03a314_mobile_mid.m3u8"
+        },
+        "id": "59ca297f51f0741880952ae7"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb19fd831b92181c448a39",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:24:55.380Z",
+      "updatedAt": "2017-12-20T07:09:18.866Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿第二定律（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e257f5ed-43b0-40bd-adfb-8841c1a0736b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e257f5ed-43b0-40bd-adfb-8841c1a0736b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e257f5ed-43b0-40bd-adfb-8841c1a0736b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e257f5ed-43b0-40bd-adfb-8841c1a0736b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e257f5ed-43b0-40bd-adfb-8841c1a0736b_mobile_mid.m3u8"
+        },
+        "id": "59ca29d651f07461f271af7d"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a0728a9184efc9f15a0",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:25:04.027Z",
+      "updatedAt": "2017-12-20T07:09:24.458Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿第二定律实验（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0d3a1044-469d-4df3-9770-a56baef22352_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0d3a1044-469d-4df3-9770-a56baef22352_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0d3a1044-469d-4df3-9770-a56baef22352_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0d3a1044-469d-4df3-9770-a56baef22352_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0d3a1044-469d-4df3-9770-a56baef22352_mobile_mid.m3u8"
+        },
+        "id": "59ca2b89d5ff7513ad660944"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a100640e717de3a4766",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:25:12.531Z",
+      "updatedAt": "2017-12-20T07:09:30.758Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿第二定律实验（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b5184f02-ad8a-48a5-b6a0-e0c33b0b847a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b5184f02-ad8a-48a5-b6a0-e0c33b0b847a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b5184f02-ad8a-48a5-b6a0-e0c33b0b847a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b5184f02-ad8a-48a5-b6a0-e0c33b0b847a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b5184f02-ad8a-48a5-b6a0-e0c33b0b847a_mobile_mid.m3u8"
+        },
+        "id": "59ca2a4f51f0745491cecce1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a18831b92181c448a3b",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:25:20.903Z",
+      "updatedAt": "2017-12-20T07:09:34.418Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "共点力平衡（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/be44567e-3457-4dd4-a48c-1e43047c1e9c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/be44567e-3457-4dd4-a48c-1e43047c1e9c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/be44567e-3457-4dd4-a48c-1e43047c1e9c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/be44567e-3457-4dd4-a48c-1e43047c1e9c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/be44567e-3457-4dd4-a48c-1e43047c1e9c_mobile_mid.m3u8"
+        },
+        "id": "59ca2a7aef23a86cb312199b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a2028a9184efc9f15a2",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:25:29.842Z",
+      "updatedAt": "2017-12-20T07:09:37.941Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "共点力平衡（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9dcbf844-168b-4542-a3e4-5b31d774e46d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9dcbf844-168b-4542-a3e4-5b31d774e46d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9dcbf844-168b-4542-a3e4-5b31d774e46d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9dcbf844-168b-4542-a3e4-5b31d774e46d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9dcbf844-168b-4542-a3e4-5b31d774e46d_mobile_mid.m3u8"
+        },
+        "id": "59ca2c35d5ff7513ad660945"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a290640e717de3a4768",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:25:38.597Z",
+      "updatedAt": "2017-12-20T07:09:41.907Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "整体法与隔离法",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d8486494-8df4-4b48-a91a-6614e95741b0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d8486494-8df4-4b48-a91a-6614e95741b0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d8486494-8df4-4b48-a91a-6614e95741b0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d8486494-8df4-4b48-a91a-6614e95741b0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d8486494-8df4-4b48-a91a-6614e95741b0_mobile_mid.m3u8"
+        },
+        "id": "59ca2b1a51f074626ee1fc2a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a32831b92181c448a3d",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:25:47.776Z",
+      "updatedAt": "2017-12-20T07:09:45.664Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿第二定律的应用",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/e3e1c5fb-97cd-4a7e-8cb3-85a31426c749_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/e3e1c5fb-97cd-4a7e-8cb3-85a31426c749_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/e3e1c5fb-97cd-4a7e-8cb3-85a31426c749_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/e3e1c5fb-97cd-4a7e-8cb3-85a31426c749_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/e3e1c5fb-97cd-4a7e-8cb3-85a31426c749_mobile_mid.m3u8"
+        },
+        "id": "59ca2b7951f0744e3b24b17a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a3b28a9184efc9f15a4",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:25:57.854Z",
+      "updatedAt": "2017-12-20T07:09:49.384Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿定律专题（一）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6a28ae01-6e40-4b89-88c0-fcf330a8b7f6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6a28ae01-6e40-4b89-88c0-fcf330a8b7f6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6a28ae01-6e40-4b89-88c0-fcf330a8b7f6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6a28ae01-6e40-4b89-88c0-fcf330a8b7f6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6a28ae01-6e40-4b89-88c0-fcf330a8b7f6_mobile_mid.m3u8"
+        },
+        "id": "59ca2bfb51f0740e078102be"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a450640e717de3a476a",
+      "hasTopic": false,
+      "hls": {}
+    }, {
+      "deletedAt": null,
+      "deleted": false,
+      "createdAt": "2017-09-27T03:26:15.713Z",
+      "updatedAt": "2017-12-20T07:09:54.168Z",
+      "parentId": "59cb196428a9184efc9f159c",
+      "courseId": "5994fe2110020b27528d19b1",
+      "name": "牛顿定律专题（二）",
+      "order": 0,
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/75a61765-5b8d-4b3e-8a31-a6da4076b67c_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/75a61765-5b8d-4b3e-8a31-a6da4076b67c_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/75a61765-5b8d-4b3e-8a31-a6da4076b67c_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/75a61765-5b8d-4b3e-8a31-a6da4076b67c_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/75a61765-5b8d-4b3e-8a31-a6da4076b67c_mobile_mid.m3u8"
+        },
+        "id": "59ca2c6f51f0744b127f8697"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hide": false,
+      "id": "59cb1a57831b92181c448a3f",
+      "hasTopic": false,
+      "hls": {}
+    }]
+  }],
+  "hasTopic": false
+}

@@ -1,0 +1,1039 @@
+{
+  "id": "58bd64962f4e7cd4de1081d1",
+  "createdAt": "2017-03-06T13:31:02.252Z",
+  "price": 158,
+  "description": "高中政治必修四（生活与哲学），是高中政治课的重要组成部分，各地高考试卷必考的部分，主要介绍哲学的含义、内容，马克思主义的辩证唯物主义（唯物论、辩证法、认识论）和历史唯物主义（唯物史观、价值观）等内容",
+  "name": "政治必修4",
+  "updatedAt": "2018-01-13T03:39:31.961Z",
+  "major": "586d234f5f07127674152c5f",
+  "homeSmallImage": "http://img.wanmen.org/images/d68dab18-8988-4f29-a227-a5f24415c2a8.png",
+  "mobileSmallImage": "http://img.wanmen.org/images/9789560a-750d-4d88-be4c-26e04f49d704.png",
+  "bigImage": "http://imgs.wanmen.org/dd3e542d65fa3626a7ca48e4edea35a9.png",
+  "smallImage": "http://imgs.wanmen.org/11cc866380c6d55a765709c14c57c2d7.png",
+  "shortDescription": "主要介绍哲学的含义、内容，马克思主义的辩证唯物主义（唯物论、辩证法、认识论）和历史唯物主义（唯物史观、价值观）等内容",
+  "logo": "http://img.wanmen.org/images/defa5f6e-89ee-406c-97e1-46cd90168e68.png",
+  "order": 4,
+  "hide": false,
+  "bookId": [],
+  "smallImageUrl": "http://imgs.wanmen.org/11cc866380c6d55a765709c14c57c2d7.png",
+  "smallMobileImageUrl": "http://imgs.wanmen.org/dcfd40467fe475049cc13c4f390cf45e.png",
+  "bigImageUrl": "http://imgs.wanmen.org/dd3e542d65fa3626a7ca48e4edea35a9.png",
+  "teacherAvatar": "http://imgs.wanmen.org/5566fa2555e7aeec66325da5b8ecf77b.png",
+  "teacherDescription": "王亮，清华大学博士研究生，曾在多家中学课外辅导机构任职，讲授高中政治等课程，知识渊博，风趣幽默，深受广大学生的喜爱。",
+  "teacherName": "王亮",
+  "teacher": {
+    "name": "王亮",
+    "description": "王亮，清华大学博士研究生，曾在多家中学课外辅导机构任职，讲授高中政治等课程，知识渊博，风趣幽默，深受广大学生的喜爱。",
+    "avatar": "http://imgs.wanmen.org/5566fa2555e7aeec66325da5b8ecf77b.png",
+    "id": "586d235f5f0712767415d50d"
+  },
+  "numOfClasses": 11,
+  "expiration": 12,
+  "videoCount": 33,
+  "tag": "王亮 高中 政治 必修 4",
+  "isOnLive": false,
+  "playbackStatus": "pending",
+  "status": "disconnected",
+  "introductionImages": [],
+  "schedule": [],
+  "type": "record",
+  "likes": 59,
+  "specialTrainingOrder": 0,
+  "app": "mid",
+  "numberOfClasses": 11,
+  "mobileCoverUrl": "http://imgs.wanmen.org/11cc866380c6d55a765709c14c57c2d7.png",
+  "coverUrl": "http://imgs.wanmen.org/dd3e542d65fa3626a7ca48e4edea35a9.png",
+  "lectures": [{
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "哲学的含义",
+    "createdAt": "2017-03-09T07:33:18.251Z",
+    "order": 1,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:03.908Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053e2f4e7cd4de109691",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "哲学是什么",
+      "parentId": "58c1053e2f4e7cd4de109691",
+      "createdAt": "2017-03-09T07:33:18.362Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:00:37.150Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_mobile_mid.m3u8"
+        },
+        "id": "590a8a82ef23a8306818d0c7"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/caed0924-daf4-44cf-974b-faafec4fa6d4_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1053e2f4e7cd4de109692",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "哲学的作用与时代精神",
+      "parentId": "58c1053e2f4e7cd4de109691",
+      "createdAt": "2017-03-09T07:33:18.435Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:00:41.414Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_mobile_mid.m3u8"
+        },
+        "id": "590a8b51ef23a82ffd235418"
+      },
+      "actions": {
+        "download": false,
+        "watch": true
+      },
+      "hls": {
+        "mobileLow": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_mobile_low.m3u8",
+        "pcLow": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_pc_low.m3u8",
+        "pcHigh": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_pc_high.m3u8",
+        "pcMid": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_pc_mid.m3u8",
+        "mobileMid": "http://media.wanmen.org/7e1dabbf-06c2-4ebb-82d3-78d1b5125e21_mobile_mid.m3u8"
+      },
+      "hide": false,
+      "id": "58c1053e2f4e7cd4de109693",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "哲学的思想",
+    "createdAt": "2017-03-09T07:33:18.515Z",
+    "order": 2,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:03.973Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053e2f4e7cd4de109694",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "哲学的基本问题",
+      "parentId": "58c1053e2f4e7cd4de109694",
+      "createdAt": "2017-03-09T07:33:18.687Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:00:48.376Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/45a28835-b9d5-4e3f-9cd1-8934467d66c1_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/45a28835-b9d5-4e3f-9cd1-8934467d66c1_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/45a28835-b9d5-4e3f-9cd1-8934467d66c1_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/45a28835-b9d5-4e3f-9cd1-8934467d66c1_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/45a28835-b9d5-4e3f-9cd1-8934467d66c1_mobile_mid.m3u8"
+        },
+        "id": "590a8dfeef23a8302b0c3561"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053e2f4e7cd4de109695",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "哲学的基本派别1",
+      "parentId": "58c1053e2f4e7cd4de109694",
+      "createdAt": "2017-03-09T07:33:18.791Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:01:04.693Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/9aae6cd7-97c8-49f0-9a69-e7675d16e2da_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/9aae6cd7-97c8-49f0-9a69-e7675d16e2da_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/9aae6cd7-97c8-49f0-9a69-e7675d16e2da_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/9aae6cd7-97c8-49f0-9a69-e7675d16e2da_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/9aae6cd7-97c8-49f0-9a69-e7675d16e2da_mobile_mid.m3u8"
+        },
+        "id": "590a9089ef23a83055f06494"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053e2f4e7cd4de109696",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "哲学的基本派别2",
+      "parentId": "58c1053e2f4e7cd4de109694",
+      "createdAt": "2017-03-09T07:33:18.925Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:01:11.327Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a9a7e7ff-8a4f-4b8a-b0a1-2864d302ad15_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a9a7e7ff-8a4f-4b8a-b0a1-2864d302ad15_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a9a7e7ff-8a4f-4b8a-b0a1-2864d302ad15_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a9a7e7ff-8a4f-4b8a-b0a1-2864d302ad15_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a9a7e7ff-8a4f-4b8a-b0a1-2864d302ad15_mobile_mid.m3u8"
+        },
+        "id": "590a951bd5ff75234875d904"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053e2f4e7cd4de109697",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "马克思主义哲学",
+      "parentId": "58c1053e2f4e7cd4de109694",
+      "createdAt": "2017-03-09T07:33:18.994Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T02:01:15.882Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/837f8c81-d90c-43f1-90cf-210360c8f5c6_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/837f8c81-d90c-43f1-90cf-210360c8f5c6_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/837f8c81-d90c-43f1-90cf-210360c8f5c6_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/837f8c81-d90c-43f1-90cf-210360c8f5c6_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/837f8c81-d90c-43f1-90cf-210360c8f5c6_mobile_mid.m3u8"
+        },
+        "id": "590a94f4ef23a82fd4f5dba1"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053f2f4e7cd4de109698",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "世界的本质",
+    "createdAt": "2017-03-09T07:33:19.079Z",
+    "order": 3,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.068Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053f2f4e7cd4de109699",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "哲学的物质概念",
+      "parentId": "58c1053f2f4e7cd4de109699",
+      "createdAt": "2017-03-09T07:33:19.158Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:01:22.623Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4ea7fc10-83f8-4443-9a9f-b7b6a5e9a061_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4ea7fc10-83f8-4443-9a9f-b7b6a5e9a061_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4ea7fc10-83f8-4443-9a9f-b7b6a5e9a061_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4ea7fc10-83f8-4443-9a9f-b7b6a5e9a061_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4ea7fc10-83f8-4443-9a9f-b7b6a5e9a061_mobile_mid.m3u8"
+        },
+        "id": "590a96cfd5ff7523884127fb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053f2f4e7cd4de10969a",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "哲学的运动概念",
+      "parentId": "58c1053f2f4e7cd4de109699",
+      "createdAt": "2017-03-09T07:33:19.334Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:01:26.054Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/78c70ce9-57b9-40f5-a2a7-d93ed372a1d7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/78c70ce9-57b9-40f5-a2a7-d93ed372a1d7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/78c70ce9-57b9-40f5-a2a7-d93ed372a1d7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/78c70ce9-57b9-40f5-a2a7-d93ed372a1d7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/78c70ce9-57b9-40f5-a2a7-d93ed372a1d7_mobile_mid.m3u8"
+        },
+        "id": "590a95f6ef23a83038f67bf8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053f2f4e7cd4de10969b",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "物质运动的规律",
+      "parentId": "58c1053f2f4e7cd4de109699",
+      "createdAt": "2017-03-09T07:33:19.403Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:01:30.390Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/b3933036-37c2-43aa-b1ab-5e4865c3febb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/b3933036-37c2-43aa-b1ab-5e4865c3febb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/b3933036-37c2-43aa-b1ab-5e4865c3febb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/b3933036-37c2-43aa-b1ab-5e4865c3febb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/b3933036-37c2-43aa-b1ab-5e4865c3febb_mobile_mid.m3u8"
+        },
+        "id": "590a962cef23a830026e6f3e"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053f2f4e7cd4de10969c",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "思维",
+    "createdAt": "2017-03-09T07:33:19.475Z",
+    "order": 4,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.151Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053f2f4e7cd4de10969d",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "物质决定意识",
+      "parentId": "58c1053f2f4e7cd4de10969d",
+      "createdAt": "2017-03-09T07:33:19.603Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:01:37.446Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2f892837-8912-4fc0-a9bc-91507ae3d634_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2f892837-8912-4fc0-a9bc-91507ae3d634_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2f892837-8912-4fc0-a9bc-91507ae3d634_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2f892837-8912-4fc0-a9bc-91507ae3d634_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2f892837-8912-4fc0-a9bc-91507ae3d634_mobile_mid.m3u8"
+        },
+        "id": "590a967eef23a8301e5ebdb8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053f2f4e7cd4de10969e",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "意识的能动作用",
+      "parentId": "58c1053f2f4e7cd4de10969d",
+      "createdAt": "2017-03-09T07:33:19.681Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:01:41.507Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/84f97604-5c45-4f41-b8d5-6d676ac4cc5f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/84f97604-5c45-4f41-b8d5-6d676ac4cc5f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/84f97604-5c45-4f41-b8d5-6d676ac4cc5f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/84f97604-5c45-4f41-b8d5-6d676ac4cc5f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/84f97604-5c45-4f41-b8d5-6d676ac4cc5f_mobile_mid.m3u8"
+        },
+        "id": "590a97e6d5ff75238e3f6c6a"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053f2f4e7cd4de10969f",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "客观规律和主观能动性",
+      "parentId": "58c1053f2f4e7cd4de10969d",
+      "createdAt": "2017-03-09T07:33:19.834Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:01:45.554Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f33e9bba-e989-44c4-9e40-a88c03e62537_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f33e9bba-e989-44c4-9e40-a88c03e62537_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f33e9bba-e989-44c4-9e40-a88c03e62537_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f33e9bba-e989-44c4-9e40-a88c03e62537_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f33e9bba-e989-44c4-9e40-a88c03e62537_mobile_mid.m3u8"
+        },
+        "id": "590a981fd5ff7523884127fc"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c1053f2f4e7cd4de1096a0",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "认识论",
+    "createdAt": "2017-03-09T07:33:19.922Z",
+    "order": 5,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.228Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c1053f2f4e7cd4de1096a1",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "实践1",
+      "parentId": "58c1053f2f4e7cd4de1096a1",
+      "createdAt": "2017-03-09T07:33:20.010Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:01:51.660Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0a870fc8-52f0-4903-bdd7-2d25d427e250_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0a870fc8-52f0-4903-bdd7-2d25d427e250_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0a870fc8-52f0-4903-bdd7-2d25d427e250_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0a870fc8-52f0-4903-bdd7-2d25d427e250_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0a870fc8-52f0-4903-bdd7-2d25d427e250_mobile_mid.m3u8"
+        },
+        "id": "590a9736ef23a83055f06495"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105402f4e7cd4de1096a2",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "实践2",
+      "parentId": "58c1053f2f4e7cd4de1096a1",
+      "createdAt": "2017-03-09T07:33:20.080Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:01:55.651Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ff6f9863-c8e8-40c5-8083-cb42a9d58f4a_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ff6f9863-c8e8-40c5-8083-cb42a9d58f4a_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ff6f9863-c8e8-40c5-8083-cb42a9d58f4a_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ff6f9863-c8e8-40c5-8083-cb42a9d58f4a_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ff6f9863-c8e8-40c5-8083-cb42a9d58f4a_mobile_mid.m3u8"
+        },
+        "id": "590a9896d5ff752355355748"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105402f4e7cd4de1096a3",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "真理",
+      "parentId": "58c1053f2f4e7cd4de1096a1",
+      "createdAt": "2017-03-09T07:33:20.297Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:01:59.314Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/2da2bfad-5f38-4909-8851-6d231ea5275f_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/2da2bfad-5f38-4909-8851-6d231ea5275f_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/2da2bfad-5f38-4909-8851-6d231ea5275f_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/2da2bfad-5f38-4909-8851-6d231ea5275f_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/2da2bfad-5f38-4909-8851-6d231ea5275f_mobile_mid.m3u8"
+        },
+        "id": "590a97a4ef23a8302f3073f3"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105402f4e7cd4de1096a4",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "认识过程",
+      "parentId": "58c1053f2f4e7cd4de1096a1",
+      "createdAt": "2017-03-09T07:33:20.817Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T02:02:03.126Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c791d213-9bcb-4deb-b381-5944ca778189_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c791d213-9bcb-4deb-b381-5944ca778189_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c791d213-9bcb-4deb-b381-5944ca778189_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c791d213-9bcb-4deb-b381-5944ca778189_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c791d213-9bcb-4deb-b381-5944ca778189_mobile_mid.m3u8"
+        },
+        "id": "590a97d9ef23a82ff01ce4b9"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105402f4e7cd4de1096a5",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "联系",
+    "createdAt": "2017-03-09T07:33:20.897Z",
+    "order": 6,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.378Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105412f4e7cd4de1096a6",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "唯物辩证法",
+      "parentId": "58c105412f4e7cd4de1096a6",
+      "createdAt": "2017-03-09T07:33:21.032Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:02:10.517Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/31c2d3be-028a-4004-81cd-9ba97a8dccd4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/31c2d3be-028a-4004-81cd-9ba97a8dccd4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/31c2d3be-028a-4004-81cd-9ba97a8dccd4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/31c2d3be-028a-4004-81cd-9ba97a8dccd4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/31c2d3be-028a-4004-81cd-9ba97a8dccd4_mobile_mid.m3u8"
+        },
+        "id": "590a98eaef23a83018b34d12"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105412f4e7cd4de1096a7",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "联系观",
+      "parentId": "58c105412f4e7cd4de1096a6",
+      "createdAt": "2017-03-09T07:33:21.186Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:02:13.857Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/f2cd10d1-7eb6-4963-b0d3-45dffe0ecfb3_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/f2cd10d1-7eb6-4963-b0d3-45dffe0ecfb3_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/f2cd10d1-7eb6-4963-b0d3-45dffe0ecfb3_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/f2cd10d1-7eb6-4963-b0d3-45dffe0ecfb3_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/f2cd10d1-7eb6-4963-b0d3-45dffe0ecfb3_mobile_mid.m3u8"
+        },
+        "id": "590a993aef23a830026e6f3f"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105412f4e7cd4de1096a8",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "用联系的观点看问题",
+      "parentId": "58c105412f4e7cd4de1096a6",
+      "createdAt": "2017-03-09T07:33:21.239Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:02:17.148Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3aa30c5b-5052-41e5-8a01-567176b149ae_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3aa30c5b-5052-41e5-8a01-567176b149ae_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3aa30c5b-5052-41e5-8a01-567176b149ae_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3aa30c5b-5052-41e5-8a01-567176b149ae_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3aa30c5b-5052-41e5-8a01-567176b149ae_mobile_mid.m3u8"
+        },
+        "id": "590a9983ef23a83062694859"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105412f4e7cd4de1096a9",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "发展",
+    "createdAt": "2017-03-09T07:33:21.371Z",
+    "order": 7,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.479Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105412f4e7cd4de1096aa",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "发展观1",
+      "parentId": "58c105412f4e7cd4de1096aa",
+      "createdAt": "2017-03-09T07:33:21.479Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:02:24.103Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/3a53d73b-dd25-4577-8417-988b7dae1c2b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/3a53d73b-dd25-4577-8417-988b7dae1c2b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/3a53d73b-dd25-4577-8417-988b7dae1c2b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/3a53d73b-dd25-4577-8417-988b7dae1c2b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/3a53d73b-dd25-4577-8417-988b7dae1c2b_mobile_mid.m3u8"
+        },
+        "id": "590a99a7ef23a82ff01ce4ba"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105412f4e7cd4de1096ab",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "发展观2",
+      "parentId": "58c105412f4e7cd4de1096aa",
+      "createdAt": "2017-03-09T07:33:21.629Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:02:27.742Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/d43f3784-3596-4606-8c78-85425ac4d2a2_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/d43f3784-3596-4606-8c78-85425ac4d2a2_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/d43f3784-3596-4606-8c78-85425ac4d2a2_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/d43f3784-3596-4606-8c78-85425ac4d2a2_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/d43f3784-3596-4606-8c78-85425ac4d2a2_mobile_mid.m3u8"
+        },
+        "id": "590a99eeef23a82ff01ce4bb"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105412f4e7cd4de1096ac",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "矛盾",
+    "createdAt": "2017-03-09T07:33:21.697Z",
+    "order": 8,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.546Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105412f4e7cd4de1096ad",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "矛盾的概念1",
+      "parentId": "58c105412f4e7cd4de1096ad",
+      "createdAt": "2017-03-09T07:33:21.962Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:02:33.804Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/ecf55dff-8f74-462d-a4f5-d2eb422954f7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/ecf55dff-8f74-462d-a4f5-d2eb422954f7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/ecf55dff-8f74-462d-a4f5-d2eb422954f7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/ecf55dff-8f74-462d-a4f5-d2eb422954f7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/ecf55dff-8f74-462d-a4f5-d2eb422954f7_mobile_mid.m3u8"
+        },
+        "id": "590a9a4def23a8304db83376"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105422f4e7cd4de1096ae",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "矛盾的概念2",
+      "parentId": "58c105412f4e7cd4de1096ad",
+      "createdAt": "2017-03-09T07:33:22.030Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:02:37.930Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/a99f8655-0636-4228-894b-55bb43be6a38_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/a99f8655-0636-4228-894b-55bb43be6a38_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/a99f8655-0636-4228-894b-55bb43be6a38_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/a99f8655-0636-4228-894b-55bb43be6a38_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/a99f8655-0636-4228-894b-55bb43be6a38_mobile_mid.m3u8"
+        },
+        "id": "590a9a98ef23a83055f06496"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105422f4e7cd4de1096af",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "对立统一1",
+      "parentId": "58c105412f4e7cd4de1096ad",
+      "createdAt": "2017-03-09T07:33:22.091Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:02:42.960Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/76973b52-bf1d-4965-b87d-532eb0db5dda_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/76973b52-bf1d-4965-b87d-532eb0db5dda_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/76973b52-bf1d-4965-b87d-532eb0db5dda_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/76973b52-bf1d-4965-b87d-532eb0db5dda_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/76973b52-bf1d-4965-b87d-532eb0db5dda_mobile_mid.m3u8"
+        },
+        "id": "590a9adaef23a8303956a1d4"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105422f4e7cd4de1096b0",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "对立统一2",
+      "parentId": "58c105412f4e7cd4de1096ad",
+      "createdAt": "2017-03-09T07:33:22.397Z",
+      "order": 4,
+      "updatedAt": "2017-12-22T02:02:48.054Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/4850cda6-a46b-4ad0-a959-b56e6788bde0_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/4850cda6-a46b-4ad0-a959-b56e6788bde0_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/4850cda6-a46b-4ad0-a959-b56e6788bde0_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/4850cda6-a46b-4ad0-a959-b56e6788bde0_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/4850cda6-a46b-4ad0-a959-b56e6788bde0_mobile_mid.m3u8"
+        },
+        "id": "590a9c41d5ff752346c78a09"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105422f4e7cd4de1096b1",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "创新意识与社会进步",
+    "createdAt": "2017-03-09T07:33:22.786Z",
+    "order": 9,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.653Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105422f4e7cd4de1096b2",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "辩证否定观",
+      "parentId": "58c105422f4e7cd4de1096b2",
+      "createdAt": "2017-03-09T07:33:22.880Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:02:54.067Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/6e2e2419-de53-492e-82b2-89824e08aaeb_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/6e2e2419-de53-492e-82b2-89824e08aaeb_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/6e2e2419-de53-492e-82b2-89824e08aaeb_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/6e2e2419-de53-492e-82b2-89824e08aaeb_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/6e2e2419-de53-492e-82b2-89824e08aaeb_mobile_mid.m3u8"
+        },
+        "id": "590a9b3def23a83074a80207"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105432f4e7cd4de1096b3",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "创新意识",
+      "parentId": "58c105422f4e7cd4de1096b2",
+      "createdAt": "2017-03-09T07:33:23.136Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:02:57.728Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/15d472a4-e24d-48b6-b48b-38b7ff085ee7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/15d472a4-e24d-48b6-b48b-38b7ff085ee7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/15d472a4-e24d-48b6-b48b-38b7ff085ee7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/15d472a4-e24d-48b6-b48b-38b7ff085ee7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/15d472a4-e24d-48b6-b48b-38b7ff085ee7_mobile_mid.m3u8"
+        },
+        "id": "590a9c8fd5ff75236a538639"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105432f4e7cd4de1096b4",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "唯物史观",
+    "createdAt": "2017-03-09T07:33:23.188Z",
+    "order": 10,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.773Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105432f4e7cd4de1096b5",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "社会存在与社会意识",
+      "parentId": "58c105432f4e7cd4de1096b5",
+      "createdAt": "2017-03-09T07:33:23.567Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:03:04.092Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/0d54fafe-0b40-4287-93eb-cbfef44c529b_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/0d54fafe-0b40-4287-93eb-cbfef44c529b_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/0d54fafe-0b40-4287-93eb-cbfef44c529b_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/0d54fafe-0b40-4287-93eb-cbfef44c529b_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/0d54fafe-0b40-4287-93eb-cbfef44c529b_mobile_mid.m3u8"
+        },
+        "id": "58fd5b5951f07446b49a5914"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105432f4e7cd4de1096b6",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "社会基本矛盾运动",
+      "parentId": "58c105432f4e7cd4de1096b5",
+      "createdAt": "2017-03-09T07:33:23.633Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:03:07.884Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/459d9e45-c6af-40c7-a5b8-ba51f68c5866_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/459d9e45-c6af-40c7-a5b8-ba51f68c5866_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/459d9e45-c6af-40c7-a5b8-ba51f68c5866_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/459d9e45-c6af-40c7-a5b8-ba51f68c5866_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/459d9e45-c6af-40c7-a5b8-ba51f68c5866_mobile_mid.m3u8"
+        },
+        "id": "590a9cf6d5ff752355355749"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105432f4e7cd4de1096b7",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "社会历史发展的总趋势",
+      "parentId": "58c105432f4e7cd4de1096b5",
+      "createdAt": "2017-03-09T07:33:23.935Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:03:11.950Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/88314724-1f45-45e9-9498-11e2a869bef7_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/88314724-1f45-45e9-9498-11e2a869bef7_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/88314724-1f45-45e9-9498-11e2a869bef7_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/88314724-1f45-45e9-9498-11e2a869bef7_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/88314724-1f45-45e9-9498-11e2a869bef7_mobile_mid.m3u8"
+        },
+        "id": "590a9d4cd5ff75239a7bad48"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105442f4e7cd4de1096b8",
+      "hasTopic": false
+    }]
+  }, {
+    "courseId": "58bd64962f4e7cd4de1081d1",
+    "name": "实现人生的价值",
+    "createdAt": "2017-03-09T07:33:24.125Z",
+    "order": 11,
+    "description": null,
+    "updatedAt": "2017-04-03T10:00:04.916Z",
+    "actions": {
+      "download": false,
+      "watch": false
+    },
+    "hide": false,
+    "id": "58c105442f4e7cd4de1096b9",
+    "children": [{
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "人生价值",
+      "parentId": "58c105442f4e7cd4de1096b9",
+      "createdAt": "2017-03-09T07:33:24.246Z",
+      "order": 1,
+      "updatedAt": "2017-12-22T02:03:18.895Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/5104e69f-a592-404a-8a26-c325b12c7de4_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/5104e69f-a592-404a-8a26-c325b12c7de4_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/5104e69f-a592-404a-8a26-c325b12c7de4_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/5104e69f-a592-404a-8a26-c325b12c7de4_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/5104e69f-a592-404a-8a26-c325b12c7de4_mobile_mid.m3u8"
+        },
+        "id": "590a9d7cd5ff752353a29fda"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105442f4e7cd4de1096ba",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "价值判断与价值选择",
+      "parentId": "58c105442f4e7cd4de1096b9",
+      "createdAt": "2017-03-09T07:33:24.322Z",
+      "order": 2,
+      "updatedAt": "2017-12-22T02:03:22.963Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/c056be8e-f3ec-4c00-bcb2-0243f58fb05d_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/c056be8e-f3ec-4c00-bcb2-0243f58fb05d_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/c056be8e-f3ec-4c00-bcb2-0243f58fb05d_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/c056be8e-f3ec-4c00-bcb2-0243f58fb05d_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/c056be8e-f3ec-4c00-bcb2-0243f58fb05d_mobile_mid.m3u8"
+        },
+        "id": "590a9c87ef23a8306818d0c8"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105442f4e7cd4de1096bb",
+      "hasTopic": false
+    }, {
+      "courseId": "58bd64962f4e7cd4de1081d1",
+      "name": "价值的创造与实现",
+      "parentId": "58c105442f4e7cd4de1096b9",
+      "createdAt": "2017-03-09T07:33:24.391Z",
+      "order": 3,
+      "updatedAt": "2017-12-22T02:03:26.976Z",
+      "video": {
+        "hls": {
+          "mobileLow": "http://media.wanmen.org/94d2d3f9-3508-418f-9f92-52600bd771ac_mobile_low.m3u8",
+          "pcLow": "http://media.wanmen.org/94d2d3f9-3508-418f-9f92-52600bd771ac_pc_low.m3u8",
+          "pcHigh": "http://media.wanmen.org/94d2d3f9-3508-418f-9f92-52600bd771ac_pc_high.m3u8",
+          "pcMid": "http://media.wanmen.org/94d2d3f9-3508-418f-9f92-52600bd771ac_pc_mid.m3u8",
+          "mobileMid": "http://media.wanmen.org/94d2d3f9-3508-418f-9f92-52600bd771ac_mobile_mid.m3u8"
+        },
+        "id": "590a9cb1ef23a82fd351fc5b"
+      },
+      "actions": {
+        "download": false,
+        "watch": false
+      },
+      "hls": {},
+      "hide": false,
+      "id": "58c105442f4e7cd4de1096bc",
+      "hasTopic": false
+    }]
+  }],
+  "hasTopic": false
+}
